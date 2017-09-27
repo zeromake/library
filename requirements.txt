@@ -1,0 +1,2 @@
+ebooklib
+PyPDF2
