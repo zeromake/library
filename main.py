@@ -6,6 +6,7 @@ import json
 import logging
 from ebooklib import epub
 from PyPDF2 import PdfFileReader
+from PyPDF2.generic import IndirectObject
 
 def main():
     """
@@ -30,12 +31,16 @@ def main():
                 elif f.endswith('.pdf'):
                     print("---read meta: " + f)
                     meta = read_meta_pdf(file_name)
+                    for key, tmp in meta.items():
+                        isinstance
+                        if isinstance(tmp, IndirectObject):
+                            print(key, ": ", tmp, " - ", "---", tmp.getObject())
                 elif f.endswith('.epub'):
                     print("---read meta: " + f)
                     meta = read_meta_epub(file_name)
                 books[f] = meta
         dir_meta['books'] = books
-    save_old_meta(metas)
+    # save_old_meta(metas)
     # metas = []
     # for fd in tree_dir("."):
     #     print(fd)
@@ -59,7 +64,7 @@ def read_meta_pdf(pdf_name):
     with open(pdf_name, 'rb') as fd:
         doc = PdfFileReader(fd)
         info = doc.documentInfo
-        return dict(info)
+        return info
 
 def read_old_meta():
     """
