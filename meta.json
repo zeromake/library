@@ -1,1 +1,1161 @@
-[{"dir_name": "algorithm", "name": "\u7b97\u6cd5", "books": {"\u7f16\u8bd1\u539f\u7406-\u7b2c\u4e8c\u7248.pdf": {"author": "Alfred V.Aho,Monica S.Lam,Ravi Sethi,Jeffrey D.Ullman", "creation_date": "D:20091009143620+08'00'", "creator": "Calibre (3.6.0) [Https://Calibre-Ebook.Com]", "keywords": "\u7f16\u8bd1\u539f\u7406, \u8ba1\u7b97\u673a, \u8ba1\u7b97\u673a\u79d1\u5b66, Cs, \u6559\u79d1\u4e66, \u6559\u6750", "mod_date": "D:20170814011914+08'00'", "producer": "Pdf-Xchange Viewer [Version: 2.0 (Build 47.0) (Feb 17 2010; 18:30:51)]", "title": "\u7f16\u8bd1\u539f\u7406", "sha_256": "425417cf5761ff5acba492753adb1001da330039689686f471ba9892c78f42df"}, "\u7b97\u6cd5\u5f15\u8bba\uff1a\u4e00\u79cd\u521b\u9020\u6027\u65b9\u6cd5(\u626b\u63cf,\u65e0\u4e66\u7b7e).pdf": {"creation_date": "D:20110513003052", "mod_date": "D:20110513003052", "producer": "Freepic2Pdf - 2.00", "sha_256": "cc6f545b84ec6999dbe9b88445a8cd7f20c36b19b13b18e30bbd48f2a9fb7d44"}, "\u7b97\u6cd5\u8bbe\u8ba1\u4e0e\u5206\u6790\u57fa\u7840(\u6e05\u6670,\u4e66\u7b7e).pdf": {"author": "\uff08\u7f8e\uff09Anany Levitin\u8457\uff1b\u6f58\u5f66\u8bd1", "creation_date": "D:20121105133244+08'00'", "creator": "Pscript5.Dll Version 5.2.2", "mod_date": "D:20160724153833+08'00'", "producer": "Acrobat Distiller 10.0.0 (Windows)", "title": "\u7b97\u6cd5\u8bbe\u8ba1\u4e0e\u5206\u6790\u57fa\u7840  \u7b2c\u4e8c\u7248", "sha_256": "16e7f68bff27d52d812048733a2ef29444bdd793b8960518fff3118729e2eeb2"}}}, {"dir_name": "android", "name": "\u5b89\u5353", "books": {"Android\u7814\u53d1\u5de5\u7a0b\u5e08\u9ad8\u7ea7\u8fdb\u9636.epub": {"publisher": "GitBook", "description": "\u539f\u6587\u94fe\u63a5\uff1ahttp://www.bignerdranch.com/blog/what-is-functional-reactive-programming/", "language": "zh", "creator": "asce1885", "title": "\u66f4\u4e0a\u4e00\u5c42\u697c\uff0dAndroid\u7814\u53d1\u5de5\u7a0b\u5e08\u9ad8\u7ea7\u8fdb\u9636", "date": "2015-04-29T12:07:16.232986+00:00", "contributor": "calibre (3.7.0) [https://calibre-ebook.com]", "identifier": {"MOBI-ASIN": "67c1ea7c-7f50-439f-9c8d-645b26ba1f16", "uuid": "5532a7f0-fab3-457b-9ac3-adea053ce8ce", "calibre": "5532a7f0-fab3-457b-9ac3-adea053ce8ce"}, "sha_256": "8a61158889a94d3c98249f5cc349ae0d43b95f90d59f9bc73a467a60facfee48"}, "\u6df1\u5165\u7406\u89e3Android\u5377II.epub": {"publisher": "\u673a\u68b0\u5de5\u4e1a\u51fa\u7248\u793e", "contributor": "calibre (2.16.0) [http://calibre-ebook.com]", "identifier": {"MOBI-ASIN": "ad62c7de-b880-41a7-8c59-1fa7b202658d", "uuid": "b7519c0f-003d-4b9b-b209-b5e700a91276", "calibre": "b7519c0f-003d-4b9b-b209-b5e700a91276"}, "language": "zh", "title": "\u6df1\u5165\u7406\u89e3Android:\u5377II", "date": "2012-08-09T16:00:00+00:00", "creator": "\u9093\u51e1\u5e73", "sha_256": "2dddd418f390a66b02b22fe47903407d9b920b7a5de9e8a3c725a95acf54a103"}, "Android\u9ad8\u85aa\u4e4b\u8def\uff1aAndroid\u7a0b\u5e8f\u5458\u9762\u8bd5\u5b9d\u5178.pdf": {"mod_date": "D:20130927160140+08'00'", "creation_date": "D:20130927160140+08'00'", "title": "Android\u9ad8\u85aa\u4e4b\u8def\uff1aAndroid\u7a0b\u5e8f\u5458\u9762\u8bd5\u5b9d\u5178.Cebx", "author": "Ug800Js", "creator": "Apabi Reader - [Android\u9ad8\u85aa\u4e4b\u8def\uff1aAndroid\u7a0b\u5e8f\u5458\u9762\u8bd5\u5b9d\u5178]", "sha_256": "6880a693734ebd927be1519b6f9f7e3d12369d122aa5069e6cf4e97473019fa4"}, "\u6df1\u5165\u7406\u89e3Android\u5377I.epub": {"language": "zh", "contributor": "calibre (2.16.0) [http://calibre-ebook.com]", "date": "2011-09-07T16:00:00+00:00", "creator": "\u9093\u51e1\u5e73", "identifier": {"MOBI-ASIN": "B00BTCM8Q2", "uuid": "c10dc969-2603-481b-bc96-bf991ebbc2d0", "calibre": "c10dc969-2603-481b-bc96-bf991ebbc2d0"}, "title": "\u6df1\u5165\u7406\u89e3Android\uff1a\u5377I", "sha_256": "7f49de4e256161e439af824db0c5cc36566faef5fb25f48ad0cecb2ff7e97448"}}}, {"dir_name": "c", "name": "C\u8bed\u8a00", "books": {"\u7b97\u6cd5\u7cbe\u89e3-c\u8bed\u8a00\u63cf\u8ff0.epub": {"publisher": "\u673a\u68b0\u5de5\u4e1a\u51fa\u7248\u793e", "description": "\u672c\u4e66\u662f\u6570\u636e\u7ed3\u6784\u548c\u7b97\u6cd5\u9886\u57df\u7684\u7ecf\u5178\u4e4b\u4f5c\uff0c\u5341\u4f59\u5e74\u6765\uff0c\u7545\u9500\u4e0d\u8870\uff01\u5168\u4e66\u5171\u5206\u4e3a\u4e09\u90e8\u5206\uff1a\u7b2c\u4e00\u90e8\u5206\u9996\u5148\u4ecb\u7ecd\u4e86\u6570\u636e\u7ed3\u6784\u548c\u7b97\u6cd5\u7684\u6982\u5ff5\uff0c\u4ee5\u53ca\u4f7f\u7528\u5b83\u4eec\u7684\u539f\u56e0\u548c\u610f\u4e49\uff0c\u7136\u540e\u8bb2\u89e3\u4e86\u6570\u636e\u7ed3\u6784\u548c\u7b97\u6cd5\u4e2d\u6700\u5e38\u7528\u7684\u6280\u672f\u2014\u2014\u6307\u9488\u548c\u9012\u5f52\uff0c\u6700\u540e\u8fd8\u4ecb\u7ecd\u4e86\u7b97\u6cd5\u7684\u5206\u6790\u65b9\u6cd5\uff0c\u65e8\u5728\u4e3a\u8bfb\u8005\u5b66\u4e60\u8fd9\u672c\u4e66\u6253\u4e0b\u575a\u5b9e\u7684\u57fa\u7840\uff1b\u7b2c\u4e8c\u90e8\u5206\u5bf9\u94fe\u8868\u3001\u6808\u3001\u961f\u5217\u3001\u96c6\u5408\u3001\u54c8\u5e0c\u8868\u3001\u5806\u3001\u56fe\u7b49\u5e38\u7528\u6570\u636e\u7ed3\u6784\u8fdb\u884c\u4e86\u6df1\u5165\u9610\u8ff0\uff1b\u7b2c\u4e09\u90e8\u5206\u5bf9\u6392\u5e8f\u3001\u641c\u7d22\u6570\u503c\u8ba1\u7b97\u3001\u6570\u636e\u538b\u7f29\u3001\u6570\u636e\u52a0\u5bc6\u3001\u56fe\u7b97\u6cd5\u3001\u51e0\u4f55\u7b97\u6cd5\u7b49\u7ecf\u5178\u7b97\u6cd5\u8fdb\u884c\u4e86\u7cbe\u8f9f\u7684\u5206\u6790\u548c\u8bb2\u89e3\u3002\n\u672c\u4e66\u7684\u4f17\u591a\u7279\u8272\u4f7f\u5f97\u5b83\u5728\u540c\u7c7b\u4e66\u4e2d\u72ec\u6811\u4e00\u5e1c\uff1a\u5177\u4f53\u5b9e\u73b0\u90fd\u91c7\u7528\u6b63\u5f0f\u7684C\u8bed\u8a00\u4ee3\u7801\u800c\u4e0d\u662f\u4f2a\u4ee3\u7801\uff0c\u5728\u5f88\u591a\u6570\u636e\u7ed3\u6784\u548c\u7b97\u6cd5\u7684\u5b9e\u73b0\u8fc7\u7a0b\u4e2d\uff0c\u6709\u5927\u91cf\u7ec6\u8282\u95ee\u9898\u662f\u4f2a\u4ee3\u7801\u4e0d\u80fd\u89e3\u51b3\u7684\uff1b\u6bcf\u4e00\u7ae0\u90fd\u6709\u7cbe\u5fc3\u7ec4\u7ec7\u7684\u4e3b\u9898\u548c\u5e94\u7528\uff1b\u5168\u90e8\u793a\u4f8b\u6765\u81ea\u771f\u5b9e\u7684\u5e94\u7528\uff0c\u4e0d\u53ea\u662f\u4e00\u822c\u7684\u7ec3\u4e60\uff1b\u5bf9\u6bcf\u79cd\u6570\u636e\u7ed3\u6784\u3001\u7b97\u6cd5\u548c\u793a\u4f8b\u90fd\u8fdb\u884c\u4e86\u8be6\u7ec6\u5206\u6790\uff1b\u6bcf\u4e00\u7ae0\u7684\u672b\u5c3e\u90fd\u4f1a\u6709\u4e00\u7cfb\u5217\u95ee\u9898\u548c\u5bf9\u5e94\u7684\u56de\u7b54\uff0c\u65e8\u5728\u5f3a\u8c03\u8fd9\u4e00\u7ae0\u7684\u91cd\u8981\u601d\u60f3\u2026\u2026\n\u672c\u4e66\u4e2d\u7684\u4ee3\u7801\u5c24\u4e3a\u503c\u5f97\u5f3a\u8c03\uff1a\u6240\u6709\u5b9e\u73b0\u90fd\u91c7\u7528C\u8bed\u8a00\u7f16\u5199\uff0c\u6240\u6709\u4ee3\u7801\u90fd\u4f18\u5148\u7528\u4e8e\u6559\u5b66\u76ee\u7684\uff0c\u6240\u6709\u4ee3\u7801\u90fd\u57284\u79cd\u5e73\u53f0\u4e0a\u7ecf\u8fc7\u5b8c\u6574\u6d4b\u8bd5\uff0c\u5934\u6587\u4ef6\u8bb0\u5f55\u4e86\u6240\u6709\u516c\u5171\u7684\u63a5\u53e3\uff0c\u547d\u540d\u89c4\u5219\u9002\u7528\u4e8e\u5168\u4e66\u6240\u6709\u7684\u4ee3\u7801\uff0c\u6240\u6709\u7684\u4ee3\u7801\u90fd\u5305\u542b\u5927\u91cf\u6ce8\u91ca\u2026\u2026\n\u672c\u4e66\u5185\u5bb9\u5305\u62ec\uff1a\n\u00b7 \u6570\u636e\u7ed3\u6784\u548c\u7b97\u6cd5\u7684\u6982\u5ff5\uff0c\u4ee5\u53ca\u4f7f\u7528\u5b83\u4eec\u7684\u539f\u56e0\u548c\u610f\u4e49\n\u00b7 \u6307\u9488\u548c\u9012\u5f52\n\u00b7 \u7b97\u6cd5\u5206\u6790\n\u00b7 \u5e38\u7528\u6570\u636e\u7ed3\u6784\uff1a\u94fe\u8868\u3001\u6808\u3001\u961f\u5217\u3001\u96c6\u5408\u3001\u54c8\u5e0c\u8868\u3001\u6811\u3001\u5806\u3001\u4f18\u5148\u7ea7\u961f\u5217\u4ee5\u53ca\u56fe\n\u00b7 \u6392\u5e8f\u548c\u641c\u7d22\n\u00b7 \u6570\u503c\u8ba1\u7b97\n\u00b7 \u6570\u636e\u538b\u7f29\n\u00b7 \u6570\u636e\u52a0\u5bc6\n\u00b7 \u56fe\u7b97\u6cd5\n\u00b7 \u51e0\u4f55\u7b97\u6cd5", "language": "zh", "creator": "(\u7f8e)Kyle Loudon", "title": "\u7b97\u6cd5\u7cbe\u89e3", "date": "2012-08-15T15:01:35.409527+00:00", "contributor": "calibre (3.7.0) [https://calibre-ebook.com]", "identifier": {"MOBI-ASIN": "5XH525MBCJNBMGWNXZIN5J5PEX4F2FLK", "DOUBAN": "14267904", "ISBN": "9787111394266", "uuid": "eab2c922-b1e5-4ed8-9d11-6201b050703a", "calibre": "eab2c922-b1e5-4ed8-9d11-6201b050703a"}, "subject": ["\u7b97\u6cd5", "C\u8bed\u8a00", "\u7f16\u7a0b", "\u8ba1\u7b97\u673a", "\u8ba1\u7b97\u673a\u79d1\u5b66", "\u7a0b\u5e8f\u8bbe\u8ba1", "C", "Programming"], "sha_256": "750d6c45decfd0e0dca0cc5ded4ff5baafc468cc963513543ec867dfb4f3aa2a"}, "C Primer Plus\u7b2c\u4e94\u7248 \u4e2d\u6587\u7248.epub": {"publisher": "\u4eba\u6c11\u90ae\u7535\u51fa\u7248\u793e", "language": "zh", "creator": "\u666e\u62c9\u5854 (Prata S.)", "title": "C Primer Plus(\u7b2c5\u7248)\u4e2d\u6587\u7248", "date": "2005-01-31T16:00:00+00:00", "contributor": "calibre (1.35.0) [http://calibre-ebook.com]", "identifier": {"ISBN": "9787115130228", "MOBI-ASIN": "cd059a04-4ee2-4f30-a2e6-6c10e1dfe7af", "uuid": "b87935f4-6f48-4cfc-a52e-5140ecbb123d", "calibre": "b87935f4-6f48-4cfc-a52e-5140ecbb123d"}, "sha_256": "2b5c3bdd4ba16818e4cb5b2daa88c9ab41d48bef602b957194d4a48f53d233c7"}, "\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\u5206\u6790-C.pdf": {"author": "\u7ef4\u65af", "creation_date": "D:20120606005943+08'00'", "creator": "Calibre (3.8.0) [Https://Calibre-Ebook.Com]", "keywords": "\u6570\u636e\u7ed3\u6784 \u7b97\u6cd5 \u8ba1\u7b97\u673a \u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\u5206\u6790 \u7f16\u7a0b C \u7b97\u6cd5 \u6570\u636e\u7ed3\u6784 C\u8bed\u8a00", "mod_date": "D:20170927155328+08'00'", "producer": "Freepic2Pdf_Lib - 2.10", "title": "\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\u5206\u6790", "sha_256": "3e96c8af63626ffe12bd73e49cc79cd026ef3dc9b0f843919d2bf1a5ecd511a8"}, "lua\u6e90\u7801\u5206\u6790.pdf": {"producer": "Mac OS X 10.10.1 Quartz PDFContext", "creator": "LaTeX with hyperref package", "creation_date": "D:20150121094602Z00'00'", "mod_date": "D:20150121094602Z00'00'", "sha_256": "251052e74cd98ad9558faebce2dc26f1aa2035f6e2d768777f40024680344203"}}}, {"dir_name": "c++", "name": "C++\u8bed\u8a00", "books": {"C++Primer \u7b2c5\u7248.pdf": {"creation_date": "D:20150213003819+08'00'", "mod_date": "D:20150213003819+08'00'", "producer": "Freepic2Pdf_Lib - V3.05", "creator": "Pdg2Pic", "sha_256": "322d5d6f0b48ad11b7b80b3122db78d8a2b3194946ac5766810cf7ac2803287d"}, "C++\u5e76\u53d1\u7f16\u7a0b\u5b9e\u6218.epub": {"publisher": "\u4eba\u6c11\u90ae\u7535\u51fa\u7248\u793e", "description": "\u300aC++\u5e76\u53d1\u7f16\u7a0b\u5b9e\u6218\u300b\u662f\u4e00\u672c\u57fa\u4e8eC++11\u65b0\u6807\u51c6\u7684\u5e76\u53d1\u548c\u591a\u7ebf\u7a0b\u7f16\u7a0b\u6df1\u5ea6\u6307\u5357\u3002\u5185\u5bb9\u5305\u62ec\u4ecestd::thread\u3001std::mutex\u3001std::future\u548cstd::async\u7b49\u57fa\u7840\u7c7b\u7684\u4f7f\u7528\uff0c\u5230\u5185\u5b58\u6a21\u578b\u548c\u539f\u5b50\u64cd\u4f5c\u3001\u57fa\u4e8e\u9501\u548c\u65e0\u9501\u6570\u636e\u7ed3\u6784\u7684\u6784\u5efa\uff0c\u518d\u6269\u5c55\u5230\u5e76\u884c\u7b97\u6cd5\u3001\u7ebf\u7a0b\u7ba1\u7406\uff0c\u6700\u540e\u8fd8\u4ecb\u7ecd\u4e86\u591a\u7ebf\u7a0b\u4ee3\u7801\u7684\u6d4b\u8bd5\u5de5\u4f5c\u3002\u672c\u4e66\u7684\u9644\u5f55\u90e8\u5206\u8fd8\u5bf9C++11\u65b0\u8bed\u8a00\u7279\u6027\u4e2d\u4e0e\u591a\u7ebf\u7a0b\u76f8\u5173\u7684\u9879\u76ee\u8fdb\u884c\u4e86\u7b80\u8981\u7684\u4ecb\u7ecd\uff0c\u5e76\u63d0\u4f9b\u4e86C++11\u7ebf\u7a0b\u5e93\u7684\u5b8c\u6574\u53c2\u8003\u3002\n\u300aC++\u5e76\u53d1\u7f16\u7a0b\u5b9e\u6218\u300b\u9002\u5408\u4e8e\u9700\u8981\u6df1\u5165\u4e86\u89e3C++\u591a\u7ebf\u7a0b\u5f00\u53d1\u7684\u8bfb\u8005\uff0c\u4ee5\u53ca\u4f7f\u7528C++\u8fdb\u884c\u5404\u7c7b\u8f6f\u4ef6\u5f00\u53d1\u7684\u5f00\u53d1\u4eba\u5458\u3001\u6d4b\u8bd5\u4eba\u5458\u3002\u5bf9\u4e8e\u4f7f\u7528\u7b2c\u4e09\u65b9\u7ebf\u7a0b\u5e93\u7684\u8bfb\u8005\uff0c\u4e5f\u53ef\u4ee5\u4ece\u672c\u4e66\u540e\u9762\u7684\u7ae0\u8282\u4e2d\u4e86\u89e3\u5230\u76f8\u5173\u7684\u6307\u5f15\u548c\u6280\u5de7\u3002\u540c\u65f6\uff0c\u672c\u4e66\u8fd8\u53ef\u4ee5\u4f5c\u4e3aC++11\u7ebf\u7a0b\u5e93\u7684\u53c2\u8003\u5de5\u5177\u4e66\u3002", "language": "zh", "creator": "Anthony Williams", "title": "C++\u5e76\u53d1\u7f16\u7a0b\u5b9e\u6218", "date": "2015-05-15T14:37:30.701392+00:00", "contributor": "calibre (3.7.0) [https://calibre-ebook.com]", "identifier": {"MOBI-ASIN": "708313b0-a428-4c1e-b7be-7dd97f1f2fdf", "DOUBAN": "26386925", "ISBN": "9787115387325", "uuid": "887f53c0-8637-4cda-ba05-74e5a471d6db", "calibre": "887f53c0-8637-4cda-ba05-74e5a471d6db"}, "subject": ["C++", "\u5e76\u53d1\u7f16\u7a0b", "\u591a\u7ebf\u7a0b", "\u8ba1\u7b97\u673a", "\u5e76\u53d1", "GitBook", "\u7f16\u7a0b", "Programming"], "sha_256": "fc9acd2d659a2a9317c042cd3a0f8f59f54d88f5619494f3df04025f59850618"}, "\u9ad8\u901f\u4e0a\u624bC++11-14.epub": {"publisher": "GitBook", "description": "C++11 \u7684\u51fa\u73b0\u53caC++14 \u5bf9 C++11\u7684\u91cd\u8981\u8865\u5145\uff0c\u8ba9 C++ \u8fd9\u95e8\u53e4\u8001\u7684\u8bed\u8a00\u6ce8\u5165\u4e86\u65b0\u7684\u6d3b\u529b\u3002\u5982\u679c\u4f60\u8fd8\u5728\u4f7f\u7528\u4f20\u7edf C++\uff0c\u6253\u7740 C++ \u7684\u540d\u53f7\u5199\u51fa C \u8bed\u8a00\u4ee3\u7801\uff0c\u8bf7\u505c\u4e0b\u6765\u3002\u672c\u6559\u7a0b\u5c06\u5e26\u9886\u4f60\u5feb\u901f\u4e0a\u624b C++11/14 \u7684\u91cd\u8981\u7279\u6027\u3002", "language": "zh", "creator": "Changkun", "title": "\u9ad8\u901f\u4e0a\u624b C++11/14", "date": "2016-09-20T01:18:30.162862+00:00", "contributor": "calibre (3.7.0) [https://calibre-ebook.com]", "identifier": {"MOBI-ASIN": "4f7426e0-4ecc-4342-9a81-0174ee00dfbb", "uuid": "fca6936a-eebf-410d-80b3-d13a15c2dfa9", "calibre": "fca6936a-eebf-410d-80b3-d13a15c2dfa9"}, "sha_256": "b7304d334a8133ac7628d02a66aeaa71287ea9a01163dad3cc7d82f1864f09e7"}, "\u5b8c\u7f8eC ++ (\u7b2c5\u7248)+ C++ Primer\u4e2d\u6587\u7248\u6e05\u6670\u626b\u63cfPDF.pdf": {"creation_date": "D:20150505172253+08'00'", "subject": "\u5b8c\u7f8eC ++ (\u7b2c5\u7248)+ C++ Primer\u4e2d\u6587\u7248\u6e05\u6670\u626b\u63cf\uff0cWww.Linuxidc.Com", "author": "\u5b8c\u7f8eC ++ (\u7b2c5\u7248)+ C++ Primer\u4e2d\u6587\u7248\u6e05\u6670\u626b\u63cf\uff0cWww.Linuxidc.Com", "creator": "Adobe Acrobat 10.0", "keywords": "\u5b8c\u7f8eC ++ (\u7b2c5\u7248)+ C++ Primer\u4e2d\u6587\u7248\u6e05\u6670\u626b\u63cf\uff0cWww.Linuxidc.Com", "producer": "Adobe Acrobat 10.0 Image Conversion Plug-In", "mod_date": "D:20160307075235+08'00'", "title": "\u5b8c\u7f8eC ++ (\u7b2c5\u7248)+ C++ Primer\u4e2d\u6587\u7248\u6e05\u6670\u626b\u63cf\uff0cWww.Linuxidc.Com", "sha_256": "e65a431b7cb568cb055bcb1801aab851785265a12344161212795014a2a95cfe"}, "\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\u5206\u6790\u2013C++(\u7b2c3\u7248,\u626b\u63cf,\u4e66\u7b7e).pdf": {"author": "\uff08\u7f8e\uff09Mark Allen Weiss\u8457", "creation_date": "D:20100601121439Z", "mod_date": "D:20100601201607+08'00'", "producer": "Freepic2Pdf - 2.02", "title": "\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\u5206\u6790C++\u63cf\u8ff0", "sha_256": "ee145b4c2a62b082868c4c2df8ae980dfda7779bbd9b86868f9ec6b0195fde3c"}, "Linux\u591a\u7ebf\u7a0b\u670d\u52a1\u7aef\u7f16\u7a0b.epub": {"publisher": "\u7535\u5b50\u5de5\u4e1a\u51fa\u7248\u793e", "description": "\u672c\u4e66\u4e3b\u8981\u8bb2\u8ff0\u91c7\u7528\u73b0\u4ee3C++ \u5728x86-64 Linux \u4e0a\u7f16\u5199\u591a\u7ebf\u7a0bTCP \u7f51\u7edc\u670d\u52a1\u7a0b\u5e8f\u7684\u4e3b\u6d41\u5e38\u89c4\u6280\u672f\uff0c\u91cd\u70b9\u8bb2\u89e3\u4e00\u79cd\u9002\u5e94\u6027\u8f83\u5f3a\u7684\u591a\u7ebf\u7a0b\u670d\u52a1\u5668\u7684\u7f16\u7a0b\u6a21\u578b\uff0c\u5373one loop per thread\u3002\u8fd9\u662f\u5728Linux \u4e0b\u4ee5native \u8bed\u8a00\u7f16\u5199\u7528\u6237\u6001\u9ad8\u6027\u80fd\u7f51\u7edc\u7a0b\u5e8f\u6700\u6210\u719f\u7684\u6a21\u5f0f\uff0c\u638c\u63e1\u4e4b\u540e\u53ef\u987a\u5229\u5730\u5f00\u53d1\u5404\u7c7b\u5e38\u89c1\u7684\u670d\u52a1\u7aef\u7f51\u7edc\u5e94\u7528\u7a0b\u5e8f\u3002\u672c\u4e66\u4ee5muduo \u7f51\u7edc\u5e93\u4e3a\u4f8b\uff0c\u8bb2\u89e3\u8fd9\u79cd\u7f16\u7a0b\u6a21\u578b\u7684\u4f7f\u7528\u65b9\u6cd5\u53ca\u6ce8\u610f\u4e8b\u9879\u3002\n\u672c\u4e66\u7684\u5b97\u65e8\u662f\u8d35\u7cbe\u4e0d\u8d35\u591a\u3002\u638c\u63e1\u4e24\u79cd\u57fa\u672c\u7684\u540c\u6b65\u539f\u8bed\u5c31\u53ef\u4ee5\u6ee1\u8db3\u5404\u79cd\u591a\u7ebf\u7a0b\u540c\u6b65\u7684\u529f\u80fd\u9700\u6c42\uff0c\u8fd8\u80fd\u5199\u51fa\u66f4\u6613\u7528\u7684\u540c\u6b65\u8bbe\u65bd\u3002\u638c\u63e1\u4e00\u79cd\u8fdb\u7a0b\u95f4\u901a\u4fe1\u65b9\u5f0f\u548c\u4e00\u79cd\u591a\u7ebf\u7a0b\u7f51\u7edc\u7f16\u7a0b\u6a21\u578b\u5c31\u8db3\u4ee5\u5e94\u5bf9\u65e5\u5e38\u5f00\u53d1\u4efb\u52a1\uff0c\u7f16\u5199\u8fd0\u884c\u4e8e\u516c\u53f8\u5185\u7f51\u73af\u5883\u7684\u5206\u5e03\u5f0f\u670d\u52a1\u7edf\u3002", "language": "zh", "creator": "\u9648\u7855", "title": "Linux\u591a\u7ebf\u7a0b\u670d\u52a1\u7aef\u7f16\u7a0b", "date": "2013-01-15T14:21:19.313645+00:00", "contributor": "calibre (3.7.0) [https://calibre-ebook.com]", "identifier": {"MOBI-ASIN": "B00FF1XYJI", "DOUBAN": "20471211", "ISBN": "9787121192821", "uuid": "f3876e71-5c34-4985-81e3-0b3de30920d9", "calibre": "f3876e71-5c34-4985-81e3-0b3de30920d9"}, "subject": ["\u7f51\u7edc\u7f16\u7a0b", "C++", "Linux", "\u591a\u7ebf\u7a0b", "\u7f16\u7a0b", "\u8ba1\u7b97\u673a", "Networks", "Programming"], "sha_256": "a2318169aef295c05fa9b4f627c07ecb6f4724f16e28edd3793ebff5dac202a9"}, "C++ Primer Plus  \u7b2c6\u7248  \u4e2d\u6587\u7248.pdf": {"author": "\uff08\u7f8e\uff09\u666e\u62c9\u8fbe\u8457", "creation_date": "D:20130511114722+08'00'", "creator": "Pdg2Pic", "keywords": "C++ Primer Plus  \u7b2c6\u7248  \u4e2d\u6587\u7248,Www.Linuxidc.Com", "mod_date": "D:20160412013543+08'00'", "producer": "Freepic2Pdf_Lib - V3.02", "subject": "Www.Linuxidc.Com", "title": "C++ Primer Plus  \u7b2c6\u7248  \u4e2d\u6587\u7248", "sha_256": "10e19996ff8031d2340ddf7c5349febecaf2308a0b7c94cffa699b7de5c2f9db"}}}, {"dir_name": "css", "name": "css", "books": {"\u54cd\u5e94\u5f0fWeb\u8bbe\u8ba1_HTML5\u548cCSS3\u5b9e\u6218 - Ben Frain.epub": {"creator": "Ben Frain", "publisher": "\u4eba\u6c11\u90ae\u7535\u51fa\u7248\u793e", "identifier": {"uuid": "c473589a-b855-44ba-a04f-331e92e72dd1", "calibre": "c473589a-b855-44ba-a04f-331e92e72dd1", "ISBN": "9787115299222", "MOBI-ASIN": "7f3773a1-adf1-4998-99a0-1d9707a6489a"}, "contributor": "calibre (2.52.0) [http://calibre-ebook.com]", "date": "2012-12-31T16:00:00+00:00", "title": "\u54cd\u5e94\u5f0fWeb\u8bbe\u8ba1:HTML5\u548cCSS3\u5b9e\u6218 (\u56fe\u7075\u7a0b\u5e8f\u8bbe\u8ba1\u4e1b\u4e66)", "language": "zh", "sha_256": "ea15891bfedfb4b18d04c53bc4f4e1abc208b4b9bfc35a9c3cbb97ee70aa9956"}, "CSS\u63ed\u79d8.epub": {"identifier": {"bookid": "urn:uuid:273fd756-62f2-4858-8d67-99e08f24bba9", "ISBN": "978-7-115-41694-0"}, "contributor": ["Epubor", "Ultimate", "eCore v0.9.4.611 [ http://www.epubor.com/ecore.html ]", "http://www.epubor.com"], "creator": "[\u5e0c] Lea Verou", "date": "2016", "language": "zh-CN", "publisher": "\u4eba\u6c11\u90ae\u7535\u51fa\u7248\u793e", "title": "CSS\u63ed\u79d8", "sha_256": "06f0cde4fd45828d30fe394be85f4177a5f5fb0c1ed56c22f2c831dec4dd8278"}, "CSS\u6743\u5a01\u6307\u5357\u7b2c\u4e09\u7248.epub": {"description": "\u4f60\u662f\u5426\u65e2\u60f3\u83b7\u5f97\u4e30\u5bcc\u590d\u6742\u7684\u7f51\u9875\u6837\u5f0f\uff0c\u540c\u65f6\u53c8\u60f3\u8282\u7701\u65f6\u95f4\u548c\u7cbe\u529b\uff1f\u672c\u4e66\u4e3a\u4f60\u5c55\u793a\u4e86\u5982\u4f55\u9075\u5faaCSS\u6700\u65b0\u89c4\u8303\uff08CSS2\u548cCSS2.1\uff09\u5c06\u5c42\u53e0\u6837\u5f0f\u8868\u7684\u65b9\u65b9\u9762\u9762\u5e94\u7528\u4e8e\u5b9e\u8df5\u3002\n\u901a\u8fc7\u672c\u4e66\u63d0\u4f9b\u7684\u8bf8\u591a\u793a\u4f8b\uff0c\u4f60\u5c06\u4e86\u89e3\u5982\u4f55\u505a\u5230\u4ec5\u5728\u4e00\u5904\u5efa\u7acb\u6837\u5f0f\u8868\u5c31\u80fd\u521b\u5efa\u6216\u4fee\u6539\u6574\u4e2a\u7f51\u7ad9\u7684\u5916\u89c2\uff0c\u4ee5\u53ca\u5982\u4f55\u5f97\u5230HTML\u529b\u4e0d\u80fd\u53ca\u7684\u66f4\u4e30\u5bcc\u7684\u8868\u73b0\u6548\u679c\u3002\n\u8d44\u6df1CSS\u4e13\u5bb6Eric A.Meyer\u3002\u5229\u7528\u4ed6\u72ec\u6709\u7684\u777f\u667a\u548c\u4e30\u5bcc\u7684\u7ecf\u9a8c\u5bf9\u5c5e\u6027\u3001\u6807\u8bb0\u3001\u6807\u8bb0\u5c5e\u6027\u548c\u5b9e\u73b0\u505a\u4e86\u6df1\u5165\u7684\u7814\u7a76\uff0c\u53e6\u5916\u5728\u6d4f\u89c8\u5668\u652f\u6301\u548c\u8bbe\u8ba1\u539f\u5219\u7b49\u5b9e\u9645\u95ee\u9898\u4e0a\u4e5f\u6709\u72ec\u5230\u7684\u89c1\u89e3\u3002\u4f60\u6240\u9700\u8981\u7684\u5c31\u662fHTML 4.0\u7684\u77e5\u8bc6\u5373\u53ef\u4ee5\u4e3a\u7f51\u7ad9\u5e03\u5c40\u548c\u5206\u9875\u521b\u5efa\u7b80\u660e\u800c\u4e14\u6613\u4e8e\u7ef4\u62a4\u7684\u811a\u672c\uff0c\u540c\u65f6\u517c\u5177\u684c\u9762\u7cfb\u7edf\u7684\u7f8e\u89c2\u6027\u548c\u53ef\u63a7\u6027\u3002\u5728\u672c\u4e66\u4e2d\u4f60\u5c06\u5b66\u5230\u4ee5\u4e0b\u5185\u5bb9\uff1a\n\u00b7\u7528\u591a\u79cd\u65b9\u5f0f\u5bf9\u6587\u672c\u5e94\u7528\u6837\u5f0f\n\u00b7\u7528\u6237\u754c\u9762\u3001\u8868\u5e03\u5c40\u3001\u5217\u8868\u548c\u751f\u6210\u5185\u5bb9\n\u00b7\u6d6e\u52a8\u548c\u5b9a\u4f4d\u7684\u4f18\u7f3a\u70b9\n\u00b7\u5b57\u4f53\u7cfb\u5217\u548c\u540e\u8def\n\u00b7\u6846\u6a21\u578b\u7684\u5de5\u4f5c\u539f\u7406\n\u00b7IE7\u3001Firefox\u548c\u5176\u4ed6\u6d4f\u89c8\u5668\u652f\u6301\u7684\u65b0CSS3\u9009\u62e9\u5668\n\u6700\u65b0\u7248\u300aCSS\u6743\u5a01\u6307\u5357\u300b\u4e00\u4e66\u7ecf\u8fc7\u5168\u9762\u66f4\u65b0\uff0c\u6db5\u76d6\u4e86Internet Explorer 7\uff0c\u8be6\u7ec6\u4ecb\u7ecd\u4e86\u5404\u4e2aCSS\u5c5e\u6027\u4ee5\u53ca\u5c5e\u6027\u4e4b\u95f4\u7684\u76f8\u4e92\u4f5c\u7528\uff0c\u5e76\u6307\u5bfc\u4f60\u5982\u4f55\u907f\u514d\u4e00\u4e9b\u5e38\u89c1\u7684\u9519\u8bef\u3002\u4e0d\u8bba\u4f60\u662f\u4e00\u4f4d\u7ecf\u9a8c\u4e30\u5bcc\u7684web\u521b\u4f5c\u4eba\u5458\uff0c\u8fd8\u662f\u4e00\u65e0\u6240\u77e5\u7684\u65b0\u624b\uff0c\u90fd\u53ef\u4ee5\u628a\u5b83\u4f5c\u4e3a\u5185\u5bb9\u7fd4\u5b9e\u7684CSS\u53c2\u8003\u8d44\u6599\u653e\u5728\u624b\u8fb9\u3002Eric A.Meyer\u3002\u5728HTML\u3001CSS\u548cweb\u6807\u51c6\u9886\u57df\u662f\u56fd\u9645\u4e0a\u516c\u8ba4\u7684\u4e13\u5bb6\uff0c\u4ed6\u4ece1993\u5e74\u5c31\u5f00\u59cb\u4ece\u4e8bweb\u65b9\u9762\u7684\u5de5\u4f5c\u3002\u4ed6\u4e5f\u662fcomplex spiral consulting\u516c\u53f8\u7684\u5960\u57fa\u4eba\uff0c\u5176\u5ba2\u6237\u5305\u62ec\u7f8e\u56fd\u5728\u7ebf\u3001\u82f9\u679c\u8ba1\u7b97\u673a\u516c\u53f8\u3001\u5bcc\u56fd\u94f6\u884c\u548cMacromedia\u7b49\u8457\u540d\u516c\u53f8\u3002", "language": "en", "creator": "[\u7f8e] Eric A.meyer", "date": "2014-02-18T16:00:00+00:00", "contributor": "calibre (3.8.0) [https://calibre-ebook.com]", "title": "Css\u6743\u5a01\u6307\u5357\uff08\u7b2c\u4e09\u7248\uff09", "identifier": {"DOUBAN": "2308234", "uuid": "9ca056ca-400e-4a01-bbe2-a44e372c2344", "calibre": "9ca056ca-400e-4a01-bbe2-a44e372c2344"}, "sha_256": "b0cac6516ce008845a78e27a024255a4021952c559c39e00b1c15a831ad74651"}, "CSS\u7985\u610f\u82b1\u56ed(\u4fee\u8ba2\u7248).epub": {"publisher": "\u4eba\u6c11\u90ae\u7535\u51fa\u7248\u793e", "language": "zh", "title": "CSS\u7985\u610f\u82b1\u56ed(\u4fee\u8ba2\u7248)", "identifier": {"MOBI-ASIN": "B00LITFG88", "uuid": "94b355fa-9bf2-458a-a608-eb558c5beeaf", "calibre": "94b355fa-9bf2-458a-a608-eb558c5beeaf"}, "contributor": "calibre (2.32.1) [http://calibre-ebook.com]", "date": "2012-06-30T16:00:00+00:00", "creator": "[\u7f8e]Dave Shea Molly E. Holzschlag", "sha_256": "b7b1ef9aa0ef42100f013881e85d7d4ae4eabfc9a6685c4d2bb942c47546fd32"}}}, {"dir_name": "cvs", "name": "\u7248\u672c\u7ba1\u7406", "books": {"progit2.epub": {"language": "en", "identifier": {"pub-identifier": "_pro_git"}, "title": "Pro Git", "creator": "Asciidoctor", "date": "2017-09-14T09:50:52Z", "sha_256": "8fdeb1399faadcab0ffeee52e09375c973e69332c041f6e89fd5d1015e93d7f8"}, "progit2-gitbook.epub": {"contributor": "GitBook", "creator": "xbing", "publisher": "GitBook", "title": "Pro Git \u7b2c\u4e8c\u7248 \u7b80\u4f53\u4e2d\u6587", "description": "Pro Git \u7b2c\u4e8c\u7248 \u7b80\u4f53\u4e2d\u6587", "language": "zh", "identifier": {"uuid": "bc65207c-0226-4e50-9a3c-567606a13b99"}, "sha_256": "c33c50c61acb3d7df1cc66943320965054a680f8b459fcd37e5c8d847fbfd97c"}}}, {"dir_name": "design", "name": "\u8bbe\u8ba1", "books": {"\u5199\u7ed9\u5927\u5bb6\u770b\u7684\u8bbe\u8ba1\u4e66-\u7b2c\u56db\u7248.epub": {"title": "\u5199\u7ed9\u5927\u5bb6\u770b\u7684\u8bbe\u8ba1\u4e66\uff08\u7b2c4\u7248\uff09", "creator": "\u3010\u7f8e\u3011\u5a01\u5ec9\u59c6\u65af\uff08Robbin Williams\uff09", "publisher": "\u4eba\u6c11\u90ae\u7535\u51fa\u7248\u793e", "description": "\u7545\u9500\u8bbe\u8ba1\u5165\u95e8\u4e66\u6700\u65b0\u7248\uff0c\u8ba9\u6bcf\u4e2a\u4eba\u90fd\u80fd\u6210\u4e3a\u8bbe\u8ba1\u5e08\n\u5728\u8fd9\u4e2a\u521b\u610f\u65e0\u5904\u4e0d\u5728\u7684\u65f6\u4ee3\uff0c\u8d8a\u6765\u8d8a\u591a\u7684\u4eba\u6210\u4e3a\u8bbe\u8ba1\u5e08\u3002\u7b80\u5386\u3001\u8bba\u6587\u3001PPT\u3001\u4e2a\u4eba\u4e3b\u9875\u3001\u535a\u5ba2\u3001\u6d3b\u52a8\u6d77\u62a5\u3001\u7ed9\u5ba2\u4eba\u7684\u90ae\u4ef6\u3001\u540d\u7247\u2026\u2026\uff0c\u5904\u5904\u90fd\u5728\u8003\u9a8c\u4f60\u7684\u8bbe\u8ba1\u80fd\u529b\u3002\n\u7f8e\u672f\u529f\u8bfe\u4e0d\u597d\uff1f\u6ca1\u6709\u827a\u672f\u7ec6\u80de\uff1f\u6beb\u65e0\u8bbe\u8ba1\u7ecf\u9a8c\uff1f\n\u6ca1\u5173\u7cfb\uff01\u5728\u8bbe\u8ba1\u5927\u5e08RobinWilliams\u770b\u6765\uff0c\u8bbe\u8ba1\u5176\u5b9e\u5f88\u7b80\u5355\u3002\u5728\u8fd9\u90e8\u7545\u9500\u5168\u7403\u591a\u5e74\u3001\u5f71\u54cd\u4e86\u4e00\u4ee3\u8bbe\u8ba1\u5e08\u7684\u7ecf\u5178\u8457\u4f5c\u4e2d\uff0cRobinWilliams\u5c06\u4f18\u79c0\u8bbe\u8ba1\u7684\u79d8\u8bc0\u5f52\u7eb3\u4e3a\u5bf9\u6bd4\u3001\u91cd\u590d\u3001\u5bf9\u9f50\u548c\u4eb2\u5bc6\u6027\u56db\u6761\u57fa\u672c\u539f\u5219\uff0c\u5e76\u7528\u7b80\u6d01\u901a\u4fd7\u3001\u5e7d\u9ed8\u751f\u52a8\u7684\u6587\u7b14\uff0c\u540c\u65f6\u914d\u4ee5\u5927\u91cf\u7ecf\u8fc7\u4fee\u6539\u8fdb\u884c\u524d\u540e\u5bf9\u6bd4\u7684\u5b9e\u4f8b\u56fe\u89e3\u548c\u8bbe\u8ba1\u7ec3\u4e60\uff08\u5e76\u63d0\u4f9b\u89e3\u7b54\uff09\uff0c\u76f4\u89c2\u6e05\u6670\u5730\u4f20\u6388\u7ed9\u8bfb\u8005\u3002\u901a\u8fc7\u672c\u4e66\uff0c\u666e\u901a\u8bfb\u8005\u5f88\u5feb\u5c31\u80fd\u591f\u81ea\u4fe1\u5730\u8bbe\u8ba1\u51fa\u4e13\u4e1a\u7ea7\u522b\u7684\u4f5c\u54c1\uff0c\u800c\u4e13\u4e1a\u8bbe\u8ba1\u5e08\u4e5f\u5c06\u4ece\u4e2d\u83b7\u5f97\u7075\u611f\u548c\u89e3\u51b3\u95ee\u9898\u7684\u9014\u5f84\u3002\nRobin\u3000Williams\u3000\u3000\u4e16\u754c\u8457\u540d\u8bbe\u8ba1\u5e08\u3001\u6280\u672f\u4e13\u5bb6\u548c\u7545\u9500\u4e66\u4f5c\u5bb6\u3002\u901a\u8fc7\u5199\u4e66\u548c\u6388\u8bfe\uff0c\u5979\u5df2\u7ecf\u5f71\u54cd\u4e86\u6574\u6574\u4e00\u4ee3\u6570\u5b57\u8bbe\u8ba1\u5e08\u3002\u540c\u65f6\uff0c\u4f5c\u4e3aAdobe\u548cMac\u6280\u672f\u793e\u533a\u5185\u7684\u5076\u50cf\u7ea7\u4e13\u5bb6\uff0c\u5979\u62e5\u6709\u5927\u6279\u62e5\u6234\u8005\u3002\u5979\u662fPublish\u3000Magazine\u3001Adobe\u3000Magazine\u7b49\u6742\u5fd7\u7684\u4e13\u680f\u4f5c\u5bb6\uff0c\u662fMacWorld\u3000Expo\u7b49\u4e1a\u754c\u91cd\u8981\u6d3b\u52a8\u548c\u7ec4\u7ec7\u7684\u987e\u95ee\u59d4\u5458\u4f1a\u6210\u5458\uff0c\u8fd8\u521b\u529e\u4e86Santa\u3000Fe\u7535\u5f71\u827a\u672f\u5b66\u9662\u3002\u9664\u672c\u4e66\u5916\uff0c\u5979\u8fd8\u8457\u6709\u51e0\u5341\u90e8\u7545\u9500\u56fe\u4e66\u548c\u83b7\u5956\u8457\u4f5c\uff0c\u5305\u62ec\u300a\u5199\u7ed9\u5927\u5bb6\u770b\u7684Web\u8bbe\u8ba1\u4e66\u300b\u7b49\uff0c\u6709\u7684\u4e66\u5df2\u7ecf\u88ab\u7ffb\u8bd1\u4e3a\u5341\u51e0\u79cd\u6587\u5b57\uff0c\u4ea7\u751f\u4e86\u4e16\u754c\u6027\u7684\u5f71\u54cd\u3002\u56fe\u7075\u793e\u533a\u5bf9\u5979\u505a\u8fc7\u8bbf\u8c08\uff0c\u6536\u5f55\u5728\u672c\u4e66\u5185\uff0c\u611f\u5174\u8da3\u7684\u8bfb\u8005\u770b\u770b\u88ab\u8c46\u74e3\u7f51\u53cb\u8bc4\u4e3a\u201cJ.K.\u7f57\u7433\u4f3c\u7684\u8270\u82e6\u594b\u6597\u4ee3\u8868\u201d\u7684Robin\u662f\u5982\u4f55\u81ea\u6211\u5b9a\u4f4d\u7684\u3002\u8bbf\u8c08\u7535\u5b50\u7248\u5730\u5740\uff1aituring.cn/article/41065\u3002", "date": "2016-01-15T01:16:27.201548+00:00", "contributor": "calibre (3.6.0) [https://calibre-ebook.com]", "identifier": {"uuid": "5acb0531-0abc-4564-a562-2c10d37c94a9", "calibre": "5acb0531-0abc-4564-a562-2c10d37c94a9", "DOUBAN": "26664522", "MOBI-ASIN": "b971d12e-8184-4d20-a327-6c7290e79032", "ISBN": "9787115404404"}, "subject": ["\u8bbe\u8ba1", "\u827a\u672f", "\u4ea7\u54c1", "Design", "\u5165\u95e8", "\u7f57\u5bbe\u00b7\u5a01\u5ec9\u59c6\u65af", "\u8bbe\u8ba1\u601d\u7ef4"], "language": "zh", "sha_256": "257da09d5f062526e19047a82f9052d93d22ff1706bf3165276fea1f9c7b4a2b"}}}, {"dir_name": "engineering", "name": "\u8f6f\u4ef6\u5de5\u7a0b", "books": {"\u7a0b\u5e8f\u5458\u7684\u81ea\u6211\u4fee\u517b.epub": {"identifier": {"uuid": "9e369f33-cffc-4e75-bfe6-df7e1c6ad80e"}, "description": "\u6211\u6240\u8ba4\u4e3a\u7684\u7a0b\u5e8f\u5458\u7684\u81ea\u6211\u517b\u6210\u624b\u518c\u3002", "title": "\u7a0b\u5e8f\u5458\u7684\u81ea\u6211\u4fee\u517b", "language": "zh", "contributor": "GitBook", "creator": "Leo Hui", "publisher": "GitBook", "sha_256": "e6c526102fc3b5128704794bf6f39feba06d612030a36a0a9633112fb4beed85"}, "\u6301\u7eed\u4ea4\u4ed8-\u53d1\u5e03\u53ef\u9760\u8f6f\u4ef6\u7684\u7cfb\u7edf\u65b9\u6cd5.pdf": {"creation_date": "D:20120819100427+08'00'", "mod_date": "D:20120819100427+08'00'", "producer": "Freepic2Pdf_Lib - 2.08", "sha_256": "49b261cc087960cc500aca13c6df03676217078dc9b8351fc9a164a4753c3068"}, "\u8f6f\u4ef6\u6784\u67b6\u5e08\u768412\u9879\u4fee\u70bc.epub": {"publisher": "\u673a\u68b0\u5de5\u4e1a\u51fa\u7248\u793e\u534e\u7ae0\u516c\u53f8", "description": "\u6bcf\u4e00\u4f4d\u8f6f\u4ef6\u5f00\u53d1\u4eba\u5458\u90fd\u6709\u4e00\u4e2a\u67b6\u6784\u5e08\u7684\u68a6\uff0c\u4f46\u4e3a\u4f55\u771f\u6b63\u7684\u8f6f\u4ef6\u67b6\u6784\u5e08\u5374\u5be5\u5be5\u65e0\u51e0\uff1f\u8f6f\u4ef6\u5f00\u53d1\u4eba\u5458\u66f4\u5bb9\u6613\u5728\u6280\u672f\u4e0a\u6709\u6240\u79ef\u7d2f\u548c\u7a81\u7834\uff0c\u4f46\u662f\u6280\u672f\u4e0a\u7684\u7cbe\u6e5b\u5e76\u4e0d\u8db3\u4ee5\u4f7f\u4f60\u6210\u4e3a\u4e00\u4f4d\u4f18\u79c0\u7684\u8f6f\u4ef6\u67b6\u6784\u5e08\u3002\u5408\u683c\u7684\u8f6f\u4ef6\u67b6\u6784\u5e08\u7a76\u7adf\u5e94\u8be5\u5177\u5907\u54ea\u4e9b\u80fd\u529b\u548c\u7d20\u517b\uff1f\u672c\u4e66\u79d1\u5b66\u800c\u7cfb\u7edf\u5730\u5f52\u7eb3\u51fa\u8f6f\u4ef6\u67b6\u6784\u5e08\u5e94\u8be5\u5177\u5907\u7684\u5b8c\u6574\u80fd\u529b\u6a21\u578b\uff0c\u8be5\u80fd\u529b\u6a21\u578b\u5448\u4e00\u91d1\u5b57\u5854\u7ed3\u6784\uff0c\u5171\u5206\u4e3a4\u5c42\uff1a\u4f4d\u4e8e\u6700\u5e95\u5c42\u7684\u662f\u6280\u672f\u6280\u80fd\uff0c\u662f\u8f6f\u4ef6\u67b6\u6784\u5e08\u7684\u57fa\u77f3\uff0c\u5c5e\u4e8e\u786c\u6280\u80fd\uff1b\u4ece\u4e0b\u5f80\u4e0a\u7684\u4e09\u5c42\u5206\u522b\u662f\u5173\u7cfb\u6280\u80fd\u3001\u4e2a\u4eba\u6280\u80fd\u548c\u5546\u52a1\u6280\u80fd\uff0c\u8fd9\u4e9b\u90fd\u5c5e\u4e8e\u8f6f\u6280\u80fd\u3002\u7531\u4e8e\u786c\u6280\u80fd\u4f1a\u968f\u7740\u5177\u4f53\u6280\u672f\u9886\u57df\u7684\u4e0d\u540c\u800c\u5343\u5dee\u4e07\u522b\uff0c\u56e0\u6b64\u672c\u4e66\u5047\u5b9a\u8bfb\u8005\u5df2\u7ecf\u5177\u5907\u4e86\u8fd9\u65b9\u9762\u7684\u6280\u80fd\uff1b\u4f46\u5176\u4ed63\u5927\u65b9\u9762\u7684\u8f6f\u6280\u80fd\u5374\u5728\u6bcf\u4e2a\u6280\u672f\u9886\u57df\u90fd\u9002\u7528\uff0c\u662f\u6bcf\u4e00\u4f4d\u8f6f\u4ef6\u67b6\u6784\u5e08\u7684\u5fc5\u4fee\u8bfe\uff0c\u8fd9\u662f\u672c\u4e66\u7684\u6838\u5fc3\u5185\u5bb9\u3002\n\u4e3a\u4e86\u4fbf\u4e8e\u8ba4\u77e5\u548c\u5b9e\u8df5\uff0c\u672c\u4e66\u5c063\u5927\u65b9\u9762\u7684\u8f6f\u6280\u80fd\u5206\u4e3a12\u9879\uff1a\u5173\u7cfb\u6280\u80fd\u5305\u542b\u6587\u96c5\u7684\u4e3e\u6b62\uff08\u5728\u4efb\u4f55\u73af\u5883\u4e0b\u90fd\u80fd\u4e0e\u4eba\u6587\u96c5\u76f8\u5904\u7684\u80fd\u529b\uff09\u3001\u6c9f\u901a\uff08\u4e0e\u4eba\u6709\u6548\u4ea4\u4e92\u7684\u80fd\u529b\uff09\u3001\u534f\u5546\uff08\u5c06\u4e8b\u60c5\u529e\u6210\u7684\u80fd\u529b\uff09\u3001\u9886\u5bfc\u529b\uff08\u901a\u8fc7\u65bd\u52a0\u5f71\u54cd\u529b\u5c06\u4e8b\u60c5\u529e\u6210\u7684\u80fd\u529b\uff09\u548c\u653f\u6cbb\uff08\u201c\u653f\u6cbb\u573a\u5408\u201d\u4e0e\u4eba\u4ea4\u4e92\u7684\u80fd\u529b\uff09\u7b495\u9879\uff1b\u4e2a\u4eba\u6280\u80fd\u5305\u542b\u900f\u660e\u5316\uff08\u4f7f\u81ea\u6211\u3001\u56e2\u961f\u5173\u7cfb\u548c\u9879\u76ee\u900f\u660e\u5316\u7684\u80fd\u529b\uff09\u3001\u6fc0\u60c5\uff08\u6fc0\u53d1\u548c\u4fdd\u62a4\u6fc0\u60c5\u7684\u80fd\u529b\uff09\u548c\u8bed\u5883\u5207\u6362\uff08\u5c06\u6ce8\u610f\u529b\u8fc5\u901f\u5207\u6362\u5230\u65b0\u8bed\u5883\u5e76\u4fdd\u6301\u4e13\u6ce8\u7684\u80fd\u529b\uff09\u7b493\u9879\uff1b\u5546\u52a1\u6280\u80fd\u5305\u62ec\u5546\u52a1\u77e5\u8bc6\uff08\u8bfb\u61c2\u5546\u52a1\u8bed\u8a00\u7684\u80fd\u529b\u548c\u4e86\u89e3\u4ea7\u54c1\u4e0e\u987e\u5ba2\u7684\u80fd\u529b\uff09\u3001\u521b\u65b0\uff08\u5982\u4f55\u901a\u8fc7\u5b66\u4e60\u548c\u601d\u8003\u6765\u521b\u65b0\u7684\u80fd\u529b\uff09\u3001\u5b9e\u7528\u4e3b\u4e49\uff08\u6293\u4f4f\u5173\u952e\u95ee\u9898\u7684\u80fd\u529b\uff09\u3001\u8ba4\u77e5\uff08\u8ba4\u77e5\u76ee\u6807\u3001\u6218\u7565\u53ca\u5408\u4f5c\u4f19\u4f34\u7684\u80fd\u529b\uff09\u7b494\u9879\u3002\n\u672c\u4e66\u4e0d\u4ec5\u5e2e\u52a9\u8f6f\u4ef6\u5f00\u53d1\u4eba\u5458\u7cfb\u7edf\u5730\u5b66\u4e60\u5982\u4f55\u4fee\u70bc\u8fd912\u9879\u8f6f\u6280\u80fd\uff0c\u800c\u4e14\u8fd8\u80fd\u8ba9\u4ed6\u4eec\u8fdb\u4e00\u6b65\u7406\u89e3\u8f6f\u4ef6\u67b6\u6784\u5e08\u7684\u89d2\u8272\u548c\u672c\u8d28\uff0c\u4f7f\u4ed6\u4eec\u6700\u7ec8\u7a81\u7834\u6280\u672f\u7684\u201c\u5929\u82b1\u677f\u201d\uff0c\u6210\u4e3a\u4e00\u540d\u5408\u683c\u7684\u8f6f\u4ef6\u67b6\u6784\u5e08\u3002", "language": "zh", "creator": "\uff08\u7f8e\uff09Dave.Hendricksen\uff1b\u5f20\u83f2\u8bd1", "title": "\u8f6f\u4ef6\u67b6\u6784\u5e08\u768412\u9879\u4fee\u70bc", "date": "2012-05-01T15:01:40.018212+00:00", "contributor": "calibre (3.7.0) [https://calibre-ebook.com]", "identifier": {"MOBI-ASIN": "KPHE7S2UM6JWIUKTSKTLT47MTCIJ3TEA", "DOUBAN": "10746257", "ISBN": "9787111378600", "uuid": "5a094d90-6b86-4a6c-bee2-aaddd8951b3e", "calibre": "5a094d90-6b86-4a6c-bee2-aaddd8951b3e"}, "subject": ["\u8f6f\u4ef6\u67b6\u6784", "\u67b6\u6784", "\u8f6f\u4ef6\u5de5\u7a0b", "\u8ba1\u7b97\u673a", "\u8f6f\u4ef6\u5f00\u53d1", "\u7f16\u7a0b", "\u67b6\u6784\u5e08", "\u4fee\u70bc"], "sha_256": "22a45f77ac450d5faab530fe0d1d19a6c2cc5715a65ad546421caf675304a4d2"}, "\u654f\u6377\u5f00\u53d1\u7684\u827a\u672f.epub": {"publisher": "\u673a\u68b0\u5de5\u4e1a\u51fa\u7248\u793e", "description": "\u672c\u4e66\u4e3a\u90a3\u4e9b\u6b63\u5728\u8003\u8651\u5e94\u7528\u654f\u6377\u5f00\u53d1\u6765\u6784\u5efa\u6709\u4ef7\u503c\u8f6f\u4ef6\u7684\u4eba\u4eec\u63d0\u4f9b\u4e86\u5b9e\u7528\u7684\u6307\u5bfc\u3002\u73b0\u5728\u5df2\u7ecf\u6709\u5927\u91cf\u7684\u4e66\u7c4d\u63cf\u8ff0\u654f\u6377\u5f00\u53d1\u662f\u4ec0\u4e48\u6216\u8005\u4e3a\u4ec0\u4e48\u5b83\u80fd\u5e2e\u52a9\u8f6f\u4ef6\u9879\u76ee\u6210\u529f\uff0c\u4f46\u5f88\u5c11\u6709\u54ea\u4e00\u672c\u4e66\u80fd\u628a\u9488\u5bf9\u5f00\u53d1\u8005\u3001\u7ba1\u7406\u8005\u3001\u6d4b\u8bd5\u8005\u548c\u5ba2\u6237\u7684\u4fe1\u606f\u5408\u5e76\u6210\u4e00\u4e2a\u6574\u4f53\uff0c\u4ece\u800c\u4f7f\u5176\u80fd\u591f\u76f4\u63a5\u5e94\u7528\u3002\n\u672c\u4e66\u4e3a\u654f\u6377\u7684\u8ba1\u5212\u3001\u5f00\u53d1\u3001\u4ea4\u4ed8\u548c\u7ba1\u7406\u63d0\u4f9b\u4e86\u4e25\u8c28\u7684\u5efa\u8bae\uff0c\u8fd9\u4e9b\u5efa\u8bae\u6765\u81ea\u4e8e\u4f5c\u8005\u591a\u5e74\u7684\u6781\u9650\u7f16\u7a0b(Extreme Programming\uff0cXP)\u7ecf\u9a8c\u3002\u4f60\u5c06\u770b\u5230\u654f\u6377\u5f00\u53d1\u8fc7\u7a0b\u7684\u5168\u666f\u56fe\uff0c\u5305\u62ec\u4e3a\u975e\u6280\u672f\u7c7b\u8bfb\u8005\u51c6\u5907\u7684\u5168\u9762\u6307\u5bfc\uff0c\u4ee5\u53ca\u4e3a\u5f00\u53d1\u8005\u548c\u6d4b\u8bd5\u4eba\u5458\u51c6\u5907\u7684\u5b9e\u7528\u6280\u672f\u5b9e\u8df5\u3002\n\u672c\u4e66\u4e3a\u4ee5\u4e0b\u95ee\u9898\u63d0\u4f9b\u4e86\u660e\u786e\u7684\u7b54\u6848\uff1a\n\u600e\u6837\u624d\u80fd\u91c7\u7528\u654f\u6377\u5f00\u53d1?\n\u6211\u4eec\u771f\u7684\u9700\u8981\u7ed3\u5bf9\u7f16\u7a0b\u5417?\n\u6c47\u62a5\u5e94\u8be5\u8be6\u7ec6\u5230\u4ec0\u4e48\u7a0b\u5ea6?\n\u5982\u679c\u65e0\u6cd5\u8ba9\u5ba2\u6237\u53c2\u4e0e\u8fdb\u6765\u8be5\u600e\u4e48\u529e?\n\u6211\u4eec\u5e94\u8be5\u7f16\u5199\u591a\u5c11\u6587\u6863?\n\u4f55\u65f6\u8fdb\u884c\u8bbe\u8ba1\u548c\u67b6\u6784?\n\u4f5c\u4e3a\u4e00\u540d\u975e\u5f00\u53d1\u4eba\u5458\uff0c\u6211\u5e94\u5982\u4f55\u540c\u654f\u6377\u56e2\u961f\u4e00\u8d77\u5de5\u4f5c?\n\u4ea7\u54c1\u7684\u8def\u7ebf\u5728\u54ea\u91cc?\nQA\u5e94\u8be5\u5982\u4f55\u53c2\u4e0e\u8fdb\u6765?\n\u672c\u4e66\u6559\u4f60\u5982\u4f55\u91c7\u7528XP\u5b9e\u8df5\uff0c\u8be6\u7ec6\u63cf\u8ff0\u4e86\u6bcf\u4e00\u79cd\u5b9e\u8df5\uff0c\u7136\u540e\u8ba8\u8bba\u4e86\u4e00\u4e9b\u539f\u5219\uff0c\u4f7f\u4f60\u53ef\u4ee5\u66f4\u6539XP\u5e76\u521b\u5efa\u81ea\u5df1\u7684\u654f\u6377\u65b9\u6cd5\u3002\u5c24\u5176\u662f\uff0c\u672c\u4e66\u4e3a\u654f\u6377\u5f00\u53d1\u4e2d\u4e00\u4e9b\u8f83\u4e3a\u56f0\u96be\u7684\u65b9\u9762(\u5408\u4f5c\u7684\u9700\u8981\u548c\u56e2\u961f\u6210\u5458\u4e4b\u95f4\u7684\u4fe1\u4efb)\u63d0\u4f9b\u4e86\u89e3\u51b3\u529e\u6cd5\u3002\n\u4e0d\u7ba1\u4f60\u76ee\u524d\u5df2\u7ecf\u662f\u654f\u6377\u56e2\u961f\u7684\u4e00\u90e8\u5206\uff0c\u8fd8\u662f\u53ea\u5bf9\u654f\u6377\u5f00\u53d1\u611f\u5174\u8da3\uff0c\u672c\u4e66\u90fd\u4e3a\u4f60\u63d0\u4f9b\u4e86\u5f00\u59cb\u5b9e\u8df5\u654f\u6377\u5f00\u53d1\u6240\u9700\u7684\u5b9e\u7528\u6280\u5de7\u3002\u968f\u7740\u4f60\u7684\u7ecf\u9a8c\u7684\u589e\u957f\uff0c\u5185\u5bb9\u4e5f\u968f\u4e4b\u6df1\u5165\u3002\u672c\u4e66\u6559\u4f60\u9996\u5148\u7406\u89e3\u654f\u6377\u5f00\u53d1\u7684\u89c4\u5219\uff0c\u7136\u540e\u6253\u7834\u8fd9\u4e9b\u89c4\u5219\uff0c\u6700\u540e\u5f53\u4f60\u638c\u63e1\u4e86\u654f\u6377\u5f00\u53d1\u7684\u827a\u672f\u4e4b\u540e\uff0c\u518d\u5b8c\u5168\u6487\u5f00\u8fd9\u4e9b\u89c4\u5219\u3002", "language": "zh", "creator": "James Shore/Shane Warden", "title": "\u654f\u6377\u5f00\u53d1\u7684\u827a\u672f", "date": "2009-08-15T14:24:18.160833+00:00", "contributor": "calibre (3.7.0) [https://calibre-ebook.com]", "identifier": {"MOBI-ASIN": "B00E593MSO", "DOUBAN": "4037534", "ISBN": "9787111268048", "uuid": "bfb06e6b-2cbf-4540-b0e8-2174f7aea178", "calibre": "bfb06e6b-2cbf-4540-b0e8-2174f7aea178"}, "subject": ["\u8ba1\u7b97\u673a", "\u8f6f\u4ef6\u5f00\u53d1", "\u9879\u76ee\u7ba1\u7406", "Agile", "Programming", "\u8f6f\u4ef6\u5de5\u7a0b", "\u654f\u6377", "\u654f\u6377\u5f00\u53d1"], "sha_256": "854f0083d907c85be08d680d3eddad40958f6ab21e6905af2246eac9afb77d2d"}, "\u8f6f\u6280\u80fd-\u4ee3\u7801\u4e4b\u5916\u7684\u751f\u5b58\u6307\u5357.epub": {"publisher": "Manning Publications", "description": "<p>\u8fd9\u662f\u4e00\u672c\u771f\u6b63\u4ece\u201c\u4eba\u201d\uff08\u800c\u975e\u6280\u672f\u4e5f\u975e\u7ba1\u7406\uff09\u7684\u89d2\u5ea6\u5173\u6ce8\u8f6f\u4ef6\u5f00\u53d1\u4eba\u5458\u81ea\u8eab\u53d1\u5c55\u7684\u4e66\u3002\u4e66\u4e2d\u8bba\u8ff0\u7684\u5185\u5bb9\u65e2\u6d89\u53ca\u751f\u6d3b\u4e60\u60ef\uff0c\u53c8\u5305\u62ec\u601d\u7ef4\u65b9\u5f0f\uff0c\u51f8\u663e\u6280\u672f\u4e2d\u201c\u4eba\u201d\u7684\u56e0\u7d20\uff0c\u5168\u9762\u8bb2\u89e3\u8f6f\u4ef6\u884c\u4e1a\u4ece\u4e1a\u4eba\u5458\u6240\u9700\u77e5\u9053\u7684\u6240\u6709\u201c\u8f6f\u6280\u80fd\u201d\u3002 \u672c\u4e66\u805a\u7126\u4e8e\u8f6f\u4ef6\u5f00\u53d1\u4eba\u5458\u751f\u6d3b\u7684\u65b9\u65b9\u9762\u9762\uff0c\u4ece\u63ed\u79d8\u9762\u8bd5\u7684\u6d41\u7a0b\u5230\u7cbe\u8015\u7ec6\u4f5c\u51fa\u4e00\u4efd\u6740\u624b\u7ea7\u7b80\u5386\uff0c\u4ece\u521b\u5efa\u5927\u53d7\u6b22\u8fce\u7684\u535a\u5ba2\u5230\u6253\u9020\u4f60\u7684\u4e2a\u4eba\u54c1\u724c\uff0c\u4ece\u63d0\u9ad8\u81ea\u5df1\u5de5\u4f5c\u6548\u7387\u5230\u4e0e\u5982\u4f55\u4e0e\u201c\u62d6\u5ef6\u75c7\u201d\u505a\u6597\u4e89\uff0c\u751a\u81f3\u5305\u62ec\u5982\u4f55\u6295\u8d44\u4e0d\u52a8\u4ea7\uff0c\u5982\u4f55\u5173\u6ce8\u81ea\u5df1\u7684\u5065\u5eb7\u3002 \u672c\u4e66\u5171\u5206\u4e3a\u804c\u4e1a\u7bc7\u3001\u81ea\u6211\u8425\u9500\u7bc7\u3001\u5b66\u4e60\u7bc7\u3001\u751f\u4ea7\u529b\u7bc7\u3001\u7406\u8d22\u7bc7\u3001\u5065\u8eab\u7bc7\u3001\u7cbe\u795e\u7bc7\u7b49\u4e03\u7bc7\uff0c\u6982\u62ec\u4e86\u8f6f\u4ef6\u884c\u4e1a\u4ece\u4e1a\u4eba\u5458\u6240\u9700\u7684\u201c\u8f6f\u6280\u80fd\u201d\u3002\u901a\u8fc7\u9605\u8bfb\u672c\u4e66\uff0c\u8f6f\u4ef6\u5de5\u7a0b\u4eba\u5458\u3001\u7f16\u7a0b\u4eba\u5458\u548c\u5176\u4ed6\u6280\u672f\u4eba\u5458\u80fd\u591f\u79ef\u6781\u601d\u8003\u81ea\u5df1\u7684\u804c\u4e1a\u751f\u6daf\uff0c\u4e30\u5bcc\u81ea\u5df1\u7684\u751f\u6d3b\uff0c\u8ba9\u81ea\u5df1\u66f4\u63a5\u8fd1\u6210\u529f\u3002</p>", "language": "zh", "creator": "[\u7f8e] John Z. Sonmez", "title": "\u8f6f\u6280\u80fd\uff1a\u4ee3\u7801\u4e4b\u5916\u7684\u751f\u5b58\u6307\u5357", "date": "2014-12-29T15:01:42.221663+00:00", "contributor": "calibre (3.7.0) [https://calibre-ebook.com]", "identifier": {"DOUBAN": "26312275", "ISBN": "9781617292392", "uuid": "6251be6a-5197-4e1e-bd12-8f3bef12232b", "calibre": "6251be6a-5197-4e1e-bd12-8f3bef12232b"}, "subject": ["\u7a0b\u5e8f\u5458", "\u81ea\u6211\u6210\u957f", "\u804c\u573a", "\u6210\u957f", "\u8ba1\u7b97\u673a", "\u4e2a\u4eba\u7ba1\u7406", "\u7ba1\u7406", "\u4eba\u751f"], "sha_256": "920da8df1d629c01d3a7acef1ec797d39528062f7c6f2f05b7c1dbfa1b406845"}, "\u9ad8\u6548\u7a0b\u5e8f\u5458\u768445\u4e2a\u4e60\u60ef-\u654f\u6377\u5f00\u53d1\u4fee\u70bc\u4e4b\u9053.epub": {"publisher": "\u4eba\u6c11\u90ae\u7535\u51fa\u7248\u793e", "language": "zh", "creator": "\u4ea8\u7279\uff0c\u82cf\u5e15\u62c9\u9a6c\u5c3c\u4e9a\u59c6", "title": "\u9ad8\u6548\u7a0b\u5e8f\u5458\u768445\u4e2a\u4e60\u60ef\uff1a\u654f\u6377\u5f00\u53d1\u4fee\u70bc\u4e4b\u9053", "date": "2016-06-07T16:00:00+00:00", "contributor": "calibre (3.7.0) [https://calibre-ebook.com]", "identifier": {"uuid": "88519ebc-2f1d-4f66-938f-5ff079e518b1", "calibre": "88519ebc-2f1d-4f66-938f-5ff079e518b1"}, "sha_256": "ac9a3ce414db6595092c9617ca715c2c861f2e42a15299363618f6a894825706"}, "\u5fae\u670d\u52a1\u8bbe\u8ba1-SamNewman.epub": {"title": "\u5fae\u670d\u52a1\u8bbe\u8ba1", "creator": "[\u82f1] Sam Newman", "identifier": {"bookid": "urn:uuid:273fd756-62f2-4858-8d67-99e08f24bba9", "calibre": "5344a4a7-4d66-498c-9233-8654bf114769", "DOUBAN": "26772677", "ISBN": "9787115420268"}, "contributor": ["Epubor", "Ultimate", "eCore v0.9.4.611 [ http://www.epubor.com/ecore.html ]", "http://www.epubor.com"], "date": "2016-05-15T15:05:13.318863+00:00", "publisher": "\u4eba\u6c11\u90ae\u7535\u51fa\u7248\u793e", "subject": ["\u5fae\u670d\u52a1", "\u67b6\u6784", "\u8f6f\u4ef6\u67b6\u6784", "\u8ba1\u7b97\u673a", "\u8f6f\u4ef6\u5de5\u7a0b", "\u7f16\u7a0b", "\u4e92\u8054\u7f51", "\u6280\u672f"], "description": "\u672c\u4e66\u5168\u9762\u4ecb\u7ecd\u4e86\u5fae\u670d\u52a1\u7684\u5efa\u6a21\u3001\u96c6\u6210\u3001\u6d4b\u8bd5\u3001\u90e8\u7f72\u548c\u76d1\u63a7\uff0c\u901a\u8fc7\u4e00\u4e2a\u865a\u6784\u7684\u516c\u53f8\u8bb2\u89e3\u4e86\u5982\u4f55\u5efa\u7acb\u5fae\u670d\u52a1\u67b6\u6784\u3002\u4e3b\u8981\u5185\u5bb9\u5305\u62ec\u8ba4\u8bc6\u5fae\u670d\u52a1\u5728\u4fdd\u8bc1\u7cfb\u7edf\u8bbe\u8ba1\u4e0e\u7ec4\u7ec7\u76ee\u6807\u7edf\u4e00\u4e0a\u7684\u91cd\u8981\u6027\uff0c\u5b66\u4f1a\u628a\u670d\u52a1\u96c6\u6210\u5230\u5df2\u6709\u7cfb\u7edf\u4e2d\uff0c\u91c7\u7528\u9012\u589e\u624b\u6bb5\u62c6\u5206\u5355\u5757\u5927\u578b\u5e94\u7528\uff0c\u901a\u8fc7\u6301\u7eed\u96c6\u6210\u90e8\u7f72\u5fae\u670d\u52a1\uff0c\u7b49\u7b49\u3002", "language": "zh-CN", "sha_256": "cc26af5862efa017cb665f39b63ca820162043174077c1e10ff413f6849ff4e7"}}}, {"dir_name": "health", "name": "\u5065\u5eb7", "books": {"\u7231\u4e0a\u8dd1\u6b65\u768413\u5468.epub": {"title": "\u7231\u4e0a\u8dd1\u6b65\u768413\u5468", "creator": ["\u4f0a\u6069\u00b7\u9ea6\u514b\u5c3c\u5c14", "\u52a0\u62ff\u5927\u4e0d\u5217\u98a0\u54e5\u4f26\u6bd4\u4e9a\u8fd0\u52a8\u533b\u5b66\u7406\u4e8b\u4f1a"], "publisher": "\u5357\u6d77\u51fa\u7248\u516c\u53f8", "description": "\u2605\u8ba9\u4ece\u4e0d\u8dd1\u6b65\u7684\u4eba\u8fc8\u5f00\u53cc\u817f\uff0c\u4ece\u672c\u4e66\u5f00\u59cb\u8dd1\u8fc7\u4e00\u751f\uff01\n\u2605\u575a\u6301\u8dd1\u6b65\u7684\u7b2c\u4e00\u6b65\uff1a\u7231\u4e0a\u8dd1\u6b65\u3002\n\u2605\u5728\u4e00\u547c\u4e00\u5438\u4e2d\uff0c\u611f\u53d7\u6700\u7eaf\u7cb9\u7684\u81ea\u6211\u3002\n\u5728\u7231\u4e0a\u8dd1\u6b65\u768413\u5468\u91cc\uff0c\u901a\u8fc713\u5468\u8dd1\u6b65\u884c\u8d70\u8ba1\u5212\uff0c\u8bfb\u8005\u53ef\u4ee5\u8fde\u7eed\u8dd110\u516c\u91cc\u800c\u4e0d\u53d7\u4f24\u3002\n\u9664\u4e86\u8ba1\u5212\uff0c\u672c\u4e66\u8fd8\u5411\u8bfb\u8005\u4ecb\u7ecd\u4e86\u8dd1\u6b65\u524d\u7684\u51c6\u5907\u5de5\u4f5c\u3001\u8dd1\u6b65\u5fc3\u7406\u3001\u8dd1\u6b65\u8425\u517b\u5b66\u3001\u53d7\u4f24\u540e\u7684\u6062\u590d\u65b9\u6cd5\u3001\u51c6\u590710\u516c\u91cc\u8d5b\u4e8b\u7b49\u65b9\u9762\u7684\u77e5\u8bc6\u3002\n\u672c\u4e66\u5185\u5bb9\u6db5\u76d6\u8dd1\u6b65\u7684\u65b9\u65b9\u9762\u9762\uff0c\u53ef\u4ee5\u89e3\u7b54\u8dd1\u6b65\u521d\u5b66\u8005\u53ef\u80fd\u4f1a\u51fa\u73b0\u7684\u79cd\u79cd\u95ee\u9898\u3002\n\u672c\u4e66\u544a\u8bc9\u8bfb\u8005\uff1a\u5728\u4eba\u751f\u9053\u8def\u4e0a\uff0c\u6bcf\u4e2a\u4eba\u4e5f\u90fd\u662f\u4e00\u540d\u8dd1\u6b65\u8005\u3002", "date": "2014-01-15T09:34:08.748807+00:00", "contributor": "calibre (3.7.0) [https://calibre-ebook.com]", "identifier": {"uuid": "d0855b8d-bab0-4939-a6f3-7b3acebb0d8c", "calibre": "d0855b8d-bab0-4939-a6f3-7b3acebb0d8c", "DOUBAN": "25750714", "MOBI-ASIN": "daf5174a-60b4-449f-b1c8-6ce3520fd7ce", "ISBN": "9787544267663"}, "subject": ["\u8dd1\u6b65", "\u8fd0\u52a8", "\u5065\u5eb7", "\u5065\u8eab", "\u7231\u4e0a\u8dd1\u6b65\u768413\u5468", "\u751f\u6d3b", "\u4e2a\u4eba\u7ba1\u7406", "\u52a0\u62ff\u5927"], "language": "zh", "sha_256": "68119316164c75ab48645a890fc1115cb5c993e87a5b4147274a9cb5d89ca196"}}}, {"dir_name": "java", "name": "Java", "books": {"\u4e24\u5468\u81ea\u5236\u811a\u672c\u8bed\u8a00.pdf": {"author": "\uff08\u65e5\uff09\u5343\u53f6\u6ecb\u8457", "creation_date": "D:20150308103605+08'00'", "creator": "Pdg2Pic", "mod_date": "D:20170608060438+08'00'", "producer": "Freepic2Pdf_Lib - V3.02", "subject": "\uff08\u65e5\uff09\u5343\u53f6\u6ecb\u8457.\u4e24\u5468\u81ea\u5236\u811a\u672c\u8bed\u8a00.\u5317\u4eac\uff1a\u4eba\u6c11\u90ae\u7535\u51fa\u7248\u793e,2014.06.", "title": "\u4e24\u5468\u81ea\u5236\u811a\u672c\u8bed\u8a00", "sha_256": "90ab81973e8cef423f11524ebc1c77eb9049c557745c47993db279e189e51fae"}, "\u75af\u72c2Java\u8bb2\u4e49-\u7b2c3\u7248.pdf": {"author": "\u674e\u521a", "creation_date": "D:20150227195041+08'00'", "mod_date": "D:20150520105104+08'00'", "producer": "Freepic2Pdf_Lib - V2.19", "subject": "\u674e\u521a.\u75af\u72c2Java\u8bb2\u4e49  \u7b2c3\u7248.\u5317\u4eac\uff1a\u7535\u5b50\u5de5\u4e1a\u51fa\u7248\u793e,2014.07.", "title": "\u75af\u72c2Java\u8bb2\u4e49  \u7b2c3\u7248", "keywords": "", "creator": "", "sha_256": "e680864e01bc79cc0d353f1769e222fd85387ca044c86d932e3b54e459d58836"}, "gradle\u7528\u6237\u624b\u518c.epub": {"language": "zh", "identifier": {"uuid": "ff3b5793-06ca-4931-95d8-127e981d2633"}, "contributor": "GitBook", "title": "Gradle User Guide \u4e2d\u6587\u7248", "creator": "DONG", "description": "Gradle User Guide \u4e2d\u6587\u7248", "publisher": "GitBook", "sha_256": "2c947bbf2f8e8c57e40ca062b2855b76e99b9c597736102e5b0efcafbc410dc0"}, "\u6df1\u5165\u7406\u89e3Java\u865a\u62df\u673a(\u7b2c2\u7248).epub": {"language": "zh", "creator": "\u5468\u5fd7\u660e", "title": "\u6df1\u5165\u7406\u89e3Java\u865a\u62df\u673a\uff1aJVM\u9ad8\u7ea7\u7279\u6027\u4e0e\u6700\u4f73\u5b9e\u8df5\uff08\u7b2c2\u7248\uff09", "date": "2013-05-29T16:00:00+00:00", "contributor": "calibre (3.7.0) [https://calibre-ebook.com]", "identifier": {"MOBI-ASIN": "225f2283-eb18-4cd8-85f3-b60dc73b99e6", "uuid": "d57b2e5f-6471-4e05-a42c-fb71cdef1840", "calibre": "d57b2e5f-6471-4e05-a42c-fb71cdef1840"}, "sha_256": "1d0e92dbb46e700101d9bfb558bf10ddf73584a7cf50c0681390e9ba9df17129"}}}, {"dir_name": "javascript", "name": "JavaScript", "books": {"\u950b\u5229\u7684jQuery.epub": {"publisher": "\u4eba\u6c11\u90ae\u7535\u51fa\u7248\u793e", "description": "\u300a\u950b\u5229\u7684jQuery(\u7b2c2\u7248)\u300b\u5faa\u5e8f\u6e10\u8fdb\u5730\u5bf9jQuery\u7684\u5404\u79cd\u51fd\u6570\u548c\u65b9\u6cd5\u8c03\u7528\u8fdb\u884c\u4e86\u4ecb\u7ecd\uff0c\u8bfb\u8005\u53ef\u4ee5\u7cfb\u7edf\u5730\u638c\u63e1jQuery\u7684\u9009\u62e9\u5668\u3001DOM\u64cd\u4f5c\u3001\u4e8b\u4ef6\u548c\u52a8\u753b\u3001AJAX\u5e94\u7528\u3001\u63d2\u4ef6\u3001jQuery Mobile\u3001jQuery\u5404\u4e2a\u7248\u672c\u53d8\u5316\u3001jQuery\u6027\u80fd\u4f18\u5316\u548c\u6280\u5de7\u7b49\u77e5\u8bc6\u70b9\uff0c\u5e76\u7ed3\u5408\u6bcf\u4e2a\u7ae0\u8282\u540e\u9762\u7684\u6848\u4f8b\u6f14\u793a\u8fdb\u884c\u7ec3\u4e60\uff0c\u8fbe\u5230\u638c\u63e1\u6838\u5fc3\u77e5\u8bc6\u70b9\u7684\u76ee\u7684\u3002\n\u4e3a\u4f7f\u8bfb\u8005\u66f4\u597d\u5730\u8fdb\u884c\u5f00\u53d1\u5b9e\u8df5\uff0c\u300a\u950b\u5229\u7684jQuery(\u7b2c2\u7248)\u300b\u7684\u7b2c8\u7ae0\u5c06\u524d7\u7ae0\u8bb2\u89e3\u7684\u77e5\u8bc6\u70b9\u548c\u6548\u679c\u8fdb\u884c\u4e86\u6574\u5408\uff0c\u6253\u9020\u51fa\u4e00\u4e2a\u975e\u5e38\u6709\u4e2a\u6027\u7684\u7f51\u7ad9\uff0c\u5e76\u4ece\u6848\u4f8b\u7814\u7a76\u3001\u7f51\u7ad9\u6750\u6599\u3001\u7f51\u7ad9\u7ed3\u6784\u3001\u7f51\u7ad9\u6837\u5f0f\u548c\u7f51\u7ad9\u811a\u672c\u7b49\u65b9\u9762\u6307\u5bfc\u8bfb\u8005\u53c2\u4e0e\u5230\u9879\u76ee\u5efa\u8bbe\u4e2d\u6765\u3002", "language": "zh", "creator": "\u5355\u4e1c\u6797", "title": "\u950b\u5229\u7684jQuery", "date": "2012-07-01T14:48:27.137728+00:00", "contributor": "calibre (3.7.0) [https://calibre-ebook.com]", "identifier": {"ISBN": "9787115281609", "DOUBAN": "10792216", "uuid": "922ab352-a1e4-4902-8fc1-1fbe92a8f205", "calibre": "922ab352-a1e4-4902-8fc1-1fbe92a8f205"}, "subject": ["jQuery", "\u524d\u7aef\u5f00\u53d1", "JavaScript", "Web\u5f00\u53d1", "\u524d\u7aef", "\u7f16\u7a0b", "\u950b\u5229\u7684jQuery", "\u8ba1\u7b97\u673a"], "sha_256": "8bc4e4e80bc58554477d8e1d091a70be6a5e503c99c9f11f71f1e933bcfa2390"}, "\u524d\u7aef\u5de5\u7a0b\u5e08\u624b\u518c.epub": {"publisher": "GitBook", "creator": "Leo Hui", "contributor": "GitBook", "title": "\u524d\u7aef\u5de5\u7a0b\u5e08\u624b\u518c", "language": "zh", "description": "\u90fd\u662f\u4e00\u4e9b\u81ea\u5df1\u7684\u6536\u85cf\u548c\u8bb0\u5f55\u3002", "identifier": {"uuid": "6a1c45fe-fd7c-45ae-a2a0-d21663ff58b4"}, "sha_256": "bf75fd0f35b9eb072a9b1cb7276d47b4435904692c9c42ed2e8ab1ce63d31a22"}, "\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5JavaScript\u63cf\u8ff0.epub": {"title": "\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5JavaScript\u63cf\u8ff0", "creator": "[\u7f8e]Michael McMillan", "publisher": "\u4eba\u6c11\u90ae\u7535\u51fa\u7248\u793e", "rights": "Copyright \u00a9 2014 \u4eba\u6c11\u90ae\u7535\u51fa\u7248\u793e", "description": "\u901a\u8fc7\u672c\u4e66\u7684\u5b66\u4e60\uff0c\u8bfb\u8005\u5c06\u80fd\u81ea\u5982\u5730\u9009\u62e9\u6700\u5408\u9002\u7684\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\uff0c\u5e76\u5728JavaScript\u5f00\u53d1\u4e2d\u61c2\u5f97\u6743\u8861\u4f7f\u7528\u3002\u6b64\u5916\uff0c\u672c\u4e66\u4e5f\u6982\u8ff0\u4e86\u4e0e\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\u76f8\u5173\u7684JavaScript\u7279\u6027\u3002\n\u672c\u4e66\u4e3b\u8981\u5185\u5bb9\u5982\u4e0b\u3002\n\u6570\u7ec4\u548c\u5217\u8868\uff1a\u6700\u5e38\u7528\u7684\u6570\u636e\u7ed3\u6784\u3002\n\u6808\u548c\u961f\u5217\uff1a\u4e0e\u5217\u8868\u7c7b\u4f3c\u4f46\u66f4\u590d\u6742\u7684\u6570\u636e\u7ed3\u6784\u3002\n\u94fe\u8868\uff1a\u5982\u4f55\u901a\u8fc7\u5b83\u4eec\u514b\u670d\u6570\u7ec4\u7684\u4e0d\u8db3\u3002\n\u5b57\u5178\uff1a\u5c06\u6570\u636e\u4ee5\u952e-\u503c\u5bf9\u7684\u5f62\u5f0f\u5b58\u50a8\u3002\n\u6563\u5217\uff1a\u9002\u7528\u4e8e\u5feb\u901f\u67e5\u627e\u548c\u68c0\u7d22\u3002\n\u96c6\u5408\uff1a\u9002\u7528\u4e8e\u5b58\u50a8\u53ea\u51fa\u73b0\u4e00\u6b21\u7684\u5143\u7d20\u3002\n\u4e8c\u53c9\u6811\uff1a\u4ee5\u5c42\u7ea7\u7684\u5f62\u5f0f\u5b58\u50a8\u6570\u636e\u3002\n\u56fe\u548c\u56fe\u7b97\u6cd5\uff1a\u7f51\u7edc\u5efa\u6a21\u7684\u7406\u60f3\u9009\u62e9\u3002\n\u7b97\u6cd5\uff1a\u5305\u62ec\u6392\u5e8f\u6216\u641c\u7d22\u6570\u636e\u7684\u7b97\u6cd5\u3002\n\u9ad8\u7ea7\u7b97\u6cd5\uff1a\u52a8\u6001\u89c4\u5212\u548c\u8d2a\u5fc3\u7b97\u6cd5\u3002", "date": "2014-08-15T14:21:27.650183+00:00", "contributor": "calibre (3.7.0) [https://calibre-ebook.com]", "identifier": {"uuid": "23069f7f-7ef4-4c36-8f72-2f328579ab8a", "calibre": "23069f7f-7ef4-4c36-8f72-2f328579ab8a", "DOUBAN": "25945449", "ISBN": "9787115363398", "MOBI-ASIN": "B0153173KK"}, "subject": ["JavaScript", "\u7b97\u6cd5", "Web\u524d\u7aef", "\u6570\u636e\u7ed3\u6784", "\u524d\u7aef", "\u7f16\u7a0b", "\u8ba1\u7b97\u673a", "Web"], "language": "zh", "sha_256": "6175e8f3ff78363a36f85ec023434ea5d61bfc5fcba9ec65da035f6b6afce08e"}, "javascript-start-es6-promise.epub": {"creator": "Eddy Chang", "contributor": "GitBook", "language": "zh", "title": "\u5f9ePromise\u958b\u59cb\u7684JavaScript\u7570\u6b65\u751f\u6d3b", "description": "\u5b78\u7fd2\u5982\u4f55\u4f7f\u7528ES6 Promise\uff0c\u61c9\u7528\u7570\u6b65\u57f7\u884c\u6d41\u7a0b\u5728\u4f60\u7684JavaScript\u7a0b\u5f0f\u4e2d\u3002", "identifier": {"uuid": "a1ccf1dd-f071-4d25-8941-4b60e19c94c8"}, "publisher": "GitBook", "sha_256": "df4a4bf5fa3d831d457478e1ae80041a7219fe3b0898b21c89c5804ca0a7cb08"}, "\u6df1\u5165\u6d45\u51faNode.js.epub": {"identifier": {"uuid": "88cc9269-30ed-40ac-9c1b-ba27389942eb", "ISBN": "9787115335500", "calibre": "88cc9269-30ed-40ac-9c1b-ba27389942eb"}, "rights": "Copyright \u00a9 2014 \u4eba\u6c11\u90ae\u7535\u51fa\u7248\u793e", "contributor": "calibre (2.34.0) [http://calibre-ebook.com]", "creator": "\u6734\u7075", "language": "zh", "title": "\u6df1\u5165\u6d45\u51faNode.js", "publisher": "\u4eba\u6c11\u90ae\u7535\u51fa\u7248\u793e", "date": "2015-12-04", "sha_256": "419c31dc049ec9f6bfeedb2c3254ab2bd37e9044cc9034a3c7fb8d24fe36dc7b"}, "HTML5\u6743\u5a01\u6307\u5357.pdf": {"author": "Html5\u6743\u5a01\u6307\u5357 \u9ad8\u6e05\u4e2d\u6587Pdf\u626b\u63cf\u7248,Www.Linuxidc.Com", "creation_date": "D:20150425163959+08'00'", "creator": "Adobe Acrobat 10.0", "keywords": "Html5\u6743\u5a01\u6307\u5357 \u9ad8\u6e05\u4e2d\u6587Pdf\u626b\u63cf\u7248,Www.Linuxidc.Com", "mod_date": "D:20170927153955+08'00'", "producer": "Adobe Acrobat 10.0 Image Conversion Plug-In", "subject": "Html5\u6743\u5a01\u6307\u5357 \u9ad8\u6e05\u4e2d\u6587Pdf\u626b\u63cf\u7248,Www.Linuxidc.Com", "title": "Html5\u6743\u5a01\u6307\u5357 \u9ad8\u6e05\u4e2d\u6587Pdf\u626b\u63cf\u7248,Www.Linuxidc.Com", "sha_256": "474acb193da4423a1e2c8ea63b7f17491393d0eaad49919b6f458edec7a448f8"}, "javascript\u6743\u5a01\u6307\u5357\u4e2d\u6587\u7b2c\u516d\u7248.epub": {"creator": "(\u7f8e)David Flanagan", "date": "2012-04-24T16:00:00+00:00", "contributor": "calibre (1.48.0) [http://calibre-ebook.com]", "identifier": {"uuid": "def73247-65a0-457e-aa38-421b060785da", "calibre": "def73247-65a0-457e-aa38-421b060785da", "MOBI-ASIN": "B00E593MTS"}, "title": "JavaScript\u6743\u5a01\u6307\u5357\uff08\u539f\u4e66\u7b2c6\u7248\uff09", "language": "zh", "sha_256": "05c184cb585c1ce0d610b1ead0be020569d07de22a116769f9a0bc961b1dfcb7"}, "JavaScript\u8bbe\u8ba1\u6a21\u5f0f\u4e0e\u5f00\u53d1\u5b9e\u8df5.pdf": {"creation_date": "D:20150424153600+08'00'", "creator": "Adobe Acrobat Pro 9.0.0", "mod_date": "D:20151230214156+08'00'", "producer": "Adobe Acrobat Pro 9.0.0; Modified Using Itextsharp 5.2.0 (C) 1T3Xt Bvba", "title": "Javascript\u8bbe\u8ba1\u6a21\u5f0f\u4e0e\u5f00\u53d1\u5b9e\u8df5-\u6249\u9875", "sha_256": "d90207f3a64c1c6411a83068bd3916c1409f574b33596a0cb04407ce354ddfc4"}, "javascript-start-from-es6.epub": {"language": "zh", "publisher": "GitBook", "creator": "Eddy Chang", "description": "\u5beb\u7d66\u4e2d\u6587\u958b\u767c\u8005\u7684JavaScript\u7a0b\u5f0f\u8a9e\u8a00\u5165\u9580\u66f8\u7c4d\uff0c\u52a0\u5165\u8a31\u591aES6\u65b0\u8a9e\u6cd5\u8207API\u3002", "contributor": "GitBook", "title": "\u5f9eES6\u958b\u59cb\u7684JavaScript\u5b78\u7fd2\u751f\u6d3b", "identifier": {"uuid": "5dc337ad-8a20-4669-a510-f776d3b735c7"}, "sha_256": "483f81e05a4a263d4c5438de2e0a681c56ec90ed3ff36f87ad55ed0a90f03ee8"}, "Chrome\u6269\u5c55\u5e94\u7528\u5f00\u53d1.epub": {"publisher": "\u4eba\u6c11\u90ae\u7535\u51fa\u7248\u793e", "rights": "Copyright \u00a9 2014 \u4eba\u6c11\u90ae\u7535\u51fa\u7248\u793e", "language": "zh", "creator": "Sneezry", "title": "Chrome\u6269\u5c55\u53ca\u5e94\u7528\u5f00\u53d1", "date": "2014-09-14T16:00:00+00:00", "contributor": "calibre (3.7.0) [https://calibre-ebook.com]", "identifier": {"uuid": "8f99f4da-c62a-4222-80be-c84738e6cfcb", "calibre": "8f99f4da-c62a-4222-80be-c84738e6cfcb"}, "sha_256": "210f2d1ab9815923ba49825de50b82b90bd10b6aa26d065e41cf613f3e8f5734"}, "Web\u5168\u6808\u5de5\u7a0b\u5e08\u7684\u81ea\u6211\u4fee\u517b.epub": {"publisher": "\u4eba\u6c11\u90ae\u7535\u51fa\u7248\u793e", "description": "\u5168\u6808\u5de5\u7a0b\u5e08\u6b63\u6210\u4e3a IT \u884c\u4e1a\u7684\u65b0\u79c0\uff0c\u8bba\u662f\u4e0a\u5e02\u4e92\u8054\u7f51\u516c\u53f8\u8fd8\u662f\u521b\u4e1a\u516c\u53f8\uff0c\u90fd\u5bf9\u5168\u6808\u5de5\u7a0b\u5e08\u9752\u7750\u6709\u52a0\u3002\u672c\u4e66\u4f5c\u8005\u662f\u817e\u8baf\u516c\u53f8\u9ad8\u7ea7\u5de5\u7a0b\u5e08\uff0c\u5728\u524d\u7aef\u3001\u540e\u7aef\u548cAPP\u5f00\u53d1\u65b9\u9762\u90fd\u6709\u4e30\u5bcc\u7684\u7ecf\u9a8c\uff0c\u5728\u672c\u4e66\u4e2d\u5206\u4eab\u4e86\u5168\u6808\u5de5\u7a0b\u5e08\u7684\u6280\u80fd\u8981\u6c42\u3001\u6838\u5fc3\u7ade\u4e89\u529b\u3001\u672a\u6765\u53d1\u5c55\u65b9\u5411\u3001\u5bf9\u79fb\u52a8\u7aef\u7684\u601d\u8003\u3002\u9664\u6b64\u4e4b\u5916\uff0c\u672c\u4e66\u8fd8\u8be6\u7ec6\u8bb0\u5f55\u4e86\u4f5c\u8005\u4ece\u96f6\u5f00\u59cb\u3001\u5b66\u4e60\u6210\u957f\u7684\u5fc3\u8def\u5386\u7a0b\u3002\n\u672c\u4e66\u5185\u5bb9\u5168\u9762\uff0c\u5ba2\u89c2\u52a1\u5b9e\uff0c\u9002\u5408\u4e92\u8054\u7f51\u884c\u4e1a\u65b0\u4eba\u3001\u7a0b\u5e8f\u5458\uff0c\u4ee5\u53ca\u671f\u5f85\u6280\u672f\u8f6c\u578b\u7684\u4ece\u4e1a\u8005\u9605\u8bfb\u53c2\u8003\u3002", "language": "zh", "creator": "\u4f59\u679c", "title": "Web\u5168\u6808\u5de5\u7a0b\u5e08\u7684\u81ea\u6211\u4fee\u517b", "date": "2015-09-01T14:48:29.027764+00:00", "contributor": "calibre (3.7.0) [https://calibre-ebook.com]", "identifier": {"MOBI-ASIN": "2b328169-84b0-41d8-834a-15e36b2180d3", "DOUBAN": "26598045", "ISBN": "9787115399021", "uuid": "e2059cd2-5883-42c1-af2f-71c886496949", "calibre": "e2059cd2-5883-42c1-af2f-71c886496949"}, "subject": ["\u524d\u7aef\u5f00\u53d1", "Web", "\u7a0b\u5e8f\u5458", "\u8ba1\u7b97\u673a", "\u7f16\u7a0b", "Fullstack", "\u5168\u6808\u5de5\u7a0b\u5e08", "\u524d\u7aef"], "sha_256": "72d6b08dc14349d16a2addd8c1427ed1082405aca5229c8a05a5b99da578cc4e"}, "JS\u51fd\u6570\u5f0f\u7f16\u7a0b-GitBook.epub": {"publisher": "GitBook", "description": "Mostly Adequate Guide \u4e2d\u6587\u7248", "language": "zh", "creator": "Linghao Li", "title": "JS\u51fd\u6570\u5f0f\u7f16\u7a0b\u6307\u5357", "date": "2016-09-19T03:35:30.608825+00:00", "contributor": "calibre (3.7.0) [https://calibre-ebook.com]", "identifier": {"MOBI-ASIN": "10a03011-98e4-4309-bac7-30bfe11d4083", "uuid": "eaa623bd-2728-4079-9d64-d5643d21d7f4", "calibre": "eaa623bd-2728-4079-9d64-d5643d21d7f4"}, "sha_256": "13df16668b516947ace5f14a1fb378e2ae21b9b7eeb56c9d9f837499e89fac69"}, "\u4f60\u4e0d\u77e5\u9053\u7684JavaScript(\u4e0a\u5377).epub": {"publisher": "\u4eba\u6c11\u90ae\u7535\u51fa\u7248\u793e", "description": "JavaScript\u8bed\u8a00\u6709\u5f88\u591a\u590d\u6742\u7684\u6982\u5ff5\uff0c\u4f46\u5374\u7528\u7b80\u5355\u7684\u65b9\u5f0f\u4f53\u73b0\u51fa\u6765\uff08\u6bd4\u5982\u56de\u8c03\u51fd\u6570\uff09\uff0c\u56e0\u6b64\uff0cJavaScript\u5f00\u53d1\u8005\u65e0\u9700\u7406\u89e3\u8bed\u8a00\u5185\u90e8\u7684\u539f\u7406\uff0c\u5c31\u80fd\u7f16\u5199\u51fa\u529f\u80fd\u5168\u9762\u7684\u7a0b\u5e8f\uff1b\u5c31\u50cf\u6536\u97f3\u673a\u4e00\u6837\uff0c\u4f60\u65e0\u9700\u7406\u89e3\u91cc\u9762\u7684\u7ba1\u5b50\u548c\u7ebf\u5708\u90fd\u662f\u505a\u4ec0\u4e48\u7528\u7684\uff0c\u53ea\u8981\u4f1a\u64cd\u4f5c\u6536\u97f3\u673a\u4e0a\u7684\u6309\u952e\uff0c\u5c31\u53ef\u4ee5\u6536\u542c\u4f60\u559c\u6b22\u7684\u8282\u76ee\u3002\u7136\u800c\uff0cJavaScript\u7684\u8fd9\u4e9b\u590d\u6742\u7cbe\u5999\u7684\u6982\u5ff5\u624d\u662f\u8bed\u8a00\u7684\u7cbe\u9ad3\uff0c\u5373\u4f7f\u662f\u7ecf\u9a8c\u4e30\u5bcc\u7684JavaScript\u5f00\u53d1\u8005\uff0c\u5982\u679c\u6ca1\u6709\u8ba4\u771f\u5b66\u4e60\u4e5f\u65e0\u6cd5\u771f\u6b63\u7406\u89e3\u8bed\u8a00\u672c\u8eab\u7684\u7279\u6027\u3002\u6b63\u662f\u56e0\u4e3a\u7edd\u5927\u591a\u6570\u4eba\u4e0d\u6c42\u751a\u89e3\uff0c\u4e00\u9047\u5230\u51fa\u4e4e\u610f\u6599\u7684\u884c\u4e3a\u5c31\u8ba4\u4e3a\u662f\u8bed\u8a00\u672c\u8eab\u6709\u7f3a\u9677\uff0c\u8fdb\u800c\u628a\u76f8\u5173\u7684\u7279\u6027\u52a0\u5165\u9ed1\u540d\u5355\uff0c\u4e45\u800c\u4e45\u4e4b\u5c31\u6392\u9664\u4e86\u8fd9\u95e8\u8bed\u8a00\u7684\u591a\u6837\u6027\uff0c\u4eba\u4e3a\u5730\u4f7f\u5b83\u53d8\u5f97\u4e0d\u5b8c\u6574\u3001\u4e0d\u5b89\u5168\u3002\n\u201c\u4f60\u4e0d\u77e5\u9053\u7684JavaScript\u201d\u7cfb\u5217\u5c31\u662f\u8981\u8ba9\u4e0d\u6c42\u751a\u89e3\u7684JavaScript\u5f00\u53d1\u8005\u8fce\u96be\u800c\u4e0a\uff0c\u6df1\u5165\u8bed\u8a00\u5185\u90e8\uff0c\u5f04\u6e05\u695aJavaScript\u6bcf\u4e00\u4e2a\u96f6\u90e8\u4ef6\u7684\u7528\u9014\u3002\u672c\u4e66\u4ecb\u7ecd\u4e86\u8be5\u7cfb\u5217\u7684\u4e24\u4e2a\u4e3b\u9898\uff1a\u201c\u4f5c\u7528\u57df\u548c\u95ed\u5305\u201d\u4ee5\u53ca\u201cthis\u548c\u5bf9\u8c61\u539f\u578b\u201d\u3002\u638c\u63e1\u4e86\u8fd9\u4e9b\u77e5\u8bc6\u4e4b\u540e\uff0c\u65e0\u8bba\u4ec0\u4e48\u6280\u672f\u3001\u6846\u67b6\u548c\u6d41\u884c\u8bcd\u8bed\uff0c\u4f60\u90fd\u80fd\u8f7b\u677e\u7406\u89e3\u3002", "language": "zh", "creator": "Kyle Simpson\u3001\u8d75\u671b\u91ce\u3001\u6881\u6770", "title": "\u4f60\u4e0d\u77e5\u9053\u7684JavaScript\uff08\u4e0a\u5377\uff09", "date": "2015-04-15T15:01:51.207867+00:00", "contributor": "calibre (3.7.0) [https://calibre-ebook.com]", "identifier": {"MOBI-ASIN": "ddae4f78-9699-401b-ad82-ce3e7c54dee7", "DOUBAN": "26351021", "ISBN": "9787115385734", "uuid": "4dacc81d-1906-4f3a-a8b3-ef019945cd88", "calibre": "4dacc81d-1906-4f3a-a8b3-ef019945cd88"}, "subject": ["JavaScript", "\u524d\u7aef\u5f00\u53d1", "\u7f16\u7a0b", "\u524d\u7aef", "\u8ba1\u7b97\u673a", "Web", "Web\u524d\u7aef\u5f00\u53d1"], "sha_256": "d2864d7545a251e9475fc1db90266ae8143413bc5b602bd8e132a25d2acbc723"}}}, {"dir_name": "protocol", "name": "\u534f\u8bae", "books": {"Lighttpd\u6e90\u7801\u5206\u6790.epub": {"contributor": "calibre (2.60.0) [https://calibre-ebook.com]", "title": "Lighttpd\u6e90\u7801\u5206\u6790", "date": "2010-03-16T16:00:00+00:00", "identifier": {"MOBI-ASIN": "e2be1f81-11a6-4d95-ba7c-c3d682373bb2", "uuid": "e2be1f81-11a6-4d95-ba7c-c3d682373bb2", "calibre": "e2be1f81-11a6-4d95-ba7c-c3d682373bb2"}, "creator": "\u9ad8\u7fa4\u51ef", "language": "zh", "sha_256": "4fcd438f3f2b083475002a63089eb152d324262411d73586ae08df5833eebe08"}, "\u7f16\u8bd1\u539f\u7406-\u7b2c\u4e8c\u7248.pdf": {"author": "Alfred V.Aho,Monica S.Lam,Ravi Sethi,Jeffrey D.Ullman", "creation_date": "D:20091009143620+08'00'", "creator": "Calibre (3.6.0) [Https://Calibre-Ebook.Com]", "keywords": "\u7f16\u8bd1\u539f\u7406, \u8ba1\u7b97\u673a, \u8ba1\u7b97\u673a\u79d1\u5b66, Cs, \u6559\u79d1\u4e66, \u6559\u6750", "mod_date": "D:20170814011914+08'00'", "producer": "Pdf-Xchange Viewer [Version: 2.0 (Build 47.0) (Feb 17 2010; 18:30:51)]", "title": "\u7f16\u8bd1\u539f\u7406", "sha_256": "425417cf5761ff5acba492753adb1001da330039689686f471ba9892c78f42df"}, "Http\u6743\u5a01\u6307\u5357.epub": {"publisher": "\u4eba\u6c11\u90ae\u7535\u51fa\u7248\u793e", "description": "\u8d85\u6587\u672c\u8f6c\u79fb\u534f\u8bae\uff08Hypertext Transfer Protocol\uff0cHTTP\uff09\u662f\u5728\u4e07\u7ef4\u7f51\u4e0a\u8fdb\u884c\u901a\u4fe1\u65f6\u6240\u4f7f\u7528\u7684\u534f\u8bae\u65b9\u6848\u3002HTTP\u6709\u5f88\u591a\u5e94\u7528\uff0c\u4f46\u6700\u8457\u540d\u7684\u662f\u7528\u4e8eweb\u6d4f\u89c8\u5668\u548cweb\u670d\u52a1\u5668\u4e4b\u95f4\u7684\u53cc\u5de5\u901a\u4fe1\u3002\nHTTP\u8d77\u521d\u662f\u4e00\u4e2a\u7b80\u5355\u7684\u534f\u8bae\uff0c\u56e0\u6b64\u4f60\u53ef\u80fd\u4f1a\u8ba4\u4e3a\u5173\u4e8e\u8fd9\u4e2a\u534f\u8bae\u6ca1\u6709\u592a\u591a\u597d \u8bf4\u7684\u3002\u4f46\u73b0\u5728\uff0c\u4f60\u624b\u4e0a\u62ff\u7740\u7684\u662f\u5374\u4e00\u672c\u4e24\u78c5\u91cd \u7684\u4e66\u3002\u5982\u679c\u4f60\u5bf9\u6211\u4eec\u600e\u4e48\u4f1a\u5199\u51fa\u4e00\u672c650\u9875 \u7684\u5173\u4e8eHTTP\u7684\u4e66\u611f\u5230\u5947\u602a\u7684\u8bdd\uff0c\u53ef\u4ee5\u53bb\u770b\u4e00\u4e0b\u76ee\u5f55\u3002\u672c\u4e66\u4e0d\u4ec5\u4ec5\u662f\u4e00\u672cHTTP\u9996\u90e8\u7684\u53c2\u8003\u624b\u518c\uff1b\u5b83\u662f\u4e00\u672c\u540d\u526f\u5176\u5b9e\u7684web\u7ed3\u6784\u5723\u7ecf\u3002\n\u672c\u4e66\u4e2d\uff0c\u6211\u4eec\u5c1d\u8bd5\u7740\u5c06HTTP\u4e2d\u4e00\u4e9b\u4e92\u76f8\u5173\u8054\u4e14\u5e38\u88ab\u8bef\u89e3\u7684\u89c4\u5219\u68b3\u7406\u6e05\u695a\uff0c\u5e76\u7f16\u5199\u4e86\u4e00\u7cfb\u5217\u57fa\u4e8e\u5404\u79cd\u4e3b\u9898\u7684\u7ae0\u8282\uff0c\u5bf9HTTP\u5404\u65b9\u9762\u7684\u7279\u6027\u8fdb\u884c\u4e86\u4ecb\u7ecd\u3002\u7eb5\u89c2\u5168\u4e66\uff0c\u6211\u4eec\u5bf9HTTP\u201c\u4e3a\u4ec0\u4e48\u201d\u8fd9\u6837\u505a\u8fdb\u884c\u4e86\u8be6\u7ec6\u7684\u89e3\u91ca\uff0c\u800c\u4e0d\u4ec5\u4ec5\u505c\u7559\u5728\u5b83\u662f\u201c\u600e\u4e48\u505a\u201d\u7684\u3002\u800c\u4e14\uff0c\u4e3a\u4e86\u8282\u7701\u5927\u5bb6\u5bfb\u627e\u53c2\u8003\u6587\u732e\u7684\u65f6\u95f4\uff0c\u6211\u4eec\u8fd8\u5bf9\u5f88\u591aHTTP\u5e94\u7528\u7a0b\u5e8f\u6b63\u5e38\u5de5\u4f5c\u6240\u5fc5\u987b\u7684\u3001\u91cd\u8981\u7684\u975eHTTP\u6280\u672f\u8fdb\u884c\u4e86\u4ecb\u7ecd\u3002\u5728\u7ec4\u7ec7\u5f97\u4fbf\u4e8e\u4f7f\u7528\u7684\u9644\u5f55\u4e2d\uff0c\u53ef\u4ee5\u627e\u5230\u6309\u7167\u5b57\u6bcd\u6392\u5e8f\u7684\u9996\u90e8\u53c2\u8003\uff08\u8fd9\u4e9b\u9996\u90e8\u6784\u6210\u4e86\u6700\u5e38\u89c1\u7684HTTP\u6587\u672c\u7684\u57fa\u7840\uff09\u3002\u6211\u4eec\u5e0c\u671b\u8fd9\u79cd\u6982\u5ff5\u6027\u7684\u8bbe\u8ba1\u6709\u52a9\u4e8e\u8bfb\u8005\u5bf9HTTP\u7684\u4f7f\u7528\u3002\n\u672c\u4e66\u662f\u4e3a\u6240\u6709\u5e0c\u671b\u7406\u89e3HTTP\u4ee5\u53caWeb\u5e95\u5c42\u7ed3\u6784\u7684\u4eba\u7f16\u5199\u7684\u3002\u8f6f\u786c\u4ef6\u5de5\u7a0b\u5e08\u4e5f\u53ef\u4ee5\u5c06\u672c\u4e66\u4f5c\u4e3aHTTP\u53ca\u76f8\u5173web\u6280\u672f\u7684\u6761\u7406\u6e05\u695a\u7684\u53c2\u8003\u4e66\u4f7f\u7528\u3002\u7cfb\u7edf\u67b6\u6784\u5e08\u548c\u7f51\u7edc\u7ba1\u7406\u5458\u53ef\u4ee5\u901a\u8fc7\u672c\u4e66\u66f4\u597d\u5730\u4e86\u89e3\u5982\u4f55\u8bbe\u8ba1\u3001\u5b9e\u73b0\u5e76\u7ba1\u7406\u590d\u6742\u7684\u7f51\u7edc\u67b6\u6784\u3002\u6027\u80fd\u5de5\u7a0b\u5e08\u548c\u5206\u6790\u4eba\u5458\u53ef\u4ee5\u4ece\u9ad8\u901f\u7f13\u5b58\u548c\u6027\u80fd\u4f18\u5316\u7684\u76f8\u5173\u7ae0\u8282\u4e2d\u83b7\u76ca\u3002\u5e02\u573a\u8425\u9500\u548c\u54a8\u8be2\u4e13\u5bb6\u53ef\u4ee5\u901a\u8fc7\u6982\u5ff5\u7684\u4ecb\u7ecd\u66f4\u597d\u5730\u7406\u89e3web\u6280\u672f\u7684\u524d\u666f\u3002\n\u672c\u4e66\u5bf9\u4e00\u4e9b\u5e38\u89c1\u7684\u8bef\u89e3\u8fdb\u884c\u4e86\u8bf4\u660e\uff0c\u63a8\u8350\u4e86\u201c\u5404\u79cd\u4f7f\u7528\u8bc0\u7a8d\u201d\uff0c\u63d0\u4f9b\u4e86\u4fbf\u6377\u7684\u53c2\u8003\u8d44\u6599\uff0c\u5e76\u4e14\u5bf9\u67af\u71e5\u4e14\u4ee4\u4eba\u8d39\u89e3\u7684\u6807\u51c6\u89c4\u8303\u8fdb\u884c\u4e86\u53ef\u8bfb\u6027\u5f88\u5f3a\u7684\u4ecb\u7ecd\u3002\u5728\u8fd9\u672c\u4e66\u91cc\uff0c\u6211\u4eec\u5bf9Web\u6b63\u5e38\u5de5\u4f5c\u6240\u5fc5\u987b\u4e14\u4e92\u76f8\u5173\u8054\u7684\u6280\u672f\u8fdb\u884c\u4e86\u8be6\u7ec6\u7684\u4ecb\u7ecd\u3002\n\u672c\u4e66\u662f\u5f88\u591a\u5bf9\u56e0\u7279\u7f51\u6280\u672f\u5145\u6ee1\u70ed\u60c5\u7684\u4eba\u7ecf\u8fc7\u5927\u91cf\u5de5\u4f5c\u5199\u6210\u7684\u3002\u5e0c\u671b\u5bf9\u4f60\u6709\u6240\u5e2e\u52a9\u3002", "language": "zh", "creator": "[\u7f8e]David Gourley Brian Totty Marjorie Sayer Sailu Reddy Aushu Aggarwal", "title": "Http\u6743\u5a01\u6307\u5357", "date": "2012-09-15T14:48:34.582026+00:00", "contributor": "calibre (3.7.0) [https://calibre-ebook.com]", "identifier": {"ISBN": "9787115281487", "MOBI-ASIN": "YXXIXMUSN3JVXGKDAFY52THWDNV3WMF3", "DOUBAN": "10746113", "uuid": "fb33a778-bf67-4444-b261-e99a32c662ed", "calibre": "fb33a778-bf67-4444-b261-e99a32c662ed"}, "subject": ["Http", "\u7f51\u7edc", "\u8ba1\u7b97\u673a", "\u4e92\u8054\u7f51", "\u534f\u8bae", "Web\u5f00\u53d1", "\u57fa\u7840\u7406\u8bba", "\u7f16\u7a0b"], "sha_256": "396a1846b8160d01ba8320a53ea2aabf8f6a0f2359b9c1aaa87e750b5f1cc2e7"}}}, {"dir_name": "python", "name": "Python", "books": {"Python_Cookbook-\u7b2c\u4e09\u7248 Jones.epub": {"publisher": "\u4eba\u6c11\u90ae\u7535\u51fa\u7248\u793e", "description": "\u300aPython Cookbook\uff08\u7b2c3\u7248\uff09\u4e2d\u6587\u7248\u300b\u4ecb\u7ecd\u4e86Python\u5e94\u7528\u5728\u5404\u4e2a\u9886\u57df\u4e2d\u7684\u4e00\u4e9b\u4f7f\u7528\u6280\u5de7\u548c\u65b9\u6cd5\uff0c\u5176\u4e3b\u9898\u6db5\u76d6\u4e86\u6570\u636e\u7ed3\u6784\u548c\u7b97\u6cd5\uff0c\u5b57\u7b26\u4e32\u548c\u6587\u672c\uff0c\u6570\u5b57\u3001\u65e5\u671f\u548c\u65f6\u95f4\uff0c\u8fed\u4ee3\u5668\u548c\u751f\u6210\u5668\uff0c\u6587\u4ef6\u548cI/O\uff0c\u6570\u636e\u7f16\u7801\u4e0e\u5904\u7406\uff0c\u51fd\u6570\uff0c\u7c7b\u4e0e\u5bf9\u8c61\uff0c\u5143\u7f16\u7a0b\uff0c\u6a21\u5757\u548c\u5305\uff0c\u7f51\u7edc\u548cWeb\u7f16\u7a0b\uff0c\u5e76\u53d1\uff0c\u5b9e\u7528\u811a\u672c\u548c\u7cfb\u7edf\u7ba1\u7406\uff0c\u6d4b\u8bd5\u3001\u8c03\u8bd5\u4ee5\u53ca\u5f02\u5e38\uff0cC\u8bed\u8a00\u6269\u5c55\u7b49\u3002\n\u672c\u4e66\u8986\u76d6\u4e86Python\u5e94\u7528\u4e2d\u7684\u5f88\u591a\u5e38\u89c1\u95ee\u9898\uff0c\u5e76\u63d0\u51fa\u4e86\u901a\u7528\u7684\u89e3\u51b3\u65b9\u6848\u3002\u4e66\u4e2d\u5305\u542b\u4e86\u5927\u91cf\u5b9e\u7528\u7684\u7f16\u7a0b\u6280\u5de7\u548c\u793a\u4f8b\u4ee3\u7801\uff0c\u5e76\u5728Python 3.3\u73af\u5883\u4e0b\u8fdb\u884c\u4e86\u6d4b\u8bd5\uff0c\u53ef\u4ee5\u5f88\u65b9\u4fbf\u5730\u5e94\u7528\u5230\u5b9e\u9645\u9879\u76ee\u4e2d\u53bb\u3002\u6b64\u5916\uff0c\u300aPython Cookbook\uff08\u7b2c3\u7248\uff09\u4e2d\u6587\u7248\u300b\u8fd8\u8be6\u7ec6\u8bb2\u89e3\u4e86\u89e3\u51b3\u65b9\u6848\u662f\u5982\u4f55\u5de5\u4f5c\u7684\uff0c\u4ee5\u53ca\u4e3a\u4ec0\u4e48\u80fd\u591f\u5de5\u4f5c\u3002\n\u300aPython Cookbook\uff08\u7b2c3\u7248\uff09\u4e2d\u6587\u7248\u300b\u975e\u5e38\u9002\u5408\u5177\u6709\u4e00\u5b9a\u7f16\u7a0b\u57fa\u7840\u7684Python\u7a0b\u5e8f\u5458\u9605\u8bfb\u53c2\u8003\u3002", "language": "en", "creator": "David M. Beazley / Brian K. Jones", "title": "Python Cookbook \u4e2d\u6587\u7248\uff0c\u7b2c 3 \u7248", "date": "2015-05-01T02:03:17.644061+00:00", "contributor": "calibre (3.7.0) [https://calibre-ebook.com]", "identifier": {"DOUBAN": "26381341", "ISBN": "9787115379597", "uuid": "cc849a56-eedc-426f-9ed1-a1d476159b71", "calibre": "cc849a56-eedc-426f-9ed1-a1d476159b71"}, "subject": ["\u8ba1\u7b97\u673a", "Python", "\u4ee3\u7801", "\u7f16\u7a0b", "\u6280\u672f", "Python3 CookBook\u4e2d\u6587\u7248", "Cookbook", "O'Reilly"], "sha_256": "67f1d371b51585ebaac78f18c67351dbc1f6dfeabbfd743a125bfeb13a96c485"}, "\u300aPython Cookbook\u300b\u7b2c\u4e09\u7248\u4e2d\u6587v2.0.0.pdf": {"creator": "Latex With Hyperref Package", "producer": "Xdvipdfmx (0.7.8)", "creation_date": "D:20160401103437+08'00'", "sha_256": "682209267f55b840d75a7fb74da74e93bfb0ac4e800f96ad88370d524f160105"}, "\u7f16\u5199\u9ad8\u8d28\u91cf\u7684\u4ee3\u7801:\u6539\u5584Python\u7a0b\u5e8f\u768491\u4e2a\u5efa\u8bae.epub": {"publisher": "\u673a\u68b0\u5de5\u4e1a\u51fa\u7248\u793e", "description": "\u5728\u901a\u5f80\u201cPython\u6280\u672f\u6bbf\u5802\u201d\u7684\u8def\u4e0a\uff0c\u672c\u4e66\u5c06\u4e3a\u4f60\u7f16\u5199\u5065\u58ee\u3001\u4f18\u96c5\u3001\u9ad8\u8d28\u91cf\u7684Python\u4ee3\u7801\u63d0\u4f9b\u5207\u5b9e\u5e2e\u52a9\uff01\u5185\u5bb9\u5168\u90e8\u7531Python\u7f16\u7801\u7684\u6700\u4f73\u5b9e\u8df5\u7ec4\u6210\uff0c\u4ece\u57fa\u672c\u539f\u5219\u3001\u60ef\u7528\u6cd5\u3001\u8bed\u6cd5\u3001\u5e93\u3001\u8bbe\u8ba1\u6a21\u5f0f\u3001\u5185\u90e8\u673a\u5236\u3001\u5f00\u53d1\u5de5\u5177\u548c\u6027\u80fd\u4f18\u53168\u4e2a\u65b9\u9762\u6df1\u5165\u63a2\u8ba8\u4e86\u7f16\u5199\u9ad8\u8d28\u91cfPython\u4ee3\u7801\u7684\u6280\u5de7\u4e0e\u7981\u5fcc\uff0c\u4e00\u5171\u603b\u7ed3\u51fa91\u6761\u5b9d\u8d35\u7684\u5efa\u8bae\u3002\u6bcf\u6761\u5efa\u8bae\u5bf9\u5e94Python\u7a0b\u5e8f\u5458\u53ef\u80fd\u4f1a\u9047\u5230\u7684\u4e00\u4e2a\u95ee\u9898\u3002\u672c\u4e66\u4e0d\u4ec5\u4ee5\u5efa\u8bae\u7684\u65b9\u5f0f\u4ece\u6b63\u53cd\u4e24\u65b9\u9762\u7ed9\u51fa\u4e86\u88ab\u5b9e\u8df5\u8bc1\u660e\u4e3a\u5341\u5206\u4f18\u79c0\u7684\u89e3\u51b3\u65b9\u6848\u6216\u975e\u5e38\u7cdf\u7cd5\u7684\u89e3\u51b3\u65b9\u6848\uff0c\u800c\u4e14\u5206\u6790\u4e86\u95ee\u9898\u4ea7\u751f\u7684\u6839\u6e90\uff0c\u4f1a\u4f7f\u4eba\u6709\u4e00\u79cd\u918d\u9190\u704c\u9876\u7684\u611f\u89c9\uff0c\u8c41\u7136\u5f00\u6717\u3002\n\u300a\u7f16\u5199\u9ad8\u8d28\u91cf\u4ee3\u7801\uff1a\u6539\u5584Python\u7a0b\u5e8f\u768491\u4e2a\u5efa\u8bae\u300b\u9488\u5bf9\u6bcf\u4e2a\u95ee\u9898\u6240\u9009\u62e9\u7684\u5e94\u7528\u573a\u666f\u90fd\u975e\u5e38\u5178\u578b\uff0c\u7ed9\u51fa\u7684\u5efa\u8bae\u4e5f\u90fd\u4e0e\u5b9e\u8df5\u7d27\u5bc6\u7ed3\u5408\u3002\u4e66\u4e2d\u7684\u6bcf\u4e00\u6761\u5efa\u8bae\u90fd\u53ef\u80fd\u5728\u4f60\u7684\u4e0b\u4e00\u884c\u4ee3\u7801\u3001\u4e0b\u4e00\u4e2a\u5e94\u7528\u6216\u4e0b\u4e00\u4e2a\u9879\u76ee\u4e2d\u663e\u9732\u950b\u8292\u3002\u5efa\u8bae\u4f60\u5c06\u672c\u4e66\u6401\u7f6e\u5728\u624b\u8fb9\uff0c\u968f\u65f6\u67e5\u9605\uff0c\u76f8\u4fe1\u8fd9\u4e48\u505a\u4e00\u5b9a\u80fd\u4f7f\u4f60\u7684\u5b66\u4e60\u548c\u5f00\u53d1\u5de5\u4f5c\u4e8b\u534a\u529f\u500d\u3002", "language": "zh", "creator": "\u5f20\u9896 \u8d56\u52c7\u6d69 \u8457", "title": "\u7f16\u5199\u9ad8\u8d28\u91cf\u4ee3\u7801\uff1a\u6539\u5584Python\u7a0b\u5e8f\u768491\u4e2a\u5efa\u8bae", "date": "2014-06-15T06:40:56.133665+00:00", "contributor": "calibre (3.7.0) [https://calibre-ebook.com]", "identifier": {"MOBI-ASIN": "B00LFJELSM", "DOUBAN": "25910544", "ISBN": "9787111467045", "uuid": "15de3077-040c-4f57-bd27-4fdc775bd6ac", "calibre": "15de3077-040c-4f57-bd27-4fdc775bd6ac"}, "subject": ["Python", "\u7f16\u7a0b", "\u8ba1\u7b97\u673a", "\u7a0b\u5e8f\u8bbe\u8ba1", "Programming", "\u7f16\u7a0b\u8bed\u8a00", "\u8f6f\u4ef6\u5de5\u7a0b"], "sha_256": "4eaf157d1cc081f997be222fe0289628de42c033adde2e05b5c2f0e1e2c173b4"}, "\u300aPython\u7f16\u7a0b\u5b9e\u6218\uff1a\u8fd0\u7528\u8bbe\u8ba1\u6a21\u5f0f\u3001\u51b0\u6cd5\u548c\u7a0b\u5e8f\u5e93\u521b\u5efa\u9ad8\u8d28\u91cf\u7a0b\u5e8f\u300b\u8ff7\u4f60\u4e66.pdf": {"creation_date": "D:20140724150355+08'00'", "creator": "Adobe Indesign Cs6 (Windows)", "mod_date": "D:20140827143839+08'00'", "producer": "Adobe Pdf Library 10.0.1", "sha_256": "9d75c34089bcfbd57948a9ccf3b80dfb727a3b959c57e3621816fba995a3121e"}, "Python\u6838\u5fc3\u7f16\u7a0b\uff08\u4e2d\u6587\u7b2c\u4e8c\u7248\uff09\u5e26\u76ee\u5f55.pdf": {"keywords": "", "subject": "", "title": "", "creator": "", "author": "", "producer": "Www.Adultpdf.Com", "mod_date": "D:20080729003532+08'00'", "sha_256": "1c8ea09c04f546a8a671dafe56dccad86ee9914c4f84d75e33a2f3ee391b20f6"}, "violent-python.epub": {"contributor": "GitBook", "description": "\u8fde\u8f7d\u4ecb\u7ecd\u4fe1\u606f: zone.wooyun.org/content/23138", "language": "zh", "identifier": {"uuid": "bbc13614-2b30-44d0-a30c-4079fd0082df"}, "title": "Violent Python \u4e2d\u6587\u7248", "creator": "wizardforcel", "publisher": "GitBook", "sha_256": "b44a9aa7cdcf84a400571daaf88e7f32e103170395ff40e5be69a2bc6e54ca2b"}, "Python\u9ad8\u7ea7\u7f16\u7a0b.pdf": {"creation_date": "D:20110331085037+08'00'", "creator": "Unknownapplication", "mod_date": "D:20110416141344+08'00'", "producer": "Bullzip Pdf Printer / Www.Bullzip.Com / Freeware Edition", "title": "", "sha_256": "868b8d165e79d0fc056ce0912d513bc802f50e143b626dec20cb1e0c3bc0bfdc"}, "\u6d41\u7545\u7684Python.epub": {"title": "\u6d41\u7545\u7684Python", "creator": "[\u5df4\u897f] Luciano Ramalho", "publisher": "\u4eba\u6c11\u90ae\u7535\u51fa\u7248\u793e", "rights": "Copyright \u00a9 2017 \u4eba\u6c11\u90ae\u7535\u51fa\u7248\u793e", "date": "2017-08-14T16:00:00+00:00", "contributor": "calibre (3.5.0) [https://calibre-ebook.com]", "identifier": {"uuid": "4a3bcce8-837d-45a6-808d-5681efb5af5a", "calibre": "4a3bcce8-837d-45a6-808d-5681efb5af5a", "ISBN": "9787115454157"}, "language": "zh", "sha_256": "f21df558d1b1a889586bd5bf80982e9f3393fd47612887f1509be4d59732b764"}, "Python\u6e90\u7801\u5256\u6790.pdf": {"creation_date": "D:20090419185401", "mod_date": "D:20090419185401", "producer": "Freepic2Pdf - 1.07", "author": "\u9648\u5112\u8457\u0000", "title": "Python\u6e90\u7801\u5256\u6790\uff1a\u6df1\u5ea6\u63a2\u7d22\u52a8\u6001\u8bed\u8a00\u6838\u5fc3\u6280\u672f\u0000", "sha_256": "0751ef0ff19a4a5a1840ef44b39c9a2c356dab83c5cf8cebedc85b36801e9414"}, "Python\u6838\u5fc3\u7f16\u7a0b.epub": {"description": "\u4f5c\u8005\uff1aWesley J. Chun\uff08\u9673\u4ef2\u624d\uff09", "creator": "wizardforcel", "contributor": "GitBook", "publisher": "GitBook", "language": "zh", "title": "Python \u6838\u5fc3\u7f16\u7a0b \u7b2c\u4e8c\u7248", "identifier": {"uuid": "18928d50-63e2-4a4a-a1ef-5dd8ac14a98b"}, "sha_256": "b043b3dbfce24e1a395c89b86484c37996cc67a75b7b6768aeea765726c57943"}}}, {"dir_name": "safety", "name": "\u5b89\u5168", "books": {"blockchain_guide.epub": {"description": "A book to introduce blockchain technologies, including the key techniques, algorithms, usage scenarios, and projects.", "identifier": {"uuid": "8dd343f9-5d16-417a-923e-530f2ccb1177"}, "publisher": "GitBook", "contributor": "GitBook", "title": "\u533a\u5757\u94fe\u6280\u672f\u6307\u5357", "language": "zh", "creator": "yeasy", "sha_256": "e074ed66981f3776e7f7e60d71f2b18bea4a2273fbd5fae67f354cbaa14e886c"}, "\u89e3\u5bc6\u4e0e\u52a0\u5bc6(\u7b2c3\u7248).epub": {"language": "zh", "creator": "\u6bb5\u94a2", "title": "\u52a0\u5bc6\u4e0e\u89e3\u5bc6(\u7b2c3\u7248)", "date": "2013-08-24T16:00:00+00:00", "contributor": "calibre (3.7.0) [https://calibre-ebook.com]", "identifier": {"MOBI-ASIN": "d96460dc-44aa-418c-9471-b6b5016eaacf", "uuid": "5ee84d0c-680a-44c4-aa30-19be7cfa77d7", "calibre": "5ee84d0c-680a-44c4-aa30-19be7cfa77d7"}, "sha_256": "e04a11fd723f2bb9bb42bef006115ebf5a30a26b6f4642eacf00d9f863cbf6cc"}}}, {"dir_name": "tools", "name": "\u5de5\u5177", "books": {"use-vim-as-ide.epub": {"publisher": "GitBook", "creator": "wizardforcel", "contributor": "GitBook", "description": "yangyangwithgnu@yeah.net2016-03-30 16:39:33", "language": "zh", "title": "\u50cf IDE \u4e00\u6837\u4f7f\u7528 vim", "identifier": {"uuid": "d5e70717-6cb7-4a1f-89ca-f72c6067a75b"}, "sha_256": "9ab17fe27d4b0f051bc109273801fe25964b064b72bb588aae7b0faa4b95806d"}}}]
+[
+  {
+    "dir_name": "algorithm",
+    "books": {
+      "编译原理-第二版.pdf": {
+        "author": "Alfred V.Aho,Monica S.Lam,Ravi Sethi,Jeffrey D.Ullman",
+        "creation_date": "D:20091009143620+08'00'",
+        "creator": "Calibre (3.6.0) [Https://Calibre-Ebook.Com]",
+        "keywords": "编译原理, 计算机, 计算机科学, Cs, 教科书, 教材",
+        "mod_date": "D:20170814011914+08'00'",
+        "producer": "Pdf-Xchange Viewer [Version: 2.0 (Build 47.0) (Feb 17 2010; 18:30:51)]",
+        "title": "编译原理",
+        "type": "pdf",
+        "sha_256": "425417cf5761ff5acba492753adb1001da330039689686f471ba9892c78f42df"
+      },
+      "算法引论：一种创造性方法(扫描,无书签).pdf": {
+        "creation_date": "D:20110513003052",
+        "mod_date": "D:20110513003052",
+        "producer": "Freepic2Pdf - 2.00",
+        "type": "pdf",
+        "sha_256": "cc6f545b84ec6999dbe9b88445a8cd7f20c36b19b13b18e30bbd48f2a9fb7d44"
+      },
+      "算法设计与分析基础(清晰,书签).pdf": {
+        "author": "（美）Anany Levitin著；潘彦译",
+        "creation_date": "D:20121105133244+08'00'",
+        "creator": "Pscript5.Dll Version 5.2.2",
+        "mod_date": "D:20160724153833+08'00'",
+        "producer": "Acrobat Distiller 10.0.0 (Windows)",
+        "title": "算法设计与分析基础  第二版",
+        "type": "pdf",
+        "sha_256": "16e7f68bff27d52d812048733a2ef29444bdd793b8960518fff3118729e2eeb2"
+      }
+    },
+    "name": "算法"
+  },
+  {
+    "dir_name": "android",
+    "books": {
+      "Android研发工程师高级进阶.epub": {
+        "publisher": "GitBook",
+        "description": "原文链接：http://www.bignerdranch.com/blog/what-is-functional-reactive-programming/",
+        "language": "zh",
+        "creator": "asce1885",
+        "title": "更上一层楼－Android研发工程师高级进阶",
+        "date": "2015-04-29T12:07:16.232986+00:00",
+        "contributor": "calibre (3.7.0) [https://calibre-ebook.com]",
+        "identifier": {
+          "MOBI-ASIN": "67c1ea7c-7f50-439f-9c8d-645b26ba1f16",
+          "uuid": "5532a7f0-fab3-457b-9ac3-adea053ce8ce",
+          "calibre": "5532a7f0-fab3-457b-9ac3-adea053ce8ce"
+        },
+        "type": "epub",
+        "sha_256": "8a61158889a94d3c98249f5cc349ae0d43b95f90d59f9bc73a467a60facfee48"
+      },
+      "深入理解Android卷II.epub": {
+        "publisher": "机械工业出版社",
+        "contributor": "calibre (2.16.0) [http://calibre-ebook.com]",
+        "identifier": {
+          "MOBI-ASIN": "ad62c7de-b880-41a7-8c59-1fa7b202658d",
+          "uuid": "b7519c0f-003d-4b9b-b209-b5e700a91276",
+          "calibre": "b7519c0f-003d-4b9b-b209-b5e700a91276"
+        },
+        "language": "zh",
+        "title": "深入理解Android:卷II",
+        "date": "2012-08-09T16:00:00+00:00",
+        "creator": "邓凡平",
+        "type": "epub",
+        "sha_256": "2dddd418f390a66b02b22fe47903407d9b920b7a5de9e8a3c725a95acf54a103"
+      },
+      "Android高薪之路：Android程序员面试宝典.pdf": {
+        "mod_date": "D:20130927160140+08'00'",
+        "creation_date": "D:20130927160140+08'00'",
+        "title": "Android高薪之路：Android程序员面试宝典.Cebx",
+        "author": "Ug800Js",
+        "creator": "Apabi Reader - [Android高薪之路：Android程序员面试宝典]",
+        "type": "pdf",
+        "sha_256": "6880a693734ebd927be1519b6f9f7e3d12369d122aa5069e6cf4e97473019fa4"
+      },
+      "深入理解Android卷I.epub": {
+        "language": "zh",
+        "contributor": "calibre (2.16.0) [http://calibre-ebook.com]",
+        "date": "2011-09-07T16:00:00+00:00",
+        "creator": "邓凡平",
+        "identifier": {
+          "MOBI-ASIN": "B00BTCM8Q2",
+          "uuid": "c10dc969-2603-481b-bc96-bf991ebbc2d0",
+          "calibre": "c10dc969-2603-481b-bc96-bf991ebbc2d0"
+        },
+        "title": "深入理解Android：卷I",
+        "type": "epub",
+        "sha_256": "7f49de4e256161e439af824db0c5cc36566faef5fb25f48ad0cecb2ff7e97448"
+      }
+    },
+    "name": "安卓"
+  },
+  {
+    "dir_name": "c",
+    "books": {
+      "算法精解-c语言描述.epub": {
+        "publisher": "机械工业出版社",
+        "description": "本书是数据结构和算法领域的经典之作，十余年来，畅销不衰！全书共分为三部分：第一部分首先介绍了数据结构和算法的概念，以及使用它们的原因和意义，然后讲解了数据结构和算法中最常用的技术——指针和递归，最后还介绍了算法的分析方法，旨在为读者学习这本书打下坚实的基础；第二部分对链表、栈、队列、集合、哈希表、堆、图等常用数据结构进行了深入阐述；第三部分对排序、搜索数值计算、数据压缩、数据加密、图算法、几何算法等经典算法进行了精辟的分析和讲解。\n本书的众多特色使得它在同类书中独树一帜：具体实现都采用正式的C语言代码而不是伪代码，在很多数据结构和算法的实现过程中，有大量细节问题是伪代码不能解决的；每一章都有精心组织的主题和应用；全部示例来自真实的应用，不只是一般的练习；对每种数据结构、算法和示例都进行了详细分析；每一章的末尾都会有一系列问题和对应的回答，旨在强调这一章的重要思想……\n本书中的代码尤为值得强调：所有实现都采用C语言编写，所有代码都优先用于教学目的，所有代码都在4种平台上经过完整测试，头文件记录了所有公共的接口，命名规则适用于全书所有的代码，所有的代码都包含大量注释……\n本书内容包括：\n· 数据结构和算法的概念，以及使用它们的原因和意义\n· 指针和递归\n· 算法分析\n· 常用数据结构：链表、栈、队列、集合、哈希表、树、堆、优先级队列以及图\n· 排序和搜索\n· 数值计算\n· 数据压缩\n· 数据加密\n· 图算法\n· 几何算法",
+        "language": "zh",
+        "creator": "(美)Kyle Loudon",
+        "title": "算法精解",
+        "date": "2012-08-15T15:01:35.409527+00:00",
+        "contributor": "calibre (3.7.0) [https://calibre-ebook.com]",
+        "identifier": {
+          "MOBI-ASIN": "5XH525MBCJNBMGWNXZIN5J5PEX4F2FLK",
+          "DOUBAN": "14267904",
+          "ISBN": "9787111394266",
+          "uuid": "eab2c922-b1e5-4ed8-9d11-6201b050703a",
+          "calibre": "eab2c922-b1e5-4ed8-9d11-6201b050703a"
+        },
+        "subject": [
+          "算法",
+          "C语言",
+          "编程",
+          "计算机",
+          "计算机科学",
+          "程序设计",
+          "C",
+          "Programming"
+        ],
+        "type": "epub",
+        "sha_256": "750d6c45decfd0e0dca0cc5ded4ff5baafc468cc963513543ec867dfb4f3aa2a"
+      },
+      "C Primer Plus第五版 中文版.epub": {
+        "publisher": "人民邮电出版社",
+        "language": "zh",
+        "creator": "普拉塔 (Prata S.)",
+        "title": "C Primer Plus(第5版)中文版",
+        "date": "2005-01-31T16:00:00+00:00",
+        "contributor": "calibre (1.35.0) [http://calibre-ebook.com]",
+        "identifier": {
+          "ISBN": "9787115130228",
+          "MOBI-ASIN": "cd059a04-4ee2-4f30-a2e6-6c10e1dfe7af",
+          "uuid": "b87935f4-6f48-4cfc-a52e-5140ecbb123d",
+          "calibre": "b87935f4-6f48-4cfc-a52e-5140ecbb123d"
+        },
+        "type": "epub",
+        "sha_256": "2b5c3bdd4ba16818e4cb5b2daa88c9ab41d48bef602b957194d4a48f53d233c7"
+      },
+      "数据结构与算法分析-C.pdf": {
+        "author": "维斯",
+        "creation_date": "D:20120606005943+08'00'",
+        "creator": "Calibre (3.8.0) [Https://Calibre-Ebook.Com]",
+        "keywords": "数据结构 算法 计算机 数据结构与算法分析 编程 C 算法 数据结构 C语言",
+        "mod_date": "D:20170927155328+08'00'",
+        "producer": "Freepic2Pdf_Lib - 2.10",
+        "title": "数据结构与算法分析",
+        "type": "pdf",
+        "sha_256": "3e96c8af63626ffe12bd73e49cc79cd026ef3dc9b0f843919d2bf1a5ecd511a8"
+      },
+      "lua源码分析.pdf": {
+        "producer": "Mac OS X 10.10.1 Quartz PDFContext",
+        "creator": "LaTeX with hyperref package",
+        "creation_date": "D:20150121094602Z00'00'",
+        "mod_date": "D:20150121094602Z00'00'",
+        "type": "pdf",
+        "sha_256": "251052e74cd98ad9558faebce2dc26f1aa2035f6e2d768777f40024680344203"
+      }
+    },
+    "name": "C语言"
+  },
+  {
+    "dir_name": "c++",
+    "books": {
+      "C++Primer 第5版.pdf": {
+        "creation_date": "D:20150213003819+08'00'",
+        "mod_date": "D:20150213003819+08'00'",
+        "producer": "Freepic2Pdf_Lib - V3.05",
+        "creator": "Pdg2Pic",
+        "type": "pdf",
+        "sha_256": "322d5d6f0b48ad11b7b80b3122db78d8a2b3194946ac5766810cf7ac2803287d"
+      },
+      "C++并发编程实战.epub": {
+        "publisher": "人民邮电出版社",
+        "description": "《C++并发编程实战》是一本基于C++11新标准的并发和多线程编程深度指南。内容包括从std::thread、std::mutex、std::future和std::async等基础类的使用，到内存模型和原子操作、基于锁和无锁数据结构的构建，再扩展到并行算法、线程管理，最后还介绍了多线程代码的测试工作。本书的附录部分还对C++11新语言特性中与多线程相关的项目进行了简要的介绍，并提供了C++11线程库的完整参考。\n《C++并发编程实战》适合于需要深入了解C++多线程开发的读者，以及使用C++进行各类软件开发的开发人员、测试人员。对于使用第三方线程库的读者，也可以从本书后面的章节中了解到相关的指引和技巧。同时，本书还可以作为C++11线程库的参考工具书。",
+        "language": "zh",
+        "creator": "Anthony Williams",
+        "title": "C++并发编程实战",
+        "date": "2015-05-15T14:37:30.701392+00:00",
+        "contributor": "calibre (3.7.0) [https://calibre-ebook.com]",
+        "identifier": {
+          "MOBI-ASIN": "708313b0-a428-4c1e-b7be-7dd97f1f2fdf",
+          "DOUBAN": "26386925",
+          "ISBN": "9787115387325",
+          "uuid": "887f53c0-8637-4cda-ba05-74e5a471d6db",
+          "calibre": "887f53c0-8637-4cda-ba05-74e5a471d6db"
+        },
+        "subject": [
+          "C++",
+          "并发编程",
+          "多线程",
+          "计算机",
+          "并发",
+          "GitBook",
+          "编程",
+          "Programming"
+        ],
+        "type": "epub",
+        "sha_256": "fc9acd2d659a2a9317c042cd3a0f8f59f54d88f5619494f3df04025f59850618"
+      },
+      "高速上手C++11-14.epub": {
+        "publisher": "GitBook",
+        "description": "C++11 的出现及C++14 对 C++11的重要补充，让 C++ 这门古老的语言注入了新的活力。如果你还在使用传统 C++，打着 C++ 的名号写出 C 语言代码，请停下来。本教程将带领你快速上手 C++11/14 的重要特性。",
+        "language": "zh",
+        "creator": "Changkun",
+        "title": "高速上手 C++11/14",
+        "date": "2016-09-20T01:18:30.162862+00:00",
+        "contributor": "calibre (3.7.0) [https://calibre-ebook.com]",
+        "identifier": {
+          "MOBI-ASIN": "4f7426e0-4ecc-4342-9a81-0174ee00dfbb",
+          "uuid": "fca6936a-eebf-410d-80b3-d13a15c2dfa9",
+          "calibre": "fca6936a-eebf-410d-80b3-d13a15c2dfa9"
+        },
+        "type": "epub",
+        "sha_256": "b7304d334a8133ac7628d02a66aeaa71287ea9a01163dad3cc7d82f1864f09e7"
+      },
+      "完美C ++ (第5版)+ C++ Primer中文版清晰扫描PDF.pdf": {
+        "creation_date": "D:20150505172253+08'00'",
+        "subject": "完美C ++ (第5版)+ C++ Primer中文版清晰扫描，Www.Linuxidc.Com",
+        "author": "完美C ++ (第5版)+ C++ Primer中文版清晰扫描，Www.Linuxidc.Com",
+        "creator": "Adobe Acrobat 10.0",
+        "keywords": "完美C ++ (第5版)+ C++ Primer中文版清晰扫描，Www.Linuxidc.Com",
+        "producer": "Adobe Acrobat 10.0 Image Conversion Plug-In",
+        "mod_date": "D:20160307075235+08'00'",
+        "title": "完美C ++ (第5版)+ C++ Primer中文版清晰扫描，Www.Linuxidc.Com",
+        "type": "pdf",
+        "sha_256": "e65a431b7cb568cb055bcb1801aab851785265a12344161212795014a2a95cfe"
+      },
+      "数据结构与算法分析–C++(第3版,扫描,书签).pdf": {
+        "author": "（美）Mark Allen Weiss著",
+        "creation_date": "D:20100601121439Z",
+        "mod_date": "D:20100601201607+08'00'",
+        "producer": "Freepic2Pdf - 2.02",
+        "title": "数据结构与算法分析C++描述",
+        "type": "pdf",
+        "sha_256": "ee145b4c2a62b082868c4c2df8ae980dfda7779bbd9b86868f9ec6b0195fde3c"
+      },
+      "Linux多线程服务端编程.epub": {
+        "publisher": "电子工业出版社",
+        "description": "本书主要讲述采用现代C++ 在x86-64 Linux 上编写多线程TCP 网络服务程序的主流常规技术，重点讲解一种适应性较强的多线程服务器的编程模型，即one loop per thread。这是在Linux 下以native 语言编写用户态高性能网络程序最成熟的模式，掌握之后可顺利地开发各类常见的服务端网络应用程序。本书以muduo 网络库为例，讲解这种编程模型的使用方法及注意事项。\n本书的宗旨是贵精不贵多。掌握两种基本的同步原语就可以满足各种多线程同步的功能需求，还能写出更易用的同步设施。掌握一种进程间通信方式和一种多线程网络编程模型就足以应对日常开发任务，编写运行于公司内网环境的分布式服务统。",
+        "language": "zh",
+        "creator": "陈硕",
+        "title": "Linux多线程服务端编程",
+        "date": "2013-01-15T14:21:19.313645+00:00",
+        "contributor": "calibre (3.7.0) [https://calibre-ebook.com]",
+        "identifier": {
+          "MOBI-ASIN": "B00FF1XYJI",
+          "DOUBAN": "20471211",
+          "ISBN": "9787121192821",
+          "uuid": "f3876e71-5c34-4985-81e3-0b3de30920d9",
+          "calibre": "f3876e71-5c34-4985-81e3-0b3de30920d9"
+        },
+        "subject": [
+          "网络编程",
+          "C++",
+          "Linux",
+          "多线程",
+          "编程",
+          "计算机",
+          "Networks",
+          "Programming"
+        ],
+        "type": "epub",
+        "sha_256": "a2318169aef295c05fa9b4f627c07ecb6f4724f16e28edd3793ebff5dac202a9"
+      },
+      "C++ Primer Plus  第6版  中文版.pdf": {
+        "author": "（美）普拉达著",
+        "creation_date": "D:20130511114722+08'00'",
+        "creator": "Pdg2Pic",
+        "keywords": "C++ Primer Plus  第6版  中文版,Www.Linuxidc.Com",
+        "mod_date": "D:20160412013543+08'00'",
+        "producer": "Freepic2Pdf_Lib - V3.02",
+        "subject": "Www.Linuxidc.Com",
+        "title": "C++ Primer Plus  第6版  中文版",
+        "type": "pdf",
+        "sha_256": "10e19996ff8031d2340ddf7c5349febecaf2308a0b7c94cffa699b7de5c2f9db"
+      }
+    },
+    "name": "C++语言"
+  },
+  {
+    "dir_name": "css",
+    "books": {
+      "响应式Web设计_HTML5和CSS3实战 - Ben Frain.epub": {
+        "creator": "Ben Frain",
+        "publisher": "人民邮电出版社",
+        "identifier": {
+          "uuid": "c473589a-b855-44ba-a04f-331e92e72dd1",
+          "calibre": "c473589a-b855-44ba-a04f-331e92e72dd1",
+          "ISBN": "9787115299222",
+          "MOBI-ASIN": "7f3773a1-adf1-4998-99a0-1d9707a6489a"
+        },
+        "contributor": "calibre (2.52.0) [http://calibre-ebook.com]",
+        "date": "2012-12-31T16:00:00+00:00",
+        "title": "响应式Web设计:HTML5和CSS3实战 (图灵程序设计丛书)",
+        "language": "zh",
+        "type": "epub",
+        "sha_256": "ea15891bfedfb4b18d04c53bc4f4e1abc208b4b9bfc35a9c3cbb97ee70aa9956"
+      },
+      "CSS揭秘.epub": {
+        "identifier": {
+          "bookid": "urn:uuid:273fd756-62f2-4858-8d67-99e08f24bba9",
+          "ISBN": "978-7-115-41694-0"
+        },
+        "contributor": [
+          "Epubor",
+          "Ultimate",
+          "eCore v0.9.4.611 [ http://www.epubor.com/ecore.html ]",
+          "http://www.epubor.com"
+        ],
+        "creator": "[希] Lea Verou",
+        "date": "2016",
+        "language": "zh-CN",
+        "publisher": "人民邮电出版社",
+        "title": "CSS揭秘",
+        "type": "epub",
+        "sha_256": "06f0cde4fd45828d30fe394be85f4177a5f5fb0c1ed56c22f2c831dec4dd8278"
+      },
+      "CSS权威指南第三版.epub": {
+        "description": "你是否既想获得丰富复杂的网页样式，同时又想节省时间和精力？本书为你展示了如何遵循CSS最新规范（CSS2和CSS2.1）将层叠样式表的方方面面应用于实践。\n通过本书提供的诸多示例，你将了解如何做到仅在一处建立样式表就能创建或修改整个网站的外观，以及如何得到HTML力不能及的更丰富的表现效果。\n资深CSS专家Eric A.Meyer。利用他独有的睿智和丰富的经验对属性、标记、标记属性和实现做了深入的研究，另外在浏览器支持和设计原则等实际问题上也有独到的见解。你所需要的就是HTML 4.0的知识即可以为网站布局和分页创建简明而且易于维护的脚本，同时兼具桌面系统的美观性和可控性。在本书中你将学到以下内容：\n·用多种方式对文本应用样式\n·用户界面、表布局、列表和生成内容\n·浮动和定位的优缺点\n·字体系列和后路\n·框模型的工作原理\n·IE7、Firefox和其他浏览器支持的新CSS3选择器\n最新版《CSS权威指南》一书经过全面更新，涵盖了Internet Explorer 7，详细介绍了各个CSS属性以及属性之间的相互作用，并指导你如何避免一些常见的错误。不论你是一位经验丰富的web创作人员，还是一无所知的新手，都可以把它作为内容翔实的CSS参考资料放在手边。Eric A.Meyer。在HTML、CSS和web标准领域是国际上公认的专家，他从1993年就开始从事web方面的工作。他也是complex spiral consulting公司的奠基人，其客户包括美国在线、苹果计算机公司、富国银行和Macromedia等著名公司。",
+        "language": "en",
+        "creator": "[美] Eric A.meyer",
+        "date": "2014-02-18T16:00:00+00:00",
+        "contributor": "calibre (3.8.0) [https://calibre-ebook.com]",
+        "title": "Css权威指南（第三版）",
+        "identifier": {
+          "DOUBAN": "2308234",
+          "uuid": "9ca056ca-400e-4a01-bbe2-a44e372c2344",
+          "calibre": "9ca056ca-400e-4a01-bbe2-a44e372c2344"
+        },
+        "type": "epub",
+        "sha_256": "b0cac6516ce008845a78e27a024255a4021952c559c39e00b1c15a831ad74651"
+      },
+      "CSS禅意花园(修订版).epub": {
+        "publisher": "人民邮电出版社",
+        "language": "zh",
+        "title": "CSS禅意花园(修订版)",
+        "identifier": {
+          "MOBI-ASIN": "B00LITFG88",
+          "uuid": "94b355fa-9bf2-458a-a608-eb558c5beeaf",
+          "calibre": "94b355fa-9bf2-458a-a608-eb558c5beeaf"
+        },
+        "contributor": "calibre (2.32.1) [http://calibre-ebook.com]",
+        "date": "2012-06-30T16:00:00+00:00",
+        "creator": "[美]Dave Shea Molly E. Holzschlag",
+        "type": "epub",
+        "sha_256": "b7b1ef9aa0ef42100f013881e85d7d4ae4eabfc9a6685c4d2bb942c47546fd32"
+      }
+    },
+    "name": "css"
+  },
+  {
+    "dir_name": "cvs",
+    "books": {
+      "progit2.epub": {
+        "language": "en",
+        "identifier": {
+          "pub-identifier": "_pro_git"
+        },
+        "title": "Pro Git",
+        "creator": "Asciidoctor",
+        "date": "2017-09-14T09:50:52Z",
+        "type": "epub",
+        "sha_256": "8fdeb1399faadcab0ffeee52e09375c973e69332c041f6e89fd5d1015e93d7f8"
+      },
+      "progit2-gitbook.epub": {
+        "contributor": "GitBook",
+        "creator": "xbing",
+        "publisher": "GitBook",
+        "title": "Pro Git 第二版 简体中文",
+        "description": "Pro Git 第二版 简体中文",
+        "language": "zh",
+        "identifier": {
+          "uuid": "bc65207c-0226-4e50-9a3c-567606a13b99"
+        },
+        "type": "epub",
+        "sha_256": "c33c50c61acb3d7df1cc66943320965054a680f8b459fcd37e5c8d847fbfd97c"
+      }
+    },
+    "name": "版本管理"
+  },
+  {
+    "dir_name": "design",
+    "books": {
+      "写给大家看的设计书-第四版.epub": {
+        "title": "写给大家看的设计书（第4版）",
+        "creator": "【美】威廉姆斯（Robbin Williams）",
+        "publisher": "人民邮电出版社",
+        "description": "畅销设计入门书最新版，让每个人都能成为设计师\n在这个创意无处不在的时代，越来越多的人成为设计师。简历、论文、PPT、个人主页、博客、活动海报、给客人的邮件、名片……，处处都在考验你的设计能力。\n美术功课不好？没有艺术细胞？毫无设计经验？\n没关系！在设计大师RobinWilliams看来，设计其实很简单。在这部畅销全球多年、影响了一代设计师的经典著作中，RobinWilliams将优秀设计的秘诀归纳为对比、重复、对齐和亲密性四条基本原则，并用简洁通俗、幽默生动的文笔，同时配以大量经过修改进行前后对比的实例图解和设计练习（并提供解答），直观清晰地传授给读者。通过本书，普通读者很快就能够自信地设计出专业级别的作品，而专业设计师也将从中获得灵感和解决问题的途径。\nRobin　Williams　　世界著名设计师、技术专家和畅销书作家。通过写书和授课，她已经影响了整整一代数字设计师。同时，作为Adobe和Mac技术社区内的偶像级专家，她拥有大批拥戴者。她是Publish　Magazine、Adobe　Magazine等杂志的专栏作家，是MacWorld　Expo等业界重要活动和组织的顾问委员会成员，还创办了Santa　Fe电影艺术学院。除本书外，她还著有几十部畅销图书和获奖著作，包括《写给大家看的Web设计书》等，有的书已经被翻译为十几种文字，产生了世界性的影响。图灵社区对她做过访谈，收录在本书内，感兴趣的读者看看被豆瓣网友评为“J.K.罗琳似的艰苦奋斗代表”的Robin是如何自我定位的。访谈电子版地址：ituring.cn/article/41065。",
+        "date": "2016-01-15T01:16:27.201548+00:00",
+        "contributor": "calibre (3.6.0) [https://calibre-ebook.com]",
+        "identifier": {
+          "uuid": "5acb0531-0abc-4564-a562-2c10d37c94a9",
+          "calibre": "5acb0531-0abc-4564-a562-2c10d37c94a9",
+          "DOUBAN": "26664522",
+          "MOBI-ASIN": "b971d12e-8184-4d20-a327-6c7290e79032",
+          "ISBN": "9787115404404"
+        },
+        "subject": [
+          "设计",
+          "艺术",
+          "产品",
+          "Design",
+          "入门",
+          "罗宾·威廉姆斯",
+          "设计思维"
+        ],
+        "language": "zh",
+        "type": "epub",
+        "sha_256": "257da09d5f062526e19047a82f9052d93d22ff1706bf3165276fea1f9c7b4a2b"
+      }
+    },
+    "name": "设计"
+  },
+  {
+    "dir_name": "engineering",
+    "books": {
+      "程序员的自我修养.epub": {
+        "identifier": {
+          "uuid": "9e369f33-cffc-4e75-bfe6-df7e1c6ad80e"
+        },
+        "description": "我所认为的程序员的自我养成手册。",
+        "title": "程序员的自我修养",
+        "language": "zh",
+        "contributor": "GitBook",
+        "creator": "Leo Hui",
+        "publisher": "GitBook",
+        "type": "epub",
+        "sha_256": "e6c526102fc3b5128704794bf6f39feba06d612030a36a0a9633112fb4beed85"
+      },
+      "持续交付-发布可靠软件的系统方法.pdf": {
+        "creation_date": "D:20120819100427+08'00'",
+        "mod_date": "D:20120819100427+08'00'",
+        "producer": "Freepic2Pdf_Lib - 2.08",
+        "type": "pdf",
+        "sha_256": "49b261cc087960cc500aca13c6df03676217078dc9b8351fc9a164a4753c3068"
+      },
+      "软件构架师的12项修炼.epub": {
+        "publisher": "机械工业出版社华章公司",
+        "description": "每一位软件开发人员都有一个架构师的梦，但为何真正的软件架构师却寥寥无几？软件开发人员更容易在技术上有所积累和突破，但是技术上的精湛并不足以使你成为一位优秀的软件架构师。合格的软件架构师究竟应该具备哪些能力和素养？本书科学而系统地归纳出软件架构师应该具备的完整能力模型，该能力模型呈一金字塔结构，共分为4层：位于最底层的是技术技能，是软件架构师的基石，属于硬技能；从下往上的三层分别是关系技能、个人技能和商务技能，这些都属于软技能。由于硬技能会随着具体技术领域的不同而千差万别，因此本书假定读者已经具备了这方面的技能；但其他3大方面的软技能却在每个技术领域都适用，是每一位软件架构师的必修课，这是本书的核心内容。\n为了便于认知和实践，本书将3大方面的软技能分为12项：关系技能包含文雅的举止（在任何环境下都能与人文雅相处的能力）、沟通（与人有效交互的能力）、协商（将事情办成的能力）、领导力（通过施加影响力将事情办成的能力）和政治（“政治场合”与人交互的能力）等5项；个人技能包含透明化（使自我、团队关系和项目透明化的能力）、激情（激发和保护激情的能力）和语境切换（将注意力迅速切换到新语境并保持专注的能力）等3项；商务技能包括商务知识（读懂商务语言的能力和了解产品与顾客的能力）、创新（如何通过学习和思考来创新的能力）、实用主义（抓住关键问题的能力）、认知（认知目标、战略及合作伙伴的能力）等4项。\n本书不仅帮助软件开发人员系统地学习如何修炼这12项软技能，而且还能让他们进一步理解软件架构师的角色和本质，使他们最终突破技术的“天花板”，成为一名合格的软件架构师。",
+        "language": "zh",
+        "creator": "（美）Dave.Hendricksen；张菲译",
+        "title": "软件架构师的12项修炼",
+        "date": "2012-05-01T15:01:40.018212+00:00",
+        "contributor": "calibre (3.7.0) [https://calibre-ebook.com]",
+        "identifier": {
+          "MOBI-ASIN": "KPHE7S2UM6JWIUKTSKTLT47MTCIJ3TEA",
+          "DOUBAN": "10746257",
+          "ISBN": "9787111378600",
+          "uuid": "5a094d90-6b86-4a6c-bee2-aaddd8951b3e",
+          "calibre": "5a094d90-6b86-4a6c-bee2-aaddd8951b3e"
+        },
+        "subject": [
+          "软件架构",
+          "架构",
+          "软件工程",
+          "计算机",
+          "软件开发",
+          "编程",
+          "架构师",
+          "修炼"
+        ],
+        "type": "epub",
+        "sha_256": "22a45f77ac450d5faab530fe0d1d19a6c2cc5715a65ad546421caf675304a4d2"
+      },
+      "敏捷开发的艺术.epub": {
+        "publisher": "机械工业出版社",
+        "description": "本书为那些正在考虑应用敏捷开发来构建有价值软件的人们提供了实用的指导。现在已经有大量的书籍描述敏捷开发是什么或者为什么它能帮助软件项目成功，但很少有哪一本书能把针对开发者、管理者、测试者和客户的信息合并成一个整体，从而使其能够直接应用。\n本书为敏捷的计划、开发、交付和管理提供了严谨的建议，这些建议来自于作者多年的极限编程(Extreme Programming，XP)经验。你将看到敏捷开发过程的全景图，包括为非技术类读者准备的全面指导，以及为开发者和测试人员准备的实用技术实践。\n本书为以下问题提供了明确的答案：\n怎样才能采用敏捷开发?\n我们真的需要结对编程吗?\n汇报应该详细到什么程度?\n如果无法让客户参与进来该怎么办?\n我们应该编写多少文档?\n何时进行设计和架构?\n作为一名非开发人员，我应如何同敏捷团队一起工作?\n产品的路线在哪里?\nQA应该如何参与进来?\n本书教你如何采用XP实践，详细描述了每一种实践，然后讨论了一些原则，使你可以更改XP并创建自己的敏捷方法。尤其是，本书为敏捷开发中一些较为困难的方面(合作的需要和团队成员之间的信任)提供了解决办法。\n不管你目前已经是敏捷团队的一部分，还是只对敏捷开发感兴趣，本书都为你提供了开始实践敏捷开发所需的实用技巧。随着你的经验的增长，内容也随之深入。本书教你首先理解敏捷开发的规则，然后打破这些规则，最后当你掌握了敏捷开发的艺术之后，再完全撇开这些规则。",
+        "language": "zh",
+        "creator": "James Shore/Shane Warden",
+        "title": "敏捷开发的艺术",
+        "date": "2009-08-15T14:24:18.160833+00:00",
+        "contributor": "calibre (3.7.0) [https://calibre-ebook.com]",
+        "identifier": {
+          "MOBI-ASIN": "B00E593MSO",
+          "DOUBAN": "4037534",
+          "ISBN": "9787111268048",
+          "uuid": "bfb06e6b-2cbf-4540-b0e8-2174f7aea178",
+          "calibre": "bfb06e6b-2cbf-4540-b0e8-2174f7aea178"
+        },
+        "subject": [
+          "计算机",
+          "软件开发",
+          "项目管理",
+          "Agile",
+          "Programming",
+          "软件工程",
+          "敏捷",
+          "敏捷开发"
+        ],
+        "type": "epub",
+        "sha_256": "854f0083d907c85be08d680d3eddad40958f6ab21e6905af2246eac9afb77d2d"
+      },
+      "软技能-代码之外的生存指南.epub": {
+        "publisher": "Manning Publications",
+        "description": "<p>这是一本真正从“人”（而非技术也非管理）的角度关注软件开发人员自身发展的书。书中论述的内容既涉及生活习惯，又包括思维方式，凸显技术中“人”的因素，全面讲解软件行业从业人员所需知道的所有“软技能”。 本书聚焦于软件开发人员生活的方方面面，从揭秘面试的流程到精耕细作出一份杀手级简历，从创建大受欢迎的博客到打造你的个人品牌，从提高自己工作效率到与如何与“拖延症”做斗争，甚至包括如何投资不动产，如何关注自己的健康。 本书共分为职业篇、自我营销篇、学习篇、生产力篇、理财篇、健身篇、精神篇等七篇，概括了软件行业从业人员所需的“软技能”。通过阅读本书，软件工程人员、编程人员和其他技术人员能够积极思考自己的职业生涯，丰富自己的生活，让自己更接近成功。</p>",
+        "language": "zh",
+        "creator": "[美] John Z. Sonmez",
+        "title": "软技能：代码之外的生存指南",
+        "date": "2014-12-29T15:01:42.221663+00:00",
+        "contributor": "calibre (3.7.0) [https://calibre-ebook.com]",
+        "identifier": {
+          "DOUBAN": "26312275",
+          "ISBN": "9781617292392",
+          "uuid": "6251be6a-5197-4e1e-bd12-8f3bef12232b",
+          "calibre": "6251be6a-5197-4e1e-bd12-8f3bef12232b"
+        },
+        "subject": [
+          "程序员",
+          "自我成长",
+          "职场",
+          "成长",
+          "计算机",
+          "个人管理",
+          "管理",
+          "人生"
+        ],
+        "type": "epub",
+        "sha_256": "920da8df1d629c01d3a7acef1ec797d39528062f7c6f2f05b7c1dbfa1b406845"
+      },
+      "高效程序员的45个习惯-敏捷开发修炼之道.epub": {
+        "publisher": "人民邮电出版社",
+        "language": "zh",
+        "creator": "亨特，苏帕拉马尼亚姆",
+        "title": "高效程序员的45个习惯：敏捷开发修炼之道",
+        "date": "2016-06-07T16:00:00+00:00",
+        "contributor": "calibre (3.7.0) [https://calibre-ebook.com]",
+        "identifier": {
+          "uuid": "88519ebc-2f1d-4f66-938f-5ff079e518b1",
+          "calibre": "88519ebc-2f1d-4f66-938f-5ff079e518b1"
+        },
+        "type": "epub",
+        "sha_256": "ac9a3ce414db6595092c9617ca715c2c861f2e42a15299363618f6a894825706"
+      },
+      "微服务设计-SamNewman.epub": {
+        "title": "微服务设计",
+        "creator": "[英] Sam Newman",
+        "identifier": {
+          "bookid": "urn:uuid:273fd756-62f2-4858-8d67-99e08f24bba9",
+          "calibre": "5344a4a7-4d66-498c-9233-8654bf114769",
+          "DOUBAN": "26772677",
+          "ISBN": "9787115420268"
+        },
+        "contributor": [
+          "Epubor",
+          "Ultimate",
+          "eCore v0.9.4.611 [ http://www.epubor.com/ecore.html ]",
+          "http://www.epubor.com"
+        ],
+        "date": "2016-05-15T15:05:13.318863+00:00",
+        "publisher": "人民邮电出版社",
+        "subject": [
+          "微服务",
+          "架构",
+          "软件架构",
+          "计算机",
+          "软件工程",
+          "编程",
+          "互联网",
+          "技术"
+        ],
+        "description": "本书全面介绍了微服务的建模、集成、测试、部署和监控，通过一个虚构的公司讲解了如何建立微服务架构。主要内容包括认识微服务在保证系统设计与组织目标统一上的重要性，学会把服务集成到已有系统中，采用递增手段拆分单块大型应用，通过持续集成部署微服务，等等。",
+        "language": "zh-CN",
+        "type": "epub",
+        "sha_256": "cc26af5862efa017cb665f39b63ca820162043174077c1e10ff413f6849ff4e7"
+      }
+    },
+    "name": "软件工程"
+  },
+  {
+    "dir_name": "health",
+    "books": {
+      "爱上跑步的13周.epub": {
+        "title": "爱上跑步的13周",
+        "creator": [
+          "伊恩·麦克尼尔",
+          "加拿大不列颠哥伦比亚运动医学理事会"
+        ],
+        "publisher": "南海出版公司",
+        "description": "★让从不跑步的人迈开双腿，从本书开始跑过一生！\n★坚持跑步的第一步：爱上跑步。\n★在一呼一吸中，感受最纯粹的自我。\n在爱上跑步的13周里，通过13周跑步行走计划，读者可以连续跑10公里而不受伤。\n除了计划，本书还向读者介绍了跑步前的准备工作、跑步心理、跑步营养学、受伤后的恢复方法、准备10公里赛事等方面的知识。\n本书内容涵盖跑步的方方面面，可以解答跑步初学者可能会出现的种种问题。\n本书告诉读者：在人生道路上，每个人也都是一名跑步者。",
+        "date": "2014-01-15T09:34:08.748807+00:00",
+        "contributor": "calibre (3.7.0) [https://calibre-ebook.com]",
+        "identifier": {
+          "uuid": "d0855b8d-bab0-4939-a6f3-7b3acebb0d8c",
+          "calibre": "d0855b8d-bab0-4939-a6f3-7b3acebb0d8c",
+          "DOUBAN": "25750714",
+          "MOBI-ASIN": "daf5174a-60b4-449f-b1c8-6ce3520fd7ce",
+          "ISBN": "9787544267663"
+        },
+        "subject": [
+          "跑步",
+          "运动",
+          "健康",
+          "健身",
+          "爱上跑步的13周",
+          "生活",
+          "个人管理",
+          "加拿大"
+        ],
+        "language": "zh",
+        "type": "epub",
+        "sha_256": "68119316164c75ab48645a890fc1115cb5c993e87a5b4147274a9cb5d89ca196"
+      }
+    },
+    "name": "健康"
+  },
+  {
+    "dir_name": "java",
+    "books": {
+      "两周自制脚本语言.pdf": {
+        "author": "（日）千叶滋著",
+        "creation_date": "D:20150308103605+08'00'",
+        "creator": "Pdg2Pic",
+        "mod_date": "D:20170608060438+08'00'",
+        "producer": "Freepic2Pdf_Lib - V3.02",
+        "subject": "（日）千叶滋著.两周自制脚本语言.北京：人民邮电出版社,2014.06.",
+        "title": "两周自制脚本语言",
+        "type": "pdf",
+        "sha_256": "90ab81973e8cef423f11524ebc1c77eb9049c557745c47993db279e189e51fae"
+      },
+      "疯狂Java讲义-第3版.pdf": {
+        "author": "李刚",
+        "creation_date": "D:20150227195041+08'00'",
+        "mod_date": "D:20150520105104+08'00'",
+        "producer": "Freepic2Pdf_Lib - V2.19",
+        "subject": "李刚.疯狂Java讲义  第3版.北京：电子工业出版社,2014.07.",
+        "title": "疯狂Java讲义  第3版",
+        "keywords": "",
+        "creator": "",
+        "type": "pdf",
+        "sha_256": "e680864e01bc79cc0d353f1769e222fd85387ca044c86d932e3b54e459d58836"
+      },
+      "gradle用户手册.epub": {
+        "language": "zh",
+        "identifier": {
+          "uuid": "ff3b5793-06ca-4931-95d8-127e981d2633"
+        },
+        "contributor": "GitBook",
+        "title": "Gradle User Guide 中文版",
+        "creator": "DONG",
+        "description": "Gradle User Guide 中文版",
+        "publisher": "GitBook",
+        "type": "epub",
+        "sha_256": "2c947bbf2f8e8c57e40ca062b2855b76e99b9c597736102e5b0efcafbc410dc0"
+      },
+      "深入理解Java虚拟机(第2版).epub": {
+        "language": "zh",
+        "creator": "周志明",
+        "title": "深入理解Java虚拟机：JVM高级特性与最佳实践（第2版）",
+        "date": "2013-05-29T16:00:00+00:00",
+        "contributor": "calibre (3.7.0) [https://calibre-ebook.com]",
+        "identifier": {
+          "MOBI-ASIN": "225f2283-eb18-4cd8-85f3-b60dc73b99e6",
+          "uuid": "d57b2e5f-6471-4e05-a42c-fb71cdef1840",
+          "calibre": "d57b2e5f-6471-4e05-a42c-fb71cdef1840"
+        },
+        "type": "epub",
+        "sha_256": "1d0e92dbb46e700101d9bfb558bf10ddf73584a7cf50c0681390e9ba9df17129"
+      }
+    },
+    "name": "Java"
+  },
+  {
+    "dir_name": "javascript",
+    "books": {
+      "锋利的jQuery.epub": {
+        "publisher": "人民邮电出版社",
+        "description": "《锋利的jQuery(第2版)》循序渐进地对jQuery的各种函数和方法调用进行了介绍，读者可以系统地掌握jQuery的选择器、DOM操作、事件和动画、AJAX应用、插件、jQuery Mobile、jQuery各个版本变化、jQuery性能优化和技巧等知识点，并结合每个章节后面的案例演示进行练习，达到掌握核心知识点的目的。\n为使读者更好地进行开发实践，《锋利的jQuery(第2版)》的第8章将前7章讲解的知识点和效果进行了整合，打造出一个非常有个性的网站，并从案例研究、网站材料、网站结构、网站样式和网站脚本等方面指导读者参与到项目建设中来。",
+        "language": "zh",
+        "creator": "单东林",
+        "title": "锋利的jQuery",
+        "date": "2012-07-01T14:48:27.137728+00:00",
+        "contributor": "calibre (3.7.0) [https://calibre-ebook.com]",
+        "identifier": {
+          "ISBN": "9787115281609",
+          "DOUBAN": "10792216",
+          "uuid": "922ab352-a1e4-4902-8fc1-1fbe92a8f205",
+          "calibre": "922ab352-a1e4-4902-8fc1-1fbe92a8f205"
+        },
+        "subject": [
+          "jQuery",
+          "前端开发",
+          "JavaScript",
+          "Web开发",
+          "前端",
+          "编程",
+          "锋利的jQuery",
+          "计算机"
+        ],
+        "type": "epub",
+        "sha_256": "8bc4e4e80bc58554477d8e1d091a70be6a5e503c99c9f11f71f1e933bcfa2390"
+      },
+      "前端工程师手册.epub": {
+        "publisher": "GitBook",
+        "creator": "Leo Hui",
+        "contributor": "GitBook",
+        "title": "前端工程师手册",
+        "language": "zh",
+        "description": "都是一些自己的收藏和记录。",
+        "identifier": {
+          "uuid": "6a1c45fe-fd7c-45ae-a2a0-d21663ff58b4"
+        },
+        "type": "epub",
+        "sha_256": "bf75fd0f35b9eb072a9b1cb7276d47b4435904692c9c42ed2e8ab1ce63d31a22"
+      },
+      "数据结构与算法JavaScript描述.epub": {
+        "title": "数据结构与算法JavaScript描述",
+        "creator": "[美]Michael McMillan",
+        "publisher": "人民邮电出版社",
+        "rights": "Copyright © 2014 人民邮电出版社",
+        "description": "通过本书的学习，读者将能自如地选择最合适的数据结构与算法，并在JavaScript开发中懂得权衡使用。此外，本书也概述了与数据结构与算法相关的JavaScript特性。\n本书主要内容如下。\n数组和列表：最常用的数据结构。\n栈和队列：与列表类似但更复杂的数据结构。\n链表：如何通过它们克服数组的不足。\n字典：将数据以键-值对的形式存储。\n散列：适用于快速查找和检索。\n集合：适用于存储只出现一次的元素。\n二叉树：以层级的形式存储数据。\n图和图算法：网络建模的理想选择。\n算法：包括排序或搜索数据的算法。\n高级算法：动态规划和贪心算法。",
+        "date": "2014-08-15T14:21:27.650183+00:00",
+        "contributor": "calibre (3.7.0) [https://calibre-ebook.com]",
+        "identifier": {
+          "uuid": "23069f7f-7ef4-4c36-8f72-2f328579ab8a",
+          "calibre": "23069f7f-7ef4-4c36-8f72-2f328579ab8a",
+          "DOUBAN": "25945449",
+          "ISBN": "9787115363398",
+          "MOBI-ASIN": "B0153173KK"
+        },
+        "subject": [
+          "JavaScript",
+          "算法",
+          "Web前端",
+          "数据结构",
+          "前端",
+          "编程",
+          "计算机",
+          "Web"
+        ],
+        "language": "zh",
+        "type": "epub",
+        "sha_256": "6175e8f3ff78363a36f85ec023434ea5d61bfc5fcba9ec65da035f6b6afce08e"
+      },
+      "javascript-start-es6-promise.epub": {
+        "creator": "Eddy Chang",
+        "contributor": "GitBook",
+        "language": "zh",
+        "title": "從Promise開始的JavaScript異步生活",
+        "description": "學習如何使用ES6 Promise，應用異步執行流程在你的JavaScript程式中。",
+        "identifier": {
+          "uuid": "a1ccf1dd-f071-4d25-8941-4b60e19c94c8"
+        },
+        "publisher": "GitBook",
+        "type": "epub",
+        "sha_256": "df4a4bf5fa3d831d457478e1ae80041a7219fe3b0898b21c89c5804ca0a7cb08"
+      },
+      "深入浅出Node.js.epub": {
+        "identifier": {
+          "uuid": "88cc9269-30ed-40ac-9c1b-ba27389942eb",
+          "ISBN": "9787115335500",
+          "calibre": "88cc9269-30ed-40ac-9c1b-ba27389942eb"
+        },
+        "rights": "Copyright © 2014 人民邮电出版社",
+        "contributor": "calibre (2.34.0) [http://calibre-ebook.com]",
+        "creator": "朴灵",
+        "language": "zh",
+        "title": "深入浅出Node.js",
+        "publisher": "人民邮电出版社",
+        "date": "2015-12-04",
+        "type": "epub",
+        "sha_256": "419c31dc049ec9f6bfeedb2c3254ab2bd37e9044cc9034a3c7fb8d24fe36dc7b"
+      },
+      "HTML5权威指南.pdf": {
+        "author": "Html5权威指南 高清中文Pdf扫描版,Www.Linuxidc.Com",
+        "creation_date": "D:20150425163959+08'00'",
+        "creator": "Adobe Acrobat 10.0",
+        "keywords": "Html5权威指南 高清中文Pdf扫描版,Www.Linuxidc.Com",
+        "mod_date": "D:20170927153955+08'00'",
+        "producer": "Adobe Acrobat 10.0 Image Conversion Plug-In",
+        "subject": "Html5权威指南 高清中文Pdf扫描版,Www.Linuxidc.Com",
+        "title": "Html5权威指南 高清中文Pdf扫描版,Www.Linuxidc.Com",
+        "type": "pdf",
+        "sha_256": "474acb193da4423a1e2c8ea63b7f17491393d0eaad49919b6f458edec7a448f8"
+      },
+      "javascript权威指南中文第六版.epub": {
+        "creator": "(美)David Flanagan",
+        "date": "2012-04-24T16:00:00+00:00",
+        "contributor": "calibre (1.48.0) [http://calibre-ebook.com]",
+        "identifier": {
+          "uuid": "def73247-65a0-457e-aa38-421b060785da",
+          "calibre": "def73247-65a0-457e-aa38-421b060785da",
+          "MOBI-ASIN": "B00E593MTS"
+        },
+        "title": "JavaScript权威指南（原书第6版）",
+        "language": "zh",
+        "type": "epub",
+        "sha_256": "05c184cb585c1ce0d610b1ead0be020569d07de22a116769f9a0bc961b1dfcb7"
+      },
+      "JavaScript设计模式与开发实践.pdf": {
+        "creation_date": "D:20150424153600+08'00'",
+        "creator": "Adobe Acrobat Pro 9.0.0",
+        "mod_date": "D:20151230214156+08'00'",
+        "producer": "Adobe Acrobat Pro 9.0.0; Modified Using Itextsharp 5.2.0 (C) 1T3Xt Bvba",
+        "title": "Javascript设计模式与开发实践-扉页",
+        "type": "pdf",
+        "sha_256": "d90207f3a64c1c6411a83068bd3916c1409f574b33596a0cb04407ce354ddfc4"
+      },
+      "javascript-start-from-es6.epub": {
+        "language": "zh",
+        "publisher": "GitBook",
+        "creator": "Eddy Chang",
+        "description": "寫給中文開發者的JavaScript程式語言入門書籍，加入許多ES6新語法與API。",
+        "contributor": "GitBook",
+        "title": "從ES6開始的JavaScript學習生活",
+        "identifier": {
+          "uuid": "5dc337ad-8a20-4669-a510-f776d3b735c7"
+        },
+        "type": "epub",
+        "sha_256": "483f81e05a4a263d4c5438de2e0a681c56ec90ed3ff36f87ad55ed0a90f03ee8"
+      },
+      "Chrome扩展应用开发.epub": {
+        "publisher": "人民邮电出版社",
+        "rights": "Copyright © 2014 人民邮电出版社",
+        "language": "zh",
+        "creator": "Sneezry",
+        "title": "Chrome扩展及应用开发",
+        "date": "2014-09-14T16:00:00+00:00",
+        "contributor": "calibre (3.7.0) [https://calibre-ebook.com]",
+        "identifier": {
+          "uuid": "8f99f4da-c62a-4222-80be-c84738e6cfcb",
+          "calibre": "8f99f4da-c62a-4222-80be-c84738e6cfcb"
+        },
+        "type": "epub",
+        "sha_256": "210f2d1ab9815923ba49825de50b82b90bd10b6aa26d065e41cf613f3e8f5734"
+      },
+      "Web全栈工程师的自我修养.epub": {
+        "publisher": "人民邮电出版社",
+        "description": "全栈工程师正成为 IT 行业的新秀，论是上市互联网公司还是创业公司，都对全栈工程师青睐有加。本书作者是腾讯公司高级工程师，在前端、后端和APP开发方面都有丰富的经验，在本书中分享了全栈工程师的技能要求、核心竞争力、未来发展方向、对移动端的思考。除此之外，本书还详细记录了作者从零开始、学习成长的心路历程。\n本书内容全面，客观务实，适合互联网行业新人、程序员，以及期待技术转型的从业者阅读参考。",
+        "language": "zh",
+        "creator": "余果",
+        "title": "Web全栈工程师的自我修养",
+        "date": "2015-09-01T14:48:29.027764+00:00",
+        "contributor": "calibre (3.7.0) [https://calibre-ebook.com]",
+        "identifier": {
+          "MOBI-ASIN": "2b328169-84b0-41d8-834a-15e36b2180d3",
+          "DOUBAN": "26598045",
+          "ISBN": "9787115399021",
+          "uuid": "e2059cd2-5883-42c1-af2f-71c886496949",
+          "calibre": "e2059cd2-5883-42c1-af2f-71c886496949"
+        },
+        "subject": [
+          "前端开发",
+          "Web",
+          "程序员",
+          "计算机",
+          "编程",
+          "Fullstack",
+          "全栈工程师",
+          "前端"
+        ],
+        "type": "epub",
+        "sha_256": "72d6b08dc14349d16a2addd8c1427ed1082405aca5229c8a05a5b99da578cc4e"
+      },
+      "JS函数式编程-GitBook.epub": {
+        "publisher": "GitBook",
+        "description": "Mostly Adequate Guide 中文版",
+        "language": "zh",
+        "creator": "Linghao Li",
+        "title": "JS函数式编程指南",
+        "date": "2016-09-19T03:35:30.608825+00:00",
+        "contributor": "calibre (3.7.0) [https://calibre-ebook.com]",
+        "identifier": {
+          "MOBI-ASIN": "10a03011-98e4-4309-bac7-30bfe11d4083",
+          "uuid": "eaa623bd-2728-4079-9d64-d5643d21d7f4",
+          "calibre": "eaa623bd-2728-4079-9d64-d5643d21d7f4"
+        },
+        "type": "epub",
+        "sha_256": "13df16668b516947ace5f14a1fb378e2ae21b9b7eeb56c9d9f837499e89fac69"
+      },
+      "你不知道的JavaScript(上卷).epub": {
+        "publisher": "人民邮电出版社",
+        "description": "JavaScript语言有很多复杂的概念，但却用简单的方式体现出来（比如回调函数），因此，JavaScript开发者无需理解语言内部的原理，就能编写出功能全面的程序；就像收音机一样，你无需理解里面的管子和线圈都是做什么用的，只要会操作收音机上的按键，就可以收听你喜欢的节目。然而，JavaScript的这些复杂精妙的概念才是语言的精髓，即使是经验丰富的JavaScript开发者，如果没有认真学习也无法真正理解语言本身的特性。正是因为绝大多数人不求甚解，一遇到出乎意料的行为就认为是语言本身有缺陷，进而把相关的特性加入黑名单，久而久之就排除了这门语言的多样性，人为地使它变得不完整、不安全。\n“你不知道的JavaScript”系列就是要让不求甚解的JavaScript开发者迎难而上，深入语言内部，弄清楚JavaScript每一个零部件的用途。本书介绍了该系列的两个主题：“作用域和闭包”以及“this和对象原型”。掌握了这些知识之后，无论什么技术、框架和流行词语，你都能轻松理解。",
+        "language": "zh",
+        "creator": "Kyle Simpson、赵望野、梁杰",
+        "title": "你不知道的JavaScript（上卷）",
+        "date": "2015-04-15T15:01:51.207867+00:00",
+        "contributor": "calibre (3.7.0) [https://calibre-ebook.com]",
+        "identifier": {
+          "MOBI-ASIN": "ddae4f78-9699-401b-ad82-ce3e7c54dee7",
+          "DOUBAN": "26351021",
+          "ISBN": "9787115385734",
+          "uuid": "4dacc81d-1906-4f3a-a8b3-ef019945cd88",
+          "calibre": "4dacc81d-1906-4f3a-a8b3-ef019945cd88"
+        },
+        "subject": [
+          "JavaScript",
+          "前端开发",
+          "编程",
+          "前端",
+          "计算机",
+          "Web",
+          "Web前端开发"
+        ],
+        "type": "epub",
+        "sha_256": "d2864d7545a251e9475fc1db90266ae8143413bc5b602bd8e132a25d2acbc723"
+      }
+    },
+    "name": "JavaScript"
+  },
+  {
+    "dir_name": "protocol",
+    "books": {
+      "Lighttpd源码分析.epub": {
+        "contributor": "calibre (2.60.0) [https://calibre-ebook.com]",
+        "title": "Lighttpd源码分析",
+        "date": "2010-03-16T16:00:00+00:00",
+        "identifier": {
+          "MOBI-ASIN": "e2be1f81-11a6-4d95-ba7c-c3d682373bb2",
+          "uuid": "e2be1f81-11a6-4d95-ba7c-c3d682373bb2",
+          "calibre": "e2be1f81-11a6-4d95-ba7c-c3d682373bb2"
+        },
+        "creator": "高群凯",
+        "language": "zh",
+        "type": "epub",
+        "sha_256": "4fcd438f3f2b083475002a63089eb152d324262411d73586ae08df5833eebe08"
+      },
+      "编译原理-第二版.pdf": {
+        "author": "Alfred V.Aho,Monica S.Lam,Ravi Sethi,Jeffrey D.Ullman",
+        "creation_date": "D:20091009143620+08'00'",
+        "creator": "Calibre (3.6.0) [Https://Calibre-Ebook.Com]",
+        "keywords": "编译原理, 计算机, 计算机科学, Cs, 教科书, 教材",
+        "mod_date": "D:20170814011914+08'00'",
+        "producer": "Pdf-Xchange Viewer [Version: 2.0 (Build 47.0) (Feb 17 2010; 18:30:51)]",
+        "title": "编译原理",
+        "type": "pdf",
+        "sha_256": "425417cf5761ff5acba492753adb1001da330039689686f471ba9892c78f42df"
+      },
+      "Http权威指南.epub": {
+        "publisher": "人民邮电出版社",
+        "description": "超文本转移协议（Hypertext Transfer Protocol，HTTP）是在万维网上进行通信时所使用的协议方案。HTTP有很多应用，但最著名的是用于web浏览器和web服务器之间的双工通信。\nHTTP起初是一个简单的协议，因此你可能会认为关于这个协议没有太多好 说的。但现在，你手上拿着的是却一本两磅重 的书。如果你对我们怎么会写出一本650页 的关于HTTP的书感到奇怪的话，可以去看一下目录。本书不仅仅是一本HTTP首部的参考手册；它是一本名副其实的web结构圣经。\n本书中，我们尝试着将HTTP中一些互相关联且常被误解的规则梳理清楚，并编写了一系列基于各种主题的章节，对HTTP各方面的特性进行了介绍。纵观全书，我们对HTTP“为什么”这样做进行了详细的解释，而不仅仅停留在它是“怎么做”的。而且，为了节省大家寻找参考文献的时间，我们还对很多HTTP应用程序正常工作所必须的、重要的非HTTP技术进行了介绍。在组织得便于使用的附录中，可以找到按照字母排序的首部参考（这些首部构成了最常见的HTTP文本的基础）。我们希望这种概念性的设计有助于读者对HTTP的使用。\n本书是为所有希望理解HTTP以及Web底层结构的人编写的。软硬件工程师也可以将本书作为HTTP及相关web技术的条理清楚的参考书使用。系统架构师和网络管理员可以通过本书更好地了解如何设计、实现并管理复杂的网络架构。性能工程师和分析人员可以从高速缓存和性能优化的相关章节中获益。市场营销和咨询专家可以通过概念的介绍更好地理解web技术的前景。\n本书对一些常见的误解进行了说明，推荐了“各种使用诀窍”，提供了便捷的参考资料，并且对枯燥且令人费解的标准规范进行了可读性很强的介绍。在这本书里，我们对Web正常工作所必须且互相关联的技术进行了详细的介绍。\n本书是很多对因特网技术充满热情的人经过大量工作写成的。希望对你有所帮助。",
+        "language": "zh",
+        "creator": "[美]David Gourley Brian Totty Marjorie Sayer Sailu Reddy Aushu Aggarwal",
+        "title": "Http权威指南",
+        "date": "2012-09-15T14:48:34.582026+00:00",
+        "contributor": "calibre (3.7.0) [https://calibre-ebook.com]",
+        "identifier": {
+          "ISBN": "9787115281487",
+          "MOBI-ASIN": "YXXIXMUSN3JVXGKDAFY52THWDNV3WMF3",
+          "DOUBAN": "10746113",
+          "uuid": "fb33a778-bf67-4444-b261-e99a32c662ed",
+          "calibre": "fb33a778-bf67-4444-b261-e99a32c662ed"
+        },
+        "subject": [
+          "Http",
+          "网络",
+          "计算机",
+          "互联网",
+          "协议",
+          "Web开发",
+          "基础理论",
+          "编程"
+        ],
+        "type": "epub",
+        "sha_256": "396a1846b8160d01ba8320a53ea2aabf8f6a0f2359b9c1aaa87e750b5f1cc2e7"
+      }
+    },
+    "name": "协议"
+  },
+  {
+    "dir_name": "python",
+    "books": {
+      "Python_Cookbook-第三版 Jones.epub": {
+        "publisher": "人民邮电出版社",
+        "description": "《Python Cookbook（第3版）中文版》介绍了Python应用在各个领域中的一些使用技巧和方法，其主题涵盖了数据结构和算法，字符串和文本，数字、日期和时间，迭代器和生成器，文件和I/O，数据编码与处理，函数，类与对象，元编程，模块和包，网络和Web编程，并发，实用脚本和系统管理，测试、调试以及异常，C语言扩展等。\n本书覆盖了Python应用中的很多常见问题，并提出了通用的解决方案。书中包含了大量实用的编程技巧和示例代码，并在Python 3.3环境下进行了测试，可以很方便地应用到实际项目中去。此外，《Python Cookbook（第3版）中文版》还详细讲解了解决方案是如何工作的，以及为什么能够工作。\n《Python Cookbook（第3版）中文版》非常适合具有一定编程基础的Python程序员阅读参考。",
+        "language": "en",
+        "creator": "David M. Beazley / Brian K. Jones",
+        "title": "Python Cookbook 中文版，第 3 版",
+        "date": "2015-05-01T02:03:17.644061+00:00",
+        "contributor": "calibre (3.7.0) [https://calibre-ebook.com]",
+        "identifier": {
+          "DOUBAN": "26381341",
+          "ISBN": "9787115379597",
+          "uuid": "cc849a56-eedc-426f-9ed1-a1d476159b71",
+          "calibre": "cc849a56-eedc-426f-9ed1-a1d476159b71"
+        },
+        "subject": [
+          "计算机",
+          "Python",
+          "代码",
+          "编程",
+          "技术",
+          "Python3 CookBook中文版",
+          "Cookbook",
+          "O'Reilly"
+        ],
+        "type": "epub",
+        "sha_256": "67f1d371b51585ebaac78f18c67351dbc1f6dfeabbfd743a125bfeb13a96c485"
+      },
+      "《Python Cookbook》第三版中文v2.0.0.pdf": {
+        "creator": "Latex With Hyperref Package",
+        "producer": "Xdvipdfmx (0.7.8)",
+        "creation_date": "D:20160401103437+08'00'",
+        "type": "pdf",
+        "sha_256": "682209267f55b840d75a7fb74da74e93bfb0ac4e800f96ad88370d524f160105"
+      },
+      "编写高质量的代码:改善Python程序的91个建议.epub": {
+        "publisher": "机械工业出版社",
+        "description": "在通往“Python技术殿堂”的路上，本书将为你编写健壮、优雅、高质量的Python代码提供切实帮助！内容全部由Python编码的最佳实践组成，从基本原则、惯用法、语法、库、设计模式、内部机制、开发工具和性能优化8个方面深入探讨了编写高质量Python代码的技巧与禁忌，一共总结出91条宝贵的建议。每条建议对应Python程序员可能会遇到的一个问题。本书不仅以建议的方式从正反两方面给出了被实践证明为十分优秀的解决方案或非常糟糕的解决方案，而且分析了问题产生的根源，会使人有一种醍醐灌顶的感觉，豁然开朗。\n《编写高质量代码：改善Python程序的91个建议》针对每个问题所选择的应用场景都非常典型，给出的建议也都与实践紧密结合。书中的每一条建议都可能在你的下一行代码、下一个应用或下一个项目中显露锋芒。建议你将本书搁置在手边，随时查阅，相信这么做一定能使你的学习和开发工作事半功倍。",
+        "language": "zh",
+        "creator": "张颖 赖勇浩 著",
+        "title": "编写高质量代码：改善Python程序的91个建议",
+        "date": "2014-06-15T06:40:56.133665+00:00",
+        "contributor": "calibre (3.7.0) [https://calibre-ebook.com]",
+        "identifier": {
+          "MOBI-ASIN": "B00LFJELSM",
+          "DOUBAN": "25910544",
+          "ISBN": "9787111467045",
+          "uuid": "15de3077-040c-4f57-bd27-4fdc775bd6ac",
+          "calibre": "15de3077-040c-4f57-bd27-4fdc775bd6ac"
+        },
+        "subject": [
+          "Python",
+          "编程",
+          "计算机",
+          "程序设计",
+          "Programming",
+          "编程语言",
+          "软件工程"
+        ],
+        "type": "epub",
+        "sha_256": "4eaf157d1cc081f997be222fe0289628de42c033adde2e05b5c2f0e1e2c173b4"
+      },
+      "《Python编程实战：运用设计模式、冰法和程序库创建高质量程序》迷你书.pdf": {
+        "creation_date": "D:20140724150355+08'00'",
+        "creator": "Adobe Indesign Cs6 (Windows)",
+        "mod_date": "D:20140827143839+08'00'",
+        "producer": "Adobe Pdf Library 10.0.1",
+        "type": "pdf",
+        "sha_256": "9d75c34089bcfbd57948a9ccf3b80dfb727a3b959c57e3621816fba995a3121e"
+      },
+      "Python核心编程（中文第二版）带目录.pdf": {
+        "keywords": "",
+        "subject": "",
+        "title": "",
+        "creator": "",
+        "author": "",
+        "producer": "Www.Adultpdf.Com",
+        "mod_date": "D:20080729003532+08'00'",
+        "type": "pdf",
+        "sha_256": "1c8ea09c04f546a8a671dafe56dccad86ee9914c4f84d75e33a2f3ee391b20f6"
+      },
+      "violent-python.epub": {
+        "contributor": "GitBook",
+        "description": "连载介绍信息: zone.wooyun.org/content/23138",
+        "language": "zh",
+        "identifier": {
+          "uuid": "bbc13614-2b30-44d0-a30c-4079fd0082df"
+        },
+        "title": "Violent Python 中文版",
+        "creator": "wizardforcel",
+        "publisher": "GitBook",
+        "type": "epub",
+        "sha_256": "b44a9aa7cdcf84a400571daaf88e7f32e103170395ff40e5be69a2bc6e54ca2b"
+      },
+      "Python高级编程.pdf": {
+        "creation_date": "D:20110331085037+08'00'",
+        "creator": "Unknownapplication",
+        "mod_date": "D:20110416141344+08'00'",
+        "producer": "Bullzip Pdf Printer / Www.Bullzip.Com / Freeware Edition",
+        "title": "",
+        "type": "pdf",
+        "sha_256": "868b8d165e79d0fc056ce0912d513bc802f50e143b626dec20cb1e0c3bc0bfdc"
+      },
+      "流畅的Python.epub": {
+        "title": "流畅的Python",
+        "creator": "[巴西] Luciano Ramalho",
+        "publisher": "人民邮电出版社",
+        "rights": "Copyright © 2017 人民邮电出版社",
+        "date": "2017-08-14T16:00:00+00:00",
+        "contributor": "calibre (3.5.0) [https://calibre-ebook.com]",
+        "identifier": {
+          "uuid": "4a3bcce8-837d-45a6-808d-5681efb5af5a",
+          "calibre": "4a3bcce8-837d-45a6-808d-5681efb5af5a",
+          "ISBN": "9787115454157"
+        },
+        "language": "zh",
+        "type": "epub",
+        "sha_256": "f21df558d1b1a889586bd5bf80982e9f3393fd47612887f1509be4d59732b764"
+      },
+      "Python源码剖析.pdf": {
+        "creation_date": "D:20090419185401",
+        "mod_date": "D:20090419185401",
+        "producer": "Freepic2Pdf - 1.07",
+        "author": "陈儒著\u0000",
+        "title": "Python源码剖析：深度探索动态语言核心技术\u0000",
+        "type": "pdf",
+        "sha_256": "0751ef0ff19a4a5a1840ef44b39c9a2c356dab83c5cf8cebedc85b36801e9414"
+      },
+      "Python核心编程.epub": {
+        "description": "作者：Wesley J. Chun（陳仲才）",
+        "creator": "wizardforcel",
+        "contributor": "GitBook",
+        "publisher": "GitBook",
+        "language": "zh",
+        "title": "Python 核心编程 第二版",
+        "identifier": {
+          "uuid": "18928d50-63e2-4a4a-a1ef-5dd8ac14a98b"
+        },
+        "type": "epub",
+        "sha_256": "b043b3dbfce24e1a395c89b86484c37996cc67a75b7b6768aeea765726c57943"
+      }
+    },
+    "name": "Python"
+  },
+  {
+    "dir_name": "safety",
+    "books": {
+      "blockchain_guide.epub": {
+        "description": "A book to introduce blockchain technologies, including the key techniques, algorithms, usage scenarios, and projects.",
+        "identifier": {
+          "uuid": "8dd343f9-5d16-417a-923e-530f2ccb1177"
+        },
+        "publisher": "GitBook",
+        "contributor": "GitBook",
+        "title": "区块链技术指南",
+        "language": "zh",
+        "creator": "yeasy",
+        "type": "epub",
+        "sha_256": "e074ed66981f3776e7f7e60d71f2b18bea4a2273fbd5fae67f354cbaa14e886c"
+      },
+      "解密与加密(第3版).epub": {
+        "language": "zh",
+        "creator": "段钢",
+        "title": "加密与解密(第3版)",
+        "date": "2013-08-24T16:00:00+00:00",
+        "contributor": "calibre (3.7.0) [https://calibre-ebook.com]",
+        "identifier": {
+          "MOBI-ASIN": "d96460dc-44aa-418c-9471-b6b5016eaacf",
+          "uuid": "5ee84d0c-680a-44c4-aa30-19be7cfa77d7",
+          "calibre": "5ee84d0c-680a-44c4-aa30-19be7cfa77d7"
+        },
+        "type": "epub",
+        "sha_256": "e04a11fd723f2bb9bb42bef006115ebf5a30a26b6f4642eacf00d9f863cbf6cc"
+      }
+    },
+    "name": "安全"
+  },
+  {
+    "dir_name": "tools",
+    "books": {
+      "use-vim-as-ide.epub": {
+        "publisher": "GitBook",
+        "creator": "wizardforcel",
+        "contributor": "GitBook",
+        "description": "yangyangwithgnu@yeah.net2016-03-30 16:39:33",
+        "language": "zh",
+        "title": "像 IDE 一样使用 vim",
+        "identifier": {
+          "uuid": "d5e70717-6cb7-4a1f-89ca-f72c6067a75b"
+        },
+        "type": "epub",
+        "sha_256": "9ab17fe27d4b0f051bc109273801fe25964b064b72bb588aae7b0faa4b95806d"
+      }
+    },
+    "name": "工具"
+  }
+]

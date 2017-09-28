@@ -5,12 +5,56 @@ import os
 import sys
 import json
 import hashlib
+from urllib import parse
 from ebooklib import epub
 from PyPDF2 import PdfFileReader
 from PyPDF2.generic import IndirectObject, TextStringObject
 
-def main(option):
+try:
+    reload(sys)
+    sys.setdefaultencoding('utf-8')
+except:
+    pass
+
+def build_markdown(options):
     """
+    通过元数据生成markdown
+    """
+    meta_dict = {
+        'subject': "标签",
+        'publisher': "出版社",
+        'description': "简介",
+        'language': "国家语言",
+        'creator': "创建人",
+        'date': "出版时间",
+        'contributor': "创建工具",
+        'identifier': "书号",
+        'type': "文件类型",
+        'creation_date': "创建时间",
+        'mod_date': "修改时间",
+        'producer': "制作人"
+    }
+    metas = read_old_meta()
+    buffer = []
+    buffer.append('# TOC')
+    for book_type in metas:
+        buffer.append('## %s' % (book_type['dir_name']))
+        buffer.append('> [📚%s](%s)' % (book_type['name'], book_type['dir_name']))
+        for book_name, book in book_type['books'].items():
+            title = book['title'] if 'title' in book and book['title'].strip() != '' else book_name
+            buffer.append('### %s' % title)
+            buffer.append('[📖%s](%s)' % (title, book_type['dir_name'] + '/' + parse.quote(book_name)))
+            for key, item in book.items():
+                if key in meta_dict:
+                    buffer.append('- %s: %s' % (meta_dict[key], item))
+
+    with open('TOC.md', 'w') as fd:
+        fd.write("\n".join(buffer))
+        
+
+def build_metas(options):
+    """
+    读取所有数据的元数据
     """
     metas = read_old_meta()
     for dir_meta in metas:
@@ -27,40 +71,32 @@ def main(option):
                 # hash_str = subprocess.check_output(['sha256sum', file_name])
                 # hash_sum = hash_str.decode().split(" ")[0]
                 hash_sum = file_sha256(file_name)
-                if '-f' not in option and old_books and f in old_books and old_books[f]['sha_256'] == hash_sum:
+                if '-f' not in options and old_books and f in old_books and old_books[f]['sha_256'] == hash_sum:
                     meta = old_books[f]
-                    print("--read meta miss: " + f)
+                    print("|--read meta miss: " + f)
                 elif f.endswith('.pdf'):
-                    print("--read meta: " + f)
+                    print("|--read meta: " + f)
                     meta = read_meta_pdf(file_name)
-
+                    meta['type'] = 'pdf'
                 elif f.endswith('.epub'):
-                    print("--read meta: " + f)
+                    print("|--read meta: " + f)
                     meta = read_meta_epub(file_name)
-                meta['sha_256'] = hash_sum
-                books[f] = meta
+                    meta['type'] = 'epub'
+                else:
+                    meta = None
+                if meta:
+                    meta['sha_256'] = hash_sum
+                    books[f] = meta
         dir_meta['books'] = books
     save_old_meta(metas)
 
     print("------complete------")
-    # metas = []
-    # for fd in tree_dir("."):
-    #     print(fd)
-    #     hash_str = subprocess.check_output(['sha512sum', fd])
-    #     hash_sum = hash_str.decode().split(" ")[0]
-    #     if fd.endswith('.pdf'):
-    #         try:
-    #             meta = read_meta_pdf(fd)
-    #         except:
-    #             meta = {}
-    #         meta['SHA512'] = hash_sum
-    #         meta['FILE'] = fd
-    #     elif fd.endswith('.epub'):
-    #         meta = read_meta_epub(fd)
-    #     meta['SHA512'] = hash_sum
-    #     meta['FILE'] = fd
-    #     metas.append(meta)
-    # print(metas)
+
+def main(options):
+    if '-m' in options:
+        build_metas(options)
+    else:
+        build_markdown(options)
 
 def read_meta_pdf(pdf_name):
     with open(pdf_name, 'rb') as fd:
@@ -102,7 +138,7 @@ def save_old_meta(data):
     读取旧的meta数据
     """
     with open("meta.json", "w") as fd:
-        json.dump(data, fd)
+        json.dump(data, fd, ensure_ascii=False, indent="  ")
 
 def read_meta_epub(epub_name):
     doc = epub.read_epub(epub_name)
@@ -122,18 +158,8 @@ def read_meta_epub(epub_name):
                 doc[key] = [value[0] for value in val if len(value) > 0]
     return doc
 
-def tree_dir(dir_name, level=0):
-    dir_list = os.listdir(dir_name)
-    for f in dir_list:
-        if os.path.isdir(f):
-            for ff in tree_dir(f, level + 1):
-                yield os.path.join(dir_name, ff)
-        elif f.endswith(('.pdf', '.epub')):
-            yield os.path.join(dir_name, f)
-
-
 if __name__ == "__main__":
-    option = set(sys.argv[1:])
-    main(option)
+    options = set(sys.argv[1:])
+    main(options)
     #read_meta_pdf("android/Android高薪之路：Android程序员面试宝典.pdf")
 
