@@ -16,6 +16,10 @@ try:
 except:
     pass
 
+CALIBRE_META = 'http://calibre.kovidgoyal.net/2009/metadata'
+ELEMENTS_META = 'http://purl.org/dc/elements/1.1/'
+DOC_KEY = '{http://www.idpf.org/2007/opf}scheme'
+
 def build_markdown(options):
     """
     通过元数据生成markdown
@@ -32,7 +36,8 @@ def build_markdown(options):
         'type': "文件类型",
         'creation_date': "创建时间",
         'mod_date': "修改时间",
-        'producer': "制作人　"
+        'producer': "制作人　",
+        'rating': "评分　　"
     }
     metas = read_old_meta()
     buffer = []
@@ -61,6 +66,7 @@ def build_metas(options):
     读取所有数据的元数据
     """
     metas = read_old_meta()
+    tocs = []
     for dir_meta in metas:
         dir_name = dir_meta['dir_name']
         print("reads: " + dir_name)
@@ -99,6 +105,9 @@ def build_metas(options):
 def main(options):
     if '-m' in options:
         build_metas(options)
+    elif '-a':
+        build_metas(options)
+        build_markdown(options)
     else:
         build_markdown(options)
 
@@ -146,24 +155,31 @@ def save_old_meta(data):
 
 def read_meta_epub(epub_name):
     doc = epub.read_epub(epub_name)
-    doc = doc.metadata['http://purl.org/dc/elements/1.1/']
-    DOC_KEY = '{http://www.idpf.org/2007/opf}scheme'
-    for key, val in doc.items():
+    # print('-------', doc)
+    meta = {}
+
+    if CALIBRE_META in doc.metadata:
+        calibre_metadata = doc.metadata[CALIBRE_META]
+        for key, item in calibre_metadata.items():
+            meta[key] = item[0][1]['content']
+    elements_meta = doc.metadata[ELEMENTS_META]
+    for key, val in elements_meta.items():
         if 'identifier' == key:
             identifier = {}
             for iden in val:
                 iden_key = DOC_KEY if DOC_KEY in iden[1] else 'id'
                 identifier[iden[1][iden_key]] = iden[0]
-            doc[key] = identifier
+            meta[key] = identifier
         else:
             if len(val) == 1:
-                doc[key] = val[0][0]
+                meta[key] = val[0][0]
             else:
-                doc[key] = [value[0] for value in val if len(value) > 0]
-    return doc
+                meta[key] = [value[0] for value in val if len(value) > 0]
+    return meta
 
 if __name__ == "__main__":
     options = set(sys.argv[1:])
     main(options)
+    # read_meta_epub('c/算法精解-c语言描述.epub')
     #read_meta_pdf("android/Android高薪之路：Android程序员面试宝典.pdf")
 

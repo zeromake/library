@@ -37,6 +37,8 @@
     "dir_name": "android",
     "books": {
       "Android研发工程师高级进阶.epub": {
+        "title_sort": "更上一层楼－Android研发工程师高级进阶",
+        "timestamp": "2017-08-29T14:34:52.974955+00:00",
         "publisher": "GitBook",
         "description": "原文链接：http://www.bignerdranch.com/blog/what-is-functional-reactive-programming/",
         "language": "zh",
@@ -53,6 +55,8 @@
         "sha_256": "8a61158889a94d3c98249f5cc349ae0d43b95f90d59f9bc73a467a60facfee48"
       },
       "深入理解Android卷II.epub": {
+        "title_sort": "深入理解Android:卷II",
+        "timestamp": "2015-06-30T03:47:42.264000+00:00",
         "publisher": "机械工业出版社",
         "contributor": "calibre (2.16.0) [http://calibre-ebook.com]",
         "identifier": {
@@ -77,6 +81,8 @@
         "sha_256": "6880a693734ebd927be1519b6f9f7e3d12369d122aa5069e6cf4e97473019fa4"
       },
       "深入理解Android卷I.epub": {
+        "timestamp": "2015-06-30T03:41:30.578000+00:00",
+        "title_sort": "深入理解Android：卷I",
         "language": "zh",
         "contributor": "calibre (2.16.0) [http://calibre-ebook.com]",
         "date": "2011-09-07T16:00:00+00:00",
@@ -97,6 +103,9 @@
     "dir_name": "c",
     "books": {
       "算法精解-c语言描述.epub": {
+        "title_sort": "算法精解",
+        "rating": "8.00",
+        "timestamp": "2017-08-29T15:01:14.309110+00:00",
         "publisher": "机械工业出版社",
         "description": "本书是数据结构和算法领域的经典之作，十余年来，畅销不衰！全书共分为三部分：第一部分首先介绍了数据结构和算法的概念，以及使用它们的原因和意义，然后讲解了数据结构和算法中最常用的技术——指针和递归，最后还介绍了算法的分析方法，旨在为读者学习这本书打下坚实的基础；第二部分对链表、栈、队列、集合、哈希表、堆、图等常用数据结构进行了深入阐述；第三部分对排序、搜索数值计算、数据压缩、数据加密、图算法、几何算法等经典算法进行了精辟的分析和讲解。\n本书的众多特色使得它在同类书中独树一帜：具体实现都采用正式的C语言代码而不是伪代码，在很多数据结构和算法的实现过程中，有大量细节问题是伪代码不能解决的；每一章都有精心组织的主题和应用；全部示例来自真实的应用，不只是一般的练习；对每种数据结构、算法和示例都进行了详细分析；每一章的末尾都会有一系列问题和对应的回答，旨在强调这一章的重要思想……\n本书中的代码尤为值得强调：所有实现都采用C语言编写，所有代码都优先用于教学目的，所有代码都在4种平台上经过完整测试，头文件记录了所有公共的接口，命名规则适用于全书所有的代码，所有的代码都包含大量注释……\n本书内容包括：\n· 数据结构和算法的概念，以及使用它们的原因和意义\n· 指针和递归\n· 算法分析\n· 常用数据结构：链表、栈、队列、集合、哈希表、树、堆、优先级队列以及图\n· 排序和搜索\n· 数值计算\n· 数据压缩\n· 数据加密\n· 图算法\n· 几何算法",
         "language": "zh",
@@ -125,6 +134,8 @@
         "sha_256": "750d6c45decfd0e0dca0cc5ded4ff5baafc468cc963513543ec867dfb4f3aa2a"
       },
       "C Primer Plus第五版 中文版.epub": {
+        "title_sort": "C Primer Plus(第5版)中文版",
+        "timestamp": "2014-06-21T14:14:05.046000+00:00",
         "publisher": "人民邮电出版社",
         "language": "zh",
         "creator": "普拉塔 (Prata S.)",
@@ -174,6 +185,9 @@
         "sha_256": "322d5d6f0b48ad11b7b80b3122db78d8a2b3194946ac5766810cf7ac2803287d"
       },
       "C++并发编程实战.epub": {
+        "title_sort": "C++并发编程实战",
+        "rating": "6.00",
+        "timestamp": "2017-08-29T14:35:04.176085+00:00",
         "publisher": "人民邮电出版社",
         "description": "《C++并发编程实战》是一本基于C++11新标准的并发和多线程编程深度指南。内容包括从std::thread、std::mutex、std::future和std::async等基础类的使用，到内存模型和原子操作、基于锁和无锁数据结构的构建，再扩展到并行算法、线程管理，最后还介绍了多线程代码的测试工作。本书的附录部分还对C++11新语言特性中与多线程相关的项目进行了简要的介绍，并提供了C++11线程库的完整参考。\n《C++并发编程实战》适合于需要深入了解C++多线程开发的读者，以及使用C++进行各类软件开发的开发人员、测试人员。对于使用第三方线程库的读者，也可以从本书后面的章节中了解到相关的指引和技巧。同时，本书还可以作为C++11线程库的参考工具书。",
         "language": "zh",
@@ -202,6 +216,8 @@
         "sha_256": "fc9acd2d659a2a9317c042cd3a0f8f59f54d88f5619494f3df04025f59850618"
       },
       "高速上手C++11-14.epub": {
+        "title_sort": "高速上手 C++11/14",
+        "timestamp": "2017-08-29T15:01:14.045509+00:00",
         "publisher": "GitBook",
         "description": "C++11 的出现及C++14 对 C++11的重要补充，让 C++ 这门古老的语言注入了新的活力。如果你还在使用传统 C++，打着 C++ 的名号写出 C 语言代码，请停下来。本教程将带领你快速上手 C++11/14 的重要特性。",
         "language": "zh",
@@ -239,6 +255,9 @@
         "sha_256": "ee145b4c2a62b082868c4c2df8ae980dfda7779bbd9b86868f9ec6b0195fde3c"
       },
       "Linux多线程服务端编程.epub": {
+        "title_sort": "Linux多线程服务端编程",
+        "rating": "8.00",
+        "timestamp": "2017-08-29T14:20:12.730845+00:00",
         "publisher": "电子工业出版社",
         "description": "本书主要讲述采用现代C++ 在x86-64 Linux 上编写多线程TCP 网络服务程序的主流常规技术，重点讲解一种适应性较强的多线程服务器的编程模型，即one loop per thread。这是在Linux 下以native 语言编写用户态高性能网络程序最成熟的模式，掌握之后可顺利地开发各类常见的服务端网络应用程序。本书以muduo 网络库为例，讲解这种编程模型的使用方法及注意事项。\n本书的宗旨是贵精不贵多。掌握两种基本的同步原语就可以满足各种多线程同步的功能需求，还能写出更易用的同步设施。掌握一种进程间通信方式和一种多线程网络编程模型就足以应对日常开发任务，编写运行于公司内网环境的分布式服务统。",
         "language": "zh",
@@ -285,6 +304,9 @@
     "dir_name": "css",
     "books": {
       "响应式Web设计_HTML5和CSS3实战 - Ben Frain.epub": {
+        "title_sort": "响应式Web设计:HTML5和CSS3实战 (图灵程序设计丛书)",
+        "timestamp": "2016-03-09T15:16:56.534000+00:00",
+        "author_link_map": "{\"Ben Frain\": \"\"}",
         "creator": "Ben Frain",
         "publisher": "人民邮电出版社",
         "identifier": {
@@ -320,6 +342,9 @@
         "sha_256": "06f0cde4fd45828d30fe394be85f4177a5f5fb0c1ed56c22f2c831dec4dd8278"
       },
       "CSS权威指南第三版.epub": {
+        "rating": "8.00",
+        "timestamp": "2017-09-27T08:48:48.623423+00:00",
+        "title_sort": "Css权威指南（第三版）",
         "description": "你是否既想获得丰富复杂的网页样式，同时又想节省时间和精力？本书为你展示了如何遵循CSS最新规范（CSS2和CSS2.1）将层叠样式表的方方面面应用于实践。\n通过本书提供的诸多示例，你将了解如何做到仅在一处建立样式表就能创建或修改整个网站的外观，以及如何得到HTML力不能及的更丰富的表现效果。\n资深CSS专家Eric A.Meyer。利用他独有的睿智和丰富的经验对属性、标记、标记属性和实现做了深入的研究，另外在浏览器支持和设计原则等实际问题上也有独到的见解。你所需要的就是HTML 4.0的知识即可以为网站布局和分页创建简明而且易于维护的脚本，同时兼具桌面系统的美观性和可控性。在本书中你将学到以下内容：\n·用多种方式对文本应用样式\n·用户界面、表布局、列表和生成内容\n·浮动和定位的优缺点\n·字体系列和后路\n·框模型的工作原理\n·IE7、Firefox和其他浏览器支持的新CSS3选择器\n最新版《CSS权威指南》一书经过全面更新，涵盖了Internet Explorer 7，详细介绍了各个CSS属性以及属性之间的相互作用，并指导你如何避免一些常见的错误。不论你是一位经验丰富的web创作人员，还是一无所知的新手，都可以把它作为内容翔实的CSS参考资料放在手边。Eric A.Meyer。在HTML、CSS和web标准领域是国际上公认的专家，他从1993年就开始从事web方面的工作。他也是complex spiral consulting公司的奠基人，其客户包括美国在线、苹果计算机公司、富国银行和Macromedia等著名公司。",
         "language": "en",
         "creator": "[美] Eric A.meyer",
@@ -335,6 +360,8 @@
         "sha_256": "b0cac6516ce008845a78e27a024255a4021952c559c39e00b1c15a831ad74651"
       },
       "CSS禅意花园(修订版).epub": {
+        "title_sort": "CSS禅意花园(修订版)",
+        "timestamp": "2015-07-24T06:50:56+00:00",
         "publisher": "人民邮电出版社",
         "language": "zh",
         "title": "CSS禅意花园(修订版)",
@@ -367,6 +394,7 @@
         "sha_256": "8fdeb1399faadcab0ffeee52e09375c973e69332c041f6e89fd5d1015e93d7f8"
       },
       "progit2-gitbook.epub": {
+        "timestamp": "2016-01-06T11:33:17.043941+00:00",
         "contributor": "GitBook",
         "creator": "xbing",
         "publisher": "GitBook",
@@ -386,6 +414,10 @@
     "dir_name": "design",
     "books": {
       "写给大家看的设计书-第四版.epub": {
+        "title_sort": "写给大家看的设计书（第4版）",
+        "rating": "8",
+        "timestamp": "2017-08-28T01:16:15.773626+00:00",
+        "author_link_map": "{\"【美】威廉姆斯（Robbin Williams）\": \"\"}",
         "title": "写给大家看的设计书（第4版）",
         "creator": "【美】威廉姆斯（Robbin Williams）",
         "publisher": "人民邮电出版社",
@@ -419,6 +451,7 @@
     "dir_name": "engineering",
     "books": {
       "程序员的自我修养.epub": {
+        "timestamp": "2016-09-17T13:12:41.573671+00:00",
         "identifier": {
           "uuid": "9e369f33-cffc-4e75-bfe6-df7e1c6ad80e"
         },
@@ -439,6 +472,9 @@
         "sha_256": "49b261cc087960cc500aca13c6df03676217078dc9b8351fc9a164a4753c3068"
       },
       "软件构架师的12项修炼.epub": {
+        "title_sort": "软件架构师的12项修炼",
+        "rating": "8.00",
+        "timestamp": "2017-08-29T15:01:14.482568+00:00",
         "publisher": "机械工业出版社华章公司",
         "description": "每一位软件开发人员都有一个架构师的梦，但为何真正的软件架构师却寥寥无几？软件开发人员更容易在技术上有所积累和突破，但是技术上的精湛并不足以使你成为一位优秀的软件架构师。合格的软件架构师究竟应该具备哪些能力和素养？本书科学而系统地归纳出软件架构师应该具备的完整能力模型，该能力模型呈一金字塔结构，共分为4层：位于最底层的是技术技能，是软件架构师的基石，属于硬技能；从下往上的三层分别是关系技能、个人技能和商务技能，这些都属于软技能。由于硬技能会随着具体技术领域的不同而千差万别，因此本书假定读者已经具备了这方面的技能；但其他3大方面的软技能却在每个技术领域都适用，是每一位软件架构师的必修课，这是本书的核心内容。\n为了便于认知和实践，本书将3大方面的软技能分为12项：关系技能包含文雅的举止（在任何环境下都能与人文雅相处的能力）、沟通（与人有效交互的能力）、协商（将事情办成的能力）、领导力（通过施加影响力将事情办成的能力）和政治（“政治场合”与人交互的能力）等5项；个人技能包含透明化（使自我、团队关系和项目透明化的能力）、激情（激发和保护激情的能力）和语境切换（将注意力迅速切换到新语境并保持专注的能力）等3项；商务技能包括商务知识（读懂商务语言的能力和了解产品与顾客的能力）、创新（如何通过学习和思考来创新的能力）、实用主义（抓住关键问题的能力）、认知（认知目标、战略及合作伙伴的能力）等4项。\n本书不仅帮助软件开发人员系统地学习如何修炼这12项软技能，而且还能让他们进一步理解软件架构师的角色和本质，使他们最终突破技术的“天花板”，成为一名合格的软件架构师。",
         "language": "zh",
@@ -467,6 +503,9 @@
         "sha_256": "22a45f77ac450d5faab530fe0d1d19a6c2cc5715a65ad546421caf675304a4d2"
       },
       "敏捷开发的艺术.epub": {
+        "title_sort": "敏捷开发的艺术",
+        "rating": "8.00",
+        "timestamp": "2017-08-29T14:20:18.204793+00:00",
         "publisher": "机械工业出版社",
         "description": "本书为那些正在考虑应用敏捷开发来构建有价值软件的人们提供了实用的指导。现在已经有大量的书籍描述敏捷开发是什么或者为什么它能帮助软件项目成功，但很少有哪一本书能把针对开发者、管理者、测试者和客户的信息合并成一个整体，从而使其能够直接应用。\n本书为敏捷的计划、开发、交付和管理提供了严谨的建议，这些建议来自于作者多年的极限编程(Extreme Programming，XP)经验。你将看到敏捷开发过程的全景图，包括为非技术类读者准备的全面指导，以及为开发者和测试人员准备的实用技术实践。\n本书为以下问题提供了明确的答案：\n怎样才能采用敏捷开发?\n我们真的需要结对编程吗?\n汇报应该详细到什么程度?\n如果无法让客户参与进来该怎么办?\n我们应该编写多少文档?\n何时进行设计和架构?\n作为一名非开发人员，我应如何同敏捷团队一起工作?\n产品的路线在哪里?\nQA应该如何参与进来?\n本书教你如何采用XP实践，详细描述了每一种实践，然后讨论了一些原则，使你可以更改XP并创建自己的敏捷方法。尤其是，本书为敏捷开发中一些较为困难的方面(合作的需要和团队成员之间的信任)提供了解决办法。\n不管你目前已经是敏捷团队的一部分，还是只对敏捷开发感兴趣，本书都为你提供了开始实践敏捷开发所需的实用技巧。随着你的经验的增长，内容也随之深入。本书教你首先理解敏捷开发的规则，然后打破这些规则，最后当你掌握了敏捷开发的艺术之后，再完全撇开这些规则。",
         "language": "zh",
@@ -495,6 +534,9 @@
         "sha_256": "854f0083d907c85be08d680d3eddad40958f6ab21e6905af2246eac9afb77d2d"
       },
       "软技能-代码之外的生存指南.epub": {
+        "title_sort": "软技能：代码之外的生存指南",
+        "rating": "8.00",
+        "timestamp": "2017-08-29T15:01:14.555981+00:00",
         "publisher": "Manning Publications",
         "description": "<p>这是一本真正从“人”（而非技术也非管理）的角度关注软件开发人员自身发展的书。书中论述的内容既涉及生活习惯，又包括思维方式，凸显技术中“人”的因素，全面讲解软件行业从业人员所需知道的所有“软技能”。 本书聚焦于软件开发人员生活的方方面面，从揭秘面试的流程到精耕细作出一份杀手级简历，从创建大受欢迎的博客到打造你的个人品牌，从提高自己工作效率到与如何与“拖延症”做斗争，甚至包括如何投资不动产，如何关注自己的健康。 本书共分为职业篇、自我营销篇、学习篇、生产力篇、理财篇、健身篇、精神篇等七篇，概括了软件行业从业人员所需的“软技能”。通过阅读本书，软件工程人员、编程人员和其他技术人员能够积极思考自己的职业生涯，丰富自己的生活，让自己更接近成功。</p>",
         "language": "zh",
@@ -522,6 +564,8 @@
         "sha_256": "920da8df1d629c01d3a7acef1ec797d39528062f7c6f2f05b7c1dbfa1b406845"
       },
       "高效程序员的45个习惯-敏捷开发修炼之道.epub": {
+        "title_sort": "高效程序员的45个习惯：敏捷开发修炼之道",
+        "timestamp": "2017-08-29T14:48:08.991506+00:00",
         "publisher": "人民邮电出版社",
         "language": "zh",
         "creator": "亨特，苏帕拉马尼亚姆",
@@ -574,6 +618,10 @@
     "dir_name": "health",
     "books": {
       "爱上跑步的13周.epub": {
+        "title_sort": "爱上跑步的13周",
+        "rating": "8.0",
+        "timestamp": "2017-09-19T09:33:57.782081+00:00",
+        "author_link_map": "{\"伊恩·麦克尼尔\": \"\", \"加拿大不列颠哥伦比亚运动医学理事会\": \"\"}",
         "title": "爱上跑步的13周",
         "creator": [
           "伊恩·麦克尼尔",
@@ -634,6 +682,7 @@
         "sha_256": "e680864e01bc79cc0d353f1769e222fd85387ca044c86d932e3b54e459d58836"
       },
       "gradle用户手册.epub": {
+        "timestamp": "2017-03-21T13:49:54.356513+00:00",
         "language": "zh",
         "identifier": {
           "uuid": "ff3b5793-06ca-4931-95d8-127e981d2633"
@@ -647,6 +696,8 @@
         "sha_256": "2c947bbf2f8e8c57e40ca062b2855b76e99b9c597736102e5b0efcafbc410dc0"
       },
       "深入理解Java虚拟机(第2版).epub": {
+        "title_sort": "深入理解Java虚拟机：JVM高级特性与最佳实践（第2版）",
+        "timestamp": "2017-08-29T15:01:14.392334+00:00",
         "language": "zh",
         "creator": "周志明",
         "title": "深入理解Java虚拟机：JVM高级特性与最佳实践（第2版）",
@@ -667,6 +718,9 @@
     "dir_name": "javascript",
     "books": {
       "锋利的jQuery.epub": {
+        "title_sort": "锋利的jQuery",
+        "rating": "8.00",
+        "timestamp": "2017-08-29T14:48:09.076002+00:00",
         "publisher": "人民邮电出版社",
         "description": "《锋利的jQuery(第2版)》循序渐进地对jQuery的各种函数和方法调用进行了介绍，读者可以系统地掌握jQuery的选择器、DOM操作、事件和动画、AJAX应用、插件、jQuery Mobile、jQuery各个版本变化、jQuery性能优化和技巧等知识点，并结合每个章节后面的案例演示进行练习，达到掌握核心知识点的目的。\n为使读者更好地进行开发实践，《锋利的jQuery(第2版)》的第8章将前7章讲解的知识点和效果进行了整合，打造出一个非常有个性的网站，并从案例研究、网站材料、网站结构、网站样式和网站脚本等方面指导读者参与到项目建设中来。",
         "language": "zh",
@@ -694,6 +748,7 @@
         "sha_256": "8bc4e4e80bc58554477d8e1d091a70be6a5e503c99c9f11f71f1e933bcfa2390"
       },
       "前端工程师手册.epub": {
+        "timestamp": "2015-04-04T19:21:29.576313+00:00",
         "publisher": "GitBook",
         "creator": "Leo Hui",
         "contributor": "GitBook",
@@ -707,6 +762,10 @@
         "sha_256": "bf75fd0f35b9eb072a9b1cb7276d47b4435904692c9c42ed2e8ab1ce63d31a22"
       },
       "数据结构与算法JavaScript描述.epub": {
+        "rating": "6.0",
+        "timestamp": "2017-08-29T14:20:46.041887+00:00",
+        "title_sort": "数据结构与算法JavaScript描述",
+        "author_link_map": "{\"[美]Michael McMillan\": \"\"}",
         "title": "数据结构与算法JavaScript描述",
         "creator": "[美]Michael McMillan",
         "publisher": "人民邮电出版社",
@@ -736,6 +795,7 @@
         "sha_256": "6175e8f3ff78363a36f85ec023434ea5d61bfc5fcba9ec65da035f6b6afce08e"
       },
       "javascript-start-es6-promise.epub": {
+        "timestamp": "2016-09-21T08:33:58.071106+00:00",
         "creator": "Eddy Chang",
         "contributor": "GitBook",
         "language": "zh",
@@ -749,6 +809,8 @@
         "sha_256": "df4a4bf5fa3d831d457478e1ae80041a7219fe3b0898b21c89c5804ca0a7cb08"
       },
       "深入浅出Node.js.epub": {
+        "title_sort": "深入浅出Node.js",
+        "timestamp": "2015-12-04T09:01:48.008000+00:00",
         "identifier": {
           "uuid": "88cc9269-30ed-40ac-9c1b-ba27389942eb",
           "ISBN": "9787115335500",
@@ -764,19 +826,11 @@
         "type": "epub",
         "sha_256": "419c31dc049ec9f6bfeedb2c3254ab2bd37e9044cc9034a3c7fb8d24fe36dc7b"
       },
-      "HTML5权威指南.pdf": {
-        "author": "Html5权威指南 高清中文Pdf扫描版,Www.Linuxidc.Com",
-        "creation_date": "D:20150425163959+08'00'",
-        "creator": "Adobe Acrobat 10.0",
-        "keywords": "Html5权威指南 高清中文Pdf扫描版,Www.Linuxidc.Com",
-        "mod_date": "D:20170927153955+08'00'",
-        "producer": "Adobe Acrobat 10.0 Image Conversion Plug-In",
-        "subject": "Html5权威指南 高清中文Pdf扫描版,Www.Linuxidc.Com",
-        "title": "Html5权威指南 高清中文Pdf扫描版,Www.Linuxidc.Com",
-        "type": "pdf",
-        "sha_256": "474acb193da4423a1e2c8ea63b7f17491393d0eaad49919b6f458edec7a448f8"
-      },
       "javascript权威指南中文第六版.epub": {
+        "title_sort": "JavaScript权威指南（原书第6版）",
+        "timestamp": "2014-08-15T08:49:34.262000+00:00",
+        "user_categories": "{}",
+        "author_link_map": "{\"(美)David Flanagan\": \"\"}",
         "creator": "(美)David Flanagan",
         "date": "2012-04-24T16:00:00+00:00",
         "contributor": "calibre (1.48.0) [http://calibre-ebook.com]",
@@ -800,6 +854,7 @@
         "sha_256": "d90207f3a64c1c6411a83068bd3916c1409f574b33596a0cb04407ce354ddfc4"
       },
       "javascript-start-from-es6.epub": {
+        "timestamp": "2016-09-21T09:38:07.501544+00:00",
         "language": "zh",
         "publisher": "GitBook",
         "creator": "Eddy Chang",
@@ -813,6 +868,8 @@
         "sha_256": "483f81e05a4a263d4c5438de2e0a681c56ec90ed3ff36f87ad55ed0a90f03ee8"
       },
       "Chrome扩展应用开发.epub": {
+        "timestamp": "2017-09-13T02:08:14.533890+00:00",
+        "title_sort": "Chrome扩展及应用开发",
         "publisher": "人民邮电出版社",
         "rights": "Copyright © 2014 人民邮电出版社",
         "language": "zh",
@@ -828,6 +885,9 @@
         "sha_256": "210f2d1ab9815923ba49825de50b82b90bd10b6aa26d065e41cf613f3e8f5734"
       },
       "Web全栈工程师的自我修养.epub": {
+        "title_sort": "Web全栈工程师的自我修养",
+        "rating": "8.00",
+        "timestamp": "2017-08-29T14:48:09.165528+00:00",
         "publisher": "人民邮电出版社",
         "description": "全栈工程师正成为 IT 行业的新秀，论是上市互联网公司还是创业公司，都对全栈工程师青睐有加。本书作者是腾讯公司高级工程师，在前端、后端和APP开发方面都有丰富的经验，在本书中分享了全栈工程师的技能要求、核心竞争力、未来发展方向、对移动端的思考。除此之外，本书还详细记录了作者从零开始、学习成长的心路历程。\n本书内容全面，客观务实，适合互联网行业新人、程序员，以及期待技术转型的从业者阅读参考。",
         "language": "zh",
@@ -855,7 +915,21 @@
         "type": "epub",
         "sha_256": "72d6b08dc14349d16a2addd8c1427ed1082405aca5229c8a05a5b99da578cc4e"
       },
+      "Html5权威指南.pdf": {
+        "author": "[美] Adam Freeman",
+        "creation_date": "D:20150425163959+08'00'",
+        "creator": "Calibre (3.8.0) [Https://Calibre-Ebook.Com]",
+        "keywords": "Html5权威指南",
+        "mod_date": "D:20170928170540+08'00'",
+        "producer": "Adobe Acrobat 10.0 Image Conversion Plug-In",
+        "subject": "Html5权威指南 高清中文Pdf扫描版,Www.Linuxidc.Com",
+        "title": "Html5权威指南",
+        "type": "pdf",
+        "sha_256": "b6fc0eb0b2359228146669e70876c38b09da5a2ca816cf1841616e5a19e5e48d"
+      },
       "JS函数式编程-GitBook.epub": {
+        "title_sort": "JS函数式编程指南",
+        "timestamp": "2017-08-29T14:48:09.445107+00:00",
         "publisher": "GitBook",
         "description": "Mostly Adequate Guide 中文版",
         "language": "zh",
@@ -872,6 +946,9 @@
         "sha_256": "13df16668b516947ace5f14a1fb378e2ae21b9b7eeb56c9d9f837499e89fac69"
       },
       "你不知道的JavaScript(上卷).epub": {
+        "title_sort": "你不知道的JavaScript（上卷）",
+        "rating": "10.00",
+        "timestamp": "2017-08-29T15:01:14.225604+00:00",
         "publisher": "人民邮电出版社",
         "description": "JavaScript语言有很多复杂的概念，但却用简单的方式体现出来（比如回调函数），因此，JavaScript开发者无需理解语言内部的原理，就能编写出功能全面的程序；就像收音机一样，你无需理解里面的管子和线圈都是做什么用的，只要会操作收音机上的按键，就可以收听你喜欢的节目。然而，JavaScript的这些复杂精妙的概念才是语言的精髓，即使是经验丰富的JavaScript开发者，如果没有认真学习也无法真正理解语言本身的特性。正是因为绝大多数人不求甚解，一遇到出乎意料的行为就认为是语言本身有缺陷，进而把相关的特性加入黑名单，久而久之就排除了这门语言的多样性，人为地使它变得不完整、不安全。\n“你不知道的JavaScript”系列就是要让不求甚解的JavaScript开发者迎难而上，深入语言内部，弄清楚JavaScript每一个零部件的用途。本书介绍了该系列的两个主题：“作用域和闭包”以及“this和对象原型”。掌握了这些知识之后，无论什么技术、框架和流行词语，你都能轻松理解。",
         "language": "zh",
@@ -905,6 +982,8 @@
     "dir_name": "protocol",
     "books": {
       "Lighttpd源码分析.epub": {
+        "title_sort": "Lighttpd源码分析",
+        "timestamp": "2016-07-22T00:28:24.635000+00:00",
         "contributor": "calibre (2.60.0) [https://calibre-ebook.com]",
         "title": "Lighttpd源码分析",
         "date": "2010-03-16T16:00:00+00:00",
@@ -930,6 +1009,9 @@
         "sha_256": "425417cf5761ff5acba492753adb1001da330039689686f471ba9892c78f42df"
       },
       "Http权威指南.epub": {
+        "title_sort": "Http权威指南",
+        "rating": "8.00",
+        "timestamp": "2017-08-29T14:48:09.353135+00:00",
         "publisher": "人民邮电出版社",
         "description": "超文本转移协议（Hypertext Transfer Protocol，HTTP）是在万维网上进行通信时所使用的协议方案。HTTP有很多应用，但最著名的是用于web浏览器和web服务器之间的双工通信。\nHTTP起初是一个简单的协议，因此你可能会认为关于这个协议没有太多好 说的。但现在，你手上拿着的是却一本两磅重 的书。如果你对我们怎么会写出一本650页 的关于HTTP的书感到奇怪的话，可以去看一下目录。本书不仅仅是一本HTTP首部的参考手册；它是一本名副其实的web结构圣经。\n本书中，我们尝试着将HTTP中一些互相关联且常被误解的规则梳理清楚，并编写了一系列基于各种主题的章节，对HTTP各方面的特性进行了介绍。纵观全书，我们对HTTP“为什么”这样做进行了详细的解释，而不仅仅停留在它是“怎么做”的。而且，为了节省大家寻找参考文献的时间，我们还对很多HTTP应用程序正常工作所必须的、重要的非HTTP技术进行了介绍。在组织得便于使用的附录中，可以找到按照字母排序的首部参考（这些首部构成了最常见的HTTP文本的基础）。我们希望这种概念性的设计有助于读者对HTTP的使用。\n本书是为所有希望理解HTTP以及Web底层结构的人编写的。软硬件工程师也可以将本书作为HTTP及相关web技术的条理清楚的参考书使用。系统架构师和网络管理员可以通过本书更好地了解如何设计、实现并管理复杂的网络架构。性能工程师和分析人员可以从高速缓存和性能优化的相关章节中获益。市场营销和咨询专家可以通过概念的介绍更好地理解web技术的前景。\n本书对一些常见的误解进行了说明，推荐了“各种使用诀窍”，提供了便捷的参考资料，并且对枯燥且令人费解的标准规范进行了可读性很强的介绍。在这本书里，我们对Web正常工作所必须且互相关联的技术进行了详细的介绍。\n本书是很多对因特网技术充满热情的人经过大量工作写成的。希望对你有所帮助。",
         "language": "zh",
@@ -964,6 +1046,9 @@
     "dir_name": "python",
     "books": {
       "Python_Cookbook-第三版 Jones.epub": {
+        "title_sort": "Python Cookbook 中文版，第 3 版",
+        "rating": "8.00",
+        "timestamp": "2017-09-13T02:01:25.417378+00:00",
         "publisher": "人民邮电出版社",
         "description": "《Python Cookbook（第3版）中文版》介绍了Python应用在各个领域中的一些使用技巧和方法，其主题涵盖了数据结构和算法，字符串和文本，数字、日期和时间，迭代器和生成器，文件和I/O，数据编码与处理，函数，类与对象，元编程，模块和包，网络和Web编程，并发，实用脚本和系统管理，测试、调试以及异常，C语言扩展等。\n本书覆盖了Python应用中的很多常见问题，并提出了通用的解决方案。书中包含了大量实用的编程技巧和示例代码，并在Python 3.3环境下进行了测试，可以很方便地应用到实际项目中去。此外，《Python Cookbook（第3版）中文版》还详细讲解了解决方案是如何工作的，以及为什么能够工作。\n《Python Cookbook（第3版）中文版》非常适合具有一定编程基础的Python程序员阅读参考。",
         "language": "en",
@@ -998,6 +1083,9 @@
         "sha_256": "682209267f55b840d75a7fb74da74e93bfb0ac4e800f96ad88370d524f160105"
       },
       "编写高质量的代码:改善Python程序的91个建议.epub": {
+        "title_sort": "编写高质量代码：改善Python程序的91个建议",
+        "rating": "8.00",
+        "timestamp": "2017-09-13T06:40:36.865548+00:00",
         "publisher": "机械工业出版社",
         "description": "在通往“Python技术殿堂”的路上，本书将为你编写健壮、优雅、高质量的Python代码提供切实帮助！内容全部由Python编码的最佳实践组成，从基本原则、惯用法、语法、库、设计模式、内部机制、开发工具和性能优化8个方面深入探讨了编写高质量Python代码的技巧与禁忌，一共总结出91条宝贵的建议。每条建议对应Python程序员可能会遇到的一个问题。本书不仅以建议的方式从正反两方面给出了被实践证明为十分优秀的解决方案或非常糟糕的解决方案，而且分析了问题产生的根源，会使人有一种醍醐灌顶的感觉，豁然开朗。\n《编写高质量代码：改善Python程序的91个建议》针对每个问题所选择的应用场景都非常典型，给出的建议也都与实践紧密结合。书中的每一条建议都可能在你的下一行代码、下一个应用或下一个项目中显露锋芒。建议你将本书搁置在手边，随时查阅，相信这么做一定能使你的学习和开发工作事半功倍。",
         "language": "zh",
@@ -1044,6 +1132,7 @@
         "sha_256": "1c8ea09c04f546a8a671dafe56dccad86ee9914c4f84d75e33a2f3ee391b20f6"
       },
       "violent-python.epub": {
+        "timestamp": "2016-04-27T04:21:14.605277+00:00",
         "contributor": "GitBook",
         "description": "连载介绍信息: zone.wooyun.org/content/23138",
         "language": "zh",
@@ -1066,6 +1155,9 @@
         "sha_256": "868b8d165e79d0fc056ce0912d513bc802f50e143b626dec20cb1e0c3bc0bfdc"
       },
       "流畅的Python.epub": {
+        "timestamp": "2017-08-11T03:10:59.793008+00:00",
+        "title_sort": "流畅的Python",
+        "author_link_map": "{\"[巴西] Luciano Ramalho\": \"\"}",
         "title": "流畅的Python",
         "creator": "[巴西] Luciano Ramalho",
         "publisher": "人民邮电出版社",
@@ -1091,6 +1183,7 @@
         "sha_256": "0751ef0ff19a4a5a1840ef44b39c9a2c356dab83c5cf8cebedc85b36801e9414"
       },
       "Python核心编程.epub": {
+        "timestamp": "2016-04-02T13:36:11.580456+00:00",
         "description": "作者：Wesley J. Chun（陳仲才）",
         "creator": "wizardforcel",
         "contributor": "GitBook",
@@ -1110,6 +1203,7 @@
     "dir_name": "safety",
     "books": {
       "blockchain_guide.epub": {
+        "timestamp": "2017-09-20T02:12:35.306572+00:00",
         "description": "A book to introduce blockchain technologies, including the key techniques, algorithms, usage scenarios, and projects.",
         "identifier": {
           "uuid": "8dd343f9-5d16-417a-923e-530f2ccb1177"
@@ -1123,6 +1217,8 @@
         "sha_256": "e074ed66981f3776e7f7e60d71f2b18bea4a2273fbd5fae67f354cbaa14e886c"
       },
       "解密与加密(第3版).epub": {
+        "title_sort": "加密与解密(第3版)",
+        "timestamp": "2017-08-29T14:48:08.901034+00:00",
         "language": "zh",
         "creator": "段钢",
         "title": "加密与解密(第3版)",
@@ -1143,6 +1239,7 @@
     "dir_name": "tools",
     "books": {
       "use-vim-as-ide.epub": {
+        "timestamp": "2016-05-01T11:38:44.164245+00:00",
         "publisher": "GitBook",
         "creator": "wizardforcel",
         "contributor": "GitBook",
