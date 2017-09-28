@@ -47,7 +47,7 @@ def build_markdown(options):
             title = book['title'] if 'title' in book and book['title'].strip() != '' else book_name
             buffer.append('\n')
             buffer.append('### %s' % title)
-            buffer.append('[📖%s](%s)' % (title, book_type['dir_name'] + '/' + book_name))
+            buffer.append('[📖%s](%s) [📥下载](../../info/object/%s/%s)' % (title, book_type['dir_name'] + '/' + book_name, book['sha_256'], book_name))
             for key, item in book.items():
                 if key in meta_dict:
                     buffer.append('- %s: %s' % (meta_dict[key], item))
