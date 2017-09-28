@@ -1,0 +1,62 @@
+[
+    {
+        "dir_name": "algorithm",
+        "name": "算法"
+    },
+    {
+        "dir_name": "android",
+        "name": "安卓"
+    },
+    {
+        "dir_name": "c",
+        "name": "C语言"
+    },
+    {
+        "dir_name": "c++",
+        "name": "C++语言"
+    },
+    {
+        "dir_name": "css",
+        "name": "css"
+    },
+    {
+        "dir_name": "cvs",
+        "name": "版本管理"
+    },
+    {
+        "dir_name": "design",
+        "name": "设计"
+    },
+    {
+        "dir_name": "engineering",
+        "name": "软件工程"
+    },
+    {
+        "dir_name": "health",
+        "name": "健康"
+    },
+    {
+        "dir_name": "java",
+        "name": "Java"
+    },
+    {
+        "dir_name": "javascript",
+        "name": "JavaScript"
+    },
+    {
+        "dir_name": "protocol",
+        "name": "协议"
+    },
+    {
+        "dir_name": "python",
+        "name": "Python"
+    },
+    {
+        "dir_name": "safety",
+        "name": "安全"
+    },
+    {
+        "dir_name": "tools",
+        "name": "工具"
+    }
+]
