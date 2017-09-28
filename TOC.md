@@ -908,31 +908,65 @@ HTTP起初是一个简单的协议，因此你可能会认为关于这个协议�
 
 
 ### 流畅的Python
-[📖流畅的Python](python/流畅的Python.epub) [📥下载](../../info/lfs/objects/f21df558d1b1a889586bd5bf80982e9f3393fd47612887f1509be4d59732b764/流畅的Python.epub)
+[📖流畅的Python](python/流畅的Python.epub) [📥下载](../../info/lfs/objects/f649c0ee64454bc9790c3f9a98dc9be74bc4c99d7c4d86eadb93d5eceb71fa4f/流畅的Python.epub)
+- 评分　　: 8.0
 - 创建人　: [巴西] Luciano Ramalho
 - 出版社　: 人民邮电出版社
 - 出版时间: 2017-08-14T16:00:00+00:00
-- 创建工具: calibre (3.5.0) [https://calibre-ebook.com]
+- 创建工具: calibre (3.8.0) [https://calibre-ebook.com]
 - 书号　　: 
+    - [豆瓣](https://book.douban.com/subject/27028517)
     - [ISBN](https://www.worldcat.org/isbn/9787115454157)
+- 简介　　: 【技术大咖推荐】
+“很荣幸担任这本优秀图书的技术审校。这本书能帮助很多中级Python程序员掌握这门语言，我也从中学到了相当多的知识！”——Alex Martelli，Python软件基金会成员
+“对于想要扩充知识的中级和高级Python程序员来说，这本书是充满了实用编程技巧的宝藏。”——Daniel Greenfeld和Audrey Roy Greenfeld，Two Scoops of Django作者
+【本书特色】
+本书由奋战在Python开发一线近20年的Luciano Ramalho执笔，Victor Stinner、Alex Martelli等Python大咖担纲技术审稿人，从语言设计层面剖析编程细节，兼顾Python 3和Python 2，告诉你Python中不亲自动手实践就无法理解的语言陷阱成因和解决之道，教你写出风格地道的Python代码。
+●	Python数据模型：理解为什么特殊方法是对象行为一致的关键。
+●	数据结构：充分利用内置类型，理解Unicode文本和字节二象性。
+●	把函数视作对象：把Python函数视作一等对象，并了解这一点对流行的设计模式的影响。
+●	面向对象习惯用法：通过构建类学习引用、可变性、接口、运算符重载和多重继承。
+●	控制流程：学习使用上下文管理器、生成器、协程，以及通过concurrent.futures和asyncio包实现的并发。
+●	元编程：理解特性、描述符、类装饰器和元类的工作原理。
+【主要内容】
+本书致力于帮助Python开发人员挖掘这门语言及相关程序库的优秀特性，避免重复劳动，同时写出简洁、流畅、易读、易维护，并且具有地道Python风格的代码。本书尤其深入探讨了Python语言的高级用法，涵盖数据结构、Python风格的对象、并行与并发，以及元编程等不同的方面。
+本书适合中高级Python软件开发人员阅读参考。
+【译者简介】
+安道
+专注于现代计算机技术的自由翻译，译有《Flask Web 开发》《Python 网络编程攻略》《Ruby on Rails 教程》等书。
+个人网站：http://about.ac/。
+吴珂
+现为Airbnb公司软件工程师，所在团队主要负责开发和维护各类可伸缩、高性能服务，并在Airbnb内推广面向服务的系统架构。在分布式系统、云存储服务和跨平台SDK开发，以及大规模数据处理等方面有多年经验。
 - 国家语言: zh
 - 文件类型: epub
 
 
-### Python源码剖析：深度探索动态语言核心技术 
-[📖Python源码剖析：深度探索动态语言核心技术 ](python/Python源码剖析.pdf) [📥下载](../../info/lfs/objects/0751ef0ff19a4a5a1840ef44b39c9a2c356dab83c5cf8cebedc85b36801e9414/Python源码剖析.pdf)
+### Python源码剖析
+[📖Python源码剖析](python/Python源码剖析.pdf) [📥下载](../../info/lfs/objects/9042f9784c4c11a1c99edc57a2ab093ed0283013915a64a171da1ca7c72f44ba/Python源码剖析.pdf)
 - 创建时间: D:20090419185401
-- 修改时间: D:20090419185401
+- 创建人　: Calibre (3.8.0) [Https://Calibre-Ebook.Com]
+- 修改时间: D:20170928203331+08'00'
 - 制作人　: Freepic2Pdf - 1.07
 - 文件类型: pdf
 
 
-### Python 核心编程 第二版
-[📖Python 核心编程 第二版](python/Python核心编程.epub) [📥下载](../../info/lfs/objects/b043b3dbfce24e1a395c89b86484c37996cc67a75b7b6768aeea765726c57943/Python核心编程.epub)
-- 简介　　: 作者：Wesley J. Chun（陳仲才）
-- 创建人　: wizardforcel
-- 创建工具: GitBook
+### Python核心编程（第二版）
+[📖Python核心编程（第二版）](python/Python核心编程.epub) [📥下载](../../info/lfs/objects/b513fe6ab947987b2f77f4a1b3170f564c00c232252d14acc28f97aa4ff51548/Python核心编程.epub)
+- 评分　　: 6.0
+- 创建人　: [美]wesley J. Chun（陳仲才）
+- 简介　　: 本书是Python开发者的完全指南——针对 Python 2.5全面升级
+·学习专业的Python风格、最佳实践和好的编程习惯；
+·加强对Python对象、内存模型和Python面向对象特性的深入理解；
+·构建更有效的Web、CGI、互联网、网络和其他客户端/服务器架构应用程序及软件；
+·学习如何使用Python中的Tkinter和其他工具来开发自己的GUI应用程序及软件；
+·通过用C等语言编写扩展来提升Python应用程序的性能，或者通过使用多线程增强I/0相关的应用程序的能力；
+·学习Python中有关数据库的API，以及如何在Python中使用各种不同的数据库系统，包括MySQL、Postgres和 SQLite。
+- 创建工具: calibre (3.8.0) [https://calibre-ebook.com]
 - 出版社　: GitBook
+- 书号　　: 
+    - [豆瓣](https://book.douban.com/subject/3112503)
+    - [ISBN](https://www.worldcat.org/isbn/9787115178503)
+- 出版时间: 0101-01-01T00:00:00+00:00
 - 国家语言: zh
 - 文件类型: epub
 
