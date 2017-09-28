@@ -21,18 +21,18 @@ def build_markdown(options):
     通过元数据生成markdown
     """
     meta_dict = {
-        'subject': "标签",
-        'publisher': "出版社",
-        'description': "简介",
+        'subject': "标签　　",
+        'publisher': "出版社　",
+        'description': "简介　　",
         'language': "国家语言",
-        'creator': "创建人",
+        'creator': "创建人　",
         'date': "出版时间",
         'contributor': "创建工具",
-        'identifier': "书号",
+        'identifier': "书号　　",
         'type': "文件类型",
         'creation_date': "创建时间",
         'mod_date': "修改时间",
-        'producer': "制作人"
+        'producer': "制作人　"
     }
     metas = read_old_meta()
     buffer = []
@@ -45,7 +45,7 @@ def build_markdown(options):
             title = book['title'] if 'title' in book and book['title'].strip() != '' else book_name
             buffer.append('\n')
             buffer.append('### %s' % title)
-            buffer.append('[📖%s](%s)' % (title, book_type['dir_name'] + '/' + parse.quote(book_name)))
+            buffer.append('[📖%s](%s)' % (title, book_type['dir_name'] + '/' + book_name))
             for key, item in book.items():
                 if key in meta_dict:
                     buffer.append('- %s: %s' % (meta_dict[key], item))
