@@ -20,6 +20,19 @@ CALIBRE_META = 'http://calibre.kovidgoyal.net/2009/metadata'
 ELEMENTS_META = 'http://purl.org/dc/elements/1.1/'
 DOC_KEY = '{http://www.idpf.org/2007/opf}scheme'
 
+
+def identifier_format(identifier):
+    format_arr = []
+    for key, val in identifier.items():
+        if 'DOUBAN' == key:
+            format_arr.append('\n    - [豆瓣](https://book.douban.com/subject/%s)' % val)
+        elif 'ISBN' == key:
+            format_arr.append('\n    - [ISBN](https://www.worldcat.org/isbn/%s)' % val)
+            # format_arr.append('\n    - [豆瓣-ISBN](https://book.douban.com/isbn/%s)' % val)
+    if len(format_arr) == 0:
+        return None
+    return "书号　　", ''.join(format_arr)
+
 def build_markdown(options):
     """
     通过元数据生成markdown
@@ -32,7 +45,7 @@ def build_markdown(options):
         'creator': "创建人　",
         'date': "出版时间",
         'contributor': "创建工具",
-        'identifier': "书号　　",
+        'identifier': identifier_format,
         'type': "文件类型",
         'creation_date': "创建时间",
         'mod_date': "修改时间",
@@ -55,7 +68,13 @@ def build_markdown(options):
             buffer.append('[📖%s](%s) [📥下载](../../info/lfs/objects/%s/%s)' % (title, book_type['dir_name'] + '/' + book_name, book['sha_256'], book_name))
             for key, item in book.items():
                 if key in meta_dict:
-                    buffer.append('- %s: %s' % (meta_dict[key], item))
+                    handle = meta_dict[key]
+                    if isinstance(handle, str):
+                        buffer.append('- %s: %s' % (handle, item))
+                    else:
+                        str1 = handle(item)
+                        if str1:
+                            buffer.append('- %s: %s' % str1)
 
     with open('TOC.md', 'w') as fd:
         fd.write("\n".join(buffer))
@@ -157,12 +176,16 @@ def read_meta_epub(epub_name):
     doc = epub.read_epub(epub_name)
     # print('-------', doc)
     meta = {}
-
-    if CALIBRE_META in doc.metadata:
-        calibre_metadata = doc.metadata[CALIBRE_META]
+    metadata = doc.metadata
+    # for vlaues, row in metadata.items():
+    #     print(vlaues)
+    #     print(row)
+    calibre_meta = 'calibre' if 'calibre' in metadata else CALIBRE_META
+    if calibre_meta in metadata:
+        calibre_metadata = metadata[calibre_meta]
         for key, item in calibre_metadata.items():
             meta[key] = item[0][1]['content']
-    elements_meta = doc.metadata[ELEMENTS_META]
+    elements_meta = metadata[ELEMENTS_META]
     for key, val in elements_meta.items():
         if 'identifier' == key:
             identifier = {}
@@ -180,6 +203,6 @@ def read_meta_epub(epub_name):
 if __name__ == "__main__":
     options = set(sys.argv[1:])
     main(options)
-    # read_meta_epub('c/算法精解-c语言描述.epub')
+    # read_meta_epub('cvs/progit2.epub')
     #read_meta_pdf("android/Android高薪之路：Android程序员面试宝典.pdf")
 
