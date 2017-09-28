@@ -43,6 +43,7 @@ def build_markdown(options):
         buffer.append('> [📚%s](%s)' % (book_type['name'], book_type['dir_name']))
         for book_name, book in book_type['books'].items():
             title = book['title'] if 'title' in book and book['title'].strip() != '' else book_name
+            buffer.append('\n')
             buffer.append('### %s' % title)
             buffer.append('[📖%s](%s)' % (title, book_type['dir_name'] + '/' + parse.quote(book_name)))
             for key, item in book.items():
