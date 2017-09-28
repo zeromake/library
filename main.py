@@ -38,6 +38,7 @@ def build_markdown(options):
     buffer = []
     buffer.append('# TOC')
     for book_type in metas:
+        buffer.append('\n')
         buffer.append('## %s' % (book_type['dir_name']))
         buffer.append('> [📚%s](%s)' % (book_type['name'], book_type['dir_name']))
         for book_name, book in book_type['books'].items():
