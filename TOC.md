@@ -1,6 +1,9 @@
 # TOC
 
 
+[TOC]
+
+
 ## algorithm
 > [📚算法](algorithm)
 
