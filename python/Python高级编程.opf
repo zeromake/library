@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fcad60ba-f227-4394-bd49-8ebe88ac3264</dc:identifier>
+        <dc:title>Python高级编程</dc:title>
+        <dc:creator opf:file-as="Ziadé, Tarek" opf:role="aut">Tarek Ziadé</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-31T00:50:37+00:00</dc:date>
+        <dc:description>《Python高级编程》通过大量的实例，介绍了Python语言的最佳实践和敏捷开发方法，并涉及整个软件生命周期的高级主题，诸如持续集成、版本控制系统、包的发行和分发、开发模式、文档编写等。《Python高级编程》首先介绍如何设置最优的开发环境，然后以Python敏捷开发方法为线索，阐述如何将已被验证的面向对象原则应用到设计中。这些内容为开发人员和项目管理人员提供了整个软件工程中的许多高级概念以及专家级的建议，其中有些内容的意义甚至超出了Python语言本身。
+《Python高级编程》针对具备一定Python基础并希望通过在项目中应用最佳实践和新的开发技术来提升自己的Python开发人员。</dc:description>
+        <dc:identifier opf:scheme="DOUBAN">4212921</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;Tarek Ziadé&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2017-09-29T03:12:50.044795+00:00" name="calibre:timestamp"/>
+        <meta content="Python高级编程" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

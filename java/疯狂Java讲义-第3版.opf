@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7f7c39f-828f-497c-9e5c-6fc37b18992d</dc:identifier>
+        <dc:title>疯狂Java讲义</dc:title>
+        <dc:creator opf:file-as="李刚" opf:role="aut">李刚</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-06-30T16:00:00+00:00</dc:date>
+        <dc:description>《疯狂Java讲义（第3版）(含CD光盘1张)》是《疯狂Java讲义》的第3版，第3版保持了前两版系统、全面、讲解浅显、细致的特性，全面新增介绍了Java 8的新特性，《疯狂Java讲义（第3版）(含CD光盘1张)》大部分示例程序都采用Lambda表达式、流式API进行了改写，因此务必使用Java 8的JDK来编译、运行。
+《疯狂Java讲义（第3版）(含CD光盘1张)》深入介绍了Java编程的相关方面，全书内容覆盖了Java的基本语法结构、Java的面向对象特征、Java集合框架体系、Java泛型、异常处理、Java GUI编程、JDBC数据库编程、Java注释、Java的IO流体系、Java多线程编程、Java网络通信编程和Java反射机制。覆盖了java.lang、java.util、java.text、java.io和java.nio、java.sql、java.awt、javax.swing包下绝大部分类和接口。本书全面介绍了Java 8的新的接口语法、Lambda表达式、方法引用、构造器引用、函数式编程、流式编程、新的日期、时间API、并行支持、改进的类型推断、重复注解、JDBC 4.2新特性等新特性。
+与前两版类似，《疯狂Java讲义（第3版）(含CD光盘1张)》并不单纯从知识角度来讲解Java，而是从解决问题的角度来介绍Java语言，所以《疯狂Java讲义（第3版）(含CD光盘1张)》中涉及大量实用案例开发：五子棋游戏、梭哈游戏、仿QQ的游戏大厅、MySQL企业管理器、仿EditPlus的文本编辑器、多线程、断点下载工具、Spring框架的IoC容器……这些案例既能让读者巩固每章的知识，又可以让读者学以致用，激发编程自豪感，进而引爆内心的编程激情。《疯狂Java讲义（第3版）(含CD光盘1张)》光盘里包含书中所有示例的代码和《疯狂Java实战演义》的所有项目代码，这些项目可以作为《疯狂Java讲义（第3版）(含CD光盘1张)》课后练习的“非标准答案”，如果读者需要获取关于课后习题的解决方法、编程思路，可以登录http://www.crazyit.org站点与笔者及《疯狂Java讲义（第3版）(含CD光盘1张)》庞大的读者群相互交流。
+《疯狂Java讲义（第3版）(含CD光盘1张)》为所有打算深入掌握Java编程的读者而编写，适合各种层次的Java学习者和工作者阅读，也适合作为大学教育、培训机构的Java教材。但如果只是想简单涉猎Java，则本书过于庞大，不适合阅读。</dc:description>
+        <dc:publisher>电子工业出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">25959184</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>李刚.疯狂Java讲义 第3版.北京：电子工业出版社</dc:subject>
+        <dc:subject>2014.07.</dc:subject>
+        <dc:subject>第3版</dc:subject>
+        <meta content="{&quot;李刚&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="4" name="calibre:rating"/>
+        <meta content="2017-09-29T07:44:25.864225+00:00" name="calibre:timestamp"/>
+        <meta content="疯狂Java讲义" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

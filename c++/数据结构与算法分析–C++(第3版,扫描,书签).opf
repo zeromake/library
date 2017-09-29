@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c9393c99-7dfe-4f0d-985f-6a37d9030a0f</dc:identifier>
+        <dc:title>数据结构与算法分析</dc:title>
+        <dc:creator opf:file-as="Weiss, mark Allen" opf:role="aut">[美]mark Allen Weiss</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-05-31T16:00:00+00:00</dc:date>
+        <dc:description>《数据结构与算法分析:C++描述(第3版)》是数据结构和算法分析的经典教材，书中使用主流的程序设计语言C++作为具体的实现语言。书的内容包括表、栈、队列、树、散列表、优先队列、排序、不相交集算法、图论算法、算法分析、算法设计、摊还分析、查找树算法、k-d树和配对堆等。《数据结构与算法分析:C++描述(第3版)》适合作为计算机相关专业本科生的数据结构课程和研究生算法分析课程的教材。本科生的数据结构课程可以使用《数据结构与算法分析:C++描述(第3版)》第1章～第9章，多学时课程还可以讲解第10章；研究生算法分析课程可以使用第6章～第12章。</dc:description>
+        <dc:identifier opf:scheme="DOUBAN">1971825</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;[美]mark Allen Weiss&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2017-09-29T07:38:15.514129+00:00" name="calibre:timestamp"/>
+        <meta content="数据结构与算法分析" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6bffd49f-6e79-4804-bc10-06cb7e833c66</dc:identifier>
+        <dc:title>算法设计与分析基础(第3版)</dc:title>
+        <dc:creator opf:file-as="Levitin, Anany" opf:role="aut">Anany Levitin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-31T16:00:00+00:00</dc:date>
+        <dc:description>作者基于丰富的教学经验，开发了一套全新的算法分类方法。该分类法站在通用问题求解策略的高度，对现有大多数算法准确分类，从而引领读者沿着一条清晰、一致、连贯的思路来探索算法设计与分析这一迷人领域。《算法设计与分析基础(第3版)》作为第3版，相对前版调整了多个章节的内容和顺序，同时增加了一些算法，并扩展了算法的应用，使得具体算法和通用算法设计技术的对应更加清晰有序；各章累计增加了70道习题，其中包括一些有趣的谜题和面试问题。《算法设计与分析基础(第3版)》十分适合用作算法设计和分析的基础教材，也适合任何有兴趣探究算法奥秘的读者使用，只要读者具备数据结构和离散数学的知识即可。</dc:description>
+        <dc:identifier opf:scheme="DOUBAN">26337727</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;Anany Levitin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2017-09-29T07:26:12.385845+00:00" name="calibre:timestamp"/>
+        <meta content="算法设计与分析基础(第3版)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

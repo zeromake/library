@@ -5,6 +5,7 @@ import os
 import sys
 import json
 import hashlib
+from lxml import etree
 from urllib import parse
 from ebooklib import epub
 from PyPDF2 import PdfFileReader
@@ -116,11 +117,20 @@ def build_metas(options):
                     meta = old_books[old_sha[f][1]]
                     print("|--read meta miss: " + f)
                 elif f.endswith('.pdf'):
-                    print("|--read meta: " + f)
-                    meta = read_meta_pdf(file_name)
+                    if '-o' not in options:
+                        print("|--read opf meta: " + f)
+                        meta = {}
+                        opf_name = os.path.join(dir_name, f[:f.rfind('.')] + '.opf')
+                        if os.path.exists(opf_name):
+                            meta_opf = read_meta_opf(opf_name)
+                            for key, value in meta_opf.items():
+                                meta[key] = value
+                    else:
+                        print("|--read pdf meta: " + f)
+                        meta = read_meta_pdf(file_name)
                     meta['type'] = 'pdf'
                 elif f.endswith('.epub'):
-                    print("|--read meta: " + f)
+                    print("|--read epub meta: " + f)
                     meta = read_meta_epub(file_name)
                     meta['type'] = 'epub'
                 else:
@@ -158,6 +168,44 @@ def read_meta_pdf(pdf_name):
             else:
                 new_info[key] = str(tmp)
         return new_info
+
+NAMESPACES = {'XML': 'http://www.w3.org/XML/1998/namespace',
+              'EPUB': 'http://www.idpf.org/2007/ops',
+              'DAISY': 'http://www.daisy.org/z3986/2005/ncx/',
+              'OPF': 'http://www.idpf.org/2007/opf',
+              'CONTAINERNS': 'urn:oasis:names:tc:opendocument:xmlns:container',
+              'DC': "http://purl.org/dc/elements/1.1/",
+              'XHTML': 'http://www.w3.org/1999/xhtml'}
+
+def read_meta_opf(opf_name):
+    opf = NAMESPACES['OPF']
+    dc = '{%s}' % NAMESPACES['DC']
+    identifier = '{%s}scheme' % opf
+    dc_len = len(dc)
+    meta = {}
+    with open(opf_name, 'rb') as fd:
+        root = etree.parse(fd).find('{%s}metadata' % opf)
+        for val in root.iterchildren():
+            tag = val.tag
+            if tag == '{%s}meta' % opf:
+                name = val.get('name')
+                name_arr = name.split(':')
+                name = name_arr[1] if len(name_arr) > 1 else name
+                meta[name] = val.get('content')
+            elif tag.startswith(dc):
+                tag = tag[dc_len:]
+                if tag in ('subject', 'identifier'):
+                    if tag == 'subject':
+                        if tag not in meta:
+                            meta[tag] = []
+                        meta[tag].append(val.text)
+                    else:
+                        if tag not in meta:
+                            meta[tag] = {}
+                        meta[tag][val.get(identifier)] = val.text
+                else:
+                    meta[tag] = val.text
+    return meta
 
 def convert(name):
     s1 = re.sub('(.)([A-Z][a-z]+)', r'\1_\2', name)
@@ -208,7 +256,7 @@ def read_meta_epub(epub_name):
                 identifier[iden[1][iden_key]] = iden[0]
             meta[key] = identifier
         else:
-            if len(val) == 1:
+            if len(val) == 1 and key not in ('subject', 'identifier'):
                 meta[key] = val[0][0]
             else:
                 meta[key] = [value[0] for value in val if len(value) > 0]
@@ -217,6 +265,7 @@ def read_meta_epub(epub_name):
 if __name__ == "__main__":
     options = set(sys.argv[1:])
     main(options)
+    # print(read_meta_opf('python/《Python Cookbook》第三版中文v2.0.0.opf'))
     # read_meta_epub('cvs/progit2.epub')
     #read_meta_pdf("android/Android高薪之路：Android程序员面试宝典.pdf")
 

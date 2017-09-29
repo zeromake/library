@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">195f3e29-d709-40a2-b6b9-1dfdea10c03c</dc:identifier>
+        <dc:title>数据结构与算法分析</dc:title>
+        <dc:creator opf:file-as="维斯" opf:role="aut">维斯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-12-31T16:00:00+00:00</dc:date>
+        <dc:description>本书是《Data Structures and Algorithm Analysis in C》一书第2版的简体中译本。原书曾被评为20世纪顶尖的30部计算机著作之一，作者Mark Allen Weiss在数据结构和算法分析方面卓有建树，他的数据结构和算法分析的著作尤其畅销，并受到广泛好评．已被世界500余所大学用作教材。
+在本书中，作者更加精炼并强化了他对算法和数据结构方面创新的处理方法。通过C程序的实现，着重阐述了抽象数据类型的概念，并对算法的效率、性能和运行时间进行了分析。
+全书特点如下：
+●专用一章来讨论算法设计技巧，包括贪婪算法、分治算法、动态规划、随机化算法以及回溯算法
+●介绍了当前流行的论题和新的数据结构，如斐波那契堆、斜堆、二项队列、跳跃表和伸展树
+●安排一章专门讨论摊还分析，考查书中介绍的一些高级数据结构
+●新开辟一章讨论高级数据结构以及它们的实现，其中包括红黑树、自顶向下伸展树。treap树、k-d树、配对堆以及其他相关内容
+●合并了堆排序平均情况分析的一些新结果
+本书是国外数据结构与算法分析方面的标准教材，介绍了数据结构(大量数据的组织方法)以及算法分析(算法运行时间的估算)。本书的编写目标是同时讲授好的程序设计和算法分析技巧，使读者可以开发出具有最高效率的程序。 本书可作为高级数据结构课程或研究生一年级算法分析课程的教材，使用本书需具有一些中级程序设计知识，还需要离散数学的一些背景知识。</dc:description>
+        <dc:identifier opf:scheme="DOUBAN">1139426</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;维斯&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2017-09-29T07:33:15.176114+00:00" name="calibre:timestamp"/>
+        <meta content="数据结构与算法分析" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

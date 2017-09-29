@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a360a848-7746-49f5-adb6-e5cc158d0d85</dc:identifier>
+        <dc:title>算法引论</dc:title>
+        <dc:creator opf:file-as="Manber, udi" opf:role="aut">[美]udi Manber</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-08-31T16:00:00+00:00</dc:date>
+        <dc:description>本书是国际算法大师乌迪·曼博（Udi Manber）博士撰写的一本享有盛誉的著作。全书共分12章：第1章到第4章为介绍性内容，涉及数学归纳法、算法分析、数据结构等内容；第5章提出了与归纳证明进行类比的算法设计思想；第6章到第9章分别给出了4个领域的算法，如序列和集合的算法、图算法、几何算法、代数和数值算法；第10章涉及归约，也是第11章的序幕，而后者涉及NP完全问题；第12章则介绍了并行算法；最后是部分习题的答案及参考文献。本书的特色有二，旨在提高读者的问题求解能力，使读者能够理解算法设计的过程和思想：一是强调算法设计的创造性过程，注重算法设计背后的创造性思想，而不拘泥于某个具体算法的详细讨论；二是将算法设计类比于定理归纳证明，揭示了算法设计的基本思想和本质。
+本书的组织结构清晰且易于理解，强调了创造性，具有浓郁特色，时至今日仍有其巨大的价值，并且适合作为计算机及相关专业算法和高级算法课程的教材。</dc:description>
+        <dc:identifier opf:scheme="DOUBAN">1436134</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>一种创造性方法</dc:subject>
+        <meta content="{&quot;[美]udi Manber&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2017-09-29T07:28:19.966476+00:00" name="calibre:timestamp"/>
+        <meta content="算法引论" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

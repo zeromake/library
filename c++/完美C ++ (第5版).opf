@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f63b79e3-df17-488f-aa82-db15782d6403</dc:identifier>
+        <dc:title>完美c++（第5版）（双色）</dc:title>
+        <dc:creator opf:file-as="薛正华 &amp; 沈庚 &amp; 韦远科" opf:role="aut">薛正华</dc:creator>
+        <dc:creator opf:file-as="薛正华 &amp; 沈庚 &amp; 韦远科" opf:role="aut">沈庚</dc:creator>
+        <dc:creator opf:file-as="薛正华 &amp; 沈庚 &amp; 韦远科" opf:role="aut">韦远科</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-31T16:00:00+00:00</dc:date>
+        <dc:description>《完美C++（第5版）》为读者提供了一个学习、理解和掌握 C++编程语言的全面视图，覆盖面广、实用性强。书中介绍了 C++的基本数据类型，如字符串、数组、指针、结构体、类等，同时也详细描述了面向对象编程语言的特性：封装、继承和多态，以及这些特性在 C++语言中的具体使用方式。本书的后面章节还重点介绍了模板、链式数据结构、标准模板库以及异常处理等C++语言的进阶编程知识。这些知识在从事具体编程工作时会经常使用到。
+《完美C++（第5版）》对C++的一些重点知识，辅以实例进行了重点讲解，特别是对一些易混淆、易犯错的知识点，专门以“陷阱”的组织方式进行深入分析和讨论，帮助读者更好地理解和掌握。《完美C++（第5版）》中各章均含有大量例子及完整的代码段和分析，帮助读者强化对关键概念的理解，以及对主题的掌握。各章还配有丰富的自测习题以及答案，帮助读者进一步提升对C++知识的理解以及实际动手编程能力。
+原书由知名学者所著，历经多个版本，根据C++技术的发展，内容不断完善、丰富，体系完整、实践性强。
+《完美C++（第5版）》可以作为高等院校学习编程基本知识以及C++编程语言课程的教材，也可以作为有C++编程经验者的参考书。</dc:description>
+        <dc:identifier opf:scheme="DOUBAN">25929393</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;沈庚&quot;: &quot;&quot;, &quot;韦远科&quot;: &quot;&quot;, &quot;薛正华&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2017-09-29T07:40:07.728797+00:00" name="calibre:timestamp"/>
+        <meta content="完美c++（第5版）（双色）" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

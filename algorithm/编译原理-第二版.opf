@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c674296-d1a3-409d-9193-80137cdd0594</dc:identifier>
+        <dc:title>编译原理</dc:title>
+        <dc:creator opf:file-as="Aho, Alfred V. &amp; Lam, Monica S. &amp; Sethi, Ravi &amp; Ullman, Jeffrey D." opf:role="aut">Alfred V. Aho</dc:creator>
+        <dc:creator opf:file-as="Aho, Alfred V. &amp; Lam, Monica S. &amp; Sethi, Ravi &amp; Ullman, Jeffrey D." opf:role="aut">Monica S. Lam</dc:creator>
+        <dc:creator opf:file-as="Aho, Alfred V. &amp; Lam, Monica S. &amp; Sethi, Ravi &amp; Ullman, Jeffrey D." opf:role="aut">Ravi Sethi</dc:creator>
+        <dc:creator opf:file-as="Aho, Alfred V. &amp; Lam, Monica S. &amp; Sethi, Ravi &amp; Ullman, Jeffrey D." opf:role="aut">Jeffrey D. Ullman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-15T17:16:51.727000+00:00</dc:date>
+        <dc:description>《编译原理(本科教学版第2版)》基于该书第2版进行改编，内容更加精练和实用，体系更加符合国内教学情况，适合作为高等院校计算机及相关专业本科生的编译原理课程的教材，也是广大研究人员和技术人员的极佳参考读物。
+《编译原理(本科教学版第2版)》是编译领域无可替代的经典著作，被广大计算机专业人士誉为“龙书”。《编译原理(本科教学版第2版)》上一版自1986年出版以来，被世界各地的著名高等院校和研究机构(包括美国哥伦比亚大学。斯坦福大学、哈佛大学、普林斯顿大学。贝尔实验室)作为本科生和研究生的编译原理课程的教材。该书对我国高等计算机教育领域也产生了重大影响。
+第2版对每一章都进行了全面的修订，以反映自上一版出版20多年来软件工程、程序设计语言和计算机体系结构方面的发展对编译技术的影响。第2版全面介绍了编译器的设计，并强调编译技术在软件设计和开发中的广泛应用。每章中都包含大量的习题和丰富的参考文献。
+《编译原理(本科教学版第2版)》基于该书第2版进行改编，保留其中的基本内容，压缩或删除了一些高级内容，更适合作为国内高校计算机及相关专业本科生编译原理课程教材。</dc:description>
+        <dc:publisher>机械工业</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">3774682</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787111269298</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>计算机</dc:subject>
+        <dc:subject>计算机科学</dc:subject>
+        <dc:subject>教科书</dc:subject>
+        <dc:subject>编译原理</dc:subject>
+        <dc:subject>Cs</dc:subject>
+        <dc:subject>教材</dc:subject>
+        <meta content="{&quot;Monica S. Lam&quot;: &quot;&quot;, &quot;Ravi Sethi&quot;: &quot;&quot;, &quot;Jeffrey D. Ullman&quot;: &quot;&quot;, &quot;Alfred V. Aho&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2017-09-29T07:14:05.388382+00:00" name="calibre:timestamp"/>
+        <meta content="编译原理" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

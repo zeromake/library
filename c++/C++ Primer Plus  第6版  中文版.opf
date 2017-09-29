@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d3d5fd48-3e1b-4624-a07a-eecb4feac646</dc:identifier>
+        <dc:title>C++ Primer Plus</dc:title>
+        <dc:creator opf:file-as="Prata, Stephen" opf:role="aut">Stephen Prata</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-05-11T03:47:22+00:00</dc:date>
+        <dc:description>C++是在C语言基础上开发的一种集面向对象编程、通用编程和传统的过程化编程于一体的编程语言，是C语言的超集。本书是根据2003年的ISO/ANSI C++标准编写的。通过大量短小精悍的程序详细而全面地阐述了C++的基本概念和技术。全书分为18章和10个附录，分别介绍了C++程序的运行方式、基本数据类型、复合数据类型、循环和关系表达式、分支语句和逻辑操作符、函数重载和函数模板、内存模型和名称空间、类的设计和使用、多态、虚函数、动态内存分配、继承、代码重用、友元、异常处理技术、string类和标准模板库、输入/输出等内容。本书针对C++初学者，从C语言基础知识开始介绍，然后在此基础上详细阐述C++新增的特性，因此不要求读者有较多C语言方面的背景知识。本书可以作为高等院校C++课程的教材，也可以供初学者自学C++时使用。</dc:description>
+        <dc:identifier opf:scheme="DOUBAN">10789789</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>C++ Primer Plus</dc:subject>
+        <dc:subject>第6版</dc:subject>
+        <meta content="{&quot;Stephen Prata&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2017-09-29T07:35:10.225828+00:00" name="calibre:timestamp"/>
+        <meta content="C++ Primer Plus" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

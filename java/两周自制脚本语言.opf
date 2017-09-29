@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">56</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5d94f4ff-b81b-4b3a-b73e-ac79038981cf</dc:identifier>
+        <dc:title>两周自制脚本语言</dc:title>
+        <dc:creator opf:file-as="滋, 千叶" opf:role="aut">[日]千叶 滋</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-31T16:00:00+00:00</dc:date>
+        <dc:description>《两周自制脚本语言》是一本优秀的编译原理入门读物。全书穿插了大量轻松风趣的对话，读者可以随书中的人物一起从最简单的语言解释器开始，逐步添加新功能，最终完成一个支持函数、数组、对象等高级功能的语言编译器。本书与众不同的实现方式不仅大幅简化了语言处理器的复杂度，还有助于拓展读者的视野。
+《两周自制脚本语言》适合对编译原理及语言处理器设计有兴趣的读者以及正在学习相关课程的大中专院校学生。同时，已经学习过相关知识、有一定经验的开发者，也一定能从本书新颖的实现方式中受益良多。</dc:description>
+        <dc:publisher>人民邮电出版</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">25908672</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>（日）千叶滋著.两周自制脚本语言.北京：人民邮电出版社</dc:subject>
+        <dc:subject>2014.06.</dc:subject>
+        <meta content="{&quot;[日]千叶 滋&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2017-09-29T07:53:12.139929+00:00" name="calibre:timestamp"/>
+        <meta content="两周自制脚本语言" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b2132a83-a1e0-4d13-b97a-683e0974dc45</dc:identifier>
+        <dc:title>Python Cookbook 中文版，第 3 版</dc:title>
+        <dc:creator opf:file-as="Beazley, David M. &amp; Jones, Brian K." opf:role="aut">David M. Beazley</dc:creator>
+        <dc:creator opf:file-as="Beazley, David M. &amp; Jones, Brian K." opf:role="aut">Brian K. Jones</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-04-30T16:00:00+00:00</dc:date>
+        <dc:description>《Python Cookbook（第3版）中文版》介绍了Python应用在各个领域中的一些使用技巧和方法，其主题涵盖了数据结构和算法，字符串和文本，数字、日期和时间，迭代器和生成器，文件和I/O，数据编码与处理，函数，类与对象，元编程，模块和包，网络和Web编程，并发，实用脚本和系统管理，测试、调试以及异常，C语言扩展等。
+本书覆盖了Python应用中的很多常见问题，并提出了通用的解决方案。书中包含了大量实用的编程技巧和示例代码，并在Python 3.3环境下进行了测试，可以很方便地应用到实际项目中去。此外，《Python Cookbook（第3版）中文版》还详细讲解了解决方案是如何工作的，以及为什么能够工作。
+《Python Cookbook（第3版）中文版》非常适合具有一定编程基础的Python程序员阅读参考。</dc:description>
+        <dc:identifier opf:scheme="DOUBAN">26381341</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;Brian K. Jones&quot;: &quot;&quot;, &quot;David M. Beazley&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2017-09-29T03:17:49.398383+00:00" name="calibre:timestamp"/>
+        <meta content="Python Cookbook 中文版，第 3 版" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

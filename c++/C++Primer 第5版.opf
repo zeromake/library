@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf13da70-ca19-4409-b6ed-a81824497b31</dc:identifier>
+        <dc:title>C++ Primer 中文版（第 5 版）</dc:title>
+        <dc:creator opf:file-as="Lippman, Stanley B. &amp; Lajoie, Josée &amp; Moo, Barbara E." opf:role="aut">[美] Stanley B. Lippman</dc:creator>
+        <dc:creator opf:file-as="Lippman, Stanley B. &amp; Lajoie, Josée &amp; Moo, Barbara E." opf:role="aut">[美] Josée Lajoie</dc:creator>
+        <dc:creator opf:file-as="Lippman, Stanley B. &amp; Lajoie, Josée &amp; Moo, Barbara E." opf:role="aut">[美] Barbara E. Moo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-31T16:00:00+00:00</dc:date>
+        <dc:description>这本久负盛名的 C++经典教程，时隔八年之久，终迎来史无前例的重大升级。除令全球无数程序员从中受益，甚至为之迷醉的——C++ 大师 Stanley B. Lippman 的丰富实践经验，C++标准委员会原负责人 Josée Lajoie 对C++标准的深入理解，以及C++ 先驱 Barbara E. Moo 在 C++教学方面的真知灼见外，更是基于全新的 C++11标准进行了全面而彻底的内容更新。非常难能可贵的是，《C++ Primer 中文版(第5版)》所有示例均全部采用 C++11 标准改写，这在经典升级版中极其罕见——充分体现了 C++ 语言的重大进展及其全面实践。书中丰富的教学辅助内容、醒目的知识点提示，以及精心组织的编程示范，让这本书在 C++ 领域的权威地位更加不可动摇。无论是初学者入门，或是中、高级程序员提升，本书均为不容置疑的首选。</dc:description>
+        <dc:identifier opf:scheme="DOUBAN">25708312</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;[美] Josée Lajoie&quot;: &quot;&quot;, &quot;[美] Barbara E. Moo&quot;: &quot;&quot;, &quot;[美] Stanley B. Lippman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2017-09-29T07:36:54.432297+00:00" name="calibre:timestamp"/>
+        <meta content="C++ Primer 中文版（第 5 版）" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

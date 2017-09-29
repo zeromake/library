@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">57</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f849bb5b-aa46-4fa7-a0f5-b621836f7f59</dc:identifier>
+        <dc:title>Html5权威指南</dc:title>
+        <dc:creator opf:file-as="Freeman, Adam" opf:role="aut">[美] Adam Freeman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-04-25T08:39:59+00:00</dc:date>
+        <dc:description>&lt;p&gt;《HTML5 权威指南》是系统学习网页设计的权威参考图书。本书分为五部分：第一部分介绍学习本书的预备知识和HTML、CSS 和JavaScript 的最新进展；第二部分讨论HTML 元素，并详细说明了HTML5中新增和修改的元素；第三部分阐述CSS，涵盖了所有控制内容样式的CSS 选择器和属性，并辅以大量代码示例和图示；第四部分介绍DOM，剖析如何用JavaScript 操纵HTML 内容；第五部分讲解Ajax、多媒体和canvas 元素等HTML5 高级特性。
+本书面向初学者和中等水平Web 开发人员，是牢固掌握HTML5、CSS3 和JavaScript 的必读之作。&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="DOUBAN">25786074</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>HTML5权威指南</dc:subject>
+        <meta content="{&quot;[美] Adam Freeman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2017-09-29T07:58:53.182155+00:00" name="calibre:timestamp"/>
+        <meta content="Html5权威指南" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

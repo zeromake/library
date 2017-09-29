@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">579fb736-f453-4cfd-8c95-38270d37ed91</dc:identifier>
+        <dc:title>Android高薪之路</dc:title>
+        <dc:creator opf:file-as="李宁" opf:role="aut">李宁</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-30T16:00:00+00:00</dc:date>
+        <dc:description>《Android高薪之路:Android程序员面试宝典》取材于各大IT公司面试真题，所给出的试题尽可能地覆盖了Android应用开发的各个方面，而且大多数试题都有解析部分，读者可以通过这部分更深入地理解试题中所包含的技术内容，希望真正做到由点成线，举一反三。《Android高薪之路:Android程序员面试宝典》中还将Android中涉及的各个常用技术问题进行筛选、分类。这样读者可以有的放矢，对自己还没有掌握的Android技术进行重点攻破，从而起到事半功倍的效果。除了对每道题目都有详细的解析和回答外，对相关知识点还有扩展说明。《Android高薪之路:Android程序员面试宝典》对面试中Android常见的题型和常用解答技巧进行了介绍，它不仅能帮助求职者快速复习相关知识点，也对现代职业人如何有效求职做了详细解说。《Android高薪之路:Android程序员面试宝典》对于读者从求职就业到提升计算机专业知识都有显著的帮助。</dc:description>
+        <dc:identifier opf:scheme="DOUBAN">10582508</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>Android程序员面试宝典</dc:subject>
+        <meta content="{&quot;李宁&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2017-09-29T07:30:18.305993+00:00" name="calibre:timestamp"/>
+        <meta content="Android高薪之路" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

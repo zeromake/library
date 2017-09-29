@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">58</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">787d6092-76da-4c98-a395-1b12918cf60c</dc:identifier>
+        <dc:title>JavaScript设计模式与开发实践</dc:title>
+        <dc:creator opf:file-as="曾探" opf:role="aut">曾探</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-04-24T07:36:00+00:00</dc:date>
+        <dc:description>本书在尊重《设计模式》原意的同时，针对JavaScript语言特性全面介绍了更适合JavaScript程序员的了16个常用的设计模式，讲解了JavaScript面向对象和函数式编程方面的基础知识，介绍了面向对象的设计原则及其在设计模式中的体现，还分享了面向对象编程技巧和日常开发中的代码重构。本书将教会你如何把经典的设计模式应用到JavaScript语言中，编写出优美高效、结构化和可维护的代码。</dc:description>
+        <dc:identifier opf:scheme="DOUBAN">26382780</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;曾探&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2017-09-29T08:02:18.121878+00:00" name="calibre:timestamp"/>
+        <meta content="JavaScript设计模式与开发实践" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
