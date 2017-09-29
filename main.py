@@ -54,19 +54,22 @@ def build_markdown(options):
     }
     metas = read_old_meta()
     buffer = []
-    buffer.append('# TOC')
-    buffer.append('\n')
-    buffer.append('[TOC]')
+    tocs = []
+    tocs.append('# TOC')
+    tocs.append('\n')
+    # buffer.append('[TOC]')
     for book_type in metas:
         buffer.append('\n')
         buffer.append('## %s' % (book_type['dir_name']))
         buffer.append('> [📚%s](%s)' % (book_type['name'], book_type['dir_name']))
+        tocs.append('- [%s](#%s)' % (book_type['name'], book_type['dir_name']))
         for book in book_type['books']:
             book_name = book['file']
             title = book['title'] if 'title' in book and book['title'].strip() != '' else book_name
             buffer.append('\n')
             buffer.append('### %s' % title)
             buffer.append('[📖%s](%s) [📥下载](../../info/lfs/objects/%s/%s)' % (title, book_type['dir_name'] + '/' + book_name, book['sha_256'], book_name))
+            tocs.append('    - [%s](#%s)' % (title, title))
             for key, item in book.items():
                 if key in meta_dict:
                     handle = meta_dict[key]
@@ -76,8 +79,10 @@ def build_markdown(options):
                         str1 = handle(item)
                         if str1:
                             buffer.append('- %s: %s' % str1)
+    
 
     with open('TOC.md', 'w') as fd:
+        fd.write("\n".join(tocs))
         fd.write("\n".join(buffer))
         
 
