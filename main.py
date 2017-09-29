@@ -69,7 +69,7 @@ def build_markdown(options):
             buffer.append('\n')
             buffer.append('### %s' % title)
             buffer.append('[📖%s](%s) [📥下载](../../info/lfs/objects/%s/%s)' % (title, book_type['dir_name'] + '/' + book_name, book['sha_256'], book_name))
-            tocs.append('    - [%s](#%s)' % (title, title))
+            tocs.append('    - [%s](#%s)' % (title, safe_toc(title)))
             for key, item in book.items():
                 if key in meta_dict:
                     handle = meta_dict[key]
@@ -84,6 +84,11 @@ def build_markdown(options):
     with open('TOC.md', 'w') as fd:
         fd.write("\n".join(tocs))
         fd.write("\n".join(buffer))
+
+def safe_toc(toc):
+    toc = toc.lower().replace(' ', '-')
+    pat = '[+:,.()（），：=]'
+    return re.sub(pat, '', toc,)
         
 
 def build_metas(options):
