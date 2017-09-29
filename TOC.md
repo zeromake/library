@@ -2,82 +2,82 @@
 
 
 - [算法](#algorithm)
-    - [算法引论](#算法引论)
-    - [算法设计与分析基础(第3版)](#算法设计与分析基础第3版)
-    - [编译原理](#编译原理)
+    - [算法引论](#算法引论): 8.9
+    - [算法设计与分析基础(第3版)](#算法设计与分析基础第3版): 8.8
+    - [编译原理](#编译原理): 7.8
 - [安卓](#android)
     - [更上一层楼－Android研发工程师高级进阶](#更上一层楼android研发工程师高级进阶)
-    - [Android高薪之路](#android高薪之路)
+    - [Android高薪之路](#android高薪之路): 6.9
     - [深入理解Android：卷I](#深入理解android卷i)
     - [深入理解Android:卷II](#深入理解android卷ii)
 - [C语言](#c)
-    - [C Primer Plus](#c-primer-plus)
+    - [C Primer Plus](#c-primer-plus): 9.1
     - [lua源码分析.pdf](#lua源码分析pdf)
-    - [数据结构与算法分析](#数据结构与算法分析)
-    - [算法精解](#算法精解)
+    - [数据结构与算法分析](#数据结构与算法分析): 8.9
+    - [算法精解](#算法精解): 8.3
 - [C++语言](#c++)
-    - [C++ Primer Plus](#c-primer-plus)
-    - [C++ Primer 中文版（第 5 版）](#c-primer-中文版第-5-版)
-    - [C++并发编程实战](#c并发编程实战)
-    - [Linux多线程服务端编程](#linux多线程服务端编程)
-    - [完美c++（第5版）（双色）](#完美c第5版双色)
-    - [数据结构与算法分析](#数据结构与算法分析)
+    - [C++ Primer Plus](#c-primer-plus): 8.6
+    - [C++ Primer 中文版（第 5 版）](#c-primer-中文版第-5-版): 9.3
+    - [C++并发编程实战](#c并发编程实战): 6.7
+    - [Linux多线程服务端编程](#linux多线程服务端编程): 8.8
+    - [完美c++（第5版）（双色）](#完美c第5版双色): 7.4
+    - [数据结构与算法分析](#数据结构与算法分析): 8.6
     - [高速上手 C++11/14](#高速上手-c11/14)
 - [css](#css)
-    - [Css揭秘](#css揭秘)
-    - [Css权威指南（第三版）](#css权威指南第三版)
-    - [Css禅意花园](#css禅意花园)
-    - [响应式Web设计](#响应式web设计)
+    - [Css揭秘](#css揭秘): 9.6
+    - [Css权威指南（第三版）](#css权威指南第三版): 8.5
+    - [Css禅意花园](#css禅意花园): 8.4
+    - [响应式Web设计](#响应式web设计): 7.2
 - [版本管理](#cvs)
-    - [Pro Git2 - GitBook](#pro-git2---gitbook)
-    - [Pro Git (Second Edition)](#pro-git-second-edition)
+    - [Pro Git2 - GitBook](#pro-git2---gitbook): 9.3
+    - [Pro Git (Second Edition)](#pro-git-second-edition): 9.3
 - [设计](#design)
-    - [写给大家看的设计书（第4版）](#写给大家看的设计书第4版)
+    - [写给大家看的设计书（第4版）](#写给大家看的设计书第4版): 8.9
 - [软件工程](#engineering)
-    - [微服务设计](#微服务设计)
-    - [持续交付](#持续交付)
-    - [敏捷开发的艺术](#敏捷开发的艺术)
+    - [微服务设计](#微服务设计): 8.2
+    - [持续交付](#持续交付): 8.6
+    - [敏捷开发的艺术](#敏捷开发的艺术): 8.3
     - [程序员的自我修养](#程序员的自我修养)
-    - [软件架构师的12项修炼](#软件架构师的12项修炼)
-    - [软技能：代码之外的生存指南](#软技能代码之外的生存指南)
-    - [高效程序员的45个习惯](#高效程序员的45个习惯)
+    - [软件架构师的12项修炼](#软件架构师的12项修炼): 7.5
+    - [软技能：代码之外的生存指南](#软技能代码之外的生存指南): 8.3
+    - [高效程序员的45个习惯](#高效程序员的45个习惯): 8.2
 - [健康](#health)
-    - [爱上跑步的13周](#爱上跑步的13周)
+    - [爱上跑步的13周](#爱上跑步的13周): 7.6
 - [Java](#java)
     - [Gradle User Guide 中文版](#gradle-user-guide-中文版)
-    - [两周自制脚本语言](#两周自制脚本语言)
-    - [深入理解Java虚拟机（第2版）](#深入理解java虚拟机第2版)
-    - [疯狂Java讲义](#疯狂java讲义)
+    - [两周自制脚本语言](#两周自制脚本语言): 8.1
+    - [深入理解Java虚拟机（第2版）](#深入理解java虚拟机第2版): 8.9
+    - [疯狂Java讲义](#疯狂java讲义): 8.1
     - [疯狂java实战演义李刚.pdf](#疯狂java实战演义李刚pdf)
 - [JavaScript](#javascript)
-    - [Chrome扩展及应用开发](#chrome扩展及应用开发)
-    - [Html5权威指南](#html5权威指南)
+    - [Chrome扩展及应用开发](#chrome扩展及应用开发): 8.1
+    - [Html5权威指南](#html5权威指南): 8.6
     - [JS函数式编程指南](#js函数式编程指南)
-    - [JavaScript设计模式与开发实践](#javascript设计模式与开发实践)
-    - [Web全栈工程师的自我修养](#web全栈工程师的自我修养)
+    - [JavaScript设计模式与开发实践](#javascript设计模式与开发实践): 9.1
+    - [Web全栈工程师的自我修养](#web全栈工程师的自我修养): 7.5
     - [從Promise開始的JavaScript異步生活](#從promise開始的javascript異步生活)
     - [從ES6開始的JavaScript學習生活](#從es6開始的javascript學習生活)
-    - [JavaScript权威指南(第6版)](#javascript权威指南第6版)
-    - [你不知道的JavaScript（上卷）](#你不知道的javascript上卷)
-    - [你不知道的JavaScript（中卷）](#你不知道的javascript中卷)
+    - [JavaScript权威指南(第6版)](#javascript权威指南第6版): 8.9
+    - [你不知道的JavaScript（上卷）](#你不知道的javascript上卷): 9.4
+    - [你不知道的JavaScript（中卷）](#你不知道的javascript中卷): 9.1
     - [前端工程师手册](#前端工程师手册)
-    - [数据结构与算法JavaScript描述](#数据结构与算法javascript描述)
-    - [深入浅出Node.js](#深入浅出nodejs)
-    - [锋利的jQuery](#锋利的jquery)
+    - [数据结构与算法JavaScript描述](#数据结构与算法javascript描述): 6.4
+    - [深入浅出Node.js](#深入浅出nodejs): 8.5
+    - [锋利的jQuery](#锋利的jquery): 8.5
 - [协议](#protocol)
-    - [Http权威指南](#http权威指南)
+    - [Http权威指南](#http权威指南): 8.6
     - [Lighttpd源码分析](#lighttpd源码分析)
 - [Python](#python)
-    - [Python Cookbook 中文版，第 3 版](#python-cookbook-中文版第-3-版)
-    - [Python核心编程（第二版）](#python核心编程第二版)
-    - [Python核心编程（第二版）](#python核心编程第二版)
-    - [Python源码剖析](#python源码剖析)
-    - [Python高级编程](#python高级编程)
+    - [Python Cookbook 中文版，第 3 版](#python-cookbook-中文版第-3-版): 8.9
+    - [Python核心编程（第二版）](#python核心编程第二版): 7.7
+    - [Python核心编程（第二版）](#python核心编程第二版): 7.7
+    - [Python源码剖析](#python源码剖析): 8.7
+    - [Python高级编程](#python高级编程): 7.6
     - [Violent Python 中文版](#violent-python-中文版)
-    - [Python Cookbook 中文版，第 3 版](#python-cookbook-中文版第-3-版)
-    - [Python编程实战](#python编程实战)
-    - [流畅的Python](#流畅的python)
-    - [编写高质量代码：改善Python程序的91个建议](#编写高质量代码改善python程序的91个建议)
+    - [Python Cookbook 中文版，第 3 版](#python-cookbook-中文版第-3-版): 8.9
+    - [Python编程实战](#python编程实战): 7.6
+    - [流畅的Python](#流畅的python): 9.1
+    - [编写高质量代码：改善Python程序的91个建议](#编写高质量代码改善python程序的91个建议): 7.4
 - [安全](#safety)
     - [区块链技术指南](#区块链技术指南)
     - [加密与解密(第3版)](#加密与解密第3版)

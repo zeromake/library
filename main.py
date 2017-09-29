@@ -10,6 +10,7 @@ from urllib import parse
 from ebooklib import epub
 from PyPDF2 import PdfFileReader
 from PyPDF2.generic import IndirectObject, TextStringObject
+import requests
 
 try:
     reload(sys)
@@ -70,7 +71,16 @@ def build_markdown(options):
             buffer.append('\n')
             buffer.append('### %s' % title)
             buffer.append('[📖%s](%s) [📥下载](../../info/lfs/objects/%s/%s)' % (title, book_type['dir_name'] + '/' + book_name, book['sha_256'], book_name))
-            tocs.append('    - [%s](#%s)' % (title, safe_toc(title)))
+            toc = '    - [%s](#%s)' % (title, safe_toc(title))
+            if 'identifier' in book and 'DOUBAN' in book['identifier']:
+                douban_id = book['identifier']['DOUBAN']
+                r = requests.get('https://api.douban.com/v2/book/%s' % douban_id)
+                star_count = float(r.json()['rating']['average'])
+            else:
+                star_count = float(book.get('rating', 0.0))
+            if star_count != 0.0:
+                toc += ': %s' % (star_count)
+            tocs.append(toc)
             for key, item in book.items():
                 if key in meta_dict:
                     handle = meta_dict[key]
