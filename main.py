@@ -87,7 +87,7 @@ def build_markdown(options):
 
 def safe_toc(toc):
     toc = toc.lower().replace(' ', '-')
-    pat = '[+:,.()（），：=]'
+    pat = '[+:,.()（），：=－]'
     return re.sub(pat, '', toc,)
         
 
