@@ -61,7 +61,8 @@ def build_markdown(options):
         buffer.append('\n')
         buffer.append('## %s' % (book_type['dir_name']))
         buffer.append('> [📚%s](%s)' % (book_type['name'], book_type['dir_name']))
-        for book_name, book in book_type['books'].items():
+        for book in book_type['books']:
+            book_name = book['file']
             title = book['title'] if 'title' in book and book['title'].strip() != '' else book_name
             buffer.append('\n')
             buffer.append('### %s' % title)
@@ -89,19 +90,20 @@ def build_metas(options):
     for dir_meta in metas:
         dir_name = dir_meta['dir_name']
         print("reads: " + dir_name)
-        books = {}
+        books = []
         if 'books' in dir_meta:
             old_books = dir_meta['books']
         else:
-            old_books = None
+            old_books = []
+        old_sha = {book['file'] : (book['sha_256'], index) for index, book in enumerate(old_books)}
         for f in os.listdir(dir_name):
             file_name = os.path.join(dir_name, f)
             if os.path.isfile(file_name):
                 # hash_str = subprocess.check_output(['sha256sum', file_name])
                 # hash_sum = hash_str.decode().split(" ")[0]
                 hash_sum = file_sha256(file_name)
-                if '-f' not in options and old_books and f in old_books and old_books[f]['sha_256'] == hash_sum:
-                    meta = old_books[f]
+                if '-f' not in options and old_books and f in old_sha and old_sha[f][0] == hash_sum:
+                    meta = old_books[old_sha[f][1]]
                     print("|--read meta miss: " + f)
                 elif f.endswith('.pdf'):
                     print("|--read meta: " + f)
@@ -115,7 +117,9 @@ def build_metas(options):
                     meta = None
                 if meta:
                     meta['sha_256'] = hash_sum
-                    books[f] = meta
+                    meta['file'] = f
+                    books.append(meta)
+        books.sort(key=lambda x: x['file'])
         dir_meta['books'] = books
     save_old_meta(metas)
 
