@@ -117,14 +117,10 @@ def build_metas(options):
                     meta = old_books[old_sha[f][1]]
                     print("|--read meta miss: " + f)
                 elif f.endswith('.pdf'):
-                    if '-o' not in options:
+                    opf_name = os.path.join(dir_name, f[:f.rfind('.')] + '.opf')
+                    if '-o' not in options and os.path.exists(opf_name):
                         print("|--read opf meta: " + f)
-                        meta = {}
-                        opf_name = os.path.join(dir_name, f[:f.rfind('.')] + '.opf')
-                        if os.path.exists(opf_name):
-                            meta_opf = read_meta_opf(opf_name)
-                            for key, value in meta_opf.items():
-                                meta[key] = value
+                        meta = read_meta_opf(opf_name)
                     else:
                         print("|--read pdf meta: " + f)
                         meta = read_meta_pdf(file_name)

@@ -192,6 +192,10 @@
         "file": "C Primer Plus第五版 中文版.epub"
       },
       {
+        "producer": "Mac OS X 10.10.1 Quartz PDFContext",
+        "creator": "LaTeX with hyperref package",
+        "creation_date": "D:20150121094602Z00'00'",
+        "mod_date": "D:20150121094602Z00'00'",
         "type": "pdf",
         "sha_256": "251052e74cd98ad9558faebce2dc26f1aa2035f6e2d768777f40024680344203",
         "file": "lua源码分析.pdf"
@@ -955,6 +959,11 @@
         "file": "疯狂Java讲义-第3版.pdf"
       },
       {
+        "author": "雨林木风",
+        "creation_date": "D:20101211221454+08'00'",
+        "creator": "Adobe Acrobat Pro 9.3.1",
+        "mod_date": "D:20101211221454+08'00'",
+        "producer": "Adobe Acrobat Pro 9.3.1",
         "type": "pdf",
         "sha_256": "9e273db1c2687209feb0a62aa741a4b6a5b641504361cfe74863cf021dd5fd48",
         "file": "疯狂java实战演义李刚.pdf"
