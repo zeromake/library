@@ -35,6 +35,10 @@ def identifier_format(identifier):
         return None
     return "书号　　", ''.join(format_arr)
 
+def rating_format(rating):
+    average = float(rating['average'])
+    return '评分　　', '暂无评分'if average == 0.0 else average
+
 def build_markdown(options):
     """
     通过元数据生成markdown
@@ -43,16 +47,26 @@ def build_markdown(options):
         'subject': "标签　　",
         'publisher': "出版社　",
         'description': "简介　　",
+        'summary': "简介　　",
+        'price': "价格　　",
+        'pages': "页数　　",
         'language': "国家语言",
         'creator': "创建人　",
         'date': "出版时间",
+        'pubdate': "出版时间",
+        'tags': lambda tags: ('标签　　', ' '.join(['`%s`' % row['title'] for row in tags])),
         'contributor': "创建工具",
         'identifier': identifier_format,
         'type': "文件类型",
         'creation_date': "创建时间",
         'mod_date': "修改时间",
         'producer': "制作人　",
-        'rating': "评分　　"
+        'author': lambda authors: ('作者　　', ' '.join(['`%s`' % row for row in authors])),
+        'subtitle': "副标题　",
+        'rating': rating_format,
+        'alt': "豆瓣地址",
+        'series': lambda series: ('从书　　', series['title']),
+        'translator': lambda translator: ('翻译　　', ' '.join(['`%s`' % row for row in translator])),
     }
     metas = read_old_meta()
     buffer = []
@@ -72,20 +86,23 @@ def build_markdown(options):
             buffer.append('### %s' % title)
             buffer.append('[📖%s](%s) [📥下载](../../info/lfs/objects/%s/%s)' % (title, book_type['dir_name'] + '/' + book_name, book['sha_256'], book_name))
             toc = '    - [%s](#%s)' % (title, safe_toc(title))
-            if 'identifier' in book and 'DOUBAN' in book['identifier']:
-                douban_id = book['identifier']['DOUBAN']
-                r = requests.get('https://api.douban.com/v2/book/%s' % douban_id)
-                star_count = float(r.json()['rating']['average'])
-            else:
-                star_count = float(book.get('rating', 0.0))
-            if star_count != 0.0:
+            # if 'identifier' in book and 'DOUBAN' in book['identifier']:
+            #     douban_id = book['identifier']['DOUBAN']
+            #     r = requests.get('https://api.douban.com/v2/book/%s' % douban_id)
+            #     star_count = float(r.json()['rating']['average'])
+            # else:
+            if 'rating' in book:
+                star_count = book['rating']['average']
                 toc += ': %s' % (star_count)
+            else:
+                pass
             tocs.append(toc)
             for key, item in book.items():
                 if key in meta_dict:
                     handle = meta_dict[key]
                     if isinstance(handle, str):
-                        buffer.append('- %s: %s' % (handle, item))
+                        if item != '':
+                            buffer.append('- %s: %s' % (handle, item))
                     else:
                         str1 = handle(item)
                         if str1:
@@ -142,6 +159,12 @@ def build_metas(options):
                 else:
                     meta = None
                 if meta:
+                    if '-d' in options and 'identifier' in meta and 'DOUBAN' in meta['identifier']:
+                        douban_id = meta['identifier']['DOUBAN']
+                        r = requests.get('https://api.douban.com/v2/book/%s' % douban_id)
+                        douban_meta = r.json()
+                        douban_meta['type'] = meta['type']
+                        meta = douban_meta
                     meta['sha_256'] = hash_sum
                     meta['file'] = f
                     books.append(meta)
