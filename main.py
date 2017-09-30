@@ -148,6 +148,8 @@ def build_metas(options):
                     if '-o' not in options and os.path.exists(opf_name):
                         print("|--read opf meta: " + f)
                         meta = read_meta_opf(opf_name)
+                        if 'rating' in meta:
+                            del meta['rating']
                     else:
                         print("|--read pdf meta: " + f)
                         meta = read_meta_pdf(file_name)
@@ -155,15 +157,20 @@ def build_metas(options):
                 elif f.endswith('.epub'):
                     print("|--read epub meta: " + f)
                     meta = read_meta_epub(file_name)
+                    if 'rating' in meta:
+                        del meta['rating']
                     meta['type'] = 'epub'
                 else:
                     meta = None
                 if meta:
                     if '-d' in options and 'identifier' in meta and 'DOUBAN' in meta['identifier']:
                         douban_id = meta['identifier']['DOUBAN']
-                        r = requests.get('https://api.douban.com/v2/book/%s' % douban_id)
+                        douban_url = 'https://api.douban.com/v2/book/%s' % douban_id
+                        print('|-- read douban meta: ', douban_url)
+                        r = requests.get(douban_url)
                         douban_meta = r.json()
                         douban_meta['type'] = meta['type']
+                        douban_meta['title'] = meta['title']
                         meta = douban_meta
                     meta['sha_256'] = hash_sum
                     meta['file'] = f

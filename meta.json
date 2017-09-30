@@ -1058,7 +1058,7 @@
         "publisher": "电子工业出版社",
         "isbn10": "7121231980",
         "isbn13": "9787121231988",
-        "title": "完美C++（第5版）（双色）",
+        "title": "完美c++（第5版）（双色）",
         "url": "https://api.douban.com/v2/book/25929393",
         "alt_title": "",
         "author_intro": "",
@@ -1251,7 +1251,7 @@
         "publisher": "人民邮电出版社",
         "isbn10": "711541694X",
         "isbn13": "9787115416940",
-        "title": "CSS揭秘",
+        "title": "Css揭秘",
         "url": "https://api.douban.com/v2/book/26745943",
         "alt_title": "CSS Secrets: Better Solutions to Everyday Web Design Problems",
         "author_intro": "Lea Verou\nW3C CSS工作组特邀专家，设计CSS语言的委员之一，此前曾在W3C担任开发者代言人。目前，她在麻省理工学院从事人机交互领域的研究。她还是一位博客作家，并经常在国际性的技术会议上担任讲师；她创建的多个开源项目广受开发者欢迎。\nCSS魔法\n原名张鹏，国内知名的CSS技术专家，百姓网前端架构师。拥有近十年的网站开发经验，在移动前端领域积累颇深，自称“披着工程师外衣的设计师”。他是CMUI、Action、GHX等开源项目的作者，曾为GitHub、Gulp、Stylus等网站和项目翻译过大量文档；其生动活泼、循序渐进的博客写作风格深受读者喜爱；在CSS Conf等技术会议上所作的演讲广受好评。",
@@ -1334,7 +1334,7 @@
         "publisher": "中国电力出版社",
         "isbn10": "7508355946",
         "isbn13": "9787508355948",
-        "title": "CSS权威指南（第三版）",
+        "title": "Css权威指南（第三版）",
         "url": "https://api.douban.com/v2/book/2308234",
         "alt_title": "",
         "author_intro": "",
@@ -1422,7 +1422,7 @@
         "publisher": "人民邮电出版社",
         "isbn10": "711516035X",
         "isbn13": "9787115160355",
-        "title": "CSS禅意花园",
+        "title": "Css禅意花园",
         "url": "https://api.douban.com/v2/book/2052176",
         "alt_title": "",
         "author_intro": "Dave Shea是一位图像设计师，“CSS禅意花园”网站的创始人和耕耘者，该网站获得了很多奖项，其中包括SouthWest Interactive会议授予的\"Best of Show”。Dave Shea曾在全球的行业大会上发表演讲，其作品被世界各地的书籍和杂志采用。他还是Web Standards Project（WaSP）的成员，这是一个由Web开发人员和设计师组成的小组，致力于推广基于跨平台和非专用技术的Web设计。Dave是Web设计机构Bright Creative的拥有者兼主管，还为其在线出版物mezzoblue.com编写所有Web内容几乎均为Dave所作。\nMollv E．Holzschlag是一位作家、教师和Web设计师，编写了30多本有关Web设计和开发的图书。她享有“最伟大的数字作家之一”的美誉，同时被认为是网上最有影响力的25位女性之一。Molly无疑是Web设计和开发界最有趣、最活跃的人物之一。\n作为WaSP指导委员会的成员，Molly同其他Web开发人员和设计师一道，致力于推广w3C推荐规范。她还在亚利桑那大学、菲尼克斯大学和比马社区学院教授“网站管理员(Webmaster)”课程。在Web Techniques Magazine关闭之前的最后三年中，Molly在该杂志撰写的专栏Integrated Design深受欢迎；她还在WebReview．tom担任过一年的执行编辑。",
@@ -1591,7 +1591,7 @@
         "publisher": "Apress",
         "isbn10": "1484200772",
         "isbn13": "9781484200773",
-        "title": "Pro Git (Second Edition)",
+        "title": "Pro Git2 - GitBook",
         "url": "https://api.douban.com/v2/book/26208470",
         "alt_title": "",
         "author_intro": "",
@@ -2132,81 +2132,83 @@
       {
         "rating": {
           "max": 10,
-          "numRaters": 55,
-          "average": "8.3",
+          "numRaters": 415,
+          "average": "8.0",
           "min": 0
         },
-        "subtitle": "The software developer's life manual",
+        "subtitle": "代码之外的生存指南",
         "author": [
           "John Sonmez"
         ],
-        "pubdate": "2014-12-29",
+        "pubdate": "2016-7",
         "tags": [
           {
-            "count": 35,
+            "count": 257,
+            "name": "软技能",
+            "title": "软技能"
+          },
+          {
+            "count": 210,
             "name": "程序员",
             "title": "程序员"
           },
           {
-            "count": 32,
-            "name": "自我成长",
-            "title": "自我成长"
-          },
-          {
-            "count": 23,
-            "name": "职场",
-            "title": "职场"
-          },
-          {
-            "count": 22,
-            "name": "成长",
-            "title": "成长"
-          },
-          {
-            "count": 20,
+            "count": 204,
             "name": "个人管理",
             "title": "个人管理"
           },
           {
-            "count": 18,
+            "count": 126,
             "name": "计算机",
             "title": "计算机"
           },
           {
-            "count": 13,
-            "name": "管理",
-            "title": "管理"
+            "count": 112,
+            "name": "自我管理",
+            "title": "自我管理"
           },
           {
-            "count": 13,
-            "name": "人生",
-            "title": "人生"
+            "count": 67,
+            "name": "软件工程",
+            "title": "软件工程"
+          },
+          {
+            "count": 67,
+            "name": "编程",
+            "title": "编程"
+          },
+          {
+            "count": 53,
+            "name": "哲学&方法论&思想",
+            "title": "哲学&方法论&思想"
           }
         ],
-        "origin_title": "",
-        "image": "https://img3.doubanio.com/mpic/s27997991.jpg",
-        "binding": "Paperback",
-        "translator": [],
-        "catalog": "Table of Contents\nWhy this book is unlike any book you've ever read\nSECTION 1: CAREER\nGetting started with a \"BANG!\": Don't do what everyone else does\nThinking about the future: What are your goals?\nPeople skills: You need them more than you think\nHacking the interview\nEmployment options: Enumerate your choices\nWhat kind of software developer are you?\nNot all companies are equal\nClimbing the corporate ladder\nBeing a professional\nFreedom: How to quit your job\nFreelancing: Going out on your own\nCreating your first product\nDo you want to start a startup?\nWorking remotely survival strategies\nFake it till you make it\nResumes are BORING—Let's fix that\nDon't get religious about technology\nSECTION 2: MARKETING YOURSELF\nMarketing basics for code monkeys\nBuilding a brand that gets you noticed\nCreating a wildly successful blog\nYour primary goal: Add value to others\n#UsingSocialNetworks\nSpeaking, presenting, and training: Speak geek\nWriting books and articles that attract a following\nDon't be afraid to look like an idiot\nSECTION 3: LEARNING\nLearning how to learn: How to teach yourself\nMy 10-step process\nSteps 1-6: Do these once\nSteps 7-10: Repeat these\nLooking for mentors: Finding your Yoda\nTaking on an apprentice: Being Yoda\nTeaching: Learn you want? Teach you must.\nDo you need a degree or can you \"wing it?\"\nFinding gaps in your knowledge\nSECTION 4: PRODUCTIVITY\nIt all starts with focus\nMy personal productivity plan\nPomodoro Technique\nMy quota system: How I get way more done than I should\nHolding yourself accountable\nMultitasking dos and don'ts\nBurnout: I've got the cure!\nHow you're wasting your time\nThe importance of having a routine\nDeveloping habits: Brushing your code\nBreaking things down: How to eat an elephant\nThe value of hard work and why you keep avoiding it\nAny action is better than no action\nSECTION 5: FINANCIAL\nWhat are you going to do with your paycheck?\nHow to negotiate your salary\nOptions: Where all the fun is\nBits and bytes of real estate investing\nDo you really understand your retirement plan?\nThe danger of debt: SSDs are expensive\nBonus: How I retired at 33\nSECTION 6: FITNESS\nWhy you need to hack your health\nSetting your fitness criteria\nThermodynamics, calories, and you\nMotivation: Getting your butt out of the chair\nHow to gain muscle: Nerds can have bulging biceps\nHow to get hash-table abs\nStarting RunningProgram.exe\nStanding desks and other hacks\nTech gear for fitness: Geeking out\nSECTION 7: SPIRIT\nHow the mind influences the body\nHaving the right mental attitude: Rebooting\nBuilding a positive self-image: Programming your brain\nLove and relationships: Computers can't hold your hand\nMy personal success book list\nFacing failure head-on\nParting words",
-        "pages": "504",
+        "origin_title": "Soft Skills: The software developer's life manual",
+        "image": "https://img3.doubanio.com/mpic/s28889106.jpg",
+        "binding": "平装",
+        "translator": [
+          "王小刚"
+        ],
+        "catalog": "第1章 为何这本书与你先前读过的任何书籍都迥然不同 1\n篇 职业 5\n第2章 从非同凡响开始：绝不要做他人都在做的事 7\n第3章 思考未来：你的目标是什么 10\n第4章 人际交往能力：远比你想象的重要 14\n第5章 破解面试之道 18\n第6章 就业选择：列出你的选择 23\n第7章 你是哪类软件开发人员 28\n第8章 公司与公司是不一样的 33\n第9章 攀登晋升阶梯 38\n第10章 成为专业人士 42\n第11章 赢得自由——如何辞职 47\n第12章 成为自由职业者：开启自己的一片天地 54\n第13章 创建你的一个产品 60\n第14章 你打算开始创业吗 65\n第15章 远程工作的生存策略 70\n第16章 假装自己能成功 74\n第17章 单调乏味的简历——如何修改 77\n第18章 请勿陷入对技术的狂热之中 81\n第二篇 自我营销 85\n第19章 针对“码农”的营销基础课 87\n第20章 打造引人注目的品牌 92\n第21章 创建大获成功的博客 97\n第22章 你的主要目标：为他人增加价值 104\n第23章 善于运用社交媒体 107\n第24章 演讲、报告和培训：做“说话的极客” 112\n第25章 著书立说，吸引追随者 117\n第26章 百折不挠，越挫越勇 121\n第三篇 学习 125\n第27章 学习怎样学习：如何自我教育 127\n第28章 我的“十步学习法” 130\n第29章 第 1 步到第 6 步：这些步骤只做一次 133\n第30章 第7步到第10步：循环往复 140\n第31章 寻找导师：找到你的尤达 145\n第32章 开山收徒：成为尤达一样的大师 150\n第33章 传道授业：若要学知识，必得为人师 153\n第34章 你需要一个学位吗，还是可以对此忽略不计 157\n第35章 发现自己的知识短板 161\n第四篇 生产力 165\n第36章 一切始于专注 167\n第37章 我的私房“生产力提升计划” 171\n第38章 番茄工作法 177\n第39章 我的“定额工作法”：我是如何做到超额完成工作的 183\n第40章 对自己负责 187\n第41章 要不要多任务并行 191\n第42章 职业倦怠：我已找到解药 195\n第43章 时间是怎样被浪费掉的 200\n第44章 形成惯例的重要性 205\n第45章 培养习惯：刷新你的代码 209\n第46章 分解任务：如何吃掉一头大象 214\n第47章 努力工作的价值，以及为什么你总是逃避努力工作 219\n第48章 任何行动都比不采取行动好 223\n第五篇 理财 229\n第49章 怎样支配你的薪水 231\n第50章 怎样进行薪酬谈判 236\n第51章 期权：所有乐趣之所在 243\n第52章 房地产投资面面观 250\n第53章 你真的了解自己的退休计划吗 256\n第54章 债务的危害：社保债务代价昂贵 263\n第55章 额外馈赠：我是如何做到33岁退休的 267\n第六篇 健身 279\n第56章 为什么需要破解自己的健康密码 281\n第57章 设定你的健身标准 285\n第58章 热力学、热量和你 289\n第59章 动力：让你的屁股离开椅子 294\n第60章 如何增长肌肉：书呆子也能拥有强健的肌肉 298\n第61章 如何获得完美腹肌 305\n第62章 启动跑步程序 308\n第63章 站立式办公及其他窍门 311\n第64章 高科技健身装备：极客现身 315\n第七篇 精神 319\n第65章 心灵是如何影响身体的 321\n第66章 拥有正确的心态：重新启动 325\n第67章 构建一个积极的自我形象——规划你的大脑 330\n第68章 爱情与恋爱：计算机无法牵着你的手 335\n第69章 我的私房成功书单 339\n第70章 积极面对失败 344\n第71章 结束语 348\n附录A 如果你能写代码，你就能理解金融 350\n附录B 股市是如何运作的：系统的游戏规则 356\n附录C 垃圾进来，垃圾出去：饮食和营养基础知识 362\n附录D 如何吃出健康来：比萨并不是一个食物组 366",
+        "pages": "480",
         "images": {
-          "small": "https://img3.doubanio.com/spic/s27997991.jpg",
-          "large": "https://img3.doubanio.com/lpic/s27997991.jpg",
-          "medium": "https://img3.doubanio.com/mpic/s27997991.jpg"
+          "small": "https://img3.doubanio.com/spic/s28889106.jpg",
+          "large": "https://img3.doubanio.com/lpic/s28889106.jpg",
+          "medium": "https://img3.doubanio.com/mpic/s28889106.jpg"
         },
-        "alt": "https://book.douban.com/subject/26312275/",
-        "id": "26312275",
-        "publisher": "Manning Publications",
-        "isbn10": "1617292397",
-        "isbn13": "9781617292392",
-        "title": "Soft Skills",
-        "url": "https://api.douban.com/v2/book/26312275",
-        "alt_title": "",
-        "author_intro": "John Sonmez is a developer, teacher, and life coach who helps technical professionals boost their careers and live a more fulfilled life.",
-        "summary": "Soft Skills: The software developer's life manual is a unique guide, offering techniques and practices for a more satisfying life as a professional software developer. In it, developer and life coach John Sonmez addresses a wide range of important \"soft\" topics, from career and productivity to personal finance and investing, and even fitness and relationships, all from a developer-centric viewpoint.",
-        "price": "USD 34.99",
+        "alt": "https://book.douban.com/subject/26835090/",
+        "id": "26835090",
+        "publisher": "人民邮电出版社",
+        "isbn10": "7115429472",
+        "isbn13": "9787115429476",
+        "title": "软技能",
+        "url": "https://api.douban.com/v2/book/26835090",
+        "alt_title": "Soft Skills: The software developer's life manual",
+        "author_intro": "John Z. Sonmez是“Simple Programmer”网站的创始人，他不辞辛劳地追求着“将复杂问题转化为简单解决方案”的梦想。他为在线培训机构Pluralsight开发了50多门在线课程，涉及iOS、Android、.NET、Java和游戏开发等多个主题。\n他是“Get Up and CODE”播客的主持人，在这里他讨论程序员健身；他还是“Entreprogrammers”播客的主持人，在这里他和其他三位开发者/企业家分享他们构建在线业务的真实故事。\nJohn是软件开发人员的人生导师，他帮助软件工程师、程序员和其他专业技术人员推动事业进步，过上更充实的生活。他通过“化繁为简”的方法，赋予他们达成自身目标的力量。",
+        "summary": "这是一本真正从“人”（而非技术也非管理）的角度关注软件开发人员自身发展的书。书中论述的内容既涉及生活习惯，又包括思维方式，凸显技术中“人”的因素，全面讲解软件行业从业人员所需知道的所有“软技能”。本书聚焦于软件开发人员生活的方方面面，从揭秘面试的流程到精耕细作出一份杀手级简历，从创建大受欢迎的博客到打造你，从提高自己工作效率到与如何与“拖延症”做斗争，甚至包括如何投资不动产，如何关注自己的健康。本书共分为职业篇、自我营销篇、学习篇、生产力篇、理财篇、健身篇、精神篇等七篇，概括了软件行业从业人员所需的“软技能”。通过阅读本书，软件工程人员、编程人员和其他技术人员能够积极思考自己的职业生涯，丰富自己的生活，让自己更接近成功。",
+        "price": "59.00元",
         "type": "epub",
-        "sha_256": "920da8df1d629c01d3a7acef1ec797d39528062f7c6f2f05b7c1dbfa1b406845",
+        "sha_256": "813a7d66d9dc83caabeea8acad99c3a875a4f2b11b8588ed526a5ff7d432a334",
         "file": "软技能-代码之外的生存指南.epub"
       },
       {
@@ -2825,7 +2827,7 @@
         "publisher": "人民邮电出版社",
         "isbn10": "7115338361",
         "isbn13": "9787115338365",
-        "title": "HTML5权威指南",
+        "title": "Html5权威指南",
         "url": "https://api.douban.com/v2/book/25786074",
         "alt_title": "The definitive guide to HTML5",
         "author_intro": "Adam Freeman\n曾在多家名企担任高级职务，现为畅销技术图书作家，著有多部C#、.NET和Java方面的大部头作品。其中《ASP.NET 4高级程序设计（第4版）》、《精通ASP.NET MVC 3框架（第3版）》销量均在同品种中名列前茅，备受读者推崇。《HTML5权威指南》是Freeman专门为网页开发新手和网页设计师打造的经典参考书，这本书秉承作者的一贯风格，幽默风趣、简约凝练、逻辑性强，是广大Web开发人员的必读经典。",
@@ -3654,7 +3656,7 @@
         "publisher": "人民邮电出版社",
         "isbn10": "7115281483",
         "isbn13": "9787115281487",
-        "title": "HTTP权威指南",
+        "title": "Http权威指南",
         "url": "https://api.douban.com/v2/book/10746113",
         "alt_title": "HTTP: The Definitive Guide",
         "author_intro": "David Gourley是Endeca的首席技术官（Chief Technology Officer），负责Endeca产品的研究及开发。Endeca开发的因特网及内部网络信息访问解决方案为企业级数据的导航及研究提供了一些新的方式。在到Endeca工作之前，David是Inktomi基础工程组的一员，他在那儿帮助开发了Inktomi的因特网搜索数据库，是Inktomi的Web缓存产品的主要开发者。\nDavid在加州大学伯克利分校获得了计算机科学的学士学位，还拥有Web技术方面的几项专利。\nBrian Totty最近出任了Inktomi公司（这是1996年他参与建立的一家公司）研发部副总裁，在公司中他负责Web缓存、流媒体及因特网搜索技术的研发工作。他曾是Silicon Graphics公司的一名科学家，他在那儿为高性能网络和超级计算机系统设计软件并对其进行优化。在那之前，他是苹果计算机公司高级技术组的一名工程师。\nBrian在伊利诺伊大学Urbana-Champaign分校获得了计算机科学的博士学位，在MIT获得了计算机科学及电子工程的学士学位，在那里他获得了计算机系统研究的Organick奖。他还为加州大学扩展系统开发并讲授了一些屡获殊荣的因特网技术方面的课程。\nMarjorie Sayer在Inktomi公司负责编写Web缓存方面的软件。在加州大学伯克利分校获得了数学硕士和博士学位之后，一直致力于数学课程的改革。从1990年开始致力于能量资源管理、并行系统软件、电话和网络方面的写作。\nSailu Reddy目前在Inktomi公司负责嵌入式的性能增强型HTTP 代理的开发。Sailu从事复杂软件系统的开发已经有12年了，从1995年开始深入Web架构的研发工作。他是Netscape第一台Web服务器、Web 代理产品，以及后面几代产品的核心工程师。他具备HTTP应用程序、数据压缩技术、数据库引擎以及合作管理等方面的技术经验。Sailu在亚里桑那大学获得了信息系统的硕士学位并握有Web技术方面的多项专利。\nAnshu Aggarwal是Inktomi公司的工程总监。他领导着Inktomi公司Web缓存产品的协议处理工程组，从1997年就开始参与Inktomi的Web技术设计工作。Anshu在科罗拉多大学Boulder分校获得了计算机科学的硕士和博士学位，从事分布式多处理器的内存一致性技术研究。他还拥有电子工程的硕士和学士学位。Anshu撰写了多篇技术论文，还拥有两项专利。",
