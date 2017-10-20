@@ -1866,6 +1866,25 @@
     "name": "软件工程",
     "books": [
       {
+        "title_sort": "微服务：从设计到部署",
+        "timestamp": "2017-10-20T08:42:50.982773+00:00",
+        "publisher": "GitBook",
+        "description": "Nginx 经典微服务电子书中文翻译版本 —— http://oopsguy.com",
+        "language": "zh",
+        "creator": "oopsguy.com",
+        "title": "微服务：从设计到部署",
+        "date": "2017-10-10T13:08:15.861000+00:00",
+        "contributor": "calibre (3.8.0) [https://calibre-ebook.com]",
+        "identifier": {
+          "MOBI-ASIN": "3bb63576-e8e8-4c15-b055-40ec9b556c6b",
+          "uuid": "e001ac9a-f533-42d3-906b-2c0d84629b23",
+          "calibre": "e001ac9a-f533-42d3-906b-2c0d84629b23"
+        },
+        "type": "epub",
+        "sha_256": "48a9391762d3a320d7ced9d7a6d25700a566666d70fa09e68ac35073757b5968",
+        "file": "esigning-and-deploying-microservices.epub"
+      },
+      {
         "rating": {
           "max": 10,
           "numRaters": 281,
