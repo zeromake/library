@@ -163,14 +163,15 @@ def build_metas(options):
                 else:
                     meta = None
                 if meta:
-                    if '-d' in options and 'identifier' in meta and 'DOUBAN' in meta['identifier']:
-                        douban_id = meta['identifier']['DOUBAN']
+                    if '-d' in options and 'identifier' in meta and 'douban' in meta['identifier']:
+                        douban_id = meta['identifier']['douban']
                         douban_url = 'https://api.douban.com/v2/book/%s' % douban_id
                         print('|-- read douban meta: ', douban_url)
                         r = requests.get(douban_url)
                         douban_meta = r.json()
                         douban_meta['type'] = meta['type']
                         douban_meta['title'] = meta['title']
+                        douban_meta['meta_type'] = 'douban'
                         meta = douban_meta
                     meta['sha_256'] = hash_sum
                     meta['file'] = f
@@ -203,6 +204,7 @@ def read_meta_pdf(pdf_name):
                 new_info[key] = tmp.title()
             else:
                 new_info[key] = str(tmp)
+        new_info['meta_type'] = 'pdf'
         return new_info
 
 NAMESPACES = {'XML': 'http://www.w3.org/XML/1998/namespace',
@@ -238,9 +240,10 @@ def read_meta_opf(opf_name):
                     else:
                         if tag not in meta:
                             meta[tag] = {}
-                        meta[tag][val.get(identifier)] = val.text
+                        meta[tag][val.get(identifier).lower()] = val.text
                 else:
                     meta[tag] = val.text
+    meta['meta_type'] = 'opf'
     return meta
 
 def convert(name):
@@ -289,13 +292,14 @@ def read_meta_epub(epub_name):
             identifier = {}
             for iden in val:
                 iden_key = DOC_KEY if DOC_KEY in iden[1] else 'id'
-                identifier[iden[1][iden_key]] = iden[0]
+                identifier[iden[1][iden_key].lower()] = iden[0]
             meta[key] = identifier
         else:
             if len(val) == 1 and key not in ('subject', 'identifier'):
                 meta[key] = val[0][0]
             else:
                 meta[key] = [value[0] for value in val if len(value) > 0]
+    meta['meta_type'] = 'opf'
     return meta
 
 if __name__ == "__main__":

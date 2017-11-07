@@ -6,8 +6,8 @@
       {
         "rating": {
           "max": 10,
-          "numRaters": 121,
-          "average": "7.8",
+          "numRaters": 153,
+          "average": "8.0",
           "min": 0
         },
         "subtitle": "",
@@ -17,42 +17,42 @@
         "pubdate": "2017-3",
         "tags": [
           {
-            "count": 132,
+            "count": 159,
             "name": "算法",
             "title": "算法"
           },
           {
-            "count": 66,
+            "count": 78,
             "name": "计算机",
             "title": "计算机"
           },
           {
-            "count": 53,
+            "count": 65,
             "name": "编程",
             "title": "编程"
           },
           {
-            "count": 38,
+            "count": 46,
             "name": "Python",
             "title": "Python"
           },
           {
-            "count": 29,
+            "count": 36,
             "name": "初级",
             "title": "初级"
           },
           {
-            "count": 18,
+            "count": 24,
             "name": "Programming",
             "title": "Programming"
           },
           {
-            "count": 15,
+            "count": 18,
             "name": "IT",
             "title": "IT"
           },
           {
-            "count": 12,
+            "count": 14,
             "name": "IT类",
             "title": "IT类"
           }
@@ -86,6 +86,7 @@
         },
         "price": "49.00元",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "eda64163203e61ab7d77538b0021484edf20e9a5904ac39fb5a1f7ef2985d980",
         "file": "算法图解.epub"
       },
@@ -103,27 +104,27 @@
         "pubdate": "2005-9-1",
         "tags": [
           {
-            "count": 450,
+            "count": 451,
             "name": "算法",
             "title": "算法"
           },
           {
-            "count": 155,
+            "count": 156,
             "name": "计算机",
             "title": "计算机"
           },
           {
-            "count": 100,
+            "count": 101,
             "name": "algorithm",
             "title": "algorithm"
           },
           {
-            "count": 77,
+            "count": 78,
             "name": "计算机科学",
             "title": "计算机科学"
           },
           {
-            "count": 70,
+            "count": 71,
             "name": "算法设计",
             "title": "算法设计"
           },
@@ -138,7 +139,7 @@
             "title": "算法、数据结构"
           },
           {
-            "count": 38,
+            "count": 41,
             "name": "数学",
             "title": "数学"
           }
@@ -175,13 +176,14 @@
         },
         "price": "35.00元",
         "type": "pdf",
+        "meta_type": "douban",
         "sha_256": "cc6f545b84ec6999dbe9b88445a8cd7f20c36b19b13b18e30bbd48f2a9fb7d44",
         "file": "算法引论：一种创造性方法(扫描,无书签).pdf"
       },
       {
         "rating": {
           "max": 10,
-          "numRaters": 30,
+          "numRaters": 32,
           "average": "8.8",
           "min": 0
         },
@@ -192,7 +194,7 @@
         "pubdate": "2015-2-1",
         "tags": [
           {
-            "count": 99,
+            "count": 102,
             "name": "算法",
             "title": "算法"
           },
@@ -202,7 +204,7 @@
             "title": "计算机"
           },
           {
-            "count": 21,
+            "count": 23,
             "name": "数据结构与算法",
             "title": "数据结构与算法"
           },
@@ -257,6 +259,7 @@
         "summary": "作者基于丰富的教学经验，开发了一套全新的算法分类方法。该分类法站在通用问题求解策略的高度，对现有大多数算法准确分类，从而引领读者沿着一条清晰、一致、连贯的思路来探索算法设计与分析这一迷人领域。《算法设计与分析基础(第3版)》作为第3版，相对前版调整了多个章节的内容和顺序，同时增加了一些算法，并扩展了算法的应用，使得具体算法和通用算法设计技术的对应更加清晰有序；各章累计增加了70道习题，其中包括一些有趣的谜题和面试问题。《算法设计与分析基础(第3版)》十分适合用作算法设计和分析的基础教材，也适合任何有兴趣探究算法奥秘的读者使用，只要读者具备数据结构和离散数学的知识即可。",
         "price": "69.00元",
         "type": "pdf",
+        "meta_type": "douban",
         "sha_256": "8b2aee04a5d58ca47274f5695d6ca0e92fe1e431f0953d0e147f1ec44bf05dec",
         "file": "算法设计与分析基础.pdf"
       },
@@ -338,6 +341,7 @@
         },
         "price": "55.00元",
         "type": "pdf",
+        "meta_type": "douban",
         "sha_256": "820c0ec5c9fd0d2a368e5c642fa9110907d51f798eb6215ccd0819d097fc0690",
         "file": "编译原理-第二版.pdf"
       }
@@ -358,10 +362,11 @@
         "date": "2015-04-29T12:07:16.232986+00:00",
         "contributor": "calibre (3.7.0) [https://calibre-ebook.com]",
         "identifier": {
-          "MOBI-ASIN": "67c1ea7c-7f50-439f-9c8d-645b26ba1f16",
+          "mobi-asin": "67c1ea7c-7f50-439f-9c8d-645b26ba1f16",
           "uuid": "5532a7f0-fab3-457b-9ac3-adea053ce8ce",
           "calibre": "5532a7f0-fab3-457b-9ac3-adea053ce8ce"
         },
+        "meta_type": "opf",
         "type": "epub",
         "sha_256": "8a61158889a94d3c98249f5cc349ae0d43b95f90d59f9bc73a467a60facfee48",
         "file": "Android研发工程师高级进阶.epub"
@@ -445,6 +450,7 @@
         "ebook_price": "27.00",
         "price": "45.00元",
         "type": "pdf",
+        "meta_type": "douban",
         "sha_256": "6880a693734ebd927be1519b6f9f7e3d12369d122aa5069e6cf4e97473019fa4",
         "file": "Android高薪之路：Android程序员面试宝典.pdf"
       },
@@ -456,11 +462,12 @@
         "date": "2011-09-07T16:00:00+00:00",
         "creator": "邓凡平",
         "identifier": {
-          "MOBI-ASIN": "B00BTCM8Q2",
+          "mobi-asin": "B00BTCM8Q2",
           "uuid": "c10dc969-2603-481b-bc96-bf991ebbc2d0",
           "calibre": "c10dc969-2603-481b-bc96-bf991ebbc2d0"
         },
         "title": "深入理解Android：卷I",
+        "meta_type": "opf",
         "type": "epub",
         "sha_256": "7f49de4e256161e439af824db0c5cc36566faef5fb25f48ad0cecb2ff7e97448",
         "file": "深入理解Android卷I.epub"
@@ -471,7 +478,7 @@
         "publisher": "机械工业出版社",
         "contributor": "calibre (2.16.0) [http://calibre-ebook.com]",
         "identifier": {
-          "MOBI-ASIN": "ad62c7de-b880-41a7-8c59-1fa7b202658d",
+          "mobi-asin": "ad62c7de-b880-41a7-8c59-1fa7b202658d",
           "uuid": "b7519c0f-003d-4b9b-b209-b5e700a91276",
           "calibre": "b7519c0f-003d-4b9b-b209-b5e700a91276"
         },
@@ -479,6 +486,7 @@
         "title": "深入理解Android:卷II",
         "date": "2012-08-09T16:00:00+00:00",
         "creator": "邓凡平",
+        "meta_type": "opf",
         "type": "epub",
         "sha_256": "2dddd418f390a66b02b22fe47903407d9b920b7a5de9e8a3c725a95acf54a103",
         "file": "深入理解Android卷II.epub"
@@ -492,7 +500,7 @@
       {
         "rating": {
           "max": 10,
-          "numRaters": 1553,
+          "numRaters": 1569,
           "average": "9.1",
           "min": 0
         },
@@ -504,37 +512,37 @@
         "pubdate": "2005-2-1",
         "tags": [
           {
-            "count": 798,
+            "count": 809,
             "name": "编程",
             "title": "编程"
           },
           {
-            "count": 785,
+            "count": 788,
             "name": "c",
             "title": "c"
           },
           {
-            "count": 707,
+            "count": 719,
             "name": "c语言",
             "title": "c语言"
           },
           {
-            "count": 516,
+            "count": 527,
             "name": "计算机",
             "title": "计算机"
           },
           {
-            "count": 412,
+            "count": 420,
             "name": "程序设计",
             "title": "程序设计"
           },
           {
-            "count": 342,
+            "count": 346,
             "name": "经典",
             "title": "经典"
           },
           {
-            "count": 318,
+            "count": 326,
             "name": "C",
             "title": "C"
           },
@@ -569,6 +577,7 @@
         "summary": "《C Primer Plus（第5版）（中文版）》共17章。第1、2章学习C语言编程所需的预备知识。第3到15章介绍了C语言的相关知识，包括数据类型、格式化输入输出、运算符、表达式、流程控制语句、函数、数组和指针、字符串操作、内存管理、位操作等等，知识内容都针对C99标准；另外，第10章强化了对指针的讨论，第12章引入了动态内存分配的概念，这些内容更加适合读者的需求。第16章和第17章讨论了C预处理器和C库函数、高级数据表示（数据结构）方面的内容。附录给出了各章后面复习题、编程练习的答案和丰富的C编程参考资料。",
         "price": "60.00元",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "fd3fec526da6c0fd3f85a4db983dca9803238f122cc765524edfc10c1bd49c40",
         "file": "C Primer Plus第五版 中文版.epub"
       },
@@ -577,6 +586,7 @@
         "creator": "LaTeX with hyperref package",
         "creation_date": "D:20150121094602Z00'00'",
         "mod_date": "D:20150121094602Z00'00'",
+        "meta_type": "pdf",
         "type": "pdf",
         "sha_256": "251052e74cd98ad9558faebce2dc26f1aa2035f6e2d768777f40024680344203",
         "file": "lua源码分析.pdf"
@@ -584,7 +594,7 @@
       {
         "rating": {
           "max": 10,
-          "numRaters": 1464,
+          "numRaters": 1481,
           "average": "8.9",
           "min": 0
         },
@@ -595,42 +605,42 @@
         "pubdate": "2004-1-1",
         "tags": [
           {
-            "count": 1739,
+            "count": 1761,
             "name": "数据结构",
             "title": "数据结构"
           },
           {
-            "count": 1391,
+            "count": 1406,
             "name": "算法",
             "title": "算法"
           },
           {
-            "count": 689,
+            "count": 696,
             "name": "计算机",
             "title": "计算机"
           },
           {
-            "count": 536,
+            "count": 554,
             "name": "数据结构与算法分析",
             "title": "数据结构与算法分析"
           },
           {
-            "count": 526,
+            "count": 539,
             "name": "编程",
             "title": "编程"
           },
           {
-            "count": 493,
+            "count": 498,
             "name": "C",
             "title": "C"
           },
           {
-            "count": 406,
+            "count": 419,
             "name": "算法、数据结构",
             "title": "算法、数据结构"
           },
           {
-            "count": 318,
+            "count": 331,
             "name": "C语言",
             "title": "C语言"
           }
@@ -664,14 +674,15 @@
         },
         "price": "35.00元",
         "type": "pdf",
+        "meta_type": "douban",
         "sha_256": "3e96c8af63626ffe12bd73e49cc79cd026ef3dc9b0f843919d2bf1a5ecd511a8",
         "file": "数据结构与算法分析-C.pdf"
       },
       {
         "rating": {
           "max": 10,
-          "numRaters": 104,
-          "average": "8.3",
+          "numRaters": 105,
+          "average": "8.2",
           "min": 0
         },
         "subtitle": "C语言描述",
@@ -681,12 +692,12 @@
         "pubdate": "2012-8",
         "tags": [
           {
-            "count": 244,
+            "count": 243,
             "name": "算法",
             "title": "算法"
           },
           {
-            "count": 88,
+            "count": 89,
             "name": "C语言",
             "title": "C语言"
           },
@@ -701,7 +712,7 @@
             "title": "计算机"
           },
           {
-            "count": 42,
+            "count": 41,
             "name": "计算机科学",
             "title": "计算机科学"
           },
@@ -747,6 +758,7 @@
         "summary": "本书是数据结构和算法领域的经典之作，十余年来，畅销不衰！全书共分为三部分：第一部分首先介绍了数据结构和算法的概念，以及使用它们的原因和意义，然后讲解了数据结构和算法中最常用的技术——指针和递归，最后还介绍了算法的分析方法，旨在为读者学习这本书打下坚实的基础；第二部分对链表、栈、队列、集合、哈希表、堆、图等常用数据结构进行了深入阐述；第三部分对排序、搜索数值计算、数据压缩、数据加密、图算法、几何算法等经典算法进行了精辟的分析和讲解。\n本书的众多特色使得它在同类书中独树一帜：具体实现都采用正式的C语言代码而不是伪代码，在很多数据结构和算法的实现过程中，有大量细节问题是伪代码不能解决的；每一章都有精心组织的主题和应用；全部示例来自真实的应用，不只是一般的练习；对每种数据结构、算法和示例都进行了详细分析；每一章的末尾都会有一系列问题和对应的回答，旨在强调这一章的重要思想……\n本书中的代码尤为值得强调：所有实现都采用C语言编写，所有代码都优先用于教学目的，所有代码都在4种平台上经过完整测试，头文件记录了所有公共的接口，命名规则适用于全书所有的代码，所有的代码都包含大量注释……\n本书内容包括：\n· 数据结构和算法的概念，以及使用它们的原因和意义\n· 指针和递归\n· 算法分析\n· 常用数据结构：链表、栈、队列、集合、哈希表、树、堆、优先级队列以及图\n· 排序和搜索\n· 数值计算\n· 数据压缩\n· 数据加密\n· 图算法\n· 几何算法",
         "price": "79.00元",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "750d6c45decfd0e0dca0cc5ded4ff5baafc468cc963513543ec867dfb4f3aa2a",
         "file": "算法精解-c语言描述.epub"
       }
@@ -759,7 +771,7 @@
       {
         "rating": {
           "max": 10,
-          "numRaters": 243,
+          "numRaters": 250,
           "average": "8.6",
           "min": 0
         },
@@ -770,42 +782,42 @@
         "pubdate": "2012-6-19",
         "tags": [
           {
-            "count": 177,
+            "count": 183,
             "name": "C++",
             "title": "C++"
           },
           {
-            "count": 104,
+            "count": 108,
             "name": "编程",
             "title": "编程"
           },
           {
-            "count": 50,
+            "count": 57,
             "name": "计算机",
             "title": "计算机"
           },
           {
-            "count": 50,
-            "name": "经典",
-            "title": "经典"
-          },
-          {
-            "count": 50,
+            "count": 53,
             "name": "C/C++",
             "title": "C/C++"
           },
           {
-            "count": 45,
-            "name": "Programming",
-            "title": "Programming"
+            "count": 52,
+            "name": "经典",
+            "title": "经典"
           },
           {
-            "count": 43,
+            "count": 47,
             "name": "入门",
             "title": "入门"
           },
           {
-            "count": 19,
+            "count": 46,
+            "name": "Programming",
+            "title": "Programming"
+          },
+          {
+            "count": 21,
             "name": "技术",
             "title": "技术"
           }
@@ -840,13 +852,14 @@
         },
         "price": "99.00元",
         "type": "pdf",
+        "meta_type": "douban",
         "sha_256": "10e19996ff8031d2340ddf7c5349febecaf2308a0b7c94cffa699b7de5c2f9db",
         "file": "C++ Primer Plus  第6版  中文版.pdf"
       },
       {
         "rating": {
           "max": 10,
-          "numRaters": 821,
+          "numRaters": 848,
           "average": "9.3",
           "min": 0
         },
@@ -859,42 +872,42 @@
         "pubdate": "2013-9-1",
         "tags": [
           {
-            "count": 1045,
+            "count": 1067,
             "name": "C++",
             "title": "C++"
           },
           {
-            "count": 445,
+            "count": 458,
             "name": "编程",
             "title": "编程"
           },
           {
-            "count": 335,
+            "count": 345,
             "name": "计算机",
             "title": "计算机"
           },
           {
-            "count": 290,
+            "count": 299,
             "name": "C++11",
             "title": "C++11"
           },
           {
-            "count": 246,
+            "count": 257,
             "name": "编程语言",
             "title": "编程语言"
           },
           {
-            "count": 223,
-            "name": "经典",
-            "title": "经典"
-          },
-          {
-            "count": 221,
+            "count": 231,
             "name": "C/C++",
             "title": "C/C++"
           },
           {
-            "count": 194,
+            "count": 229,
+            "name": "经典",
+            "title": "经典"
+          },
+          {
+            "count": 202,
             "name": "程序设计",
             "title": "程序设计"
           }
@@ -925,14 +938,15 @@
         "summary": "这本久负盛名的 C++经典教程，时隔八年之久，终迎来史无前例的重大升级。除令全球无数程序员从中受益，甚至为之迷醉的——C++ 大师 Stanley B. Lippman 的丰富实践经验，C++标准委员会原负责人 Josée Lajoie 对C++标准的深入理解，以及C++ 先驱 Barbara E. Moo 在 C++教学方面的真知灼见外，更是基于全新的 C++11标准进行了全面而彻底的内容更新。非常难能可贵的是，《C++ Primer 中文版(第5版)》所有示例均全部采用 C++11 标准改写，这在经典升级版中极其罕见——充分体现了 C++ 语言的重大进展及其全面实践。书中丰富的教学辅助内容、醒目的知识点提示，以及精心组织的编程示范，让这本书在 C++ 领域的权威地位更加不可动摇。无论是初学者入门，或是中、高级程序员提升，本书均为不容置疑的首选。",
         "price": "CNY 128.00",
         "type": "pdf",
+        "meta_type": "douban",
         "sha_256": "322d5d6f0b48ad11b7b80b3122db78d8a2b3194946ac5766810cf7ac2803287d",
         "file": "C++Primer 第5版.pdf"
       },
       {
         "rating": {
           "max": 10,
-          "numRaters": 35,
-          "average": "6.7",
+          "numRaters": 47,
+          "average": "5.8",
           "min": 0
         },
         "subtitle": "",
@@ -942,44 +956,44 @@
         "pubdate": "2015-5",
         "tags": [
           {
-            "count": 42,
+            "count": 53,
             "name": "C++",
             "title": "C++"
           },
           {
-            "count": 29,
+            "count": 39,
             "name": "并发编程",
             "title": "并发编程"
           },
           {
-            "count": 16,
+            "count": 27,
             "name": "多线程",
             "title": "多线程"
           },
           {
-            "count": 9,
+            "count": 20,
             "name": "计算机",
             "title": "计算机"
           },
           {
-            "count": 4,
+            "count": 12,
             "name": "并发",
             "title": "并发"
           },
           {
-            "count": 2,
-            "name": "超级烂的翻译，再加上占全书2/5的附录，无语了……",
-            "title": "超级烂的翻译，再加上占全书2/5的附录，无语了……"
-          },
-          {
-            "count": 2,
+            "count": 10,
             "name": "编程",
             "title": "编程"
           },
           {
-            "count": 2,
+            "count": 10,
             "name": "programming",
             "title": "programming"
+          },
+          {
+            "count": 9,
+            "name": "计算机科学",
+            "title": "计算机科学"
           }
         ],
         "origin_title": "C++ Concurrency in Action",
@@ -1010,13 +1024,14 @@
         "summary": "《C++并发编程实战》是一本基于C++11新标准的并发和多线程编程深度指南。内容包括从std::thread、std::mutex、std::future和std::async等基础类的使用，到内存模型和原子操作、基于锁和无锁数据结构的构建，再扩展到并行算法、线程管理，最后还介绍了多线程代码的测试工作。本书的附录部分还对C++11新语言特性中与多线程相关的项目进行了简要的介绍，并提供了C++11线程库的完整参考。\n《C++并发编程实战》适合于需要深入了解C++多线程开发的读者，以及使用C++进行各类软件开发的开发人员、测试人员。对于使用第三方线程库的读者，也可以从本书后面的章节中了解到相关的指引和技巧。同时，本书还可以作为C++11线程库的参考工具书。",
         "price": "69.00",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "fc9acd2d659a2a9317c042cd3a0f8f59f54d88f5619494f3df04025f59850618",
         "file": "C++并发编程实战.epub"
       },
       {
         "rating": {
           "max": 10,
-          "numRaters": 335,
+          "numRaters": 340,
           "average": "8.8",
           "min": 0
         },
@@ -1027,27 +1042,27 @@
         "pubdate": "2013-1-15",
         "tags": [
           {
-            "count": 500,
+            "count": 504,
             "name": "网络编程",
             "title": "网络编程"
           },
           {
-            "count": 437,
+            "count": 442,
             "name": "C++",
             "title": "C++"
           },
           {
-            "count": 431,
+            "count": 439,
             "name": "Linux",
             "title": "Linux"
           },
           {
-            "count": 366,
+            "count": 371,
             "name": "多线程",
             "title": "多线程"
           },
           {
-            "count": 108,
+            "count": 113,
             "name": "计算机",
             "title": "计算机"
           },
@@ -1090,6 +1105,7 @@
         "summary": "本书主要讲述采用现代C++ 在x86-64 Linux 上编写多线程TCP 网络服务程序的主流常规技术，重点讲解一种适应性较强的多线程服务器的编程模型，即one loop per thread。这是在Linux 下以native 语言编写用户态高性能网络程序最成熟的模式，掌握之后可顺利地开发各类常见的服务端网络应用程序。本书以muduo 网络库为例，讲解这种编程模型的使用方法及注意事项。\n本书的宗旨是贵精不贵多。掌握两种基本的同步原语就可以满足各种多线程同步的功能需求，还能写出更易用的同步设施。掌握一种进程间通信方式和一种多线程网络编程模型就足以应对日常开发任务，编写运行于公司内网环境的分布式服务统。",
         "price": "89.00元",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "a2318169aef295c05fa9b4f627c07ecb6f4724f16e28edd3793ebff5dac202a9",
         "file": "Linux多线程服务端编程.epub"
       },
@@ -1151,14 +1167,15 @@
         "summary": "《完美C++（第5版）》为读者提供了一个学习、理解和掌握 C++编程语言的全面视图，覆盖面广、实用性强。书中介绍了 C++的基本数据类型，如字符串、数组、指针、结构体、类等，同时也详细描述了面向对象编程语言的特性：封装、继承和多态，以及这些特性在 C++语言中的具体使用方式。本书的后面章节还重点介绍了模板、链式数据结构、标准模板库以及异常处理等C++语言的进阶编程知识。这些知识在从事具体编程工作时会经常使用到。\n《完美C++（第5版）》对C++的一些重点知识，辅以实例进行了重点讲解，特别是对一些易混淆、易犯错的知识点，专门以“陷阱”的组织方式进行深入分析和讨论，帮助读者更好地理解和掌握。《完美C++（第5版）》中各章均含有大量例子及完整的代码段和分析，帮助读者强化对关键概念的理解，以及对主题的掌握。各章还配有丰富的自测习题以及答案，帮助读者进一步提升对C++知识的理解以及实际动手编程能力。\n原书由知名学者所著，历经多个版本，根据C++技术的发展，内容不断完善、丰富，体系完整、实践性强。\n《完美C++（第5版）》可以作为高等院校学习编程基本知识以及C++编程语言课程的教材，也可以作为有C++编程经验者的参考书。",
         "price": "148.00元",
         "type": "pdf",
+        "meta_type": "douban",
         "sha_256": "e65a431b7cb568cb055bcb1801aab851785265a12344161212795014a2a95cfe",
         "file": "完美C ++ (第5版).pdf"
       },
       {
         "rating": {
           "max": 10,
-          "numRaters": 256,
-          "average": "8.6",
+          "numRaters": 257,
+          "average": "8.4",
           "min": 0
         },
         "subtitle": "C++描述(第三版)",
@@ -1168,37 +1185,37 @@
         "pubdate": "2007年",
         "tags": [
           {
-            "count": 237,
+            "count": 241,
             "name": "数据结构",
             "title": "数据结构"
           },
           {
-            "count": 180,
+            "count": 184,
             "name": "算法",
             "title": "算法"
           },
           {
-            "count": 167,
+            "count": 168,
             "name": "C++",
             "title": "C++"
           },
           {
-            "count": 84,
+            "count": 85,
             "name": "数据结构与算法",
             "title": "数据结构与算法"
           },
           {
-            "count": 78,
+            "count": 81,
             "name": "计算机",
             "title": "计算机"
           },
           {
-            "count": 49,
+            "count": 50,
             "name": "编程",
             "title": "编程"
           },
           {
-            "count": 38,
+            "count": 39,
             "name": "算法分析",
             "title": "算法分析"
           },
@@ -1237,6 +1254,7 @@
         },
         "price": "49.00元",
         "type": "pdf",
+        "meta_type": "douban",
         "sha_256": "ee145b4c2a62b082868c4c2df8ae980dfda7779bbd9b86868f9ec6b0195fde3c",
         "file": "数据结构与算法分析–C++(第3版,扫描,书签).pdf"
       },
@@ -1251,10 +1269,11 @@
         "date": "2016-09-20T01:18:30.162862+00:00",
         "contributor": "calibre (3.7.0) [https://calibre-ebook.com]",
         "identifier": {
-          "MOBI-ASIN": "4f7426e0-4ecc-4342-9a81-0174ee00dfbb",
+          "mobi-asin": "4f7426e0-4ecc-4342-9a81-0174ee00dfbb",
           "uuid": "fca6936a-eebf-410d-80b3-d13a15c2dfa9",
           "calibre": "fca6936a-eebf-410d-80b3-d13a15c2dfa9"
         },
+        "meta_type": "opf",
         "type": "epub",
         "sha_256": "b7304d334a8133ac7628d02a66aeaa71287ea9a01163dad3cc7d82f1864f09e7",
         "file": "高速上手C++11-14.epub"
@@ -1268,8 +1287,8 @@
       {
         "rating": {
           "max": 10,
-          "numRaters": 144,
-          "average": "9.6",
+          "numRaters": 154,
+          "average": "9.5",
           "min": 0
         },
         "subtitle": "",
@@ -1279,44 +1298,44 @@
         "pubdate": "2016-4",
         "tags": [
           {
-            "count": 234,
+            "count": 248,
             "name": "CSS",
             "title": "CSS"
           },
           {
-            "count": 130,
+            "count": 140,
             "name": "前端开发",
             "title": "前端开发"
           },
           {
-            "count": 75,
+            "count": 80,
             "name": "前端",
             "title": "前端"
           },
           {
-            "count": 42,
+            "count": 44,
             "name": "网页设计",
             "title": "网页设计"
           },
           {
-            "count": 33,
+            "count": 34,
             "name": "编程",
             "title": "编程"
           },
           {
-            "count": 28,
+            "count": 32,
             "name": "CSS秘笈",
             "title": "CSS秘笈"
           },
           {
-            "count": 19,
-            "name": "计算机",
-            "title": "计算机"
+            "count": 21,
+            "name": "Web前端开发",
+            "title": "Web前端开发"
           },
           {
-            "count": 14,
-            "name": "programming",
-            "title": "programming"
+            "count": 20,
+            "name": "计算机",
+            "title": "计算机"
           }
         ],
         "origin_title": "CSS Secrets: Better Solutions to Everyday Web Design Problems",
@@ -1344,13 +1363,14 @@
         "summary": "本书是一本注重实践的教程，作者为我们揭示了 47 个鲜为人知的 CSS 技巧，主要内容包括背景与边框、形状、 视觉效果、字体排印、用户体验、结构与布局、过渡与动画等。本书将带领读者循序渐进地探寻更优雅的解决方案，攻克每天都会遇到的各种网页样式难题。\n本书的读者对象为前端工程师、网页开发人员。",
         "price": "99.00元",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "55f672cdb9a62b5b49c767e9c2eae9588e0370a5f69240f321f51f1324f2d48c",
         "file": "CSS揭秘.epub"
       },
       {
         "rating": {
           "max": 10,
-          "numRaters": 538,
+          "numRaters": 544,
           "average": "8.5",
           "min": 0
         },
@@ -1371,7 +1391,7 @@
             "title": "CSS权威指南"
           },
           {
-            "count": 173,
+            "count": 174,
             "name": "CSS",
             "title": "CSS"
           },
@@ -1386,7 +1406,7 @@
             "title": "Web标准"
           },
           {
-            "count": 116,
+            "count": 117,
             "name": "Web",
             "title": "Web"
           },
@@ -1396,7 +1416,7 @@
             "title": "计算机"
           },
           {
-            "count": 90,
+            "count": 94,
             "name": "前端开发",
             "title": "前端开发"
           }
@@ -1431,13 +1451,14 @@
         },
         "price": "58.00",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "b0cac6516ce008845a78e27a024255a4021952c559c39e00b1c15a831ad74651",
         "file": "CSS权威指南第三版.epub"
       },
       {
         "rating": {
           "max": 10,
-          "numRaters": 1628,
+          "numRaters": 1630,
           "average": "8.4",
           "min": 0
         },
@@ -1449,42 +1470,42 @@
         "pubdate": "2007-6",
         "tags": [
           {
-            "count": 1582,
+            "count": 1583,
             "name": "css",
             "title": "css"
           },
           {
-            "count": 803,
+            "count": 805,
             "name": "网页设计",
             "title": "网页设计"
           },
           {
-            "count": 565,
+            "count": 567,
             "name": "Web设计",
             "title": "Web设计"
           },
           {
-            "count": 284,
+            "count": 285,
             "name": "Web标准",
             "title": "Web标准"
           },
           {
-            "count": 259,
+            "count": 260,
             "name": "web",
             "title": "web"
           },
           {
-            "count": 251,
+            "count": 253,
             "name": "设计",
             "title": "设计"
           },
           {
-            "count": 207,
+            "count": 208,
             "name": "交互设计",
             "title": "交互设计"
           },
           {
-            "count": 170,
+            "count": 172,
             "name": "design",
             "title": "design"
           }
@@ -1515,13 +1536,14 @@
         "summary": "这本书的作者是世界著名的网站设计师，书中的范例来自网站设计领域最著名的网站——CSS Zen Garden（CSS禅意花园）。全书分为两个主要部分。第1章为第一部分，讨论网站“CSS禅意花同”及其最基本的主题，包含正确的标记结构和灵活性规划等。第二部分包括6章，占据了书中的大部分篇幅。\n每章剖析“CSS禅意花园”收录的6件设计作品，这些作品围绕一个主要的设计概念展开，如文字的使用等。通过探索36件设计作品面临的挑战和解决的问题，读者将洞悉主要的Web设计原则以及它们运用的CSS布局技巧，理解CSS设计的精髓，恰当地处理图形和字体来创建界面优美、性能优良且具有强大生命力的网站。",
         "price": "49.00元",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "75c6725985461d70db7de40e2927e3770fe065f8359d2af6fa4559b61a613cfb",
         "file": "CSS禅意花园(修订版).epub"
       },
       {
         "rating": {
           "max": 10,
-          "numRaters": 311,
+          "numRaters": 312,
           "average": "7.2",
           "min": 0
         },
@@ -1597,6 +1619,7 @@
         "summary": "随着iPad mini的发布，又一个新的屏幕尺寸诞生了。用不着全面统计，你就会发现移动互联网时代众多的屏幕规格，从智能手机的3、4、5英寸，到平板电脑的7、8、9、10英寸，再到笔记本和台式机的13至30英寸，绝非目前单一的固定或流式布局所能应付。于是，响应式设计应运而生，而且它也将成为移动互联网时代前端设计与开发人员的一门必修课。\n本书堪称学习响应式Web设计的难得佳作。它不仅全面、细致、图文并茂地介绍了响应式设计相关的技术，比如媒体查询、流式布局、弹性媒体和弹性字体等，还把近几年来Web设计领域公认的最佳设计理念有机地融入到了实例当中，比如移动先行（Mobile First）、渐进增强、平稳退化、无障碍设计等。更加难得的是，本书以设计跨屏幕的网页（响应式设计）为出发点，以点带面，把如今Web设计领域两大标准的最新版本HTML5和CSS3也纳入其中，读者在掌握先进设计方法的同时也能掌握最新的设计技术（比如使用新的HTML5结构化语义标记、嵌入媒体、响应式视频，以及CSS3的新选择器、特效、过渡、变形和动画等），从而可以免除重复学习新标准之苦，让自己一步跨入Web设计领域的最前沿。无论你想学习响应式Web设计，还是学习HTML5和CSS3的实际应用，本书都能满足你的需要，是毋庸置疑的明智之选。\n说到底，响应式Web设计并非一门独立的技术，而只是现有技术的一个组合应用。只要有一点HTML和CSS基础的读者都能顺利地掌握它。对于中、高级的前端设计和开发人员，翻阅本书也有助于理清自己的知识脉络，对这个新的设计理念获得更全面、深入的理解和把握。\n习惯移动阅读的读者，可访问图灵社区，购买本书电子版：http://www.ituring.com.cn/book/1055",
         "price": "49.00元",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "461665e0abf4e2a7064025358bfe39ee4b8534f106dd590a4559a9950e998bcf",
         "file": "响应式Web设计_HTML5和CSS3实战 - Ben Frain.epub"
       }
@@ -1609,7 +1632,7 @@
       {
         "rating": {
           "max": 10,
-          "numRaters": 132,
+          "numRaters": 136,
           "average": "9.3",
           "min": 0
         },
@@ -1621,12 +1644,12 @@
         "pubdate": "2014-11-9",
         "tags": [
           {
-            "count": 91,
+            "count": 94,
             "name": "Git",
             "title": "Git"
           },
           {
-            "count": 65,
+            "count": 66,
             "name": "版本控制",
             "title": "版本控制"
           },
@@ -1642,13 +1665,13 @@
           },
           {
             "count": 16,
-            "name": "git",
-            "title": "git"
-          },
-          {
-            "count": 15,
             "name": "编程",
             "title": "编程"
+          },
+          {
+            "count": 16,
+            "name": "git",
+            "title": "git"
           },
           {
             "count": 12,
@@ -1684,13 +1707,14 @@
         "summary": "Scott Chacon is a cofounder and the CIO of GitHub and is also the maintainer of the Git homepage ( git-scm.com ) . Scott has presented at dozens of conferences around the world on Git, GitHub and the future of work.\nBen Straub is a developer, long time contributor to Libgit2, holder of a Masters degree, international speaker and Git teacher, avid reader, lifelong explorer, and student of the art of making fine software. He lives with his wife and two children in Portland, Oregon.",
         "price": "USD 59.99",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "fe6f33e8112a0c4d9dcee2e18a55fe8c76225debe7aa964a32c4b3024e7bbd1e",
         "file": "progit2-gitbook.epub"
       },
       {
         "rating": {
           "max": 10,
-          "numRaters": 132,
+          "numRaters": 136,
           "average": "9.3",
           "min": 0
         },
@@ -1702,12 +1726,12 @@
         "pubdate": "2014-11-9",
         "tags": [
           {
-            "count": 91,
+            "count": 94,
             "name": "Git",
             "title": "Git"
           },
           {
-            "count": 65,
+            "count": 66,
             "name": "版本控制",
             "title": "版本控制"
           },
@@ -1723,13 +1747,13 @@
           },
           {
             "count": 16,
-            "name": "git",
-            "title": "git"
-          },
-          {
-            "count": 15,
             "name": "编程",
             "title": "编程"
+          },
+          {
+            "count": 16,
+            "name": "git",
+            "title": "git"
           },
           {
             "count": 12,
@@ -1765,6 +1789,7 @@
         "summary": "Scott Chacon is a cofounder and the CIO of GitHub and is also the maintainer of the Git homepage ( git-scm.com ) . Scott has presented at dozens of conferences around the world on Git, GitHub and the future of work.\nBen Straub is a developer, long time contributor to Libgit2, holder of a Masters degree, international speaker and Git teacher, avid reader, lifelong explorer, and student of the art of making fine software. He lives with his wife and two children in Portland, Oregon.",
         "price": "USD 59.99",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "91884058f31e42c7324489427f5f30604272f44ffee3bf0a49ad36109a4ee9f1",
         "file": "progit2.epub"
       }
@@ -1777,8 +1802,8 @@
       {
         "rating": {
           "max": 10,
-          "numRaters": 103,
-          "average": "8.9",
+          "numRaters": 117,
+          "average": "8.8",
           "min": 0
         },
         "subtitle": "",
@@ -1788,24 +1813,29 @@
         "pubdate": "2016-1",
         "tags": [
           {
-            "count": 95,
+            "count": 102,
             "name": "设计",
             "title": "设计"
           },
           {
-            "count": 24,
+            "count": 28,
             "name": "艺术/设计",
             "title": "艺术/设计"
           },
           {
-            "count": 16,
+            "count": 17,
             "name": "艺术",
             "title": "艺术"
           },
           {
-            "count": 13,
+            "count": 16,
             "name": "入门",
             "title": "入门"
+          },
+          {
+            "count": 16,
+            "name": "Design",
+            "title": "Design"
           },
           {
             "count": 13,
@@ -1813,19 +1843,14 @@
             "title": "产品"
           },
           {
-            "count": 13,
-            "name": "Design",
-            "title": "Design"
+            "count": 11,
+            "name": "设计思维",
+            "title": "设计思维"
           },
           {
             "count": 10,
             "name": "罗宾·威廉姆斯",
             "title": "罗宾·威廉姆斯"
-          },
-          {
-            "count": 8,
-            "name": "设计思维",
-            "title": "设计思维"
           }
         ],
         "origin_title": "The Non-Designer's Design Book(4th Edition)",
@@ -1856,6 +1881,7 @@
         "ebook_price": "18.00",
         "price": "59.00元",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "257da09d5f062526e19047a82f9052d93d22ff1706bf3165276fea1f9c7b4a2b",
         "file": "写给大家看的设计书-第四版.epub"
       }
@@ -1876,10 +1902,11 @@
         "date": "2017-10-10T13:08:15.861000+00:00",
         "contributor": "calibre (3.8.0) [https://calibre-ebook.com]",
         "identifier": {
-          "MOBI-ASIN": "3bb63576-e8e8-4c15-b055-40ec9b556c6b",
+          "mobi-asin": "3bb63576-e8e8-4c15-b055-40ec9b556c6b",
           "uuid": "e001ac9a-f533-42d3-906b-2c0d84629b23",
           "calibre": "e001ac9a-f533-42d3-906b-2c0d84629b23"
         },
+        "meta_type": "opf",
         "type": "epub",
         "sha_256": "48a9391762d3a320d7ced9d7a6d25700a566666d70fa09e68ac35073757b5968",
         "file": "esigning-and-deploying-microservices.epub"
@@ -1887,7 +1914,7 @@
       {
         "rating": {
           "max": 10,
-          "numRaters": 281,
+          "numRaters": 294,
           "average": "8.2",
           "min": 0
         },
@@ -1898,42 +1925,42 @@
         "pubdate": "2016-5",
         "tags": [
           {
-            "count": 285,
+            "count": 297,
             "name": "微服务",
             "title": "微服务"
           },
           {
-            "count": 223,
+            "count": 230,
             "name": "架构",
             "title": "架构"
           },
           {
-            "count": 141,
+            "count": 149,
             "name": "软件架构",
             "title": "软件架构"
           },
           {
-            "count": 82,
+            "count": 85,
             "name": "计算机",
             "title": "计算机"
           },
           {
-            "count": 72,
+            "count": 71,
             "name": "软件工程",
             "title": "软件工程"
           },
           {
-            "count": 54,
+            "count": 56,
             "name": "编程",
             "title": "编程"
           },
           {
-            "count": 51,
+            "count": 55,
             "name": "技术",
             "title": "技术"
           },
           {
-            "count": 49,
+            "count": 53,
             "name": "互联网",
             "title": "互联网"
           }
@@ -1964,13 +1991,14 @@
         "summary": "本书全面介绍了微服务的建模、集成、测试、部署和监控，通过一个虚构的公司讲解了如何建立微服务架构。主要内容包括认识微服务在保证系统设计与组织目标统一上的重要性，学会把服务集成到已有系统中，采用递增手段拆分单块大型应用，通过持续集成部署微服务，等等。",
         "price": "69.00元",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "cc26af5862efa017cb665f39b63ca820162043174077c1e10ff413f6849ff4e7",
         "file": "微服务设计-SamNewman.epub"
       },
       {
         "rating": {
           "max": 10,
-          "numRaters": 258,
+          "numRaters": 263,
           "average": "8.6",
           "min": 0
         },
@@ -1982,22 +2010,22 @@
         "pubdate": "2011-10",
         "tags": [
           {
-            "count": 401,
+            "count": 407,
             "name": "软件工程",
             "title": "软件工程"
           },
           {
-            "count": 343,
+            "count": 349,
             "name": "持续交付",
             "title": "持续交付"
           },
           {
-            "count": 242,
+            "count": 243,
             "name": "敏捷开发",
             "title": "敏捷开发"
           },
           {
-            "count": 201,
+            "count": 202,
             "name": "项目管理",
             "title": "项目管理"
           },
@@ -2007,7 +2035,7 @@
             "title": "软件开发"
           },
           {
-            "count": 59,
+            "count": 60,
             "name": "计算机",
             "title": "计算机"
           },
@@ -2047,6 +2075,7 @@
         "summary": "Jez Humble编著的《持续交付(发布可靠软件的系统方法)》讲述如何实现更快、更可靠、低成本的自动化软件交付，描述了如何通过增加反馈，并改进开发人员、测试人员、运维人员和项目经理之间的协作来达到这个目标。《持续交付(发布可靠软件的系统方法)》由三部分组成。第一部分阐述了持续交付背后的一些原则，以及支持这些原则的实践。第二部分是本书的核心，全面讲述了部署流水线。第三部分围绕部署流水线的投入产出讨论了更多细节，包括增量开发技术、高级版本控制模式，以及基础设施、环境和数据的管理和组织治理。    《持续交付(发布可靠软件的系统方法)》适合所有开发人员、测试人员、运维人员和项目经理学习参考。",
         "price": "89.00元",
         "type": "pdf",
+        "meta_type": "douban",
         "sha_256": "49b261cc087960cc500aca13c6df03676217078dc9b8351fc9a164a4753c3068",
         "file": "持续交付-发布可靠软件的系统方法.pdf"
       },
@@ -2065,7 +2094,7 @@
         "pubdate": "2009-8",
         "tags": [
           {
-            "count": 104,
+            "count": 105,
             "name": "敏捷开发",
             "title": "敏捷开发"
           },
@@ -2075,7 +2104,7 @@
             "title": "软件工程"
           },
           {
-            "count": 44,
+            "count": 45,
             "name": "项目管理",
             "title": "项目管理"
           },
@@ -2095,12 +2124,12 @@
             "title": "agile"
           },
           {
-            "count": 15,
+            "count": 16,
             "name": "计算机",
             "title": "计算机"
           },
           {
-            "count": 8,
+            "count": 9,
             "name": "programming",
             "title": "programming"
           }
@@ -2130,6 +2159,7 @@
         "summary": "本书为那些正在考虑应用敏捷开发来构建有价值软件的人们提供了实用的指导。现在已经有大量的书籍描述敏捷开发是什么或者为什么它能帮助软件项目成功，但很少有哪一本书能把针对开发者、管理者、测试者和客户的信息合并成一个整体，从而使其能够直接应用。\n本书为敏捷的计划、开发、交付和管理提供了严谨的建议，这些建议来自于作者多年的极限编程(Extreme Programming，XP)经验。你将看到敏捷开发过程的全景图，包括为非技术类读者准备的全面指导，以及为开发者和测试人员准备的实用技术实践。\n本书为以下问题提供了明确的答案：\n怎样才能采用敏捷开发?\n我们真的需要结对编程吗?\n汇报应该详细到什么程度?\n如果无法让客户参与进来该怎么办?\n我们应该编写多少文档?\n何时进行设计和架构?\n作为一名非开发人员，我应如何同敏捷团队一起工作?\n产品的路线在哪里?\nQA应该如何参与进来?\n本书教你如何采用XP实践，详细描述了每一种实践，然后讨论了一些原则，使你可以更改XP并创建自己的敏捷方法。尤其是，本书为敏捷开发中一些较为困难的方面(合作的需要和团队成员之间的信任)提供了解决办法。\n不管你目前已经是敏捷团队的一部分，还是只对敏捷开发感兴趣，本书都为你提供了开始实践敏捷开发所需的实用技巧。随着你的经验的增长，内容也随之深入。本书教你首先理解敏捷开发的规则，然后打破这些规则，最后当你掌握了敏捷开发的艺术之后，再完全撇开这些规则。",
         "price": "78.00元",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "854f0083d907c85be08d680d3eddad40958f6ab21e6905af2246eac9afb77d2d",
         "file": "敏捷开发的艺术.epub"
       },
@@ -2144,6 +2174,7 @@
         "contributor": "GitBook",
         "creator": "Leo Hui",
         "publisher": "GitBook",
+        "meta_type": "opf",
         "type": "epub",
         "sha_256": "e6c526102fc3b5128704794bf6f39feba06d612030a36a0a9633112fb4beed85",
         "file": "程序员的自我修养.epub"
@@ -2162,7 +2193,7 @@
         "pubdate": "2012-5-1",
         "tags": [
           {
-            "count": 108,
+            "count": 109,
             "name": "软件架构",
             "title": "软件架构"
           },
@@ -2172,7 +2203,7 @@
             "title": "架构"
           },
           {
-            "count": 34,
+            "count": 35,
             "name": "软件工程",
             "title": "软件工程"
           },
@@ -2187,14 +2218,14 @@
             "title": "软件开发"
           },
           {
-            "count": 13,
-            "name": "编程",
-            "title": "编程"
+            "count": 14,
+            "name": "架构师",
+            "title": "架构师"
           },
           {
             "count": 13,
-            "name": "架构师",
-            "title": "架构师"
+            "name": "编程",
+            "title": "编程"
           },
           {
             "count": 13,
@@ -2231,13 +2262,14 @@
         },
         "price": "59.00元",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "22a45f77ac450d5faab530fe0d1d19a6c2cc5715a65ad546421caf675304a4d2",
         "file": "软件构架师的12项修炼.epub"
       },
       {
         "rating": {
           "max": 10,
-          "numRaters": 415,
+          "numRaters": 441,
           "average": "8.0",
           "min": 0
         },
@@ -2248,44 +2280,44 @@
         "pubdate": "2016-7",
         "tags": [
           {
-            "count": 257,
+            "count": 269,
             "name": "软技能",
             "title": "软技能"
           },
           {
-            "count": 210,
+            "count": 222,
             "name": "程序员",
             "title": "程序员"
           },
           {
-            "count": 204,
+            "count": 215,
             "name": "个人管理",
             "title": "个人管理"
           },
           {
-            "count": 126,
+            "count": 131,
             "name": "计算机",
             "title": "计算机"
           },
           {
-            "count": 112,
+            "count": 115,
             "name": "自我管理",
             "title": "自我管理"
           },
           {
-            "count": 67,
-            "name": "软件工程",
-            "title": "软件工程"
-          },
-          {
-            "count": 67,
+            "count": 70,
             "name": "编程",
             "title": "编程"
           },
           {
-            "count": 53,
-            "name": "哲学&方法论&思想",
-            "title": "哲学&方法论&思想"
+            "count": 69,
+            "name": "软件工程",
+            "title": "软件工程"
+          },
+          {
+            "count": 55,
+            "name": "互联网",
+            "title": "互联网"
           }
         ],
         "origin_title": "Soft Skills: The software developer's life manual",
@@ -2313,13 +2345,14 @@
         "summary": "这是一本真正从“人”（而非技术也非管理）的角度关注软件开发人员自身发展的书。书中论述的内容既涉及生活习惯，又包括思维方式，凸显技术中“人”的因素，全面讲解软件行业从业人员所需知道的所有“软技能”。本书聚焦于软件开发人员生活的方方面面，从揭秘面试的流程到精耕细作出一份杀手级简历，从创建大受欢迎的博客到打造你，从提高自己工作效率到与如何与“拖延症”做斗争，甚至包括如何投资不动产，如何关注自己的健康。本书共分为职业篇、自我营销篇、学习篇、生产力篇、理财篇、健身篇、精神篇等七篇，概括了软件行业从业人员所需的“软技能”。通过阅读本书，软件工程人员、编程人员和其他技术人员能够积极思考自己的职业生涯，丰富自己的生活，让自己更接近成功。",
         "price": "59.00元",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "813a7d66d9dc83caabeea8acad99c3a875a4f2b11b8588ed526a5ff7d432a334",
         "file": "软技能-代码之外的生存指南.epub"
       },
       {
         "rating": {
           "max": 10,
-          "numRaters": 1000,
+          "numRaters": 1005,
           "average": "8.2",
           "min": 0
         },
@@ -2331,42 +2364,42 @@
         "pubdate": "2010-01",
         "tags": [
           {
-            "count": 662,
+            "count": 667,
             "name": "敏捷开发",
             "title": "敏捷开发"
           },
           {
-            "count": 416,
+            "count": 418,
             "name": "编程",
             "title": "编程"
           },
           {
-            "count": 367,
+            "count": 374,
             "name": "程序员",
             "title": "程序员"
           },
           {
-            "count": 299,
+            "count": 301,
             "name": "软件开发",
             "title": "软件开发"
           },
           {
-            "count": 200,
+            "count": 203,
             "name": "软件工程",
             "title": "软件工程"
           },
           {
-            "count": 194,
-            "name": "方法论",
-            "title": "方法论"
-          },
-          {
-            "count": 192,
+            "count": 197,
             "name": "计算机",
             "title": "计算机"
           },
           {
-            "count": 112,
+            "count": 196,
+            "name": "方法论",
+            "title": "方法论"
+          },
+          {
+            "count": 113,
             "name": "programming",
             "title": "programming"
           }
@@ -2399,6 +2432,7 @@
         "ebook_price": "18.00",
         "price": "35.00元",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "be29da49e9a6c4d467e7863df821e1edbc95eb900fd8c3928953b2f64c27caba",
         "file": "高效程序员的45个习惯-敏捷开发修炼之道.epub"
       }
@@ -2411,7 +2445,7 @@
       {
         "rating": {
           "max": 10,
-          "numRaters": 1589,
+          "numRaters": 1602,
           "average": "7.6",
           "min": 0
         },
@@ -2423,27 +2457,27 @@
         "pubdate": "2014-1",
         "tags": [
           {
-            "count": 971,
+            "count": 979,
             "name": "跑步",
             "title": "跑步"
           },
           {
-            "count": 716,
+            "count": 724,
             "name": "运动",
             "title": "运动"
           },
           {
-            "count": 448,
+            "count": 451,
             "name": "健康",
             "title": "健康"
           },
           {
-            "count": 301,
+            "count": 307,
             "name": "健身",
             "title": "健身"
           },
           {
-            "count": 186,
+            "count": 187,
             "name": "爱上跑步的13周",
             "title": "爱上跑步的13周"
           },
@@ -2453,12 +2487,12 @@
             "title": "生活"
           },
           {
-            "count": 140,
+            "count": 141,
             "name": "个人管理",
             "title": "个人管理"
           },
           {
-            "count": 60,
+            "count": 61,
             "name": "加拿大",
             "title": "加拿大"
           }
@@ -2488,6 +2522,7 @@
         "summary": "★让从不跑步的人迈开双腿，从本书开始跑过一生！\n★坚持跑步的第一步：爱上跑步。\n★在一呼一吸中，感受最纯粹的自我。\n在爱上跑步的13周里，通过13周跑步行走计划，读者可以连续跑10公里而不受伤。\n除了计划，本书还向读者介绍了跑步前的准备工作、跑步心理、跑步营养学、受伤后的恢复方法、准备10公里赛事等方面的知识。\n本书内容涵盖跑步的方方面面，可以解答跑步初学者可能会出现的种种问题。\n本书告诉读者：在人生道路上，每个人也都是一名跑步者。",
         "price": "CNY 32.00",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "68119316164c75ab48645a890fc1115cb5c993e87a5b4147274a9cb5d89ca196",
         "file": "爱上跑步的13周.epub"
       }
@@ -2508,6 +2543,7 @@
         "creator": "DONG",
         "description": "Gradle User Guide 中文版",
         "publisher": "GitBook",
+        "meta_type": "opf",
         "type": "epub",
         "sha_256": "2c947bbf2f8e8c57e40ca062b2855b76e99b9c597736102e5b0efcafbc410dc0",
         "file": "gradle用户手册.epub"
@@ -2515,7 +2551,7 @@
       {
         "rating": {
           "max": 10,
-          "numRaters": 54,
+          "numRaters": 55,
           "average": "8.1",
           "min": 0
         },
@@ -2531,14 +2567,14 @@
             "title": "编译原理"
           },
           {
-            "count": 55,
-            "name": "计算机",
-            "title": "计算机"
+            "count": 56,
+            "name": "编译器",
+            "title": "编译器"
           },
           {
             "count": 55,
-            "name": "编译器",
-            "title": "编译器"
+            "name": "计算机",
+            "title": "计算机"
           },
           {
             "count": 46,
@@ -2546,12 +2582,12 @@
             "title": "脚本语言"
           },
           {
-            "count": 36,
+            "count": 38,
             "name": "编程",
             "title": "编程"
           },
           {
-            "count": 22,
+            "count": 23,
             "name": "计算机科学",
             "title": "计算机科学"
           },
@@ -2561,7 +2597,7 @@
             "title": "软件开发"
           },
           {
-            "count": 14,
+            "count": 13,
             "name": "编程艺术",
             "title": "编程艺术"
           }
@@ -2597,13 +2633,14 @@
         },
         "price": "59.00元",
         "type": "pdf",
+        "meta_type": "douban",
         "sha_256": "90ab81973e8cef423f11524ebc1c77eb9049c557745c47993db279e189e51fae",
         "file": "两周自制脚本语言.pdf"
       },
       {
         "rating": {
           "max": 10,
-          "numRaters": 664,
+          "numRaters": 689,
           "average": "8.9",
           "min": 0
         },
@@ -2614,42 +2651,42 @@
         "pubdate": "2013-9-1",
         "tags": [
           {
-            "count": 642,
+            "count": 660,
             "name": "JVM",
             "title": "JVM"
           },
           {
-            "count": 543,
+            "count": 568,
             "name": "Java",
             "title": "Java"
           },
           {
-            "count": 417,
+            "count": 427,
             "name": "虚拟机",
             "title": "虚拟机"
           },
           {
-            "count": 187,
+            "count": 191,
             "name": "java",
             "title": "java"
           },
           {
-            "count": 160,
+            "count": 166,
             "name": "计算机",
             "title": "计算机"
           },
           {
-            "count": 134,
+            "count": 138,
             "name": "编程",
             "title": "编程"
           },
           {
-            "count": 70,
+            "count": 72,
             "name": "软件开发",
             "title": "软件开发"
           },
           {
-            "count": 53,
+            "count": 55,
             "name": "程序设计",
             "title": "程序设计"
           }
@@ -2679,13 +2716,14 @@
         "ebook_price": "25.00",
         "price": "79.00元",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "c1aba608dd82d1890c2046caa38e9ffcd4cfe51251f288e1835db9c17c38937b",
         "file": "深入理解Java虚拟机(第2版).epub"
       },
       {
         "rating": {
           "max": 10,
-          "numRaters": 63,
+          "numRaters": 66,
           "average": "8.1",
           "min": 0
         },
@@ -2696,32 +2734,32 @@
         "pubdate": "2014-7-1",
         "tags": [
           {
-            "count": 47,
+            "count": 53,
             "name": "Java",
             "title": "Java"
           },
           {
-            "count": 17,
-            "name": "入门",
-            "title": "入门"
-          },
-          {
-            "count": 16,
+            "count": 19,
             "name": "编程",
             "title": "编程"
           },
           {
-            "count": 11,
+            "count": 19,
+            "name": "入门",
+            "title": "入门"
+          },
+          {
+            "count": 12,
             "name": "计算机",
             "title": "计算机"
           },
           {
-            "count": 11,
+            "count": 12,
             "name": "编程语言",
             "title": "编程语言"
           },
           {
-            "count": 11,
+            "count": 10,
             "name": "java",
             "title": "java"
           },
@@ -2731,7 +2769,7 @@
             "title": "李刚"
           },
           {
-            "count": 3,
+            "count": 5,
             "name": "程序设计",
             "title": "程序设计"
           }
@@ -2759,6 +2797,7 @@
         "summary": "《疯狂Java讲义（第3版）(含CD光盘1张)》是《疯狂Java讲义》的第3版，第3版保持了前两版系统、全面、讲解浅显、细致的特性，全面新增介绍了Java 8的新特性，《疯狂Java讲义（第3版）(含CD光盘1张)》大部分示例程序都采用Lambda表达式、流式API进行了改写，因此务必使用Java 8的JDK来编译、运行。\n《疯狂Java讲义（第3版）(含CD光盘1张)》深入介绍了Java编程的相关方面，全书内容覆盖了Java的基本语法结构、Java的面向对象特征、Java集合框架体系、Java泛型、异常处理、Java GUI编程、JDBC数据库编程、Java注释、Java的IO流体系、Java多线程编程、Java网络通信编程和Java反射机制。覆盖了java.lang、java.util、java.text、java.io和java.nio、java.sql、java.awt、javax.swing包下绝大部分类和接口。本书全面介绍了Java 8的新的接口语法、Lambda表达式、方法引用、构造器引用、函数式编程、流式编程、新的日期、时间API、并行支持、改进的类型推断、重复注解、JDBC 4.2新特性等新特性。\n与前两版类似，《疯狂Java讲义（第3版）(含CD光盘1张)》并不单纯从知识角度来讲解Java，而是从解决问题的角度来介绍Java语言，所以《疯狂Java讲义（第3版）(含CD光盘1张)》中涉及大量实用案例开发：五子棋游戏、梭哈游戏、仿QQ的游戏大厅、MySQL企业管理器、仿EditPlus的文本编辑器、多线程、断点下载工具、Spring框架的IoC容器……这些案例既能让读者巩固每章的知识，又可以让读者学以致用，激发编程自豪感，进而引爆内心的编程激情。《疯狂Java讲义（第3版）(含CD光盘1张)》光盘里包含书中所有示例的代码和《疯狂Java实战演义》的所有项目代码，这些项目可以作为《疯狂Java讲义（第3版）(含CD光盘1张)》课后练习的“非标准答案”，如果读者需要获取关于课后习题的解决方法、编程思路，可以登录http://www.crazyit.org站点与笔者及《疯狂Java讲义（第3版）(含CD光盘1张)》庞大的读者群相互交流。\n《疯狂Java讲义（第3版）(含CD光盘1张)》为所有打算深入掌握Java编程的读者而编写，适合各种层次的Java学习者和工作者阅读，也适合作为大学教育、培训机构的Java教材。但如果只是想简单涉猎Java，则本书过于庞大，不适合阅读。",
         "price": "109.00元",
         "type": "pdf",
+        "meta_type": "douban",
         "sha_256": "e680864e01bc79cc0d353f1769e222fd85387ca044c86d932e3b54e459d58836",
         "file": "疯狂Java讲义-第3版.pdf"
       },
@@ -2768,6 +2807,7 @@
         "creator": "Adobe Acrobat Pro 9.3.1",
         "mod_date": "D:20101211221454+08'00'",
         "producer": "Adobe Acrobat Pro 9.3.1",
+        "meta_type": "pdf",
         "type": "pdf",
         "sha_256": "9e273db1c2687209feb0a62aa741a4b6a5b641504361cfe74863cf021dd5fd48",
         "file": "疯狂java实战演义李刚.pdf"
@@ -2797,7 +2837,7 @@
             "title": "chrome"
           },
           {
-            "count": 16,
+            "count": 17,
             "name": "JavaScript",
             "title": "JavaScript"
           },
@@ -2855,13 +2895,14 @@
         "summary": "本书简述了Chrome平台开发的概念、扩展与应用的区别及其常用功能，并结合具体场景给出了实例。主要介绍了Chrome扩展基础、Chrome扩展的UI界面、管理浏览器和部分高级API划分，讲解了文件系统、网络通信、操作USB设备和串口通信等多个与操作系统紧密相关的内容，还介绍了Chrome主题开发、支持国际化的程序开发，以及如何使用Angular框架进行开发。\n本书以直观生动的实例帮助读者理解知识要点，以自顶向下的方式进行讲解，让读者先接触最直观的内容，然后慢慢深挖究其本质，非常适合开发者自学。",
         "price": "49.00元",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "2e336caf56f2312a09d54189c82cc56ec2b89ec66befb494ced0d98408a2cc23",
         "file": "Chrome扩展应用开发.epub"
       },
       {
         "rating": {
           "max": 10,
-          "numRaters": 75,
+          "numRaters": 77,
           "average": "8.6",
           "min": 0
         },
@@ -2872,17 +2913,17 @@
         "pubdate": "2014-1",
         "tags": [
           {
-            "count": 149,
+            "count": 151,
             "name": "HTML5",
             "title": "HTML5"
           },
           {
-            "count": 76,
+            "count": 77,
             "name": "前端开发",
             "title": "前端开发"
           },
           {
-            "count": 43,
+            "count": 45,
             "name": "Web前端",
             "title": "Web前端"
           },
@@ -2892,7 +2933,7 @@
             "title": "前端"
           },
           {
-            "count": 33,
+            "count": 34,
             "name": "web开发",
             "title": "web开发"
           },
@@ -2907,7 +2948,7 @@
             "title": "Web"
           },
           {
-            "count": 14,
+            "count": 15,
             "name": "javascript",
             "title": "javascript"
           }
@@ -2943,6 +2984,7 @@
         },
         "price": "129.00元",
         "type": "pdf",
+        "meta_type": "douban",
         "sha_256": "b6fc0eb0b2359228146669e70876c38b09da5a2ca816cf1841616e5a19e5e48d",
         "file": "Html5权威指南.pdf"
       },
@@ -2957,10 +2999,11 @@
         "date": "2016-09-19T03:35:30.608825+00:00",
         "contributor": "calibre (3.7.0) [https://calibre-ebook.com]",
         "identifier": {
-          "MOBI-ASIN": "10a03011-98e4-4309-bac7-30bfe11d4083",
+          "mobi-asin": "10a03011-98e4-4309-bac7-30bfe11d4083",
           "uuid": "eaa623bd-2728-4079-9d64-d5643d21d7f4",
           "calibre": "eaa623bd-2728-4079-9d64-d5643d21d7f4"
         },
+        "meta_type": "opf",
         "type": "epub",
         "sha_256": "13df16668b516947ace5f14a1fb378e2ae21b9b7eeb56c9d9f837499e89fac69",
         "file": "JS函数式编程-GitBook.epub"
@@ -2968,7 +3011,7 @@
       {
         "rating": {
           "max": 10,
-          "numRaters": 179,
+          "numRaters": 186,
           "average": "9.1",
           "min": 0
         },
@@ -2979,24 +3022,29 @@
         "pubdate": "2015-5",
         "tags": [
           {
-            "count": 298,
+            "count": 306,
             "name": "JavaScript",
             "title": "JavaScript"
           },
           {
-            "count": 166,
+            "count": 174,
             "name": "设计模式",
             "title": "设计模式"
           },
           {
-            "count": 117,
+            "count": 123,
             "name": "前端开发",
             "title": "前端开发"
           },
           {
-            "count": 51,
+            "count": 53,
             "name": "前端",
             "title": "前端"
+          },
+          {
+            "count": 47,
+            "name": "Web前端",
+            "title": "Web前端"
           },
           {
             "count": 46,
@@ -3004,19 +3052,14 @@
             "title": "编程"
           },
           {
-            "count": 42,
-            "name": "Web前端",
-            "title": "Web前端"
-          },
-          {
-            "count": 33,
-            "name": "计算机",
-            "title": "计算机"
-          },
-          {
-            "count": 31,
+            "count": 36,
             "name": "javascript",
             "title": "javascript"
+          },
+          {
+            "count": 35,
+            "name": "计算机",
+            "title": "计算机"
           }
         ],
         "origin_title": "",
@@ -3046,14 +3089,15 @@
         },
         "price": "59.00元",
         "type": "pdf",
+        "meta_type": "douban",
         "sha_256": "d90207f3a64c1c6411a83068bd3916c1409f574b33596a0cb04407ce354ddfc4",
         "file": "JavaScript设计模式与开发实践.pdf"
       },
       {
         "rating": {
           "max": 10,
-          "numRaters": 242,
-          "average": "7.5",
+          "numRaters": 244,
+          "average": "7.4",
           "min": 0
         },
         "subtitle": "",
@@ -3063,12 +3107,12 @@
         "pubdate": "2015-9-1",
         "tags": [
           {
-            "count": 181,
+            "count": 184,
             "name": "前端开发",
             "title": "前端开发"
           },
           {
-            "count": 121,
+            "count": 124,
             "name": "web",
             "title": "web"
           },
@@ -3078,7 +3122,7 @@
             "title": "程序员"
           },
           {
-            "count": 67,
+            "count": 68,
             "name": "计算机",
             "title": "计算机"
           },
@@ -3088,17 +3132,17 @@
             "title": "编程"
           },
           {
-            "count": 48,
+            "count": 50,
             "name": "全栈工程师",
             "title": "全栈工程师"
           },
           {
-            "count": 47,
+            "count": 48,
             "name": "fullstack",
             "title": "fullstack"
           },
           {
-            "count": 36,
+            "count": 38,
             "name": "前端",
             "title": "前端"
           }
@@ -3126,6 +3170,7 @@
         "summary": "全栈工程师正成为 IT 行业的新秀，论是上市互联网公司还是创业公司，都对全栈工程师青睐有加。本书作者是腾讯公司高级工程师，在前端、后端和APP开发方面都有丰富的经验，在本书中分享了全栈工程师的技能要求、核心竞争力、未来发展方向、对移动端的思考。除此之外，本书还详细记录了作者从零开始、学习成长的心路历程。\n本书内容全面，客观务实，适合互联网行业新人、程序员，以及期待技术转型的从业者阅读参考。",
         "price": "49.00",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "72d6b08dc14349d16a2addd8c1427ed1082405aca5229c8a05a5b99da578cc4e",
         "file": "Web全栈工程师的自我修养.epub"
       },
@@ -3140,6 +3185,7 @@
           "uuid": "a1ccf1dd-f071-4d25-8941-4b60e19c94c8"
         },
         "publisher": "GitBook",
+        "meta_type": "opf",
         "type": "epub",
         "sha_256": "df4a4bf5fa3d831d457478e1ae80041a7219fe3b0898b21c89c5804ca0a7cb08",
         "file": "javascript-start-es6-promise.epub"
@@ -3155,6 +3201,7 @@
         "identifier": {
           "uuid": "5dc337ad-8a20-4669-a510-f776d3b735c7"
         },
+        "meta_type": "opf",
         "type": "epub",
         "sha_256": "483f81e05a4a263d4c5438de2e0a681c56ec90ed3ff36f87ad55ed0a90f03ee8",
         "file": "javascript-start-from-es6.epub"
@@ -3162,7 +3209,7 @@
       {
         "rating": {
           "max": 10,
-          "numRaters": 474,
+          "numRaters": 482,
           "average": "8.9",
           "min": 0
         },
@@ -3173,22 +3220,22 @@
         "pubdate": "2012-4-1",
         "tags": [
           {
-            "count": 768,
+            "count": 774,
             "name": "JavaScript",
             "title": "JavaScript"
           },
           {
-            "count": 262,
+            "count": 266,
             "name": "Web前端开发",
             "title": "Web前端开发"
           },
           {
-            "count": 235,
+            "count": 237,
             "name": "犀牛书",
             "title": "犀牛书"
           },
           {
-            "count": 168,
+            "count": 169,
             "name": "前端",
             "title": "前端"
           },
@@ -3203,12 +3250,12 @@
             "title": "Web开发"
           },
           {
-            "count": 108,
+            "count": 109,
             "name": "前端开发",
             "title": "前端开发"
           },
           {
-            "count": 106,
+            "count": 107,
             "name": "计算机",
             "title": "计算机"
           }
@@ -3242,13 +3289,14 @@
         },
         "price": "139.00元",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "77be2af91bad103bcde85c352787a745f10b3216f365928554d85ce0a3d5fc5d",
         "file": "javascript权威指南中文第六版.epub"
       },
       {
         "rating": {
           "max": 10,
-          "numRaters": 349,
+          "numRaters": 369,
           "average": "9.4",
           "min": 0
         },
@@ -3259,39 +3307,39 @@
         "pubdate": "2015-4",
         "tags": [
           {
-            "count": 433,
+            "count": 452,
             "name": "JavaScript",
             "title": "JavaScript"
           },
           {
-            "count": 198,
+            "count": 206,
             "name": "前端开发",
             "title": "前端开发"
           },
           {
-            "count": 110,
-            "name": "编程",
-            "title": "编程"
-          },
-          {
-            "count": 110,
+            "count": 117,
             "name": "javascript",
             "title": "javascript"
           },
           {
-            "count": 97,
+            "count": 111,
+            "name": "编程",
+            "title": "编程"
+          },
+          {
+            "count": 105,
             "name": "前端",
             "title": "前端"
           },
           {
-            "count": 68,
-            "name": "计算机",
-            "title": "计算机"
-          },
-          {
-            "count": 64,
+            "count": 72,
             "name": "Web前端开发",
             "title": "Web前端开发"
+          },
+          {
+            "count": 71,
+            "name": "计算机",
+            "title": "计算机"
           },
           {
             "count": 58,
@@ -3327,13 +3375,14 @@
         "ebook_price": "24.99",
         "price": "49.00元",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "d2864d7545a251e9475fc1db90266ae8143413bc5b602bd8e132a25d2acbc723",
         "file": "你不知道的JavaScript(上卷).epub"
       },
       {
         "rating": {
           "max": 10,
-          "numRaters": 84,
+          "numRaters": 95,
           "average": "9.1",
           "min": 0
         },
@@ -3344,42 +3393,42 @@
         "pubdate": "2016-8",
         "tags": [
           {
-            "count": 110,
+            "count": 116,
             "name": "JavaScript",
             "title": "JavaScript"
           },
           {
-            "count": 46,
+            "count": 49,
             "name": "前端开发",
             "title": "前端开发"
           },
           {
-            "count": 32,
+            "count": 36,
             "name": "javascript",
             "title": "javascript"
           },
           {
-            "count": 28,
+            "count": 29,
             "name": "前端",
             "title": "前端"
           },
           {
-            "count": 23,
+            "count": 28,
             "name": "Web前端开发",
             "title": "Web前端开发"
           },
           {
-            "count": 21,
+            "count": 22,
             "name": "编程",
             "title": "编程"
           },
           {
-            "count": 11,
+            "count": 15,
             "name": "计算机",
             "title": "计算机"
           },
           {
-            "count": 6,
+            "count": 7,
             "name": "WebApp",
             "title": "WebApp"
           }
@@ -3410,6 +3459,7 @@
         "summary": "JavaScript这门语言简单易用，很容易上手，但其语言机制复杂微妙，即使是经验丰富的JavaScript开发人员，如果没有认真学习的话也无法真正理解。本套书直面当前JavaScript开发人员不求甚解的大趋势，深入理解语言内部的机制，全面介绍了JavaScript中常被人误解和忽视的重要知识点。本书是其中卷，主要介绍了类型、语法、异步和性能。",
         "price": "79.00元",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "2e2faea109a7e42d07aac1c737148f0b230fad3bc4d0312eac3c59efae6a2b6c",
         "file": "你不知道的JavaScript(中卷).epub"
       },
@@ -3424,6 +3474,7 @@
         "identifier": {
           "uuid": "6a1c45fe-fd7c-45ae-a2a0-d21663ff58b4"
         },
+        "meta_type": "opf",
         "type": "epub",
         "sha_256": "bf75fd0f35b9eb072a9b1cb7276d47b4435904692c9c42ed2e8ab1ce63d31a22",
         "file": "前端工程师手册.epub"
@@ -3431,8 +3482,8 @@
       {
         "rating": {
           "max": 10,
-          "numRaters": 98,
-          "average": "6.4",
+          "numRaters": 100,
+          "average": "6.5",
           "min": 0
         },
         "subtitle": "",
@@ -3442,22 +3493,22 @@
         "pubdate": "2014-8",
         "tags": [
           {
-            "count": 101,
+            "count": 102,
             "name": "JavaScript",
             "title": "JavaScript"
           },
           {
-            "count": 61,
+            "count": 60,
             "name": "算法",
             "title": "算法"
           },
           {
-            "count": 24,
+            "count": 25,
             "name": "Web前端",
             "title": "Web前端"
           },
           {
-            "count": 20,
+            "count": 21,
             "name": "数据结构",
             "title": "数据结构"
           },
@@ -3510,13 +3561,14 @@
         "ebook_price": "29.99",
         "price": "49.00元",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "6175e8f3ff78363a36f85ec023434ea5d61bfc5fcba9ec65da035f6b6afce08e",
         "file": "数据结构与算法JavaScript描述.epub"
       },
       {
         "rating": {
           "max": 10,
-          "numRaters": 706,
+          "numRaters": 712,
           "average": "8.5",
           "min": 0
         },
@@ -3527,27 +3579,27 @@
         "pubdate": "2013-12-1",
         "tags": [
           {
-            "count": 750,
+            "count": 752,
             "name": "node.js",
             "title": "node.js"
           },
           {
-            "count": 413,
+            "count": 419,
             "name": "JavaScript",
             "title": "JavaScript"
           },
           {
-            "count": 212,
+            "count": 216,
             "name": "Node.js",
             "title": "Node.js"
           },
           {
-            "count": 199,
+            "count": 200,
             "name": "编程",
             "title": "编程"
           },
           {
-            "count": 163,
+            "count": 164,
             "name": "Web",
             "title": "Web"
           },
@@ -3557,7 +3609,7 @@
             "title": "计算机"
           },
           {
-            "count": 105,
+            "count": 108,
             "name": "nodejs",
             "title": "nodejs"
           },
@@ -3596,13 +3648,14 @@
         },
         "price": "CNY 69.00",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "8678456eed99947fa3c7f0480e843d8638e86ae4a7c6db9b7226bb94a498158b",
         "file": "深入浅出Node.js.epub"
       },
       {
         "rating": {
           "max": 10,
-          "numRaters": 425,
+          "numRaters": 432,
           "average": "8.5",
           "min": 0
         },
@@ -3615,42 +3668,42 @@
         "pubdate": "2012-7-1",
         "tags": [
           {
-            "count": 414,
+            "count": 424,
             "name": "jQuery",
             "title": "jQuery"
           },
           {
-            "count": 277,
+            "count": 281,
             "name": "前端开发",
             "title": "前端开发"
           },
           {
-            "count": 163,
+            "count": 166,
             "name": "JavaScript",
             "title": "JavaScript"
           },
           {
-            "count": 99,
+            "count": 100,
             "name": "web开发",
             "title": "web开发"
           },
           {
-            "count": 96,
+            "count": 98,
             "name": "前端",
             "title": "前端"
           },
           {
-            "count": 88,
+            "count": 90,
             "name": "编程",
             "title": "编程"
           },
           {
-            "count": 71,
+            "count": 73,
             "name": "锋利的jQuery",
             "title": "锋利的jQuery"
           },
           {
-            "count": 68,
+            "count": 71,
             "name": "计算机",
             "title": "计算机"
           }
@@ -3678,6 +3731,7 @@
         "summary": "《锋利的jQuery(第2版)》循序渐进地对jQuery的各种函数和方法调用进行了介绍，读者可以系统地掌握jQuery的选择器、DOM操作、事件和动画、AJAX应用、插件、jQuery Mobile、jQuery各个版本变化、jQuery性能优化和技巧等知识点，并结合每个章节后面的案例演示进行练习，达到掌握核心知识点的目的。\n为使读者更好地进行开发实践，《锋利的jQuery(第2版)》的第8章将前7章讲解的知识点和效果进行了整合，打造出一个非常有个性的网站，并从案例研究、网站材料、网站结构、网站样式和网站脚本等方面指导读者参与到项目建设中来。",
         "price": "49.00元",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "8bc4e4e80bc58554477d8e1d091a70be6a5e503c99c9f11f71f1e933bcfa2390",
         "file": "锋利的jQuery.epub"
       }
@@ -3690,7 +3744,7 @@
       {
         "rating": {
           "max": 10,
-          "numRaters": 1132,
+          "numRaters": 1150,
           "average": "8.6",
           "min": 0
         },
@@ -3702,42 +3756,42 @@
         "pubdate": "2012-9",
         "tags": [
           {
-            "count": 1910,
+            "count": 1925,
             "name": "HTTP",
             "title": "HTTP"
           },
           {
-            "count": 883,
+            "count": 896,
             "name": "网络",
             "title": "网络"
           },
           {
-            "count": 646,
+            "count": 655,
             "name": "计算机",
             "title": "计算机"
           },
           {
-            "count": 564,
+            "count": 567,
             "name": "互联网",
             "title": "互联网"
           },
           {
-            "count": 519,
+            "count": 526,
             "name": "协议",
             "title": "协议"
           },
           {
-            "count": 456,
+            "count": 460,
             "name": "web开发",
             "title": "web开发"
           },
           {
-            "count": 261,
+            "count": 266,
             "name": "基础理论",
             "title": "基础理论"
           },
           {
-            "count": 202,
+            "count": 204,
             "name": "编程",
             "title": "编程"
           }
@@ -3768,6 +3822,7 @@
         "summary": "超文本转移协议（Hypertext Transfer Protocol，HTTP）是在万维网上进行通信时所使用的协议方案。HTTP有很多应用，但最著名的是用于web浏览器和web服务器之间的双工通信。\nHTTP起初是一个简单的协议，因此你可能会认为关于这个协议没有太多好 说的。但现在，你手上拿着的是却一本两磅重 的书。如果你对我们怎么会写出一本650页 的关于HTTP的书感到奇怪的话，可以去看一下目录。本书不仅仅是一本HTTP首部的参考手册；它是一本名副其实的web结构圣经。\n本书中，我们尝试着将HTTP中一些互相关联且常被误解的规则梳理清楚，并编写了一系列基于各种主题的章节，对HTTP各方面的特性进行了介绍。纵观全书，我们对HTTP“为什么”这样做进行了详细的解释，而不仅仅停留在它是“怎么做”的。而且，为了节省大家寻找参考文献的时间，我们还对很多HTTP应用程序正常工作所必须的、重要的非HTTP技术进行了介绍。在组织得便于使用的附录中，可以找到按照字母排序的首部参考（这些首部构成了最常见的HTTP文本的基础）。我们希望这种概念性的设计有助于读者对HTTP的使用。\n本书是为所有希望理解HTTP以及Web底层结构的人编写的。软硬件工程师也可以将本书作为HTTP及相关web技术的条理清楚的参考书使用。系统架构师和网络管理员可以通过本书更好地了解如何设计、实现并管理复杂的网络架构。性能工程师和分析人员可以从高速缓存和性能优化的相关章节中获益。市场营销和咨询专家可以通过概念的介绍更好地理解web技术的前景。\n本书对一些常见的误解进行了说明，推荐了“各种使用诀窍”，提供了便捷的参考资料，并且对枯燥且令人费解的标准规范进行了可读性很强的介绍。在这本书里，我们对Web正常工作所必须且互相关联的技术进行了详细的介绍。\n本书是很多对因特网技术充满热情的人经过大量工作写成的。希望对你有所帮助。",
         "price": "109.00元",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "396a1846b8160d01ba8320a53ea2aabf8f6a0f2359b9c1aaa87e750b5f1cc2e7",
         "file": "Http权威指南.epub"
       },
@@ -3790,7 +3845,7 @@
             "title": "lighttpd"
           },
           {
-            "count": 3,
+            "count": 4,
             "name": "web",
             "title": "web"
           },
@@ -3850,14 +3905,96 @@
         "ebook_price": "25.00",
         "price": "59.00元",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "e75a315683dc95443eb3dd955a5271b938b4e225991b71c741cb4243bb6e39d0",
         "file": "Lighttpd源码分析.epub"
       },
       {
         "rating": {
           "max": 10,
-          "numRaters": 15,
-          "average": "7.4",
+          "numRaters": 8187,
+          "average": "8.7",
+          "min": 0
+        },
+        "subtitle": "",
+        "author": [
+          "吴军"
+        ],
+        "pubdate": "2012-5-1",
+        "tags": [
+          {
+            "count": 10929,
+            "name": "数学",
+            "title": "数学"
+          },
+          {
+            "count": 4593,
+            "name": "计算机",
+            "title": "计算机"
+          },
+          {
+            "count": 3735,
+            "name": "科普",
+            "title": "科普"
+          },
+          {
+            "count": 2807,
+            "name": "吴军",
+            "title": "吴军"
+          },
+          {
+            "count": 1987,
+            "name": "计算机科学",
+            "title": "计算机科学"
+          },
+          {
+            "count": 1778,
+            "name": "互联网",
+            "title": "互联网"
+          },
+          {
+            "count": 1165,
+            "name": "科学",
+            "title": "科学"
+          },
+          {
+            "count": 698,
+            "name": "Programming",
+            "title": "Programming"
+          }
+        ],
+        "origin_title": "",
+        "image": "https://img3.doubanio.com/mpic/s9114855.jpg",
+        "binding": "平装",
+        "translator": [],
+        "catalog": "出版说明\n序言1\n序言2\n前言\n第1章　文字和语言 vs 数字和信息\n第2章　自然语言处理 — 从规则到统计\n第3章　统计语言模型\n第4章　谈谈中文分词\n第5章　隐含马尔可夫模\n第6章　信息的度量和作用\n第7章　贾里尼克和现代语言处理\n第8章　简单之美 — 布尔代数和搜索引擎的索引\n第9章　图论和网络爬虫\n第10章　PageRank — Google的民主表决式网页排名技术\n第11章　如何确定网页和查询的相关性\n第12章　地图和本地搜索的最基本技术 — 有限状态机和动态规划\n第13章　Google AK-47的设计者 — 阿米特 · 辛格博士\n第14章　余弦定理和新闻的分类\n第15章　矩阵运算和文本处理中的两个分类问题\n第16章　信息指纹及其应用\n第17章　由电视剧《暗算》所想到的 — 谈谈密码学的数学原理\n第18章　闪光的不一定是金子 — 谈谈搜索引擎反作弊问题\n第19章　谈谈数学模型的重要性\n第20章　不要把鸡蛋放到一个篮子里 — 谈谈最大熵模型\n第21章　拼音输入法的数学原理\n第22章　自然语言处理的教父马库斯和他的优秀弟子们\n第23章　布隆过滤器\n第24章　马尔可夫链的扩展 — 贝叶斯网络\n第25章　条件随机场和句法分析\n第26章　维特比和他的维特比算法\n第27章　再谈文本自动分类问题 — 期望最大化算法\n第28章　逻辑回归和搜索广告\n第29章　各个击破算法和Google云计算的基础\n附录\n后记\n索引",
+        "pages": "272",
+        "images": {
+          "small": "https://img3.doubanio.com/spic/s9114855.jpg",
+          "large": "https://img3.doubanio.com/lpic/s9114855.jpg",
+          "medium": "https://img3.doubanio.com/mpic/s9114855.jpg"
+        },
+        "alt": "https://book.douban.com/subject/10750155/",
+        "id": "10750155",
+        "publisher": "人民邮电出版社",
+        "isbn10": "711528282X",
+        "isbn13": "9787115282828",
+        "title": "数学之美",
+        "url": "https://api.douban.com/v2/book/10750155",
+        "alt_title": "",
+        "author_intro": "吴军博士，现任腾讯公司主管搜索、在线广告和云计算基础架构的副总裁，毕业于清华大学（本科、硕士）和美国约翰·霍普金斯大学（博士）。在清华大学和约翰·霍普金斯大学期间，吴军博士致力于语音识别、自然语言处理，特别是统计语言模型的研究。他曾获得1995年全国人机语音智能接口会议的最佳论文奖和2000年Eurospeech的最佳论文奖。\n吴军博士于2002年加入Google公司。在Google，他和Amit Singhal（Google院士，世界著名搜索专家）、Matt Cutts（Google反作弊官方发言人）等三位同事一起开创了网络搜索反作弊的研究领域，并因此获得Google工程奖。2003年，他和Google全球架构的总工程师朱会灿博士等共同成立了中日韩文搜索部门。吴军博士是当前Google中日韩文搜索算法的主要设计者。在Google期间，他还领导了许多研发项目，包括许多与中文相关的产品和自然语言处理的项目，并得到了当时公司首席执行官埃里克·施密特和创始人谢尔盖·布林的高度评价。\n吴军博士在国内外发表过数十篇论文，并获得和申请了十余项美国和国际专利。他撰写的《浪潮之巅》一书深受业界的好评。他于2007年起担任风险投资基金中国世纪基金的董事。2011年起，当选为约翰·霍普金斯大学工学院董事会董事，并在该校的国际事务委员会担任顾问。他是国家重大专项“新一代搜索引擎和浏览器”项目的总负责人，从2012年起任职工业与信息化部的专家和顾问。",
+        "summary": "几年前，“数学之美”系列文章原刊载于谷歌黑板报，获得上百万次点击，得到读者高度评价。读者说，读了“数学之美”，才发现大学时学的数学知识，比如马尔可夫链、矩阵计算，甚至余弦函数原来都如此亲切，并且栩栩如生，才发现自然语言和信息处理这么有趣。\n今年，作者吴军博士几乎把所有文章都重写了一遍，为的是把高深的数学原理讲得更加通俗易懂，让非专业读者也能领略数学的魅力。读者通过具体的例子学到的是思考问题的方式 —— 如何化繁为简，如何用数学去解决工程问题，如何跳出固有思维不断去思考创新。",
+        "price": "45.00元",
+        "type": "epub",
+        "meta_type": "douban",
+        "sha_256": "80c2074132e542465a3c1c51d7b6e56fede0db82abff791e58d4e329adb15aa6",
+        "file": "数学之美.epub"
+      },
+      {
+        "rating": {
+          "max": 10,
+          "numRaters": 17,
+          "average": "7.6",
           "min": 0
         },
         "subtitle": "",
@@ -3867,9 +4004,14 @@
         "pubdate": "2016-6",
         "tags": [
           {
-            "count": 51,
+            "count": 55,
             "name": "编译原理",
             "title": "编译原理"
+          },
+          {
+            "count": 28,
+            "name": "编译器",
+            "title": "编译器"
           },
           {
             "count": 25,
@@ -3877,12 +4019,7 @@
             "title": "计算机"
           },
           {
-            "count": 25,
-            "name": "编译器",
-            "title": "编译器"
-          },
-          {
-            "count": 21,
+            "count": 22,
             "name": "编译",
             "title": "编译"
           },
@@ -3903,8 +4040,8 @@
           },
           {
             "count": 5,
-            "name": "CS",
-            "title": "CS"
+            "name": "计算机科学",
+            "title": "计算机科学"
           }
         ],
         "origin_title": "",
@@ -3937,6 +4074,7 @@
         },
         "price": "99.00元",
         "type": "pdf",
+        "meta_type": "douban",
         "sha_256": "d66d7f8982411628163d95ee978ad9166849e16072b67995309406c6cbcbba41",
         "file": "自制编译器.pdf"
       }
@@ -3961,44 +4099,44 @@
         "pubdate": "2015-5-1",
         "tags": [
           {
-            "count": 109,
+            "count": 120,
             "name": "Python",
             "title": "Python"
           },
           {
-            "count": 41,
+            "count": 44,
             "name": "编程",
             "title": "编程"
           },
           {
-            "count": 28,
+            "count": 30,
             "name": "python",
             "title": "python"
           },
           {
-            "count": 25,
+            "count": 27,
             "name": "计算机",
             "title": "计算机"
           },
           {
-            "count": 21,
+            "count": 22,
             "name": "cookbook",
             "title": "cookbook"
           },
           {
-            "count": 15,
+            "count": 16,
             "name": "O'Reilly",
             "title": "O'Reilly"
           },
           {
-            "count": 8,
+            "count": 9,
             "name": "代码",
             "title": "代码"
           },
           {
             "count": 7,
-            "name": "Web及编程",
-            "title": "Web及编程"
+            "name": "技术",
+            "title": "技术"
           }
         ],
         "origin_title": "Python Cookbook, 3rd Edtioni",
@@ -4026,13 +4164,14 @@
         "summary": "《Python Cookbook（第3版）中文版》介绍了Python应用在各个领域中的一些使用技巧和方法，其主题涵盖了数据结构和算法，字符串和文本，数字、日期和时间，迭代器和生成器，文件和I/O，数据编码与处理，函数，类与对象，元编程，模块和包，网络和Web编程，并发，实用脚本和系统管理，测试、调试以及异常，C语言扩展等。\n本书覆盖了Python应用中的很多常见问题，并提出了通用的解决方案。书中包含了大量实用的编程技巧和示例代码，并在Python 3.3环境下进行了测试，可以很方便地应用到实际项目中去。此外，《Python Cookbook（第3版）中文版》还详细讲解了解决方案是如何工作的，以及为什么能够工作。\n《Python Cookbook（第3版）中文版》非常适合具有一定编程基础的Python程序员阅读参考。",
         "price": "108.00元",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "67f1d371b51585ebaac78f18c67351dbc1f6dfeabbfd743a125bfeb13a96c485",
         "file": "Python_Cookbook-第三版 Jones.epub"
       },
       {
         "rating": {
           "max": 10,
-          "numRaters": 1398,
+          "numRaters": 1411,
           "average": "7.7",
           "min": 0
         },
@@ -4043,27 +4182,27 @@
         "pubdate": "2008-06",
         "tags": [
           {
-            "count": 1403,
+            "count": 1413,
             "name": "Python",
             "title": "Python"
           },
           {
-            "count": 643,
+            "count": 648,
             "name": "编程",
             "title": "编程"
           },
           {
-            "count": 285,
+            "count": 286,
             "name": "计算机",
             "title": "计算机"
           },
           {
-            "count": 267,
+            "count": 268,
             "name": "程序语言",
             "title": "程序语言"
           },
           {
-            "count": 204,
+            "count": 205,
             "name": "python",
             "title": "python"
           },
@@ -4108,13 +4247,14 @@
         "summary": "本书是Python开发者的完全指南——针对 Python 2.5全面升级\n·学习专业的Python风格、最佳实践和好的编程习惯；\n·加强对Python对象、内存模型和Python面向对象特性的深入理解；\n·构建更有效的Web、CGI、互联网、网络和其他客户端/服务器架构应用程序及软件；\n·学习如何使用Python中的Tkinter和其他工具来开发自己的GUI应用程序及软件；\n·通过用C等语言编写扩展来提升Python应用程序的性能，或者通过使用多线程增强I/0相关的应用程序的能力；\n·学习Python中有关数据库的API，以及如何在Python中使用各种不同的数据库系统，包括MySQL、Postgres和 SQLite。",
         "price": "89.00元",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "b513fe6ab947987b2f77f4a1b3170f564c00c232252d14acc28f97aa4ff51548",
         "file": "Python核心编程.epub"
       },
       {
         "rating": {
           "max": 10,
-          "numRaters": 1398,
+          "numRaters": 1411,
           "average": "7.7",
           "min": 0
         },
@@ -4125,27 +4265,27 @@
         "pubdate": "2008-06",
         "tags": [
           {
-            "count": 1403,
+            "count": 1413,
             "name": "Python",
             "title": "Python"
           },
           {
-            "count": 643,
+            "count": 648,
             "name": "编程",
             "title": "编程"
           },
           {
-            "count": 285,
+            "count": 286,
             "name": "计算机",
             "title": "计算机"
           },
           {
-            "count": 267,
+            "count": 268,
             "name": "程序语言",
             "title": "程序语言"
           },
           {
-            "count": 204,
+            "count": 205,
             "name": "python",
             "title": "python"
           },
@@ -4190,13 +4330,14 @@
         "summary": "本书是Python开发者的完全指南——针对 Python 2.5全面升级\n·学习专业的Python风格、最佳实践和好的编程习惯；\n·加强对Python对象、内存模型和Python面向对象特性的深入理解；\n·构建更有效的Web、CGI、互联网、网络和其他客户端/服务器架构应用程序及软件；\n·学习如何使用Python中的Tkinter和其他工具来开发自己的GUI应用程序及软件；\n·通过用C等语言编写扩展来提升Python应用程序的性能，或者通过使用多线程增强I/0相关的应用程序的能力；\n·学习Python中有关数据库的API，以及如何在Python中使用各种不同的数据库系统，包括MySQL、Postgres和 SQLite。",
         "price": "89.00元",
         "type": "pdf",
+        "meta_type": "douban",
         "sha_256": "1c8ea09c04f546a8a671dafe56dccad86ee9914c4f84d75e33a2f3ee391b20f6",
         "file": "Python核心编程（中文第二版）带目录.pdf"
       },
       {
         "rating": {
           "max": 10,
-          "numRaters": 657,
+          "numRaters": 658,
           "average": "8.7",
           "min": 0
         },
@@ -4207,29 +4348,34 @@
         "pubdate": "2008-6",
         "tags": [
           {
-            "count": 1456,
+            "count": 1470,
             "name": "python",
             "title": "python"
           },
           {
-            "count": 548,
+            "count": 554,
             "name": "编程",
             "title": "编程"
           },
           {
-            "count": 407,
+            "count": 420,
             "name": "Python",
             "title": "Python"
           },
           {
-            "count": 283,
+            "count": 291,
             "name": "计算机",
             "title": "计算机"
           },
           {
-            "count": 220,
+            "count": 225,
             "name": "编译原理",
             "title": "编译原理"
+          },
+          {
+            "count": 217,
+            "name": "程序语言",
+            "title": "程序语言"
           },
           {
             "count": 217,
@@ -4237,12 +4383,7 @@
             "title": "programming"
           },
           {
-            "count": 214,
-            "name": "程序语言",
-            "title": "程序语言"
-          },
-          {
-            "count": 170,
+            "count": 173,
             "name": "脚本引擎",
             "title": "脚本引擎"
           }
@@ -4272,6 +4413,7 @@
         "ebook_price": "38.39",
         "price": "69.80元",
         "type": "pdf",
+        "meta_type": "douban",
         "sha_256": "9042f9784c4c11a1c99edc57a2ab093ed0283013915a64a171da1ca7c72f44ba",
         "file": "Python源码剖析.pdf"
       },
@@ -4289,17 +4431,17 @@
         "pubdate": "2010-1",
         "tags": [
           {
-            "count": 339,
+            "count": 341,
             "name": "python",
             "title": "python"
           },
           {
-            "count": 119,
+            "count": 120,
             "name": "编程",
             "title": "编程"
           },
           {
-            "count": 114,
+            "count": 117,
             "name": "Python",
             "title": "Python"
           },
@@ -4356,6 +4498,7 @@
         "summary": "《Python高级编程》通过大量的实例，介绍了Python语言的最佳实践和敏捷开发方法，并涉及整个软件生命周期的高级主题，诸如持续集成、版本控制系统、包的发行和分发、开发模式、文档编写等。《Python高级编程》首先介绍如何设置最优的开发环境，然后以Python敏捷开发方法为线索，阐述如何将已被验证的面向对象原则应用到设计中。这些内容为开发人员和项目管理人员提供了整个软件工程中的许多高级概念以及专家级的建议，其中有些内容的意义甚至超出了Python语言本身。\n《Python高级编程》针对具备一定Python基础并希望通过在项目中应用最佳实践和新的开发技术来提升自己的Python开发人员。",
         "price": "45.00元",
         "type": "pdf",
+        "meta_type": "douban",
         "sha_256": "868b8d165e79d0fc056ce0912d513bc802f50e143b626dec20cb1e0c3bc0bfdc",
         "file": "Python高级编程.pdf"
       },
@@ -4370,6 +4513,7 @@
         "title": "Violent Python 中文版",
         "creator": "wizardforcel",
         "publisher": "GitBook",
+        "meta_type": "opf",
         "type": "epub",
         "sha_256": "b44a9aa7cdcf84a400571daaf88e7f32e103170395ff40e5be69a2bc6e54ca2b",
         "file": "violent-python.epub"
@@ -4389,44 +4533,44 @@
         "pubdate": "2015-5-1",
         "tags": [
           {
-            "count": 109,
+            "count": 120,
             "name": "Python",
             "title": "Python"
           },
           {
-            "count": 41,
+            "count": 44,
             "name": "编程",
             "title": "编程"
           },
           {
-            "count": 28,
+            "count": 30,
             "name": "python",
             "title": "python"
           },
           {
-            "count": 25,
+            "count": 27,
             "name": "计算机",
             "title": "计算机"
           },
           {
-            "count": 21,
+            "count": 22,
             "name": "cookbook",
             "title": "cookbook"
           },
           {
-            "count": 15,
+            "count": 16,
             "name": "O'Reilly",
             "title": "O'Reilly"
           },
           {
-            "count": 8,
+            "count": 9,
             "name": "代码",
             "title": "代码"
           },
           {
             "count": 7,
-            "name": "Web及编程",
-            "title": "Web及编程"
+            "name": "技术",
+            "title": "技术"
           }
         ],
         "origin_title": "Python Cookbook, 3rd Edtioni",
@@ -4454,6 +4598,7 @@
         "summary": "《Python Cookbook（第3版）中文版》介绍了Python应用在各个领域中的一些使用技巧和方法，其主题涵盖了数据结构和算法，字符串和文本，数字、日期和时间，迭代器和生成器，文件和I/O，数据编码与处理，函数，类与对象，元编程，模块和包，网络和Web编程，并发，实用脚本和系统管理，测试、调试以及异常，C语言扩展等。\n本书覆盖了Python应用中的很多常见问题，并提出了通用的解决方案。书中包含了大量实用的编程技巧和示例代码，并在Python 3.3环境下进行了测试，可以很方便地应用到实际项目中去。此外，《Python Cookbook（第3版）中文版》还详细讲解了解决方案是如何工作的，以及为什么能够工作。\n《Python Cookbook（第3版）中文版》非常适合具有一定编程基础的Python程序员阅读参考。",
         "price": "108.00元",
         "type": "pdf",
+        "meta_type": "douban",
         "sha_256": "682209267f55b840d75a7fb74da74e93bfb0ac4e800f96ad88370d524f160105",
         "file": "《Python Cookbook》第三版中文v2.0.0.pdf"
       },
@@ -4471,7 +4616,7 @@
         "pubdate": "2014-8",
         "tags": [
           {
-            "count": 140,
+            "count": 144,
             "name": "Python",
             "title": "Python"
           },
@@ -4486,7 +4631,7 @@
             "title": "编程"
           },
           {
-            "count": 23,
+            "count": 24,
             "name": "python",
             "title": "python"
           },
@@ -4540,14 +4685,15 @@
         },
         "price": "69.00元",
         "type": "pdf",
+        "meta_type": "douban",
         "sha_256": "9d75c34089bcfbd57948a9ccf3b80dfb727a3b959c57e3621816fba995a3121e",
         "file": "《Python编程实战：运用设计模式、冰法和程序库创建高质量程序》迷你书.pdf"
       },
       {
         "rating": {
           "max": 10,
-          "numRaters": 67,
-          "average": "9.1",
+          "numRaters": 83,
+          "average": "9.2",
           "min": 0
         },
         "subtitle": "",
@@ -4557,44 +4703,44 @@
         "pubdate": "2017-5-15",
         "tags": [
           {
-            "count": 143,
+            "count": 185,
             "name": "Python",
             "title": "Python"
           },
           {
-            "count": 64,
+            "count": 76,
             "name": "编程",
             "title": "编程"
           },
           {
-            "count": 52,
+            "count": 60,
             "name": "python",
             "title": "python"
           },
           {
-            "count": 36,
+            "count": 49,
             "name": "计算机",
             "title": "计算机"
           },
           {
-            "count": 25,
+            "count": 32,
             "name": "程序设计",
             "title": "程序设计"
           },
           {
-            "count": 19,
+            "count": 26,
             "name": "计算机科学",
             "title": "计算机科学"
           },
           {
-            "count": 16,
+            "count": 21,
             "name": "图灵社区",
             "title": "图灵社区"
           },
           {
-            "count": 8,
-            "name": "programming",
-            "title": "programming"
+            "count": 14,
+            "name": "进阶",
+            "title": "进阶"
           }
         ],
         "origin_title": "Fluent Python",
@@ -4623,13 +4769,14 @@
         "summary": "【技术大咖推荐】\n“很荣幸担任这本优秀图书的技术审校。这本书能帮助很多中级Python程序员掌握这门语言，我也从中学到了相当多的知识！”——Alex Martelli，Python软件基金会成员\n“对于想要扩充知识的中级和高级Python程序员来说，这本书是充满了实用编程技巧的宝藏。”——Daniel Greenfeld和Audrey Roy Greenfeld，Two Scoops of Django作者\n【本书特色】\n本书由奋战在Python开发一线近20年的Luciano Ramalho执笔，Victor Stinner、Alex Martelli等Python大咖担纲技术审稿人，从语言设计层面剖析编程细节，兼顾Python 3和Python 2，告诉你Python中不亲自动手实践就无法理解的语言陷阱成因和解决之道，教你写出风格地道的Python代码。\n●\tPython数据模型：理解为什么特殊方法是对象行为一致的关键。\n●\t数据结构：充分利用内置类型，理解Unicode文本和字节二象性。\n●\t把函数视作对象：把Python函数视作一等对象，并了解这一点对流行的设计模式的影响。\n●\t面向对象习惯用法：通过构建类学习引用、可变性、接口、运算符重载和多重继承。\n●\t控制流程：学习使用上下文管理器、生成器、协程，以及通过concurrent.futures和asyncio包实现的并发。\n●\t元编程：理解特性、描述符、类装饰器和元类的工作原理。\n【主要内容】\n本书致力于帮助Python开发人员挖掘这门语言及相关程序库的优秀特性，避免重复劳动，同时写出简洁、流畅、易读、易维护，并且具有地道Python风格的代码。本书尤其深入探讨了Python语言的高级用法，涵盖数据结构、Python风格的对象、并行与并发，以及元编程等不同的方面。\n本书适合中高级Python软件开发人员阅读参考。\n【译者简介】\n安道\n专注于现代计算机技术的自由翻译，译有《Flask Web 开发》《Python 网络编程攻略》《Ruby on Rails 教程》等书。\n个人网站：http://about.ac/。\n吴珂\n现为Airbnb公司软件工程师，所在团队主要负责开发和维护各类可伸缩、高性能服务，并在Airbnb内推广面向服务的系统架构。在分布式系统、云存储服务和跨平台SDK开发，以及大规模数据处理等方面有多年经验。",
         "price": "139元",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "f649c0ee64454bc9790c3f9a98dc9be74bc4c99d7c4d86eadb93d5eceb71fa4f",
         "file": "流畅的Python.epub"
       },
       {
         "rating": {
           "max": 10,
-          "numRaters": 263,
+          "numRaters": 270,
           "average": "7.4",
           "min": 0
         },
@@ -4646,12 +4793,12 @@
             "title": "python"
           },
           {
-            "count": 131,
+            "count": 136,
             "name": "Python",
             "title": "Python"
           },
           {
-            "count": 84,
+            "count": 86,
             "name": "编程",
             "title": "编程"
           },
@@ -4710,6 +4857,7 @@
         },
         "price": "59.00元",
         "type": "epub",
+        "meta_type": "douban",
         "sha_256": "4eaf157d1cc081f997be222fe0289628de42c033adde2e05b5c2f0e1e2c173b4",
         "file": "编写高质量的代码:改善Python程序的91个建议.epub"
       }
@@ -4730,6 +4878,7 @@
         "title": "区块链技术指南",
         "language": "zh",
         "creator": "yeasy",
+        "meta_type": "opf",
         "type": "epub",
         "sha_256": "e074ed66981f3776e7f7e60d71f2b18bea4a2273fbd5fae67f354cbaa14e886c",
         "file": "blockchain_guide.epub"
@@ -4743,10 +4892,11 @@
         "date": "2013-08-24T16:00:00+00:00",
         "contributor": "calibre (3.7.0) [https://calibre-ebook.com]",
         "identifier": {
-          "MOBI-ASIN": "d96460dc-44aa-418c-9471-b6b5016eaacf",
+          "mobi-asin": "d96460dc-44aa-418c-9471-b6b5016eaacf",
           "uuid": "5ee84d0c-680a-44c4-aa30-19be7cfa77d7",
           "calibre": "5ee84d0c-680a-44c4-aa30-19be7cfa77d7"
         },
+        "meta_type": "opf",
         "type": "epub",
         "sha_256": "e04a11fd723f2bb9bb42bef006115ebf5a30a26b6f4642eacf00d9f863cbf6cc",
         "file": "解密与加密(第3版).epub"
@@ -4768,6 +4918,7 @@
         "identifier": {
           "uuid": "d5e70717-6cb7-4a1f-89ca-f72c6067a75b"
         },
+        "meta_type": "opf",
         "type": "epub",
         "sha_256": "9ab17fe27d4b0f051bc109273801fe25964b064b72bb588aae7b0faa4b95806d",
         "file": "use-vim-as-ide.epub"
