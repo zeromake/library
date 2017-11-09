@@ -54,7 +54,7 @@
 - [JavaScript](#javascript)
     - [Chrome扩展及应用开发](#chrome扩展及应用开发): 8.1
     - [Html5权威指南](#html5权威指南): 8.6
-    - [JS函数式编程指南](#js函数式编程指南)
+    - [JS 函数式编程指南](#js-函数式编程指南)
     - [JavaScript设计模式与开发实践](#javascript设计模式与开发实践): 9.1
     - [Web全栈工程师的自我修养](#web全栈工程师的自我修养): 7.4
     - [從Promise開始的JavaScript異步生活](#從promise開始的javascript異步生活)
@@ -434,7 +434,7 @@
 - 评分　　: 8.5
 - 作者　　: `[美] Eric A.Meyer`
 - 出版时间: 2007-10
-- 标签　　: `css` `CSS权威指南` `CSS` `网页设计` `Web标准` `Web` `计算机` `前端开发`
+- 标签　　: `css` `CSS权威指南` `CSS` `网页设计` `Web标准` `Web` `前端开发` `计算机`
 - 翻译　　: `侯妍` `尹志忠`
 - 页数　　: 508
 - 豆瓣地址: https://book.douban.com/subject/2308234/
@@ -833,14 +833,13 @@ QA应该如何参与进来?
 - 文件类型: pdf
 
 
-### JS函数式编程指南
-[📖JS函数式编程指南](javascript/JS函数式编程-GitBook.epub) [📥下载](../../info/lfs/objects/13df16668b516947ace5f14a1fb378e2ae21b9b7eeb56c9d9f837499e89fac69/JS函数式编程-GitBook.epub)
-- 出版社　: GitBook
-- 简介　　: Mostly Adequate Guide 中文版
-- 国家语言: zh
+### JS 函数式编程指南
+[📖JS 函数式编程指南](javascript/JS函数式编程-GitBook.epub) [📥下载](../../info/lfs/objects/8806b59128bac0d6127946ea7a38294f2639ac111ff76b4e7c9ccff07dbb97f5/JS函数式编程-GitBook.epub)
 - 创建人　: Linghao Li
-- 出版时间: 2016-09-19T03:35:30.608825+00:00
-- 创建工具: calibre (3.7.0) [https://calibre-ebook.com]
+- 国家语言: zh
+- 简介　　: Mostly Adequate Guide 中文版
+- 创建工具: GitBook
+- 出版社　: GitBook
 - 文件类型: epub
 
 
@@ -901,7 +900,7 @@ QA应该如何参与进来?
 - 评分　　: 8.9
 - 作者　　: `David Flanagan`
 - 出版时间: 2012-4-1
-- 标签　　: `JavaScript` `Web前端开发` `犀牛书` `前端` `编程` `Web开发` `前端开发` `计算机`
+- 标签　　: `JavaScript` `Web前端开发` `犀牛书` `前端` `编程` `前端开发` `Web开发` `计算机`
 - 翻译　　: `淘宝前端团队`
 - 页数　　: 1004
 - 豆瓣地址: https://book.douban.com/subject/10549733/

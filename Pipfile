@@ -1,0 +1,21 @@
+[[source]]
+
+url = "https://pypi.doubanio.com/simple/"
+verify_ssl = true
+name = "douban"
+
+
+[packages]
+
+ebooklib = "*"
+"pypdf2" = "*"
+requests = "*"
+
+
+[dev-packages]
+
+
+
+[requires]
+
+python_version = "3.6"
