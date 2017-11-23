@@ -72,13 +72,13 @@
     - [数学之美](#数学之美): 8.7
     - [自制编译器](#自制编译器): 7.6
 - [Python](#python)
-    - [Python Cookbook 中文版，第 3 版](#python-cookbook-中文版第-3-版): 8.9
+    - [Python-Cookbook第三版中文v2.0.0.pdf](#python-cookbook第三版中文v200pdf)
+    - [Python Cookbook 中文版，第 3 版](#python-cookbook-中文版第-3-版): 9.0
     - [Python核心编程（第二版）](#python核心编程第二版): 7.7
     - [Python核心编程（第二版）](#python核心编程第二版): 7.7
     - [Python源码剖析](#python源码剖析): 8.7
     - [Python高级编程](#python高级编程): 7.6
     - [Violent Python 中文版](#violent-python-中文版)
-    - [Python Cookbook 中文版，第 3 版](#python-cookbook-中文版第-3-版): 8.9
     - [Python编程实战](#python编程实战): 7.6
     - [流畅的Python](#流畅的python): 9.2
     - [编写高质量代码：改善Python程序的91个建议](#编写高质量代码改善python程序的91个建议): 7.4
@@ -87,6 +87,8 @@
     - [加密与解密(第3版)](#加密与解密第3版)
 - [工具](#tools)
     - [像 IDE 一样使用 vim](#像-ide-一样使用-vim)
+- [go](#go)
+    - [Go程序设计语言](#go程序设计语言): 9.7
 
 ## algorithm
 > [📚算法](algorithm)
@@ -1091,9 +1093,17 @@ HTTP起初是一个简单的协议，因此你可能会认为关于这个协议�
 > [📚Python](python)
 
 
+### Python-Cookbook第三版中文v2.0.0.pdf
+[📖Python-Cookbook第三版中文v2.0.0.pdf](python/Python-Cookbook第三版中文v2.0.0.pdf) [📥下载](../../info/lfs/objects/682209267f55b840d75a7fb74da74e93bfb0ac4e800f96ad88370d524f160105/Python-Cookbook第三版中文v2.0.0.pdf)
+- 创建人　: Latex With Hyperref Package
+- 制作人　: Xdvipdfmx (0.7.8)
+- 创建时间: D:20160401103437+08'00'
+- 文件类型: pdf
+
+
 ### Python Cookbook 中文版，第 3 版
-[📖Python Cookbook 中文版，第 3 版](python/Python_Cookbook-第三版 Jones.epub) [📥下载](../../info/lfs/objects/67f1d371b51585ebaac78f18c67351dbc1f6dfeabbfd743a125bfeb13a96c485/Python_Cookbook-第三版 Jones.epub)
-- 评分　　: 8.9
+[📖Python Cookbook 中文版，第 3 版](python/Python_Cookbook-第三版 Jones.epub) [📥下载](../../info/lfs/objects/8a36c8b3b5845186bff6652bf237bd99409cfae3ff76889e516178b45c5558ed/Python_Cookbook-第三版 Jones.epub)
+- 评分　　: 9.0
 - 作者　　: `David M. Beazley` `Brian K. Jones`
 - 出版时间: 2015-5-1
 - 标签　　: `Python` `编程` `python` `计算机` `cookbook` `O'Reilly` `代码` `技术`
@@ -1192,23 +1202,6 @@ HTTP起初是一个简单的协议，因此你可能会认为关于这个协议�
 - 创建人　: wizardforcel
 - 出版社　: GitBook
 - 文件类型: epub
-
-
-### Python Cookbook 中文版，第 3 版
-[📖Python Cookbook 中文版，第 3 版](python/《Python Cookbook》第三版中文v2.0.0.pdf) [📥下载](../../info/lfs/objects/682209267f55b840d75a7fb74da74e93bfb0ac4e800f96ad88370d524f160105/《Python Cookbook》第三版中文v2.0.0.pdf)
-- 评分　　: 8.9
-- 作者　　: `David M. Beazley` `Brian K. Jones`
-- 出版时间: 2015-5-1
-- 标签　　: `Python` `编程` `python` `计算机` `cookbook` `O'Reilly` `代码` `技术`
-- 翻译　　: `陈舸`
-- 页数　　: 684
-- 豆瓣地址: https://book.douban.com/subject/26381341/
-- 出版社　: 人民邮电出版社
-- 简介　　: 《Python Cookbook（第3版）中文版》介绍了Python应用在各个领域中的一些使用技巧和方法，其主题涵盖了数据结构和算法，字符串和文本，数字、日期和时间，迭代器和生成器，文件和I/O，数据编码与处理，函数，类与对象，元编程，模块和包，网络和Web编程，并发，实用脚本和系统管理，测试、调试以及异常，C语言扩展等。
-本书覆盖了Python应用中的很多常见问题，并提出了通用的解决方案。书中包含了大量实用的编程技巧和示例代码，并在Python 3.3环境下进行了测试，可以很方便地应用到实际项目中去。此外，《Python Cookbook（第3版）中文版》还详细讲解了解决方案是如何工作的，以及为什么能够工作。
-《Python Cookbook（第3版）中文版》非常适合具有一定编程基础的Python程序员阅读参考。
-- 价格　　: 108.00元
-- 文件类型: pdf
 
 
 ### Python编程实战
@@ -1314,4 +1307,25 @@ HTTP起初是一个简单的协议，因此你可能会认为关于这个协议�
 - 创建工具: GitBook
 - 简介　　: yangyangwithgnu@yeah.net2016-03-30 16:39:33
 - 国家语言: zh
+- 文件类型: epub
+
+
+## go
+> [📚go](go)
+
+
+### Go程序设计语言
+[📖Go程序设计语言](go/Go程序设计语言.epub) [📥下载](../../info/lfs/objects/09092a921a8237dfaa26bfab5a38944e017abdcc8caa2cc659974570379ee94e/Go程序设计语言.epub)
+- 评分　　: 9.7
+- 作者　　: `艾伦 A. A. 多诺万`
+- 出版时间: 2017-5
+- 标签　　: `Go语言` `计算机` `计算机科学` `go语言` `golang` `GO`
+- 翻译　　: `李道兵` `高博` `庞向才` `金鑫鑫` `林齐斌`
+- 页数　　: 286
+- 豆瓣地址: https://book.douban.com/subject/27044219/
+- 出版社　: 机械工业出版社
+- 简介　　: 本书由《C程序设计语言》的作者Kernighan和谷歌公司Go团队主管Alan Donovan联袂撰写，是学习Go语言程序设计的指南。本书共13章，主要内容包括：Go的基础知识、基本结构、基本数据类型、复合数据类型、函数、方法、接口、goroutine、通道、共享变量的并发性、包、go工具、测试、反射等。
+本书适合作为计算机相关专业的教材，也可供Go语言爱好者阅读。
+- 从书　　: 计算机科学丛书
+- 价格　　: 79
 - 文件类型: epub
