@@ -11,6 +11,7 @@ from ebooklib import epub
 from PyPDF2 import PdfFileReader
 from PyPDF2.generic import IndirectObject, TextStringObject
 import requests
+import base64
 
 try:
     reload(sys)
@@ -84,7 +85,8 @@ def build_markdown(options):
             title = book['title'] if 'title' in book and book['title'].strip() != '' else book_name
             buffer.append('\n')
             buffer.append('### %s' % title)
-            buffer.append('[📖%s](%s) [📥下载](../../info/lfs/objects/%s/%s)' % (title, book_type['dir_name'] + '/' + book_name, book['sha_256'], book_name))
+            encode_name = base64.urlsafe_b64encode(book_name.encode()).decode()
+            buffer.append('[📖%s](%s) [📥下载](../../info/lfs/objects/%s/%s)' % (title, book_type['dir_name'] + '/' + book_name, book['sha_256'], encode_name))
             toc = '    - [%s](#%s)' % (title, safe_toc(title))
             # if 'identifier' in book and 'DOUBAN' in book['identifier']:
             #     douban_id = book['identifier']['DOUBAN']
