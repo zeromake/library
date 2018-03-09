@@ -96,7 +96,7 @@
 
 
 ### 算法（第4版）
-[📖算法（第4版）](algorithm/算法-第4版.pdf) [📥下载](../../src/info/lfs/objects/1a966e64144fb29daefee648ea37835ed5ea8fed800dc20472a7fd78784428d4/566X5rOVLeesrDTniYgucGRm)
+[📖算法（第4版）](algorithm/算法-第4版.pdf) [📥下载](../../../info/lfs/objects/1a966e64144fb29daefee648ea37835ed5ea8fed800dc20472a7fd78784428d4/566X5rOVLeesrDTniYgucGRm)
 - 评分　　: 9.4
 - 作者　　: `塞奇威克 (Robert Sedgewick)` `韦恩 (Kevin Wayne)`
 - 出版时间: 2012-10-1
@@ -126,7 +126,7 @@ Sedgewick畅销著作的最新版，反映了经过几十年演化而成的算�
 
 
 ### 算法图解
-[📖算法图解](algorithm/算法图解.epub) [📥下载](../../src/info/lfs/objects/eda64163203e61ab7d77538b0021484edf20e9a5904ac39fb5a1f7ef2985d980/566X5rOV5Zu-6KejLmVwdWI=)
+[📖算法图解](algorithm/算法图解.epub) [📥下载](../../../info/lfs/objects/eda64163203e61ab7d77538b0021484edf20e9a5904ac39fb5a1f7ef2985d980/566X5rOV5Zu-6KejLmVwdWI=)
 - 评分　　: 8.0
 - 作者　　: `[美] Aditya Bhargava`
 - 出版时间: 2017-3
@@ -142,7 +142,7 @@ Sedgewick畅销著作的最新版，反映了经过几十年演化而成的算�
 
 
 ### 算法引论
-[📖算法引论](algorithm/算法引论：一种创造性方法(扫描,无书签).pdf) [📥下载](../../src/info/lfs/objects/cc6f545b84ec6999dbe9b88445a8cd7f20c36b19b13b18e30bbd48f2a9fb7d44/566X5rOV5byV6K6677ya5LiA56eN5Yib6YCg5oCn5pa55rOVKOaJq-aPjyzml6Dkuabnrb4pLnBkZg==)
+[📖算法引论](algorithm/算法引论：一种创造性方法(扫描,无书签).pdf) [📥下载](../../../info/lfs/objects/cc6f545b84ec6999dbe9b88445a8cd7f20c36b19b13b18e30bbd48f2a9fb7d44/566X5rOV5byV6K6677ya5LiA56eN5Yib6YCg5oCn5pa55rOVKOaJq-aPjyzml6Dkuabnrb4pLnBkZg==)
 - 评分　　: 8.9
 - 副标题　: 一种创造性方法
 - 作者　　: `[美]Udi Manber`
@@ -160,7 +160,7 @@ Sedgewick畅销著作的最新版，反映了经过几十年演化而成的算�
 
 
 ### 算法设计与分析基础(第3版)
-[📖算法设计与分析基础(第3版)](algorithm/算法设计与分析基础.pdf) [📥下载](../../src/info/lfs/objects/8b2aee04a5d58ca47274f5695d6ca0e92fe1e431f0953d0e147f1ec44bf05dec/566X5rOV6K6-6K6h5LiO5YiG5p6Q5Z-656GALnBkZg==)
+[📖算法设计与分析基础(第3版)](algorithm/算法设计与分析基础.pdf) [📥下载](../../../info/lfs/objects/8b2aee04a5d58ca47274f5695d6ca0e92fe1e431f0953d0e147f1ec44bf05dec/566X5rOV6K6-6K6h5LiO5YiG5p6Q5Z-656GALnBkZg==)
 - 评分　　: 8.8
 - 副标题　: 第3版
 - 作者　　: `Anany Levitin`
@@ -176,7 +176,7 @@ Sedgewick畅销著作的最新版，反映了经过几十年演化而成的算�
 
 
 ### 编译原理
-[📖编译原理](algorithm/编译原理-第二版.pdf) [📥下载](../../src/info/lfs/objects/820c0ec5c9fd0d2a368e5c642fa9110907d51f798eb6215ccd0819d097fc0690/57yW6K-R5Y6f55CGLeesrOS6jOeJiC5wZGY=)
+[📖编译原理](algorithm/编译原理-第二版.pdf) [📥下载](../../../info/lfs/objects/820c0ec5c9fd0d2a368e5c642fa9110907d51f798eb6215ccd0819d097fc0690/57yW6K-R5Y6f55CGLeesrOS6jOeJiC5wZGY=)
 - 评分　　: 7.8
 - 副标题　: 本科教学版 第2版
 - 作者　　: `Alfred V. Aho` `Monica S. Lam` `Ravi Sethi` `Jeffrey D. Ullman`
@@ -200,7 +200,7 @@ Sedgewick畅销著作的最新版，反映了经过几十年演化而成的算�
 
 
 ### 更上一层楼－Android研发工程师高级进阶
-[📖更上一层楼－Android研发工程师高级进阶](android/Android研发工程师高级进阶.epub) [📥下载](../../src/info/lfs/objects/8a61158889a94d3c98249f5cc349ae0d43b95f90d59f9bc73a467a60facfee48/QW5kcm9pZOeglOWPkeW3peeoi-W4iOmrmOe6p-i_m-mYti5lcHVi)
+[📖更上一层楼－Android研发工程师高级进阶](android/Android研发工程师高级进阶.epub) [📥下载](../../../info/lfs/objects/8a61158889a94d3c98249f5cc349ae0d43b95f90d59f9bc73a467a60facfee48/QW5kcm9pZOeglOWPkeW3peeoi-W4iOmrmOe6p-i_m-mYti5lcHVi)
 - 出版社　: GitBook
 - 简介　　: 原文链接：http://www.bignerdranch.com/blog/what-is-functional-reactive-programming/
 - 国家语言: zh
@@ -211,7 +211,7 @@ Sedgewick畅销著作的最新版，反映了经过几十年演化而成的算�
 
 
 ### Android高薪之路
-[📖Android高薪之路](android/Android高薪之路：Android程序员面试宝典.pdf) [📥下载](../../src/info/lfs/objects/6880a693734ebd927be1519b6f9f7e3d12369d122aa5069e6cf4e97473019fa4/QW5kcm9pZOmrmOiWquS5i-i3r--8mkFuZHJvaWTnqIvluo_lkZjpnaLor5Xlrp3lhbgucGRm)
+[📖Android高薪之路](android/Android高薪之路：Android程序员面试宝典.pdf) [📥下载](../../../info/lfs/objects/6880a693734ebd927be1519b6f9f7e3d12369d122aa5069e6cf4e97473019fa4/QW5kcm9pZOmrmOiWquS5i-i3r--8mkFuZHJvaWTnqIvluo_lkZjpnaLor5Xlrp3lhbgucGRm)
 - 评分　　: 6.9
 - 副标题　: Android程序员面试宝典
 - 作者　　: `李宁`
@@ -226,7 +226,7 @@ Sedgewick畅销著作的最新版，反映了经过几十年演化而成的算�
 
 
 ### 深入理解Android：卷I
-[📖深入理解Android：卷I](android/深入理解Android卷I.epub) [📥下载](../../src/info/lfs/objects/7f49de4e256161e439af824db0c5cc36566faef5fb25f48ad0cecb2ff7e97448/5rex5YWl55CG6KejQW5kcm9pZOWNt0kuZXB1Yg==)
+[📖深入理解Android：卷I](android/深入理解Android卷I.epub) [📥下载](../../../info/lfs/objects/7f49de4e256161e439af824db0c5cc36566faef5fb25f48ad0cecb2ff7e97448/5rex5YWl55CG6KejQW5kcm9pZOWNt0kuZXB1Yg==)
 - 国家语言: zh
 - 创建工具: calibre (2.16.0) [http://calibre-ebook.com]
 - 出版时间: 2011-09-07T16:00:00+00:00
@@ -235,7 +235,7 @@ Sedgewick畅销著作的最新版，反映了经过几十年演化而成的算�
 
 
 ### 深入理解Android:卷II
-[📖深入理解Android:卷II](android/深入理解Android卷II.epub) [📥下载](../../src/info/lfs/objects/2dddd418f390a66b02b22fe47903407d9b920b7a5de9e8a3c725a95acf54a103/5rex5YWl55CG6KejQW5kcm9pZOWNt0lJLmVwdWI=)
+[📖深入理解Android:卷II](android/深入理解Android卷II.epub) [📥下载](../../../info/lfs/objects/2dddd418f390a66b02b22fe47903407d9b920b7a5de9e8a3c725a95acf54a103/5rex5YWl55CG6KejQW5kcm9pZOWNt0lJLmVwdWI=)
 - 出版社　: 机械工业出版社
 - 创建工具: calibre (2.16.0) [http://calibre-ebook.com]
 - 国家语言: zh
@@ -249,7 +249,7 @@ Sedgewick畅销著作的最新版，反映了经过几十年演化而成的算�
 
 
 ### C Primer Plus
-[📖C Primer Plus](c/C Primer Plus第五版 中文版.epub) [📥下载](../../src/info/lfs/objects/fd3fec526da6c0fd3f85a4db983dca9803238f122cc765524edfc10c1bd49c40/QyBQcmltZXIgUGx1c-esrOS6lOeJiCDkuK3mlofniYguZXB1Yg==)
+[📖C Primer Plus](c/C Primer Plus第五版 中文版.epub) [📥下载](../../../info/lfs/objects/fd3fec526da6c0fd3f85a4db983dca9803238f122cc765524edfc10c1bd49c40/QyBQcmltZXIgUGx1c-esrOS6lOeJiCDkuK3mlofniYguZXB1Yg==)
 - 评分　　: 9.1
 - 副标题　: （第五版）
 - 作者　　: `Stephen Prata` `云巅工作室`
@@ -265,7 +265,7 @@ Sedgewick畅销著作的最新版，反映了经过几十年演化而成的算�
 
 
 ### lua源码分析.pdf
-[📖lua源码分析.pdf](c/lua源码分析.pdf) [📥下载](../../src/info/lfs/objects/251052e74cd98ad9558faebce2dc26f1aa2035f6e2d768777f40024680344203/bHVh5rqQ56CB5YiG5p6QLnBkZg==)
+[📖lua源码分析.pdf](c/lua源码分析.pdf) [📥下载](../../../info/lfs/objects/251052e74cd98ad9558faebce2dc26f1aa2035f6e2d768777f40024680344203/bHVh5rqQ56CB5YiG5p6QLnBkZg==)
 - 制作人　: Mac OS X 10.10.1 Quartz PDFContext
 - 创建人　: LaTeX with hyperref package
 - 创建时间: D:20150121094602Z00'00'
@@ -274,7 +274,7 @@ Sedgewick畅销著作的最新版，反映了经过几十年演化而成的算�
 
 
 ### 数据结构与算法分析
-[📖数据结构与算法分析](c/数据结构与算法分析-C.pdf) [📥下载](../../src/info/lfs/objects/3e96c8af63626ffe12bd73e49cc79cd026ef3dc9b0f843919d2bf1a5ecd511a8/5pWw5o2u57uT5p6E5LiO566X5rOV5YiG5p6QLUMucGRm)
+[📖数据结构与算法分析](c/数据结构与算法分析-C.pdf) [📥下载](../../../info/lfs/objects/3e96c8af63626ffe12bd73e49cc79cd026ef3dc9b0f843919d2bf1a5ecd511a8/5pWw5o2u57uT5p6E5LiO566X5rOV5YiG5p6QLUMucGRm)
 - 评分　　: 8.9
 - 副标题　: C语言描述
 - 作者　　: `维斯`
@@ -299,7 +299,7 @@ Sedgewick畅销著作的最新版，反映了经过几十年演化而成的算�
 
 
 ### 算法精解
-[📖算法精解](c/算法精解-c语言描述.epub) [📥下载](../../src/info/lfs/objects/750d6c45decfd0e0dca0cc5ded4ff5baafc468cc963513543ec867dfb4f3aa2a/566X5rOV57K-6KejLWPor63oqIDmj4_ov7AuZXB1Yg==)
+[📖算法精解](c/算法精解-c语言描述.epub) [📥下载](../../../info/lfs/objects/750d6c45decfd0e0dca0cc5ded4ff5baafc468cc963513543ec867dfb4f3aa2a/566X5rOV57K-6KejLWPor63oqIDmj4_ov7AuZXB1Yg==)
 - 评分　　: 8.2
 - 副标题　: C语言描述
 - 作者　　: `Kyle Loudon`
@@ -332,7 +332,7 @@ Sedgewick畅销著作的最新版，反映了经过几十年演化而成的算�
 
 
 ### C++ Primer Plus
-[📖C++ Primer Plus](c++/C++ Primer Plus  第6版  中文版.pdf) [📥下载](../../src/info/lfs/objects/10e19996ff8031d2340ddf7c5349febecaf2308a0b7c94cffa699b7de5c2f9db/QysrIFByaW1lciBQbHVzICDnrKw254mIICDkuK3mlofniYgucGRm)
+[📖C++ Primer Plus](c++/C++ Primer Plus  第6版  中文版.pdf) [📥下载](../../../info/lfs/objects/10e19996ff8031d2340ddf7c5349febecaf2308a0b7c94cffa699b7de5c2f9db/QysrIFByaW1lciBQbHVzICDnrKw254mIICDkuK3mlofniYgucGRm)
 - 评分　　: 8.6
 - 副标题　: 中文版（第六版）
 - 作者　　: `Stephen Prata`
@@ -349,7 +349,7 @@ Sedgewick畅销著作的最新版，反映了经过几十年演化而成的算�
 
 
 ### C++ Primer 中文版（第 5 版）
-[📖C++ Primer 中文版（第 5 版）](c++/C++Primer 第5版.pdf) [📥下载](../../src/info/lfs/objects/322d5d6f0b48ad11b7b80b3122db78d8a2b3194946ac5766810cf7ac2803287d/QysrUHJpbWVyIOesrDXniYgucGRm)
+[📖C++ Primer 中文版（第 5 版）](c++/C++Primer 第5版.pdf) [📥下载](../../../info/lfs/objects/322d5d6f0b48ad11b7b80b3122db78d8a2b3194946ac5766810cf7ac2803287d/QysrUHJpbWVyIOesrDXniYgucGRm)
 - 评分　　: 9.3
 - 作者　　: `[美] Stanley B. Lippman` `[美] Josée Lajoie` `[美] Barbara E. Moo`
 - 出版时间: 2013-9-1
@@ -364,7 +364,7 @@ Sedgewick畅销著作的最新版，反映了经过几十年演化而成的算�
 
 
 ### C++并发编程实战
-[📖C++并发编程实战](c++/C++并发编程实战.epub) [📥下载](../../src/info/lfs/objects/fc9acd2d659a2a9317c042cd3a0f8f59f54d88f5619494f3df04025f59850618/Qysr5bm25Y-R57yW56iL5a6e5oiYLmVwdWI=)
+[📖C++并发编程实战](c++/C++并发编程实战.epub) [📥下载](../../../info/lfs/objects/fc9acd2d659a2a9317c042cd3a0f8f59f54d88f5619494f3df04025f59850618/Qysr5bm25Y-R57yW56iL5a6e5oiYLmVwdWI=)
 - 评分　　: 5.8
 - 作者　　: `Anthony Williams`
 - 出版时间: 2015-5
@@ -380,7 +380,7 @@ Sedgewick畅销著作的最新版，反映了经过几十年演化而成的算�
 
 
 ### Linux多线程服务端编程
-[📖Linux多线程服务端编程](c++/Linux多线程服务端编程.epub) [📥下载](../../src/info/lfs/objects/a2318169aef295c05fa9b4f627c07ecb6f4724f16e28edd3793ebff5dac202a9/TGludXjlpJrnur_nqIvmnI3liqHnq6_nvJbnqIsuZXB1Yg==)
+[📖Linux多线程服务端编程](c++/Linux多线程服务端编程.epub) [📥下载](../../../info/lfs/objects/a2318169aef295c05fa9b4f627c07ecb6f4724f16e28edd3793ebff5dac202a9/TGludXjlpJrnur_nqIvmnI3liqHnq6_nvJbnqIsuZXB1Yg==)
 - 评分　　: 8.8
 - 副标题　: 使用muduo C++网络库
 - 作者　　: `陈硕`
@@ -397,7 +397,7 @@ Sedgewick畅销著作的最新版，反映了经过几十年演化而成的算�
 
 
 ### 完美c++（第5版）（双色）
-[📖完美c++（第5版）（双色）](c++/完美C ++ (第5版).pdf) [📥下载](../../src/info/lfs/objects/e65a431b7cb568cb055bcb1801aab851785265a12344161212795014a2a95cfe/5a6M576OQyArKyAo56ysNeeJiCkucGRm)
+[📖完美c++（第5版）（双色）](c++/完美C ++ (第5版).pdf) [📥下载](../../../info/lfs/objects/e65a431b7cb568cb055bcb1801aab851785265a12344161212795014a2a95cfe/5a6M576OQyArKyAo56ysNeeJiCkucGRm)
 - 评分　　: 7.4
 - 作者　　: `薛正华` `沈庚` `韦远科`
 - 出版时间: 2014-6-1
@@ -415,7 +415,7 @@ Sedgewick畅销著作的最新版，反映了经过几十年演化而成的算�
 
 
 ### 数据结构与算法分析
-[📖数据结构与算法分析](c++/数据结构与算法分析–C++(第3版,扫描,书签).pdf) [📥下载](../../src/info/lfs/objects/ee145b4c2a62b082868c4c2df8ae980dfda7779bbd9b86868f9ec6b0195fde3c/5pWw5o2u57uT5p6E5LiO566X5rOV5YiG5p6Q4oCTQysrKOesrDPniYgs5omr5o-PLOS5puetvikucGRm)
+[📖数据结构与算法分析](c++/数据结构与算法分析–C++(第3版,扫描,书签).pdf) [📥下载](../../../info/lfs/objects/ee145b4c2a62b082868c4c2df8ae980dfda7779bbd9b86868f9ec6b0195fde3c/5pWw5o2u57uT5p6E5LiO566X5rOV5YiG5p6Q4oCTQysrKOesrDPniYgs5omr5o-PLOS5puetvikucGRm)
 - 评分　　: 8.4
 - 副标题　: C++描述(第三版)
 - 作者　　: `[美]Mark Allen Weiss`
@@ -432,7 +432,7 @@ Sedgewick畅销著作的最新版，反映了经过几十年演化而成的算�
 
 
 ### 高速上手 C++11/14
-[📖高速上手 C++11/14](c++/高速上手C++11-14.epub) [📥下载](../../src/info/lfs/objects/b7304d334a8133ac7628d02a66aeaa71287ea9a01163dad3cc7d82f1864f09e7/6auY6YCf5LiK5omLQysrMTEtMTQuZXB1Yg==)
+[📖高速上手 C++11/14](c++/高速上手C++11-14.epub) [📥下载](../../../info/lfs/objects/b7304d334a8133ac7628d02a66aeaa71287ea9a01163dad3cc7d82f1864f09e7/6auY6YCf5LiK5omLQysrMTEtMTQuZXB1Yg==)
 - 出版社　: GitBook
 - 简介　　: C++11 的出现及C++14 对 C++11的重要补充，让 C++ 这门古老的语言注入了新的活力。如果你还在使用传统 C++，打着 C++ 的名号写出 C 语言代码，请停下来。本教程将带领你快速上手 C++11/14 的重要特性。
 - 国家语言: zh
@@ -447,7 +447,7 @@ Sedgewick畅销著作的最新版，反映了经过几十年演化而成的算�
 
 
 ### Css揭秘
-[📖Css揭秘](css/CSS揭秘.epub) [📥下载](../../src/info/lfs/objects/55f672cdb9a62b5b49c767e9c2eae9588e0370a5f69240f321f51f1324f2d48c/Q1NT5o-t56eYLmVwdWI=)
+[📖Css揭秘](css/CSS揭秘.epub) [📥下载](../../../info/lfs/objects/55f672cdb9a62b5b49c767e9c2eae9588e0370a5f69240f321f51f1324f2d48c/Q1NT5o-t56eYLmVwdWI=)
 - 评分　　: 9.5
 - 作者　　: `[希] Lea Verou`
 - 出版时间: 2016-4
@@ -463,7 +463,7 @@ Sedgewick畅销著作的最新版，反映了经过几十年演化而成的算�
 
 
 ### Css权威指南（第三版）
-[📖Css权威指南（第三版）](css/CSS权威指南第三版.epub) [📥下载](../../src/info/lfs/objects/b0cac6516ce008845a78e27a024255a4021952c559c39e00b1c15a831ad74651/Q1NT5p2D5aiB5oyH5Y2X56ys5LiJ54mILmVwdWI=)
+[📖Css权威指南（第三版）](css/CSS权威指南第三版.epub) [📥下载](../../../info/lfs/objects/b0cac6516ce008845a78e27a024255a4021952c559c39e00b1c15a831ad74651/Q1NT5p2D5aiB5oyH5Y2X56ys5LiJ54mILmVwdWI=)
 - 评分　　: 8.5
 - 作者　　: `[美] Eric A.Meyer`
 - 出版时间: 2007-10
@@ -488,7 +488,7 @@ Sedgewick畅销著作的最新版，反映了经过几十年演化而成的算�
 
 
 ### Css禅意花园
-[📖Css禅意花园](css/CSS禅意花园(修订版).epub) [📥下载](../../src/info/lfs/objects/7b11835db2a2805111cb5ed773baf432f4a5b066b0cca97c379632330b8f9520/Q1NT56aF5oSP6Iqx5ZutKOS_ruiuoueJiCkuZXB1Yg==)
+[📖Css禅意花园](css/CSS禅意花园(修订版).epub) [📥下载](../../../info/lfs/objects/7b11835db2a2805111cb5ed773baf432f4a5b066b0cca97c379632330b8f9520/Q1NT56aF5oSP6Iqx5ZutKOS_ruiuoueJiCkuZXB1Yg==)
 - 评分　　: 8.4
 - 副标题　: Web视觉艺术设计的王者之书
 - 作者　　: `[美] Dave Shea` `Molly E. Holzschlag`
@@ -505,7 +505,7 @@ Sedgewick畅销著作的最新版，反映了经过几十年演化而成的算�
 
 
 ### 响应式Web设计
-[📖响应式Web设计](css/响应式Web设计_HTML5和CSS3实战 - Ben Frain.epub) [📥下载](../../src/info/lfs/objects/461665e0abf4e2a7064025358bfe39ee4b8534f106dd590a4559a9950e998bcf/5ZON5bqU5byPV2Vi6K6-6K6hX0hUTUw15ZKMQ1NTM-WunuaImCAtIEJlbiBGcmFpbi5lcHVi)
+[📖响应式Web设计](css/响应式Web设计_HTML5和CSS3实战 - Ben Frain.epub) [📥下载](../../../info/lfs/objects/461665e0abf4e2a7064025358bfe39ee4b8534f106dd590a4559a9950e998bcf/5ZON5bqU5byPV2Vi6K6-6K6hX0hUTUw15ZKMQ1NTM-WunuaImCAtIEJlbiBGcmFpbi5lcHVi)
 - 评分　　: 7.2
 - 副标题　: HTML5和CSS3实战
 - 作者　　: `Ben Frain`
@@ -528,7 +528,7 @@ Sedgewick畅销著作的最新版，反映了经过几十年演化而成的算�
 
 
 ### Pro Git2 - GitBook
-[📖Pro Git2 - GitBook](cvs/progit2-gitbook.epub) [📥下载](../../src/info/lfs/objects/fe6f33e8112a0c4d9dcee2e18a55fe8c76225debe7aa964a32c4b3024e7bbd1e/cHJvZ2l0Mi1naXRib29rLmVwdWI=)
+[📖Pro Git2 - GitBook](cvs/progit2-gitbook.epub) [📥下载](../../../info/lfs/objects/fe6f33e8112a0c4d9dcee2e18a55fe8c76225debe7aa964a32c4b3024e7bbd1e/cHJvZ2l0Mi1naXRib29rLmVwdWI=)
 - 评分　　: 9.3
 - 作者　　: `Scott Chacon` `Ben Straub`
 - 出版时间: 2014-11-9
@@ -544,7 +544,7 @@ Ben Straub is a developer, long time contributor to Libgit2, holder of a Masters
 
 
 ### Pro Git (Second Edition)
-[📖Pro Git (Second Edition)](cvs/progit2.epub) [📥下载](../../src/info/lfs/objects/91884058f31e42c7324489427f5f30604272f44ffee3bf0a49ad36109a4ee9f1/cHJvZ2l0Mi5lcHVi)
+[📖Pro Git (Second Edition)](cvs/progit2.epub) [📥下载](../../../info/lfs/objects/91884058f31e42c7324489427f5f30604272f44ffee3bf0a49ad36109a4ee9f1/cHJvZ2l0Mi5lcHVi)
 - 评分　　: 9.3
 - 作者　　: `Scott Chacon` `Ben Straub`
 - 出版时间: 2014-11-9
@@ -564,7 +564,7 @@ Ben Straub is a developer, long time contributor to Libgit2, holder of a Masters
 
 
 ### 写给大家看的设计书（第4版）
-[📖写给大家看的设计书（第4版）](design/写给大家看的设计书-第四版.epub) [📥下载](../../src/info/lfs/objects/257da09d5f062526e19047a82f9052d93d22ff1706bf3165276fea1f9c7b4a2b/5YaZ57uZ5aSn5a6255yL55qE6K6-6K6h5LmmLeesrOWbm-eJiC5lcHVi)
+[📖写给大家看的设计书（第4版）](design/写给大家看的设计书-第四版.epub) [📥下载](../../../info/lfs/objects/257da09d5f062526e19047a82f9052d93d22ff1706bf3165276fea1f9c7b4a2b/5YaZ57uZ5aSn5a6255yL55qE6K6-6K6h5LmmLeesrOWbm-eJiC5lcHVi)
 - 评分　　: 8.8
 - 作者　　: `Robin Williams`
 - 出版时间: 2016-1
@@ -587,7 +587,7 @@ Robin　Williams　　世界著名设计师、技术专家和畅销书作家。�
 
 
 ### 微服务：从设计到部署
-[📖微服务：从设计到部署](engineering/esigning-and-deploying-microservices.epub) [📥下载](../../src/info/lfs/objects/48a9391762d3a320d7ced9d7a6d25700a566666d70fa09e68ac35073757b5968/ZXNpZ25pbmctYW5kLWRlcGxveWluZy1taWNyb3NlcnZpY2VzLmVwdWI=)
+[📖微服务：从设计到部署](engineering/esigning-and-deploying-microservices.epub) [📥下载](../../../info/lfs/objects/48a9391762d3a320d7ced9d7a6d25700a566666d70fa09e68ac35073757b5968/ZXNpZ25pbmctYW5kLWRlcGxveWluZy1taWNyb3NlcnZpY2VzLmVwdWI=)
 - 出版社　: GitBook
 - 简介　　: Nginx 经典微服务电子书中文翻译版本 —— http://oopsguy.com
 - 国家语言: zh
@@ -598,7 +598,7 @@ Robin　Williams　　世界著名设计师、技术专家和畅销书作家。�
 
 
 ### 微服务设计
-[📖微服务设计](engineering/微服务设计-SamNewman.epub) [📥下载](../../src/info/lfs/objects/cc26af5862efa017cb665f39b63ca820162043174077c1e10ff413f6849ff4e7/5b6u5pyN5Yqh6K6-6K6hLVNhbU5ld21hbi5lcHVi)
+[📖微服务设计](engineering/微服务设计-SamNewman.epub) [📥下载](../../../info/lfs/objects/cc26af5862efa017cb665f39b63ca820162043174077c1e10ff413f6849ff4e7/5b6u5pyN5Yqh6K6-6K6hLVNhbU5ld21hbi5lcHVi)
 - 评分　　: 8.2
 - 作者　　: `[英] Sam Newman`
 - 出版时间: 2016-5
@@ -613,7 +613,7 @@ Robin　Williams　　世界著名设计师、技术专家和畅销书作家。�
 
 
 ### 持续交付
-[📖持续交付](engineering/持续交付-发布可靠软件的系统方法.pdf) [📥下载](../../src/info/lfs/objects/49b261cc087960cc500aca13c6df03676217078dc9b8351fc9a164a4753c3068/5oyB57ut5Lqk5LuYLeWPkeW4g-WPr-mdoOi9r-S7tueahOezu-e7n-aWueazlS5wZGY=)
+[📖持续交付](engineering/持续交付-发布可靠软件的系统方法.pdf) [📥下载](../../../info/lfs/objects/49b261cc087960cc500aca13c6df03676217078dc9b8351fc9a164a4753c3068/5oyB57ut5Lqk5LuYLeWPkeW4g-WPr-mdoOi9r-S7tueahOezu-e7n-aWueazlS5wZGY=)
 - 评分　　: 8.6
 - 副标题　: 发布可靠软件的系统方法
 - 作者　　: `Jez Humble` `David Farley`
@@ -629,7 +629,7 @@ Robin　Williams　　世界著名设计师、技术专家和畅销书作家。�
 
 
 ### 敏捷开发的艺术
-[📖敏捷开发的艺术](engineering/敏捷开发的艺术.epub) [📥下载](../../src/info/lfs/objects/854f0083d907c85be08d680d3eddad40958f6ab21e6905af2246eac9afb77d2d/5pWP5o235byA5Y-R55qE6Im65pyvLmVwdWI=)
+[📖敏捷开发的艺术](engineering/敏捷开发的艺术.epub) [📥下载](../../../info/lfs/objects/854f0083d907c85be08d680d3eddad40958f6ab21e6905af2246eac9afb77d2d/5pWP5o235byA5Y-R55qE6Im65pyvLmVwdWI=)
 - 评分　　: 8.3
 - 作者　　: `James Shore` `Shane Warden`
 - 出版时间: 2009-8
@@ -657,7 +657,7 @@ QA应该如何参与进来?
 
 
 ### 程序员的自我修养
-[📖程序员的自我修养](engineering/程序员的自我修养.epub) [📥下载](../../src/info/lfs/objects/e6c526102fc3b5128704794bf6f39feba06d612030a36a0a9633112fb4beed85/56iL5bqP5ZGY55qE6Ieq5oiR5L-u5YW7LmVwdWI=)
+[📖程序员的自我修养](engineering/程序员的自我修养.epub) [📥下载](../../../info/lfs/objects/e6c526102fc3b5128704794bf6f39feba06d612030a36a0a9633112fb4beed85/56iL5bqP5ZGY55qE6Ieq5oiR5L-u5YW7LmVwdWI=)
 - 简介　　: 我所认为的程序员的自我养成手册。
 - 国家语言: zh
 - 创建工具: GitBook
@@ -667,7 +667,7 @@ QA应该如何参与进来?
 
 
 ### 软件架构师的12项修炼
-[📖软件架构师的12项修炼](engineering/软件构架师的12项修炼.epub) [📥下载](../../src/info/lfs/objects/22a45f77ac450d5faab530fe0d1d19a6c2cc5715a65ad546421caf675304a4d2/6L2v5Lu25p6E5p625biI55qEMTLpobnkv67ngrwuZXB1Yg==)
+[📖软件架构师的12项修炼](engineering/软件构架师的12项修炼.epub) [📥下载](../../../info/lfs/objects/22a45f77ac450d5faab530fe0d1d19a6c2cc5715a65ad546421caf675304a4d2/6L2v5Lu25p6E5p625biI55qEMTLpobnkv67ngrwuZXB1Yg==)
 - 评分　　: 7.5
 - 作者　　: `Dave Hendricksen`
 - 出版时间: 2012-5-1
@@ -685,7 +685,7 @@ QA应该如何参与进来?
 
 
 ### 软技能
-[📖软技能](engineering/软技能-代码之外的生存指南.epub) [📥下载](../../src/info/lfs/objects/813a7d66d9dc83caabeea8acad99c3a875a4f2b11b8588ed526a5ff7d432a334/6L2v5oqA6IO9LeS7o-eggeS5i-WklueahOeUn-WtmOaMh-WNly5lcHVi)
+[📖软技能](engineering/软技能-代码之外的生存指南.epub) [📥下载](../../../info/lfs/objects/813a7d66d9dc83caabeea8acad99c3a875a4f2b11b8588ed526a5ff7d432a334/6L2v5oqA6IO9LeS7o-eggeS5i-WklueahOeUn-WtmOaMh-WNly5lcHVi)
 - 评分　　: 8.0
 - 副标题　: 代码之外的生存指南
 - 作者　　: `John Sonmez`
@@ -701,7 +701,7 @@ QA应该如何参与进来?
 
 
 ### 高效程序员的45个习惯
-[📖高效程序员的45个习惯](engineering/高效程序员的45个习惯-敏捷开发修炼之道.epub) [📥下载](../../src/info/lfs/objects/be29da49e9a6c4d467e7863df821e1edbc95eb900fd8c3928953b2f64c27caba/6auY5pWI56iL5bqP5ZGY55qENDXkuKrkuaDmg68t5pWP5o235byA5Y-R5L-u54K85LmL6YGTLmVwdWI=)
+[📖高效程序员的45个习惯](engineering/高效程序员的45个习惯-敏捷开发修炼之道.epub) [📥下载](../../../info/lfs/objects/be29da49e9a6c4d467e7863df821e1edbc95eb900fd8c3928953b2f64c27caba/6auY5pWI56iL5bqP5ZGY55qENDXkuKrkuaDmg68t5pWP5o235byA5Y-R5L-u54K85LmL6YGTLmVwdWI=)
 - 评分　　: 8.2
 - 副标题　: 敏捷开发修炼之道
 - 作者　　: `Venkat Subramaniam` `Andy Hunt`
@@ -726,7 +726,7 @@ QA应该如何参与进来?
 
 
 ### 爱上跑步的13周
-[📖爱上跑步的13周](health/爱上跑步的13周.epub) [📥下载](../../src/info/lfs/objects/68119316164c75ab48645a890fc1115cb5c993e87a5b4147274a9cb5d89ca196/54ix5LiK6LeR5q2l55qEMTPlkaguZXB1Yg==)
+[📖爱上跑步的13周](health/爱上跑步的13周.epub) [📥下载](../../../info/lfs/objects/68119316164c75ab48645a890fc1115cb5c993e87a5b4147274a9cb5d89ca196/54ix5LiK6LeR5q2l55qEMTPlkaguZXB1Yg==)
 - 评分　　: 7.6
 - 作者　　: `伊恩·麦克尼尔` `加拿大不列颠哥伦比亚运动医学理事会`
 - 出版时间: 2014-1
@@ -751,7 +751,7 @@ QA应该如何参与进来?
 
 
 ### Gradle User Guide 中文版
-[📖Gradle User Guide 中文版](java/gradle用户手册.epub) [📥下载](../../src/info/lfs/objects/2c947bbf2f8e8c57e40ca062b2855b76e99b9c597736102e5b0efcafbc410dc0/Z3JhZGxl55So5oi35omL5YaMLmVwdWI=)
+[📖Gradle User Guide 中文版](java/gradle用户手册.epub) [📥下载](../../../info/lfs/objects/2c947bbf2f8e8c57e40ca062b2855b76e99b9c597736102e5b0efcafbc410dc0/Z3JhZGxl55So5oi35omL5YaMLmVwdWI=)
 - 国家语言: zh
 - 创建工具: GitBook
 - 创建人　: DONG
@@ -761,7 +761,7 @@ QA应该如何参与进来?
 
 
 ### 两周自制脚本语言
-[📖两周自制脚本语言](java/两周自制脚本语言.pdf) [📥下载](../../src/info/lfs/objects/90ab81973e8cef423f11524ebc1c77eb9049c557745c47993db279e189e51fae/5Lik5ZGo6Ieq5Yi26ISa5pys6K-t6KiALnBkZg==)
+[📖两周自制脚本语言](java/两周自制脚本语言.pdf) [📥下载](../../../info/lfs/objects/90ab81973e8cef423f11524ebc1c77eb9049c557745c47993db279e189e51fae/5Lik5ZGo6Ieq5Yi26ISa5pys6K-t6KiALnBkZg==)
 - 评分　　: 8.1
 - 作者　　: `[日]千叶 滋`
 - 出版时间: 2014-6
@@ -778,7 +778,7 @@ QA应该如何参与进来?
 
 
 ### 深入理解Java虚拟机（第2版）
-[📖深入理解Java虚拟机（第2版）](java/深入理解Java虚拟机(第2版).epub) [📥下载](../../src/info/lfs/objects/c1aba608dd82d1890c2046caa38e9ffcd4cfe51251f288e1835db9c17c38937b/5rex5YWl55CG6KejSmF2YeiZmuaLn-acuijnrKwy54mIKS5lcHVi)
+[📖深入理解Java虚拟机（第2版）](java/深入理解Java虚拟机(第2版).epub) [📥下载](../../../info/lfs/objects/c1aba608dd82d1890c2046caa38e9ffcd4cfe51251f288e1835db9c17c38937b/5rex5YWl55CG6KejSmF2YeiZmuaLn-acuijnrKwy54mIKS5lcHVi)
 - 评分　　: 8.9
 - 副标题　: JVM高级特性与最佳实践
 - 作者　　: `周志明`
@@ -800,7 +800,7 @@ QA应该如何参与进来?
 
 
 ### 疯狂Java讲义
-[📖疯狂Java讲义](java/疯狂Java讲义-第3版.pdf) [📥下载](../../src/info/lfs/objects/e680864e01bc79cc0d353f1769e222fd85387ca044c86d932e3b54e459d58836/55av54uCSmF2YeiusuS5iS3nrKwz54mILnBkZg==)
+[📖疯狂Java讲义](java/疯狂Java讲义-第3版.pdf) [📥下载](../../../info/lfs/objects/e680864e01bc79cc0d353f1769e222fd85387ca044c86d932e3b54e459d58836/55av54uCSmF2YeiusuS5iS3nrKwz54mILnBkZg==)
 - 评分　　: 8.1
 - 副标题　: 第3版
 - 作者　　: `李刚`
@@ -819,7 +819,7 @@ QA应该如何参与进来?
 
 
 ### 疯狂java实战演义李刚.pdf
-[📖疯狂java实战演义李刚.pdf](java/疯狂java实战演义李刚.pdf) [📥下载](../../src/info/lfs/objects/9e273db1c2687209feb0a62aa741a4b6a5b641504361cfe74863cf021dd5fd48/55av54uCamF2YeWunuaImOa8lOS5ieadjuWImi5wZGY=)
+[📖疯狂java实战演义李刚.pdf](java/疯狂java实战演义李刚.pdf) [📥下载](../../../info/lfs/objects/9e273db1c2687209feb0a62aa741a4b6a5b641504361cfe74863cf021dd5fd48/55av54uCamF2YeWunuaImOa8lOS5ieadjuWImi5wZGY=)
 - 作者　　: `雨` `林` `木` `风`
 - 创建时间: D:20101211221454+08'00'
 - 创建人　: Adobe Acrobat Pro 9.3.1
@@ -833,7 +833,7 @@ QA应该如何参与进来?
 
 
 ### Chrome扩展及应用开发
-[📖Chrome扩展及应用开发](javascript/Chrome扩展应用开发.epub) [📥下载](../../src/info/lfs/objects/2e336caf56f2312a09d54189c82cc56ec2b89ec66befb494ced0d98408a2cc23/Q2hyb21l5omp5bGV5bqU55So5byA5Y-RLmVwdWI=)
+[📖Chrome扩展及应用开发](javascript/Chrome扩展应用开发.epub) [📥下载](../../../info/lfs/objects/2e336caf56f2312a09d54189c82cc56ec2b89ec66befb494ced0d98408a2cc23/Q2hyb21l5omp5bGV5bqU55So5byA5Y-RLmVwdWI=)
 - 评分　　: 8.1
 - 作者　　: `李 喆`
 - 出版时间: 2014-10
@@ -849,7 +849,7 @@ QA应该如何参与进来?
 
 
 ### Html5权威指南
-[📖Html5权威指南](javascript/Html5权威指南.pdf) [📥下载](../../src/info/lfs/objects/b6fc0eb0b2359228146669e70876c38b09da5a2ca816cf1841616e5a19e5e48d/SHRtbDXmnYPlqIHmjIfljZcucGRm)
+[📖Html5权威指南](javascript/Html5权威指南.pdf) [📥下载](../../../info/lfs/objects/b6fc0eb0b2359228146669e70876c38b09da5a2ca816cf1841616e5a19e5e48d/SHRtbDXmnYPlqIHmjIfljZcucGRm)
 - 评分　　: 8.6
 - 副标题　: HTML5权威指南
 - 作者　　: `[美] Adam Freeman`
@@ -867,7 +867,7 @@ QA应该如何参与进来?
 
 
 ### JS 函数式编程指南
-[📖JS 函数式编程指南](javascript/JS函数式编程-GitBook.epub) [📥下载](../../src/info/lfs/objects/8806b59128bac0d6127946ea7a38294f2639ac111ff76b4e7c9ccff07dbb97f5/SlPlh73mlbDlvI_nvJbnqIstR2l0Qm9vay5lcHVi)
+[📖JS 函数式编程指南](javascript/JS函数式编程-GitBook.epub) [📥下载](../../../info/lfs/objects/8806b59128bac0d6127946ea7a38294f2639ac111ff76b4e7c9ccff07dbb97f5/SlPlh73mlbDlvI_nvJbnqIstR2l0Qm9vay5lcHVi)
 - 创建人　: Linghao Li
 - 国家语言: zh
 - 简介　　: Mostly Adequate Guide 中文版
@@ -877,7 +877,7 @@ QA应该如何参与进来?
 
 
 ### JavaScript设计模式与开发实践
-[📖JavaScript设计模式与开发实践](javascript/JavaScript设计模式与开发实践.pdf) [📥下载](../../src/info/lfs/objects/d90207f3a64c1c6411a83068bd3916c1409f574b33596a0cb04407ce354ddfc4/SmF2YVNjcmlwdOiuvuiuoeaooeW8j-S4juW8gOWPkeWunui3tS5wZGY=)
+[📖JavaScript设计模式与开发实践](javascript/JavaScript设计模式与开发实践.pdf) [📥下载](../../../info/lfs/objects/d90207f3a64c1c6411a83068bd3916c1409f574b33596a0cb04407ce354ddfc4/SmF2YVNjcmlwdOiuvuiuoeaooeW8j-S4juW8gOWPkeWunui3tS5wZGY=)
 - 评分　　: 9.1
 - 作者　　: `曾探`
 - 出版时间: 2015-5
@@ -893,7 +893,7 @@ QA应该如何参与进来?
 
 
 ### Web全栈工程师的自我修养
-[📖Web全栈工程师的自我修养](javascript/Web全栈工程师的自我修养.epub) [📥下载](../../src/info/lfs/objects/72d6b08dc14349d16a2addd8c1427ed1082405aca5229c8a05a5b99da578cc4e/V2Vi5YWo5qCI5bel56iL5biI55qE6Ieq5oiR5L-u5YW7LmVwdWI=)
+[📖Web全栈工程师的自我修养](javascript/Web全栈工程师的自我修养.epub) [📥下载](../../../info/lfs/objects/72d6b08dc14349d16a2addd8c1427ed1082405aca5229c8a05a5b99da578cc4e/V2Vi5YWo5qCI5bel56iL5biI55qE6Ieq5oiR5L-u5YW7LmVwdWI=)
 - 评分　　: 7.4
 - 作者　　: `余果`
 - 出版时间: 2015-9-1
@@ -909,7 +909,7 @@ QA应该如何参与进来?
 
 
 ### 從Promise開始的JavaScript異步生活
-[📖從Promise開始的JavaScript異步生活](javascript/javascript-start-es6-promise.epub) [📥下载](../../src/info/lfs/objects/df4a4bf5fa3d831d457478e1ae80041a7219fe3b0898b21c89c5804ca0a7cb08/amF2YXNjcmlwdC1zdGFydC1lczYtcHJvbWlzZS5lcHVi)
+[📖從Promise開始的JavaScript異步生活](javascript/javascript-start-es6-promise.epub) [📥下载](../../../info/lfs/objects/df4a4bf5fa3d831d457478e1ae80041a7219fe3b0898b21c89c5804ca0a7cb08/amF2YXNjcmlwdC1zdGFydC1lczYtcHJvbWlzZS5lcHVi)
 - 创建人　: Eddy Chang
 - 创建工具: GitBook
 - 国家语言: zh
@@ -919,7 +919,7 @@ QA应该如何参与进来?
 
 
 ### 從ES6開始的JavaScript學習生活
-[📖從ES6開始的JavaScript學習生活](javascript/javascript-start-from-es6.epub) [📥下载](../../src/info/lfs/objects/483f81e05a4a263d4c5438de2e0a681c56ec90ed3ff36f87ad55ed0a90f03ee8/amF2YXNjcmlwdC1zdGFydC1mcm9tLWVzNi5lcHVi)
+[📖從ES6開始的JavaScript學習生活](javascript/javascript-start-from-es6.epub) [📥下载](../../../info/lfs/objects/483f81e05a4a263d4c5438de2e0a681c56ec90ed3ff36f87ad55ed0a90f03ee8/amF2YXNjcmlwdC1zdGFydC1mcm9tLWVzNi5lcHVi)
 - 国家语言: zh
 - 出版社　: GitBook
 - 创建人　: Eddy Chang
@@ -929,7 +929,7 @@ QA应该如何参与进来?
 
 
 ### JavaScript权威指南(第6版)
-[📖JavaScript权威指南(第6版)](javascript/javascript权威指南中文第六版.epub) [📥下载](../../src/info/lfs/objects/77be2af91bad103bcde85c352787a745f10b3216f365928554d85ce0a3d5fc5d/amF2YXNjcmlwdOadg-WogeaMh-WNl-S4reaWh-esrOWFreeJiC5lcHVi)
+[📖JavaScript权威指南(第6版)](javascript/javascript权威指南中文第六版.epub) [📥下载](../../../info/lfs/objects/77be2af91bad103bcde85c352787a745f10b3216f365928554d85ce0a3d5fc5d/amF2YXNjcmlwdOadg-WogeaMh-WNl-S4reaWh-esrOWFreeJiC5lcHVi)
 - 评分　　: 8.9
 - 作者　　: `David Flanagan`
 - 出版时间: 2012-4-1
@@ -947,7 +947,7 @@ QA应该如何参与进来?
 
 
 ### 你不知道的JavaScript（上卷）
-[📖你不知道的JavaScript（上卷）](javascript/你不知道的JavaScript(上卷).epub) [📥下载](../../src/info/lfs/objects/d2864d7545a251e9475fc1db90266ae8143413bc5b602bd8e132a25d2acbc723/5L2g5LiN55-l6YGT55qESmF2YVNjcmlwdCjkuIrljbcpLmVwdWI=)
+[📖你不知道的JavaScript（上卷）](javascript/你不知道的JavaScript(上卷).epub) [📥下载](../../../info/lfs/objects/d2864d7545a251e9475fc1db90266ae8143413bc5b602bd8e132a25d2acbc723/5L2g5LiN55-l6YGT55qESmF2YVNjcmlwdCjkuIrljbcpLmVwdWI=)
 - 评分　　: 9.4
 - 作者　　: `[美] Kyle Simpson`
 - 出版时间: 2015-4
@@ -963,7 +963,7 @@ QA应该如何参与进来?
 
 
 ### 你不知道的JavaScript（中卷）
-[📖你不知道的JavaScript（中卷）](javascript/你不知道的JavaScript(中卷).epub) [📥下载](../../src/info/lfs/objects/2e2faea109a7e42d07aac1c737148f0b230fad3bc4d0312eac3c59efae6a2b6c/5L2g5LiN55-l6YGT55qESmF2YVNjcmlwdCjkuK3ljbcpLmVwdWI=)
+[📖你不知道的JavaScript（中卷）](javascript/你不知道的JavaScript(中卷).epub) [📥下载](../../../info/lfs/objects/2e2faea109a7e42d07aac1c737148f0b230fad3bc4d0312eac3c59efae6a2b6c/5L2g5LiN55-l6YGT55qESmF2YVNjcmlwdCjkuK3ljbcpLmVwdWI=)
 - 评分　　: 9.1
 - 作者　　: `[美] Kyle Simpson`
 - 出版时间: 2016-8
@@ -978,7 +978,7 @@ QA应该如何参与进来?
 
 
 ### 前端工程师手册
-[📖前端工程师手册](javascript/前端工程师手册.epub) [📥下载](../../src/info/lfs/objects/bf75fd0f35b9eb072a9b1cb7276d47b4435904692c9c42ed2e8ab1ce63d31a22/5YmN56uv5bel56iL5biI5omL5YaMLmVwdWI=)
+[📖前端工程师手册](javascript/前端工程师手册.epub) [📥下载](../../../info/lfs/objects/bf75fd0f35b9eb072a9b1cb7276d47b4435904692c9c42ed2e8ab1ce63d31a22/5YmN56uv5bel56iL5biI5omL5YaMLmVwdWI=)
 - 出版社　: GitBook
 - 创建人　: Leo Hui
 - 创建工具: GitBook
@@ -988,7 +988,7 @@ QA应该如何参与进来?
 
 
 ### 数据结构与算法JavaScript描述
-[📖数据结构与算法JavaScript描述](javascript/数据结构与算法JavaScript描述.epub) [📥下载](../../src/info/lfs/objects/6175e8f3ff78363a36f85ec023434ea5d61bfc5fcba9ec65da035f6b6afce08e/5pWw5o2u57uT5p6E5LiO566X5rOVSmF2YVNjcmlwdOaPj-i_sC5lcHVi)
+[📖数据结构与算法JavaScript描述](javascript/数据结构与算法JavaScript描述.epub) [📥下载](../../../info/lfs/objects/6175e8f3ff78363a36f85ec023434ea5d61bfc5fcba9ec65da035f6b6afce08e/5pWw5o2u57uT5p6E5LiO566X5rOVSmF2YVNjcmlwdOaPj-i_sC5lcHVi)
 - 评分　　: 6.5
 - 作者　　: `[美] Michael McMillan`
 - 出版时间: 2014-8
@@ -1014,7 +1014,7 @@ QA应该如何参与进来?
 
 
 ### 深入浅出Node.js
-[📖深入浅出Node.js](javascript/深入浅出Node.js.epub) [📥下载](../../src/info/lfs/objects/8678456eed99947fa3c7f0480e843d8638e86ae4a7c6db9b7226bb94a498158b/5rex5YWl5rWF5Ye6Tm9kZS5qcy5lcHVi)
+[📖深入浅出Node.js](javascript/深入浅出Node.js.epub) [📥下载](../../../info/lfs/objects/8678456eed99947fa3c7f0480e843d8638e86ae4a7c6db9b7226bb94a498158b/5rex5YWl5rWF5Ye6Tm9kZS5qcy5lcHVi)
 - 评分　　: 8.5
 - 作者　　: `朴灵`
 - 出版时间: 2013-12-1
@@ -1031,7 +1031,7 @@ QA应该如何参与进来?
 
 
 ### 锋利的jQuery
-[📖锋利的jQuery](javascript/锋利的jQuery.epub) [📥下载](../../src/info/lfs/objects/8bc4e4e80bc58554477d8e1d091a70be6a5e503c99c9f11f71f1e933bcfa2390/6ZSL5Yip55qEalF1ZXJ5LmVwdWI=)
+[📖锋利的jQuery](javascript/锋利的jQuery.epub) [📥下载](../../../info/lfs/objects/8bc4e4e80bc58554477d8e1d091a70be6a5e503c99c9f11f71f1e933bcfa2390/6ZSL5Yip55qEalF1ZXJ5LmVwdWI=)
 - 评分　　: 8.5
 - 副标题　: 第2版
 - 作者　　: `单东林` `张晓菲` `魏然`
@@ -1052,7 +1052,7 @@ QA应该如何参与进来?
 
 
 ### Http权威指南
-[📖Http权威指南](protocol/Http权威指南.epub) [📥下载](../../src/info/lfs/objects/396a1846b8160d01ba8320a53ea2aabf8f6a0f2359b9c1aaa87e750b5f1cc2e7/SHR0cOadg-WogeaMh-WNly5lcHVi)
+[📖Http权威指南](protocol/Http权威指南.epub) [📥下载](../../../info/lfs/objects/396a1846b8160d01ba8320a53ea2aabf8f6a0f2359b9c1aaa87e750b5f1cc2e7/SHR0cOadg-WogeaMh-WNly5lcHVi)
 - 评分　　: 8.6
 - 副标题　: 权威指南
 - 作者　　: `David Gourley` `Brian Totty`
@@ -1073,7 +1073,7 @@ HTTP起初是一个简单的协议，因此你可能会认为关于这个协议�
 
 
 ### Lighttpd源码分析
-[📖Lighttpd源码分析](protocol/Lighttpd源码分析.epub) [📥下载](../../src/info/lfs/objects/e75a315683dc95443eb3dd955a5271b938b4e225991b71c741cb4243bb6e39d0/TGlnaHR0cGTmupDnoIHliIbmnpAuZXB1Yg==)
+[📖Lighttpd源码分析](protocol/Lighttpd源码分析.epub) [📥下载](../../../info/lfs/objects/e75a315683dc95443eb3dd955a5271b938b4e225991b71c741cb4243bb6e39d0/TGlnaHR0cGTmupDnoIHliIbmnpAuZXB1Yg==)
 - 评分　　: 暂无评分
 - 作者　　: `高群凯`
 - 出版时间: 2010-3
@@ -1089,7 +1089,7 @@ HTTP起初是一个简单的协议，因此你可能会认为关于这个协议�
 
 
 ### 数学之美
-[📖数学之美](protocol/数学之美.epub) [📥下载](../../src/info/lfs/objects/80c2074132e542465a3c1c51d7b6e56fede0db82abff791e58d4e329adb15aa6/5pWw5a2m5LmL576OLmVwdWI=)
+[📖数学之美](protocol/数学之美.epub) [📥下载](../../../info/lfs/objects/80c2074132e542465a3c1c51d7b6e56fede0db82abff791e58d4e329adb15aa6/5pWw5a2m5LmL576OLmVwdWI=)
 - 评分　　: 8.7
 - 作者　　: `吴军`
 - 出版时间: 2012-5-1
@@ -1105,7 +1105,7 @@ HTTP起初是一个简单的协议，因此你可能会认为关于这个协议�
 
 
 ### 自制编译器
-[📖自制编译器](protocol/自制编译器.pdf) [📥下载](../../src/info/lfs/objects/d66d7f8982411628163d95ee978ad9166849e16072b67995309406c6cbcbba41/6Ieq5Yi257yW6K-R5ZmoLnBkZg==)
+[📖自制编译器](protocol/自制编译器.pdf) [📥下载](../../../info/lfs/objects/d66d7f8982411628163d95ee978ad9166849e16072b67995309406c6cbcbba41/6Ieq5Yi257yW6K-R5ZmoLnBkZg==)
 - 评分　　: 7.6
 - 作者　　: `[日] 青木峰郎`
 - 出版时间: 2016-6
@@ -1125,7 +1125,7 @@ HTTP起初是一个简单的协议，因此你可能会认为关于这个协议�
 
 
 ### Python-Cookbook第三版中文v2.0.0.pdf
-[📖Python-Cookbook第三版中文v2.0.0.pdf](python/Python-Cookbook第三版中文v2.0.0.pdf) [📥下载](../../src/info/lfs/objects/682209267f55b840d75a7fb74da74e93bfb0ac4e800f96ad88370d524f160105/UHl0aG9uLUNvb2tib29r56ys5LiJ54mI5Lit5paHdjIuMC4wLnBkZg==)
+[📖Python-Cookbook第三版中文v2.0.0.pdf](python/Python-Cookbook第三版中文v2.0.0.pdf) [📥下载](../../../info/lfs/objects/682209267f55b840d75a7fb74da74e93bfb0ac4e800f96ad88370d524f160105/UHl0aG9uLUNvb2tib29r56ys5LiJ54mI5Lit5paHdjIuMC4wLnBkZg==)
 - 创建人　: Latex With Hyperref Package
 - 制作人　: Xdvipdfmx (0.7.8)
 - 创建时间: D:20160401103437+08'00'
@@ -1133,7 +1133,7 @@ HTTP起初是一个简单的协议，因此你可能会认为关于这个协议�
 
 
 ### Python Cookbook 中文版，第 3 版
-[📖Python Cookbook 中文版，第 3 版](python/Python_Cookbook-第三版 Jones.epub) [📥下载](../../src/info/lfs/objects/8a36c8b3b5845186bff6652bf237bd99409cfae3ff76889e516178b45c5558ed/UHl0aG9uX0Nvb2tib29rLeesrOS4ieeJiCBKb25lcy5lcHVi)
+[📖Python Cookbook 中文版，第 3 版](python/Python_Cookbook-第三版 Jones.epub) [📥下载](../../../info/lfs/objects/8a36c8b3b5845186bff6652bf237bd99409cfae3ff76889e516178b45c5558ed/UHl0aG9uX0Nvb2tib29rLeesrOS4ieeJiCBKb25lcy5lcHVi)
 - 评分　　: 9.0
 - 作者　　: `David M. Beazley` `Brian K. Jones`
 - 出版时间: 2015-5-1
@@ -1150,7 +1150,7 @@ HTTP起初是一个简单的协议，因此你可能会认为关于这个协议�
 
 
 ### Python核心编程（第二版）
-[📖Python核心编程（第二版）](python/Python核心编程.epub) [📥下载](../../src/info/lfs/objects/b513fe6ab947987b2f77f4a1b3170f564c00c232252d14acc28f97aa4ff51548/UHl0aG9u5qC45b-D57yW56iLLmVwdWI=)
+[📖Python核心编程（第二版）](python/Python核心编程.epub) [📥下载](../../../info/lfs/objects/b513fe6ab947987b2f77f4a1b3170f564c00c232252d14acc28f97aa4ff51548/UHl0aG9u5qC45b-D57yW56iLLmVwdWI=)
 - 评分　　: 7.7
 - 作者　　: `[美]Wesley J. Chun（陳仲才）`
 - 出版时间: 2008-06
@@ -1171,7 +1171,7 @@ HTTP起初是一个简单的协议，因此你可能会认为关于这个协议�
 
 
 ### Python核心编程（第二版）
-[📖Python核心编程（第二版）](python/Python核心编程（中文第二版）带目录.pdf) [📥下载](../../src/info/lfs/objects/1c8ea09c04f546a8a671dafe56dccad86ee9914c4f84d75e33a2f3ee391b20f6/UHl0aG9u5qC45b-D57yW56iL77yI5Lit5paH56ys5LqM54mI77yJ5bim55uu5b2VLnBkZg==)
+[📖Python核心编程（第二版）](python/Python核心编程（中文第二版）带目录.pdf) [📥下载](../../../info/lfs/objects/1c8ea09c04f546a8a671dafe56dccad86ee9914c4f84d75e33a2f3ee391b20f6/UHl0aG9u5qC45b-D57yW56iL77yI5Lit5paH56ys5LqM54mI77yJ5bim55uu5b2VLnBkZg==)
 - 评分　　: 7.7
 - 作者　　: `[美]Wesley J. Chun（陳仲才）`
 - 出版时间: 2008-06
@@ -1192,7 +1192,7 @@ HTTP起初是一个简单的协议，因此你可能会认为关于这个协议�
 
 
 ### Python源码剖析
-[📖Python源码剖析](python/Python源码剖析.pdf) [📥下载](../../src/info/lfs/objects/9042f9784c4c11a1c99edc57a2ab093ed0283013915a64a171da1ca7c72f44ba/UHl0aG9u5rqQ56CB5YmW5p6QLnBkZg==)
+[📖Python源码剖析](python/Python源码剖析.pdf) [📥下载](../../../info/lfs/objects/9042f9784c4c11a1c99edc57a2ab093ed0283013915a64a171da1ca7c72f44ba/UHl0aG9u5rqQ56CB5YmW5p6QLnBkZg==)
 - 评分　　: 8.7
 - 副标题　: 深度探索动态语言核心技术
 - 作者　　: `陈儒`
@@ -1210,7 +1210,7 @@ HTTP起初是一个简单的协议，因此你可能会认为关于这个协议�
 
 
 ### Python高级编程
-[📖Python高级编程](python/Python高级编程.pdf) [📥下载](../../src/info/lfs/objects/868b8d165e79d0fc056ce0912d513bc802f50e143b626dec20cb1e0c3bc0bfdc/UHl0aG9u6auY57qn57yW56iLLnBkZg==)
+[📖Python高级编程](python/Python高级编程.pdf) [📥下载](../../../info/lfs/objects/868b8d165e79d0fc056ce0912d513bc802f50e143b626dec20cb1e0c3bc0bfdc/UHl0aG9u6auY57qn57yW56iLLnBkZg==)
 - 评分　　: 7.6
 - 作者　　: `Tarek Ziadé`
 - 出版时间: 2010-1
@@ -1226,7 +1226,7 @@ HTTP起初是一个简单的协议，因此你可能会认为关于这个协议�
 
 
 ### Violent Python 中文版
-[📖Violent Python 中文版](python/violent-python.epub) [📥下载](../../src/info/lfs/objects/b44a9aa7cdcf84a400571daaf88e7f32e103170395ff40e5be69a2bc6e54ca2b/dmlvbGVudC1weXRob24uZXB1Yg==)
+[📖Violent Python 中文版](python/violent-python.epub) [📥下载](../../../info/lfs/objects/b44a9aa7cdcf84a400571daaf88e7f32e103170395ff40e5be69a2bc6e54ca2b/dmlvbGVudC1weXRob24uZXB1Yg==)
 - 创建工具: GitBook
 - 简介　　: 连载介绍信息: zone.wooyun.org/content/23138
 - 国家语言: zh
@@ -1236,7 +1236,7 @@ HTTP起初是一个简单的协议，因此你可能会认为关于这个协议�
 
 
 ### Python编程实战
-[📖Python编程实战](python/《Python编程实战：运用设计模式、冰法和程序库创建高质量程序》迷你书.pdf) [📥下载](../../src/info/lfs/objects/9d75c34089bcfbd57948a9ccf3b80dfb727a3b959c57e3621816fba995a3121e/44CKUHl0aG9u57yW56iL5a6e5oiY77ya6L-Q55So6K6-6K6h5qih5byP44CB5Yaw5rOV5ZKM56iL5bqP5bqT5Yib5bu66auY6LSo6YeP56iL5bqP44CL6L-35L2g5LmmLnBkZg==)
+[📖Python编程实战](python/《Python编程实战：运用设计模式、冰法和程序库创建高质量程序》迷你书.pdf) [📥下载](../../../info/lfs/objects/9d75c34089bcfbd57948a9ccf3b80dfb727a3b959c57e3621816fba995a3121e/44CKUHl0aG9u57yW56iL5a6e5oiY77ya6L-Q55So6K6-6K6h5qih5byP44CB5Yaw5rOV5ZKM56iL5bqP5bqT5Yib5bu66auY6LSo6YeP56iL5bqP44CL6L-35L2g5LmmLnBkZg==)
 - 评分　　: 7.6
 - 副标题　: 运用设计模式、并发和程序库创建高质量程序
 - 作者　　: `[美] Mark Summerfield`
@@ -1254,7 +1254,7 @@ HTTP起初是一个简单的协议，因此你可能会认为关于这个协议�
 
 
 ### 流畅的Python
-[📖流畅的Python](python/流畅的Python.epub) [📥下载](../../src/info/lfs/objects/f649c0ee64454bc9790c3f9a98dc9be74bc4c99d7c4d86eadb93d5eceb71fa4f/5rWB55WF55qEUHl0aG9uLmVwdWI=)
+[📖流畅的Python](python/流畅的Python.epub) [📥下载](../../../info/lfs/objects/f649c0ee64454bc9790c3f9a98dc9be74bc4c99d7c4d86eadb93d5eceb71fa4f/5rWB55WF55qEUHl0aG9uLmVwdWI=)
 - 评分　　: 9.2
 - 作者　　: `[巴西] Luciano Ramalho`
 - 出版时间: 2017-5-15
@@ -1288,7 +1288,7 @@ HTTP起初是一个简单的协议，因此你可能会认为关于这个协议�
 
 
 ### 编写高质量代码：改善Python程序的91个建议
-[📖编写高质量代码：改善Python程序的91个建议](python/编写高质量的代码:改善Python程序的91个建议.epub) [📥下载](../../src/info/lfs/objects/4eaf157d1cc081f997be222fe0289628de42c033adde2e05b5c2f0e1e2c173b4/57yW5YaZ6auY6LSo6YeP55qE5Luj56CBOuaUueWWhFB5dGhvbueoi-W6j-eahDkx5Liq5bu66K6uLmVwdWI=)
+[📖编写高质量代码：改善Python程序的91个建议](python/编写高质量的代码:改善Python程序的91个建议.epub) [📥下载](../../../info/lfs/objects/4eaf157d1cc081f997be222fe0289628de42c033adde2e05b5c2f0e1e2c173b4/57yW5YaZ6auY6LSo6YeP55qE5Luj56CBOuaUueWWhFB5dGhvbueoi-W6j-eahDkx5Liq5bu66K6uLmVwdWI=)
 - 评分　　: 7.4
 - 作者　　: `张颖` `赖勇浩`
 - 出版时间: 2014-6
@@ -1309,7 +1309,7 @@ HTTP起初是一个简单的协议，因此你可能会认为关于这个协议�
 
 
 ### 区块链技术指南
-[📖区块链技术指南](safety/blockchain_guide.epub) [📥下载](../../src/info/lfs/objects/e074ed66981f3776e7f7e60d71f2b18bea4a2273fbd5fae67f354cbaa14e886c/YmxvY2tjaGFpbl9ndWlkZS5lcHVi)
+[📖区块链技术指南](safety/blockchain_guide.epub) [📥下载](../../../info/lfs/objects/e074ed66981f3776e7f7e60d71f2b18bea4a2273fbd5fae67f354cbaa14e886c/YmxvY2tjaGFpbl9ndWlkZS5lcHVi)
 - 简介　　: A book to introduce blockchain technologies, including the key techniques, algorithms, usage scenarios, and projects.
 - 出版社　: GitBook
 - 创建工具: GitBook
@@ -1319,7 +1319,7 @@ HTTP起初是一个简单的协议，因此你可能会认为关于这个协议�
 
 
 ### 加密与解密(第3版)
-[📖加密与解密(第3版)](safety/解密与加密(第3版).epub) [📥下载](../../src/info/lfs/objects/e04a11fd723f2bb9bb42bef006115ebf5a30a26b6f4642eacf00d9f863cbf6cc/6Kej5a-G5LiO5Yqg5a-GKOesrDPniYgpLmVwdWI=)
+[📖加密与解密(第3版)](safety/解密与加密(第3版).epub) [📥下载](../../../info/lfs/objects/e04a11fd723f2bb9bb42bef006115ebf5a30a26b6f4642eacf00d9f863cbf6cc/6Kej5a-G5LiO5Yqg5a-GKOesrDPniYgpLmVwdWI=)
 - 国家语言: zh
 - 创建人　: 段钢
 - 出版时间: 2013-08-24T16:00:00+00:00
@@ -1332,7 +1332,7 @@ HTTP起初是一个简单的协议，因此你可能会认为关于这个协议�
 
 
 ### 像 IDE 一样使用 vim
-[📖像 IDE 一样使用 vim](tools/use-vim-as-ide.epub) [📥下载](../../src/info/lfs/objects/9ab17fe27d4b0f051bc109273801fe25964b064b72bb588aae7b0faa4b95806d/dXNlLXZpbS1hcy1pZGUuZXB1Yg==)
+[📖像 IDE 一样使用 vim](tools/use-vim-as-ide.epub) [📥下载](../../../info/lfs/objects/9ab17fe27d4b0f051bc109273801fe25964b064b72bb588aae7b0faa4b95806d/dXNlLXZpbS1hcy1pZGUuZXB1Yg==)
 - 出版社　: GitBook
 - 创建人　: wizardforcel
 - 创建工具: GitBook
@@ -1346,7 +1346,7 @@ HTTP起初是一个简单的协议，因此你可能会认为关于这个协议�
 
 
 ### Go语言圣经
-[📖Go语言圣经](go/Go语言圣经-2018-01-12.epub) [📥下载](../../src/info/lfs/objects/ee5be2ee7d02706f8f8dc85999302577c7d5d3cc5c45db72c10725bf4e84f1a2/R2_or63oqIDlnKPnu48tMjAxOC0wMS0xMi5lcHVi)
+[📖Go语言圣经](go/Go语言圣经-2018-01-12.epub) [📥下载](../../../info/lfs/objects/ee5be2ee7d02706f8f8dc85999302577c7d5d3cc5c45db72c10725bf4e84f1a2/R2_or63oqIDlnKPnu48tMjAxOC0wMS0xMi5lcHVi)
 - 评分　　: 7.1
 - 作者　　: `许式伟`
 - 出版时间: 2012-8
