@@ -3996,6 +3996,91 @@
       {
         "rating": {
           "max": 10,
+          "numRaters": 228,
+          "average": "8.9",
+          "min": 0
+        },
+        "subtitle": "",
+        "author": [
+          "Ilya Grigorik"
+        ],
+        "pubdate": "2013-9",
+        "tags": [
+          {
+            "count": 236,
+            "name": "Web开发",
+            "title": "Web开发"
+          },
+          {
+            "count": 196,
+            "name": "性能",
+            "title": "性能"
+          },
+          {
+            "count": 122,
+            "name": "Web",
+            "title": "Web"
+          },
+          {
+            "count": 118,
+            "name": "性能优化",
+            "title": "性能优化"
+          },
+          {
+            "count": 72,
+            "name": "计算机",
+            "title": "计算机"
+          },
+          {
+            "count": 62,
+            "name": "互联网",
+            "title": "互联网"
+          },
+          {
+            "count": 48,
+            "name": "前端开发",
+            "title": "前端开发"
+          },
+          {
+            "count": 38,
+            "name": "web",
+            "title": "web"
+          }
+        ],
+        "origin_title": "High Performance Browser Networking",
+        "image": "https://img1.doubanio.com/view/subject/m/public/s27249387.jpg",
+        "binding": "平装",
+        "translator": [
+          "李松峰"
+        ],
+        "catalog": "版权声明\nSteve Souders推荐序\n前言\n第一部分：网络技术概览\n第1章 延迟与带宽\n第2章 TCP的构成\n第3章 UDP的构成\n第4章 传输层安全（TLS）\n第二部分：无线网络性能\n第5章 无线网络概览\n第6章 Wi-Fi\n第7章 移动网络\n第8章 移动网络的优化建议\n第三部分：HTTP\n第9章 HTTP简史\n第10章 Web性能要点\n第11章 HTTP 1.x\n第12章 HTTP 2.0\n第13章 优化应用的交付\n第四部分 浏览器API与协议\n第14章 浏览器网络概述\n第15章 XMLHttpRequest\n第16章 服务器发送事件\n第17章 WebSocket\n第18章 WebRTC\n关于封面",
+        "ebook_url": "https://read.douban.com/ebook/12055070/",
+        "pages": "336",
+        "images": {
+          "small": "https://img1.doubanio.com/view/subject/s/public/s27249387.jpg",
+          "large": "https://img1.doubanio.com/view/subject/l/public/s27249387.jpg",
+          "medium": "https://img1.doubanio.com/view/subject/m/public/s27249387.jpg"
+        },
+        "alt": "https://book.douban.com/subject/25856314/",
+        "id": "25856314",
+        "publisher": "人民邮电出版社",
+        "isbn10": "711534910X",
+        "isbn13": "9787115349101",
+        "title": "Web性能权威指南",
+        "url": "https://api.douban.com/v2/book/25856314",
+        "alt_title": "High Performance Browser Networking",
+        "author_intro": "作者简介：\nIlya Grigorik\n是谷歌“Web加速”（Make The Web Fast）团队的性能工程师、开发大使。他每天的主要工作就是琢磨怎么让Web应用速度更快，总结并推广能够提升应用性能的最佳实践。\n在专注于研究Web性能之前，Ilya创办了PostRank公司并担任CTO，这是一家社交分析公司。他的这家公司被谷歌收购后，成为了Google Analytics中社交分析报告模块的核心。除了研究Web性能和分析，Ilya还会为开源项目做做贡献、看看书，或者写一些好玩的项目，比如VimGolf、GitHub Archive等。\n译者简介：\n李松峰\n2006年起投身翻译，出版过译著30余部，包括《JavaScript高级程序设计》、《简约至上》等畅销书。2008年进入出版业，从事技术图书编辑和审稿工作。\n2007年创立知识分享网站“为之漫笔”（cn-cuckoo.com），翻译了大量国外经典技术文章。2012年下半年创立“A List Apart中文版”站点（alistapart.cn），旨在向中文读者译介这一国际顶级Web设计与开发杂志。他经常参加技术社区活动，曾在W3ctech 2012 Mobile上分享“Dive into Responsive Web Design”。2013年1月应邀在金山网络分享“响应式Web设计”，2013年3月应邀在奇虎360分享“JS的国”。",
+        "summary": "本书是谷歌公司高性能团队核心成员的权威之作，堪称实战经验与规范解读完美结合的产物。本书目标是涵盖Web 开发者技术体系中应该掌握的所有网络及性能优化知识。全书以性能优化为主线，从TCP、UDP 和TLS 协议讲起，解释了如何针对这几种协议和基础设施来优化应用。然后深入探讨了无线和移动网络的工作机制。最后，揭示了HTTP 协议的底层细节，同时详细介绍了HTTP 2.0、 XHR、SSE、WebSocket、WebRTC 和DataChannel 等现代浏览器新增的具有革命性的新能力。\n本书适合所有Web 应用及站点开发人员阅读，包括但不限于前端、后端、运维、大数据分析、\nUI/UX、存储、视频、实时消息，以及性能工程师。\nIlya Grigorik 是谷歌“Web加速”（Make The Web Fast）团队的性能工程师、开发大使。他每天的主要工作就是琢磨怎么让Web应用速度更快，总结并推广能够提升应用性能的最佳实践。",
+        "ebook_price": "29.99",
+        "price": "69",
+        "type": "epub",
+        "meta_type": "douban",
+        "sha_256": "865787f9355b10f7d738dffbf42caabdc432d2a02c078d0ad0eb42726fc296c1",
+        "file": "Web性能权威指南.epub"
+      },
+      {
+        "rating": {
+          "max": 10,
           "numRaters": 8194,
           "average": "8.7",
           "min": 0

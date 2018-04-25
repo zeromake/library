@@ -1,3 +1,1 @@
-*.py[co]
-*.sw[po]
-__pycache__/
+.DS_Store
