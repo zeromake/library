@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e7566e4a-fe21-41ec-902e-bd855a4c37db</dc:identifier>
+        <dc:title>深入理解计算机系统（原书第3版）</dc:title>
+        <dc:creator opf:file-as="E.bryant, Randal &amp; O'Hallaron, David" opf:role="aut">Randal E.bryant</dc:creator>
+        <dc:creator opf:file-as="E.bryant, Randal &amp; O'Hallaron, David" opf:role="aut">David O'Hallaron</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.22.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-11-15T15:44:06.704259+00:00</dc:date>
+        <dc:description>和第2版相比，本版内容上*大的变化是，从以IA32和x86-64为基础转变为完全以x86-64为基础。主要更新如下：
+基于x86-64，大量地重写代码，首次介绍对处理浮点数据的程序的机器级支持。
+处理器体系结构修改为支持64位字和操作的设计。
+引入更多的功能单元和更复杂的控制逻辑，使基于程序数据流表示的程序性能模型预测更加可靠。
+扩充关于用GOT和PLT创建与位置无关代码的讨论，描述了更加强大的链接技术（比如库打桩）。
+增加了对信号处理程序更细致的描述，包括异步信号安全的函数等。
+采用新函数，更新了与协议无关和线程安全的网络编程。</dc:description>
+        <dc:publisher>机械工业出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">26912767</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787111544937</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>计算机</dc:subject>
+        <dc:subject>计算机科学</dc:subject>
+        <dc:subject>计算机系统</dc:subject>
+        <dc:subject>操作系统</dc:subject>
+        <dc:subject>Csapp</dc:subject>
+        <dc:subject>计算机体系结构</dc:subject>
+        <dc:subject>计算机底层</dc:subject>
+        <dc:subject>Cs</dc:subject>
+        <meta content="{&quot;Randal E.bryant&quot;: &quot;&quot;, &quot;David O'Hallaron&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="10" name="calibre:rating"/>
+        <meta content="2018-05-18T15:43:43.616339+00:00" name="calibre:timestamp"/>
+        <meta content="深入理解计算机系统（原书第3版）" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Shen Ru Li Jie Ji Suan Ji Xi Tong (Yuan Shu Di 3Ban ) - Randal E.bryant &amp; David O'Hallaron.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
