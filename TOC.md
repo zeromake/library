@@ -93,6 +93,10 @@
     - [像 IDE 一样使用 vim](#像-ide-一样使用-vim)
 - [go](#go)
     - [Go语言圣经](#go语言圣经): 7.1
+- [ai&ml](#ai)
+    - [Scikit-Learn与TensorFlow机器学习实用指南](#scikit-learn与tensorflow机器学习实用指南): 9.5
+    - [SRE: Google运维解密](#sre-google运维解密): 9.0
+    - [Tensorflow：实战Google深度学习框架](#tensorflow实战google深度学习框架): 8.3
 
 ## algorithm
 > [📚算法](algorithm)
@@ -1419,4 +1423,60 @@ Ilya Grigorik 是谷歌“Web加速”（Make The Web Fast）团队的性能工�
 本书以介绍Go语言特性为主，示例则尽量采用作者开发团队平常的实践，内容涉及内存管理（堆和栈）、错误处理、OOP、并发编程等关键话题。 这本书面向的读者是所有打算用Go语言的开发者，主要包括目前使用C、C++、Java、C#的开发人员，甚至一些Python、PHP开发人员也可能转为 Go 程序员。
 - 从书　　: 图灵原创
 - 价格　　: 49.00元
+- 文件类型: epub
+
+
+## ai
+> [📚ai&ml](ai)
+
+
+### Scikit-Learn与TensorFlow机器学习实用指南
+[📖Scikit-Learn与TensorFlow机器学习实用指南](ai/Hands-On Machine Learning with Scikit-Learn and TensorFlow.epub) [📥下载](../../../info/lfs/objects/28ee4cbad6e4dcaa68fe0263353d4e8146176735f51d59edd9ed64af4f267009/Hands-On Machine Learning with Scikit-Learn and TensorFlow.epub)
+- 评分　　: 9.5
+- 作者　　: `Aurélien Géron`
+- 出版时间: 2017-10-1
+- 标签　　: `机器学习` `Python` `AI` `计算机科学` `计算机` `英语` `百科` `数据分析`
+- 翻译　　: 
+- 豆瓣地址: https://book.douban.com/subject/27154347/
+- 出版社　: 东南大学出版社
+- 简介　　: 通过具体的例子、很少的理论以及两款成熟的Python框架：Scikit-Learn和TensorFlow，作者Aurélien Géron会帮助你掌握构建智能系统所需要的概念和工具。你将会学习到各种技术，从简单的线性回归及发展到深度神经网络。每章的练习有助于你运用所学到的知识，你只需要有一些编程经验就行了。
+探索机器学习，尤其是神经网络
+使用Scikit-Learn全程跟踪一个机器学习项目的例子
+探索各种训练模型，包括：支持向量机、决策树、随机森林以及集成方法
+使用TensorFlow库构建和训练神经网络
+深入神经网络架构，包括卷积神经网络、循环神经网络和深度强化学习
+学习可用于训练和缩放深度神经网络的技术
+运用实际的代码示例，无需了解过多的机器学习理论或算法细节
+- 价格　　: 98.00元
+- 文件类型: epub
+
+
+### SRE: Google运维解密
+[📖SRE: Google运维解密](ai/SRE-Google运维解密.pdf) [📥下载](../../../info/lfs/objects/dba7317197e43d22d066887ff45bde9c23902ab8c27e8ce99507bdce2d15db13/SRE-Google运维解密.pdf)
+- 评分　　: 9.0
+- 作者　　: `【美】Betsy Beyer（贝特西 拜尔）等`
+- 出版时间: 2016-10-1
+- 标签　　: `运维` `google` `SRE` `DevOps` `计算机` `互联网` `软件开发` `架构师`
+- 翻译　　: `孙宇聪`
+- 页数　　: 480
+- 豆瓣地址: https://book.douban.com/subject/26875239/
+- 出版社　: 电子工业出版社
+- 简介　　: 大型软件系统生命周期的绝大部分都处于“使用”阶段，而非“设计”或“实现”阶段。那么为什么我们却总是认为软件工程应该首要关注设计和实现呢？在《SRE：Google运维解密》中，Google SRE的关键成员解释了他们是如何对软件进行生命周期的整体性关注的，以及为什么这样做能够帮助Google成功地构建、部署、监控和运维世界上现存最大的软件系统。通过阅读《SRE：Google运维解密》，读者可以学习到Google工程师在提高系统部署规模、改进可靠性和资源利用效率方面的指导思想与具体实践——这些都是可以立即直接应用的宝贵经验。
+任何一个想要创建、扩展大规模集成系统的人都应该阅读《SRE：Google运维解密》。《SRE：Google运维解密》针对如何构建一个可长期维护的系统提供了非常宝贵的实践经验。
+- 价格　　: CNY 108.00
+- 文件类型: pdf
+
+
+### Tensorflow：实战Google深度学习框架
+[📖Tensorflow：实战Google深度学习框架](ai/Tensorflow-实战Google深度学习框架.epub) [📥下载](../../../info/lfs/objects/a9d3483e0162075051bf1d23656f1bc261d767aca78e3ee6a13051e8f2136cba/Tensorflow-实战Google深度学习框架.epub)
+- 评分　　: 8.3
+- 作者　　: `郑泽宇` `顾思宇`
+- 出版时间: 2017-2-10
+- 标签　　: `深度学习` `tensorflow` `机器学习` `TensorFlow` `人工智能` `机器学习深度学习` `计算机` `计算机科学`
+- 翻译　　: 
+- 页数　　: 296
+- 豆瓣地址: https://book.douban.com/subject/26976457/
+- 出版社　: 电子工业出版社
+- 简介　　: TensorFlow是谷歌2015年开源的主流深度学习框架，目前已在谷歌、优步（Uber）、京东、小米等科技公司广泛应用。《Tensorflow实战》为使用TensorFlow深度学习框架的入门参考书，旨在帮助读者以最快、最有效的方式上手TensorFlow和深度学习。书中省略了深度学习繁琐的数学模型推导，从实际应用问题出发，通过具体的TensorFlow样例程序介绍如何使用深度学习解决这些问题。《Tensorflow实战》包含了深度学习的入门知识和大量实践经验，是走进这个最新、最火的人工智能领域的首选参考书。
+- 价格　　: 79
 - 文件类型: epub

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">17ef4baf-9e42-4a5a-ae33-155617dbd7d3</dc:identifier>
+        <dc:title>SRE: Google运维解密</dc:title>
+        <dc:creator opf:file-as="拜尔）等, 【美】betsy Beyer（贝特西" opf:role="aut">【美】betsy Beyer（贝特西 拜尔）等</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.22.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-01T02:37:35.939884+00:00</dc:date>
+        <dc:description>大型软件系统生命周期的绝大部分都处于“使用”阶段，而非“设计”或“实现”阶段。那么为什么我们却总是认为软件工程应该首要关注设计和实现呢？在《SRE：Google运维解密》中，Google SRE的关键成员解释了他们是如何对软件进行生命周期的整体性关注的，以及为什么这样做能够帮助Google成功地构建、部署、监控和运维世界上现存最大的软件系统。通过阅读《SRE：Google运维解密》，读者可以学习到Google工程师在提高系统部署规模、改进可靠性和资源利用效率方面的指导思想与具体实践——这些都是可以立即直接应用的宝贵经验。
+任何一个想要创建、扩展大规模集成系统的人都应该阅读《SRE：Google运维解密》。《SRE：Google运维解密》针对如何构建一个可长期维护的系统提供了非常宝贵的实践经验。</dc:description>
+        <dc:publisher>电子工业出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787121297267</dc:identifier>
+        <dc:identifier opf:scheme="DOUBAN">26875239</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>运维</dc:subject>
+        <dc:subject>Google</dc:subject>
+        <dc:subject>Sre</dc:subject>
+        <dc:subject>DevOps</dc:subject>
+        <dc:subject>计算机</dc:subject>
+        <dc:subject>互联网</dc:subject>
+        <dc:subject>软件开发</dc:subject>
+        <dc:subject>架构师</dc:subject>
+        <meta content="{&quot;【美】betsy Beyer（贝特西 拜尔）等&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="10" name="calibre:rating"/>
+        <meta content="2018-07-27T02:37:08.834035+00:00" name="calibre:timestamp"/>
+        <meta content="SRE: Google运维解密" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="SRE_ GoogleYun Wei Jie Mi  - [(Mei )] betsy Beyer(Bei Te Xi  Bai Er )Deng.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
