@@ -87,7 +87,7 @@ def build_markdown(options):
             buffer.append('### %s' % title)
             encode_name = book_name
             # encode_name = base64.urlsafe_b64encode(book_name.encode()).decode()
-            buffer.append('[📖%s](%s) [📥下载](../../../info/lfs/objects/%s/%s)' % (title, book_type['dir_name'] + '/' + book_name, book['sha_256'], encode_name))
+            buffer.append('[📖%s](%s) [📥下载](../../../../library.git/info/lfs/objects/%s/%s)' % (title, book_type['dir_name'] + '/' + book_name, book['sha_256'], encode_name))
             toc = '    - [%s](#%s)' % (title, safe_toc(title))
             # if 'identifier' in book and 'DOUBAN' in book['identifier']:
             #     douban_id = book['identifier']['DOUBAN']
