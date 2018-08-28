@@ -76,7 +76,7 @@ def build_markdown(options):
         ),
         'subtitle': "副标题　",
         'rating': rating_format,
-        'alt': "豆瓣地址",
+        'alt': lambda alt: ("豆瓣地址", "[%s](%s)" % (alt, alt)),
         'series': lambda series: ('从书　　', series['title']),
         'translator': lambda translator: (
             '翻译　　',
