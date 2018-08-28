@@ -1,17 +1,15 @@
 #!/usr/bin/env python
-#coding:utf-8
+# coding:utf-8
 import re
 import os
 import sys
 import json
 import hashlib
 from lxml import etree
-from urllib import parse
 from ebooklib import epub
 from PyPDF2 import PdfFileReader
 from PyPDF2.generic import IndirectObject, TextStringObject
 import requests
-import base64
 
 try:
     reload(sys)
@@ -28,17 +26,24 @@ def identifier_format(identifier):
     format_arr = []
     for key, val in identifier.items():
         if 'DOUBAN' == key:
-            format_arr.append('\n    - [豆瓣](https://book.douban.com/subject/%s)' % val)
+            format_arr.append(
+                '\n    - [豆瓣](https://book.douban.com/subject/%s)' % val
+            )
         elif 'ISBN' == key:
-            format_arr.append('\n    - [ISBN](https://www.worldcat.org/isbn/%s)' % val)
-            # format_arr.append('\n    - [豆瓣-ISBN](https://book.douban.com/isbn/%s)' % val)
+            format_arr.append(
+                '\n    - [ISBN](https://www.worldcat.org/isbn/%s)' % val
+            )
+            # format_arr.append(
+            #     '\n    - [豆瓣-ISBN](https://book.douban.com/isbn/%s)' % val)
     if len(format_arr) == 0:
         return None
     return "书号　　", ''.join(format_arr)
 
+
 def rating_format(rating):
     average = float(rating['average'])
     return '评分　　', '暂无评分'if average == 0.0 else average
+
 
 def build_markdown(options):
     """
@@ -55,19 +60,28 @@ def build_markdown(options):
         'creator': "创建人　",
         'date': "出版时间",
         'pubdate': "出版时间",
-        'tags': lambda tags: ('标签　　', ' '.join(['`%s`' % row['title'] for row in tags])),
+        'tags': lambda tags: (
+            '标签　　',
+            ' '.join(['`%s`' % row['title'] for row in tags]),
+        ),
         'contributor': "创建工具",
         'identifier': identifier_format,
         'type': "文件类型",
         'creation_date': "创建时间",
         'mod_date': "修改时间",
         'producer': "制作人　",
-        'author': lambda authors: ('作者　　', ' '.join(['`%s`' % row for row in authors])),
+        'author': lambda authors: (
+            '作者　　',
+            ' '.join(['`%s`' % row for row in authors]),
+        ),
         'subtitle': "副标题　",
         'rating': rating_format,
         'alt': "豆瓣地址",
         'series': lambda series: ('从书　　', series['title']),
-        'translator': lambda translator: ('翻译　　', ' '.join(['`%s`' % row for row in translator])),
+        'translator': lambda translator: (
+            '翻译　　',
+            ' '.join(['`%s`' % row for row in translator]),
+        ),
     }
     metas = read_old_meta()
     buffer = []
@@ -78,7 +92,9 @@ def build_markdown(options):
     for book_type in metas:
         buffer.append('\n')
         buffer.append('## %s' % (book_type['dir_name']))
-        buffer.append('> [📚%s](%s)' % (book_type['name'], book_type['dir_name']))
+        buffer.append(
+            '> [📚%s](%s)' % (book_type['name'], book_type['dir_name'])
+        )
         tocs.append('- [%s](#%s)' % (book_type['name'], book_type['dir_name']))
         for book in book_type['books']:
             book_name = book['file']
@@ -86,14 +102,15 @@ def build_markdown(options):
             buffer.append('\n')
             buffer.append('### %s' % title)
             encode_name = book_name
-            # encode_name = base64.urlsafe_b64encode(book_name.encode()).decode()
-            buffer.append('[📖%s](%s) [📥下载](../../../../library.git/info/lfs/objects/%s/%s)' % (title, book_type['dir_name'] + '/' + book_name, book['sha_256'], encode_name))
+            buffer.append(
+                '[📖%s](%s) [📥下载](../../../../library.git/info/lfs/objects/%s/%s)' % (
+                    title,
+                    book_type['dir_name'] + '/' + book_name,
+                    book['sha_256'],
+                    encode_name
+                )
+                )
             toc = '    - [%s](#%s)' % (title, safe_toc(title))
-            # if 'identifier' in book and 'DOUBAN' in book['identifier']:
-            #     douban_id = book['identifier']['DOUBAN']
-            #     r = requests.get('https://api.douban.com/v2/book/%s' % douban_id)
-            #     star_count = float(r.json()['rating']['average'])
-            # else:
             if 'rating' in book:
                 star_count = book['rating']['average']
                 toc += ': %s' % (star_count)

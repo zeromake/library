@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7748fdb-e4bf-4af4-94c7-9295264bb951</dc:identifier>
+        <dc:title>深度学习入门</dc:title>
+        <dc:creator opf:file-as="[ 日］ 斋藤康毅" opf:role="aut">[ 日］ 斋藤康毅</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.22.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-07-15T09:17:23.737811+00:00</dc:date>
+        <dc:description>本书是深度学习真正意义上的入门书，深入浅出地剖析了深度学习的原理和相关技术。书中使用Python3，尽量不依赖外部库或工具，从基本的数学知识出发，带领读者从零创建一个经典的深度学习网络，使读者在此过程中逐步理解深度学习。书中不仅介绍了深度学习和神经网络的概念、特征等基础知识，对误差反向传播法、卷积神经网络等也有深入讲解，此外还介绍了深度学习相关的实用技巧，自动驾驶、图像生成、强化学习等方面的应用，以及为什么加深层可以提高识别精度等“为什么”的问题。</dc:description>
+        <dc:publisher>人民邮电出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">30270959</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787115485588</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>深度学习</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>机器学习</dc:subject>
+        <dc:subject>人工智能</dc:subject>
+        <dc:subject>神经网络</dc:subject>
+        <dc:subject>计算机科学</dc:subject>
+        <dc:subject>计算机</dc:subject>
+        <meta content="{&quot;[ 日］ 斋藤康毅&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2018-08-28T09:15:58.019815+00:00" name="calibre:timestamp"/>
+        <meta content="深度学习入门" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Shen Du Xue Xi Ru Men  - [ Ri ] Zhai Teng Kang Yi.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
