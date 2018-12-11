@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7936933b-437e-4ad3-8d8d-038590df1dc1</dc:identifier>
+        <dc:title>Exercises in Programming Style</dc:title>
+        <dc:creator opf:file-as="Lopes, Cristina Videira" opf:role="aut">[美] Cristina Videira Lopes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.34.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-03-01T01:19:40.147000+00:00</dc:date>
+        <dc:description>本书对一个常见的编程问题定义了不同的约束，分别使用33种方法实现了同一个词频统计任务，从而形成了风格迥异的编程风格。作者以惯用的计算机语言与简单的任务为画笔，描绘了一次生动难忘的编程之旅，帮助读者加深了对语言的理解，也提供了崭新的编程思路。</dc:description>
+        <dc:identifier opf:scheme="ISBN">9787115460356</dc:identifier>
+        <dc:identifier opf:scheme="DOUBAN">27102599</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>编程</dc:subject>
+        <dc:subject>计算机</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>编程风格</dc:subject>
+        <dc:subject>程序设计</dc:subject>
+        <dc:subject>编程艺术</dc:subject>
+        <dc:subject>软件开发</dc:subject>
+        <dc:subject>软件工程</dc:subject>
+        <meta content="{&quot;[美] Cristina Videira Lopes&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2018-12-11T01:19:33.215690+00:00" name="calibre:timestamp"/>
+        <meta content="Exercises in Programming Style" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Exercises in Programming Style - [Mei ] Cristina Videira Lopes.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
