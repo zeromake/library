@@ -289,7 +289,7 @@ Sedgewick畅销著作的最新版，反映了经过几十年演化而成的算�
 
 
 ### C Primer Plus
-[📖C Primer Plus](c/C+Primer+Plus%E7%AC%AC%E4%BA%94%E7%89%88+%E4%B8%AD%E6%96%87%E7%89%88.epub) [📥下载](../../../../library.git/info/lfs/objects/fd3fec526da6c0fd3f85a4db983dca9803238f122cc765524edfc10c1bd49c40/C+Primer+Plus%E7%AC%AC%E4%BA%94%E7%89%88+%E4%B8%AD%E6%96%87%E7%89%88.epub)
+[📖C Primer Plus](c/C%20Primer%20Plus%E7%AC%AC%E4%BA%94%E7%89%88%20%E4%B8%AD%E6%96%87%E7%89%88.epub) [📥下载](../../../../library.git/info/lfs/objects/fd3fec526da6c0fd3f85a4db983dca9803238f122cc765524edfc10c1bd49c40/C%20Primer%20Plus%E7%AC%AC%E4%BA%94%E7%89%88%20%E4%B8%AD%E6%96%87%E7%89%88.epub)
 - 评分　　: 9.1
 - 副标题　: （第五版）
 - 作者　　: `Stephen Prata` `云巅工作室`
@@ -409,7 +409,7 @@ Stephen Rago的更新版本对于使用众多UNIX及相关操作系统环境的�
 
 
 ### C++ Primer Plus
-[📖C++ Primer Plus](c++/C%2B%2B+Primer+Plus++%E7%AC%AC6%E7%89%88++%E4%B8%AD%E6%96%87%E7%89%88.pdf) [📥下载](../../../../library.git/info/lfs/objects/10e19996ff8031d2340ddf7c5349febecaf2308a0b7c94cffa699b7de5c2f9db/C%2B%2B+Primer+Plus++%E7%AC%AC6%E7%89%88++%E4%B8%AD%E6%96%87%E7%89%88.pdf)
+[📖C++ Primer Plus](c++/C%2B%2B%20Primer%20Plus%20%20%E7%AC%AC6%E7%89%88%20%20%E4%B8%AD%E6%96%87%E7%89%88.pdf) [📥下载](../../../../library.git/info/lfs/objects/10e19996ff8031d2340ddf7c5349febecaf2308a0b7c94cffa699b7de5c2f9db/C%2B%2B%20Primer%20Plus%20%20%E7%AC%AC6%E7%89%88%20%20%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 - 评分　　: 8.6
 - 副标题　: 中文版（第六版）
 - 作者　　: `Stephen Prata`
@@ -426,7 +426,7 @@ Stephen Rago的更新版本对于使用众多UNIX及相关操作系统环境的�
 
 
 ### C++ Primer 中文版（第 5 版）
-[📖C++ Primer 中文版（第 5 版）](c++/C%2B%2BPrimer+%E7%AC%AC5%E7%89%88.pdf) [📥下载](../../../../library.git/info/lfs/objects/322d5d6f0b48ad11b7b80b3122db78d8a2b3194946ac5766810cf7ac2803287d/C%2B%2BPrimer+%E7%AC%AC5%E7%89%88.pdf)
+[📖C++ Primer 中文版（第 5 版）](c++/C%2B%2BPrimer%20%E7%AC%AC5%E7%89%88.pdf) [📥下载](../../../../library.git/info/lfs/objects/322d5d6f0b48ad11b7b80b3122db78d8a2b3194946ac5766810cf7ac2803287d/C%2B%2BPrimer%20%E7%AC%AC5%E7%89%88.pdf)
 - 评分　　: 9.3
 - 作者　　: `[美] Stanley B. Lippman` `[美] Josée Lajoie` `[美] Barbara E. Moo`
 - 出版时间: 2013-9-1
@@ -474,7 +474,7 @@ Stephen Rago的更新版本对于使用众多UNIX及相关操作系统环境的�
 
 
 ### 完美c++（第5版）（双色）
-[📖完美c++（第5版）（双色）](c++/%E5%AE%8C%E7%BE%8EC+%2B%2B+%28%E7%AC%AC5%E7%89%88%29.pdf) [📥下载](../../../../library.git/info/lfs/objects/e65a431b7cb568cb055bcb1801aab851785265a12344161212795014a2a95cfe/%E5%AE%8C%E7%BE%8EC+%2B%2B+%28%E7%AC%AC5%E7%89%88%29.pdf)
+[📖完美c++（第5版）（双色）](c++/%E5%AE%8C%E7%BE%8EC%20%2B%2B%20%28%E7%AC%AC5%E7%89%88%29.pdf) [📥下载](../../../../library.git/info/lfs/objects/e65a431b7cb568cb055bcb1801aab851785265a12344161212795014a2a95cfe/%E5%AE%8C%E7%BE%8EC%20%2B%2B%20%28%E7%AC%AC5%E7%89%88%29.pdf)
 - 评分　　: 7.4
 - 作者　　: `薛正华` `沈庚` `韦远科`
 - 出版时间: 2014-6-1
@@ -582,7 +582,7 @@ Stephen Rago的更新版本对于使用众多UNIX及相关操作系统环境的�
 
 
 ### 响应式Web设计
-[📖响应式Web设计](css/%E5%93%8D%E5%BA%94%E5%BC%8FWeb%E8%AE%BE%E8%AE%A1_HTML5%E5%92%8CCSS3%E5%AE%9E%E6%88%98+-+Ben+Frain.epub) [📥下载](../../../../library.git/info/lfs/objects/461665e0abf4e2a7064025358bfe39ee4b8534f106dd590a4559a9950e998bcf/%E5%93%8D%E5%BA%94%E5%BC%8FWeb%E8%AE%BE%E8%AE%A1_HTML5%E5%92%8CCSS3%E5%AE%9E%E6%88%98+-+Ben+Frain.epub)
+[📖响应式Web设计](css/%E5%93%8D%E5%BA%94%E5%BC%8FWeb%E8%AE%BE%E8%AE%A1_HTML5%E5%92%8CCSS3%E5%AE%9E%E6%88%98%20-%20Ben%20Frain.epub) [📥下载](../../../../library.git/info/lfs/objects/461665e0abf4e2a7064025358bfe39ee4b8534f106dd590a4559a9950e998bcf/%E5%93%8D%E5%BA%94%E5%BC%8FWeb%E8%AE%BE%E8%AE%A1_HTML5%E5%92%8CCSS3%E5%AE%9E%E6%88%98%20-%20Ben%20Frain.epub)
 - 评分　　: 7.2
 - 副标题　: HTML5和CSS3实战
 - 作者　　: `Ben Frain`
@@ -664,7 +664,7 @@ Robin　Williams　　世界著名设计师、技术专家和畅销书作家。�
 
 
 ### Exercises in Programming Style
-[📖Exercises in Programming Style](engineering/Exercises+in+Programming+Style+-+%5BMei+%5D+Cristina+Videira+Lopes.pdf) [📥下载](../../../../library.git/info/lfs/objects/9fa886a3ea1f70ad7ebcfad07b4d73c34629fc06966ef0c6d4fd0dc1655b0993/Exercises+in+Programming+Style+-+%5BMei+%5D+Cristina+Videira+Lopes.pdf)
+[📖Exercises in Programming Style](engineering/Exercises%20in%20Programming%20Style%20-%20%5BMei%20%5D%20Cristina%20Videira%20Lopes.pdf) [📥下载](../../../../library.git/info/lfs/objects/9fa886a3ea1f70ad7ebcfad07b4d73c34629fc06966ef0c6d4fd0dc1655b0993/Exercises%20in%20Programming%20Style%20-%20%5BMei%20%5D%20Cristina%20Videira%20Lopes.pdf)
 - 评分　　: 8.0
 - 副标题　: 好代码的逻辑
 - 作者　　: `[美] Cristina Videira Lopes`
@@ -1478,7 +1478,7 @@ Ilya Grigorik 是谷歌“Web加速”（Make The Web Fast）团队的性能工�
 
 
 ### Python Cookbook 中文版，第 3 版
-[📖Python Cookbook 中文版，第 3 版](python/Python_Cookbook-%E7%AC%AC%E4%B8%89%E7%89%88+Jones.epub) [📥下载](../../../../library.git/info/lfs/objects/8a36c8b3b5845186bff6652bf237bd99409cfae3ff76889e516178b45c5558ed/Python_Cookbook-%E7%AC%AC%E4%B8%89%E7%89%88+Jones.epub)
+[📖Python Cookbook 中文版，第 3 版](python/Python_Cookbook-%E7%AC%AC%E4%B8%89%E7%89%88%20Jones.epub) [📥下载](../../../../library.git/info/lfs/objects/8a36c8b3b5845186bff6652bf237bd99409cfae3ff76889e516178b45c5558ed/Python_Cookbook-%E7%AC%AC%E4%B8%89%E7%89%88%20Jones.epub)
 - 评分　　: 9.0
 - 作者　　: `David M. Beazley` `Brian K. Jones`
 - 出版时间: 2015-5-1
@@ -1732,7 +1732,7 @@ Web应用无处不在，安全隐患如影随形。承载着丰富功能与用�
 
 
 ### Scikit-Learn与TensorFlow机器学习实用指南
-[📖Scikit-Learn与TensorFlow机器学习实用指南](ai/Hands-On+Machine+Learning+with+Scikit-Learn+and+TensorFlow.epub) [📥下载](../../../../library.git/info/lfs/objects/28ee4cbad6e4dcaa68fe0263353d4e8146176735f51d59edd9ed64af4f267009/Hands-On+Machine+Learning+with+Scikit-Learn+and+TensorFlow.epub)
+[📖Scikit-Learn与TensorFlow机器学习实用指南](ai/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%20and%20TensorFlow.epub) [📥下载](../../../../library.git/info/lfs/objects/28ee4cbad6e4dcaa68fe0263353d4e8146176735f51d59edd9ed64af4f267009/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%20and%20TensorFlow.epub)
 - 评分　　: 9.5
 - 作者　　: `Aurélien Géron`
 - 出版时间: 2017-10-1
