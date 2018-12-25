@@ -5,6 +5,7 @@ import os
 import sys
 import json
 import hashlib
+from urllib.parse import quote_plus
 from lxml import etree
 from ebooklib import epub
 from PyPDF2 import PdfFileReader
@@ -101,7 +102,7 @@ def build_markdown(options):
             title = book['title'] if 'title' in book and book['title'].strip() != '' else book_name
             buffer.append('\n')
             buffer.append('### %s' % title)
-            encode_name = book_name
+            encode_name = quote_plus(book_name)
             buffer.append(
                 '[📖%s](%s) [📥下载](../../../../library.git/info/lfs/objects/%s/%s)' % (
                     title,
@@ -109,7 +110,7 @@ def build_markdown(options):
                     book['sha_256'],
                     encode_name
                 )
-                )
+            )
             toc = '    - [%s](#%s)' % (title, safe_toc(title))
             if 'rating' in book:
                 star_count = book['rating']['average']

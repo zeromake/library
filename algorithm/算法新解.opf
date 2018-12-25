@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e03da8c4-1bd8-42b5-80ec-424ff842e2b4</dc:identifier>
+        <dc:title>算法新解</dc:title>
+        <dc:creator opf:file-as="刘新宇" opf:role="aut">刘新宇</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.34.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-01T03:25:17.383006+00:00</dc:date>
+        <dc:description>本书分4 部分，同时用函数式和传统方法介绍主要的基本算法和数据结构。数据结构部分包括二叉树、红黑树、AVL 树、Trie、Patricia、后缀树、B 树、二叉堆、二项式堆、斐波那契堆、配对堆、队列、序列等；基本算法部分包括各种排序算法、序列搜索算法、字符串匹配算法（KMP 等）、深度优先与广度优先搜索算法、贪心算法以及动态规划。
+本书适合软件开发人员、编程和算法爱好者，以及高校学生阅读参考。</dc:description>
+        <dc:publisher>人民邮电出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787115440358</dc:identifier>
+        <dc:identifier opf:scheme="DOUBAN">26931430</dc:identifier>
+        <dc:language>zh</dc:language>
+        <dc:subject>程序设计</dc:subject>
+        <dc:subject>Computer Science</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>函数式编程</dc:subject>
+        <dc:subject>编程</dc:subject>
+        <dc:subject>算法</dc:subject>
+        <dc:subject>Algorithm</dc:subject>
+        <dc:subject>计算机</dc:subject>
+        <dc:subject>计算机科学</dc:subject>
+        <meta content="{&quot;刘新宇&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="10" name="calibre:rating"/>
+        <meta content="2018-12-25T03:24:48.963169+00:00" name="calibre:timestamp"/>
+        <meta content="算法新解" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Suan Fa Xin Jie  - Liu Xin Yu.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
