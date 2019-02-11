@@ -118,6 +118,7 @@
     - [Tensorflow：实战Google深度学习框架](#tensorflow实战google深度学习框架): 8.3
     - [深度学习入门](#深度学习入门): 8.9
 - [数据](#data)
+    - [Apache Kafka源码剖析](#apache-kafka源码剖析): 8.3
     - [Kafka权威指南](#kafka权威指南): 8.9
 
 ## algorithm
@@ -1890,6 +1891,22 @@ Web应用无处不在，安全隐患如影随形。承载着丰富功能与用�
 
 ## data
 > [📚数据](data)
+
+
+### Apache Kafka源码剖析
+[📖Apache Kafka源码剖析](data/Apache-Kafka%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90.epub) [📥下载](../../../../library.git/info/lfs/objects/9f23ba313ea3caeb378169bdeb147dbe33db4d5a6d7c6d0cfa1a55e81f90c78e/Apache-Kafka%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90.epub)
+- 评分　　: 8.3
+- 作者　　: `徐郡明`
+- 出版时间: 2017-5
+- 标签　　: `Kafka` `源码解析` `消息队列` `kafka` `Apache` `大数据` `码农` `计算机科学`
+- 翻译　　: 
+- 页数　　: 604
+- 豆瓣地址: [https://book.douban.com/subject/27038473/](https://book.douban.com/subject/27038473/)
+- 出版社　: 电子工业出版社
+- 简介　　: 《Apache Kafka源码剖析》以Kafka 0.10.0版本源码为基础，针对Kafka的架构设计到实现细节进行详细阐述。《Apache Kafka源码剖析》共5章，从Kafka的应用场景、源码环境搭建开始逐步深入，不仅介绍Kafka的核心概念，而且对Kafka生产者、消费者、服务端的源码进行深入的剖析，最后介绍Kafka常用的管理脚本实现，让读者不仅从宏观设计上了解Kafka，而且能够深入到Kafka的细节设计之中。在源码分析的过程中，还穿插了笔者工作积累的经验和对Kafka设计的理解，希望读者可以举一反三，不仅知其然，而且知其所以然。
+《Apache Kafka源码剖析》旨在为读者阅读Kafka源码提供帮助和指导，让读者更加深入地了解Kafka的运行原理、设计理念，让读者在设计分布式系统时可以参考Kafka的优秀设计。《Apache Kafka源码剖析》的内容对于读者全面提升自己的技术能力有很大帮助。
+- 价格　　: 89
+- 文件类型: epub
 
 
 ### Kafka权威指南

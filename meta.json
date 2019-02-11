@@ -7249,6 +7249,89 @@
       {
         "rating": {
           "max": 10,
+          "numRaters": 64,
+          "average": "8.3",
+          "min": 0
+        },
+        "subtitle": "",
+        "author": [
+          "徐郡明"
+        ],
+        "pubdate": "2017-5",
+        "tags": [
+          {
+            "count": 79,
+            "name": "Kafka",
+            "title": "Kafka"
+          },
+          {
+            "count": 53,
+            "name": "源码解析",
+            "title": "源码解析"
+          },
+          {
+            "count": 40,
+            "name": "消息队列",
+            "title": "消息队列"
+          },
+          {
+            "count": 19,
+            "name": "kafka",
+            "title": "kafka"
+          },
+          {
+            "count": 14,
+            "name": "Apache",
+            "title": "Apache"
+          },
+          {
+            "count": 11,
+            "name": "大数据",
+            "title": "大数据"
+          },
+          {
+            "count": 10,
+            "name": "码农",
+            "title": "码农"
+          },
+          {
+            "count": 9,
+            "name": "计算机科学",
+            "title": "计算机科学"
+          }
+        ],
+        "origin_title": "",
+        "image": "https://img1.doubanio.com/view/subject/m/public/s29444479.jpg",
+        "binding": "平装",
+        "translator": [],
+        "catalog": "第1章　快速入门\n1.1　Kafka简介\n1.2　以Kafka为中心的解决方案\n1.3　Kafka核心概念\n1.4　搭建Kafka源码环境\n本章小结\n第2章　生产者\n2.1　 KafkaProducer使用示例\n2.2　KafkaProducer分析\n2.2.1　ProducerInterceptors&ProducerInterceptor\n2.2.2　Kafka集群元数据\n2.2.3　Serializer&Deserializer\n2.2.4　Partitioner\n2.3　RecordAccumulator分析\n2.3.1　MemoryRecords\n2.3.2　RecordBatch\n2.3.3　BufferPool\n2.3.4　RecordAccumulator\n2.4　Sender分析\n2.4.1　创建请求\n2.4.2　KSelector\n2.4.3　InFlightRequests\n2.4.4　MetadataUpdater\n2.4.5　NetworkClient\n本章小结\n第3章　消费者\n3.1　KafkaConsumer使用示例\n3.2　传递保证语义（Delivery guarantee semantic）\n3.3　Consumer Group Rebalance设计\n3.4　KafkaConsumer分析\n3.4.1　ConsumerNetworkClient\n3.4.2　SubscriptionState\n3.4.3　ConsumerCoordinator\n3.4.4　PartitionAssignor分析\n3.4.5　Heartbeat分析\n3.4.6　Rebalance实现\n3.4.7　offset操作\n3.4.8　Fetcher\n3.4.9　KafkaConsumer分析总结\n本章小结\n第4章　Kafka服务端\n4.1　网络层\n4.1.1　Reactor模式\n4.1.2　SocketServer\n4.1.3　AbstractServerThread\n4.1.4　Acceptor\n4.1.5　Processor\n4.1.6　RequestChannel\n4.2　API层\n4.2.1　KafkaRequestHandler\n4.2.2　KafkaApis\n4.3　日志存储\n4.3.1　基本概念\n4.3.2　FileMessageSet\n4.3.3　ByteBufferMessageSet\n4.3.4　OffsetIndex\n4.3.5　LogSegment\n4.3.6　Log\n4.3.7　LogManager\n4.4　DelayedOperationPurgatory组件\n4.4.1　TimingWheel\n4.4.2　SystemTimer\n4.4.3　DelayedOperation\n4.4.4　DelayedOperationPurgatory\n4.4.5　DelayedProduce\n4.4.6　DelayedFetch\n4.5　副本机制\n4.5.1　副本\n4.5.2　分区\n4.5.3　ReplicaManager\n4.6　KafkaController\n4.6.1　ControllerChannelManager\n4.6.2　ControllerContext\n4.6.3　ControllerBrokerRequestBatch\n4.6.4　PartitionStateMachine\n4.6.5　PartitionLeaderSelector\n4.6.6　ReplicaStateMachine\n4.6.7　ZooKeeper Listener\n4.6.8　KafkaController初始化与故障转移\n4.6.9　处理ControlledShutdownRequest\n4.7　GroupCoordinator\n4.7.1　GroupMetadataManager\n4.7.2　GroupCoordinator分析\n4.8　身份认证与权限控制\n4.8.1　配置SASL/PLAIN认证\n4.8.2　身份认证\n4.8.3　权限控制\n4.9　Kafka监控\n4.9.1　JMX简介\n4.9.2　Metrics简介\n4.9.3　Kafka中的Metrics\n4.9.4　Kafka的监控功能\n4.9.5　监控KSelector的指标\n第5章　Kafka Tool\n5.1　kafka-server-start脚本\n5.2　kafka-topics脚本\n5.2.1　创建Topic\n5.2.2　修改Topic\n5.3　kafka-preferred-replica-election脚本\n5.4　kafka-reassign-partitions脚本\n5.5　kafka-console-producer脚本\n5.6　kafka-console-consumer脚本\n5.7　kafka-consumer-groups脚本\n5.8　DumpLogSegments\n5.9　kafka-producer-perf-test脚本\n5.10　kafka-consumer-perf-test脚本\n5.11　kafka-mirror-maker脚本\n本章小结",
+        "ebook_url": "https://read.douban.com/ebook/47991374/",
+        "pages": "604",
+        "images": {
+          "small": "https://img1.doubanio.com/view/subject/s/public/s29444479.jpg",
+          "large": "https://img1.doubanio.com/view/subject/l/public/s29444479.jpg",
+          "medium": "https://img1.doubanio.com/view/subject/m/public/s29444479.jpg"
+        },
+        "alt": "https://book.douban.com/subject/27038473/",
+        "id": "27038473",
+        "publisher": "电子工业出版社",
+        "isbn10": "7121313456",
+        "isbn13": "9787121313455",
+        "title": "Apache Kafka源码剖析",
+        "url": "https://api.douban.com/v2/book/27038473",
+        "alt_title": "",
+        "author_intro": "",
+        "summary": "《Apache Kafka源码剖析》以Kafka 0.10.0版本源码为基础，针对Kafka的架构设计到实现细节进行详细阐述。《Apache Kafka源码剖析》共5章，从Kafka的应用场景、源码环境搭建开始逐步深入，不仅介绍Kafka的核心概念，而且对Kafka生产者、消费者、服务端的源码进行深入的剖析，最后介绍Kafka常用的管理脚本实现，让读者不仅从宏观设计上了解Kafka，而且能够深入到Kafka的细节设计之中。在源码分析的过程中，还穿插了笔者工作积累的经验和对Kafka设计的理解，希望读者可以举一反三，不仅知其然，而且知其所以然。\n《Apache Kafka源码剖析》旨在为读者阅读Kafka源码提供帮助和指导，让读者更加深入地了解Kafka的运行原理、设计理念，让读者在设计分布式系统时可以参考Kafka的优秀设计。《Apache Kafka源码剖析》的内容对于读者全面提升自己的技术能力有很大帮助。",
+        "ebook_price": "53.40",
+        "price": "89",
+        "type": "epub",
+        "meta_type": "douban",
+        "sha_256": "9f23ba313ea3caeb378169bdeb147dbe33db4d5a6d7c6d0cfa1a55e81f90c78e",
+        "file": "Apache-Kafka源码剖析.epub"
+      },
+      {
+        "rating": {
+          "max": 10,
           "numRaters": 101,
           "average": "8.9",
           "min": 0
