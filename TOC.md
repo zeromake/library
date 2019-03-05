@@ -40,6 +40,7 @@
     - [Pro Git (Second Edition)](#pro-git-second-edition): 9.3
 - [设计](#design)
     - [写给大家看的设计书（第4版）](#写给大家看的设计书第4版): 8.8
+    - [响应式Web设计全流程解析](#响应式web设计全流程解析): 8.8
 - [软件工程](#engineering)
     - [Exercises in Programming Style](#exercises-in-programming-style): 8.0
     - [微服务：从设计到部署](#微服务从设计到部署)
@@ -728,6 +729,22 @@ Ben Straub is a developer, long time contributor to Libgit2, holder of a Masters
 没关系！在设计大师RobinWilliams看来，设计其实很简单。在这部畅销全球多年、影响了一代设计师的经典著作中，RobinWilliams将优秀设计的秘诀归纳为对比、重复、对齐和亲密性四条基本原则，并用简洁通俗、幽默生动的文笔，同时配以大量经过修改进行前后对比的实例图解和设计练习（并提供解答），直观清晰地传授给读者。通过本书，普通读者很快就能够自信地设计出专业级别的作品，而专业设计师也将从中获得灵感和解决问题的途径。
 Robin　Williams　　世界著名设计师、技术专家和畅销书作家。通过写书和授课，她已经影响了整整一代数字设计师。同时，作为Adobe和Mac技术社区内的偶像级专家，她拥有大批拥戴者。她是Publish　Magazine、Adobe　Magazine等杂志的专栏作家，是MacWorld　Expo等业界重要活动和组织的顾问委员会成员，还创办了Santa　Fe电影艺术学院。除本书外，她还著有几十部畅销图书和获奖著作，包括《写给大家看的Web设计书》等，有的书已经被翻译为十几种文字，产生了世界性的影响。图灵社区对她做过访谈，收录在本书内，感兴趣的读者看看被豆瓣网友评为“J.K.罗琳似的艰苦奋斗代表”的Robin是如何自我定位的。访谈电子版地址：ituring.cn/article/41065。
 - 价格　　: 59.00元
+- 文件类型: epub
+
+
+### 响应式Web设计全流程解析
+[📖响应式Web设计全流程解析](design/%E5%93%8D%E5%BA%94%E5%BC%8FWeb%E8%AE%BE%E8%AE%A1%E5%85%A8%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90.epub) [📥下载](../../../../library.git/info/lfs/objects/5ea0d8b476b87b9e7a627d043658c7414993a1ebf44d65414c1cfa401395742c/%E5%93%8D%E5%BA%94%E5%BC%8FWeb%E8%AE%BE%E8%AE%A1%E5%85%A8%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90.epub)
+- 评分　　: 8.8
+- 作者　　: `【美】Stephen Hay`
+- 出版时间: 2014-9-1
+- 标签　　: `响应式设计` `Web前端` `交互设计` `前端` `网页设计` `前端开发` `web设计` `web`
+- 翻译　　: `余果`
+- 页数　　: 212
+- 豆瓣地址: [https://book.douban.com/subject/26241601/](https://book.douban.com/subject/26241601/)
+- 出版社　: 人民邮电出版社
+- 简介　　: 固定宽度的Photoshop图层、不断膨胀的客户需求、无休止的线框图……抛弃它们吧！陈旧的Web设计交付流程不再适用于移动时代的响应式方案。设计的工作流本质上并没有发生改变，是最佳实践变了。
+《响应式Web设计全流程解析》为你展示了如何拥抱新的设计范式，创造微信时代的网站。你会学到的策略包括：如何更好地管理客户的开发需求和预期；在浏览器中进行设计的方法；超越静态的Photoshop图层的文档化方法；将响应式设计断点可视化的方法。 　学习并掌握《响应式Web设计全流程解析》引人入胜的内容之后，你就可以完全抛弃老旧的瀑布流交付模型，转而使用一种全新的方式来设计移动时代的网站。
+- 价格　　: 55
 - 文件类型: epub
 
 
@@ -1910,7 +1927,7 @@ Web应用无处不在，安全隐患如影随形。承载着丰富功能与用�
 
 
 ### Kafka权威指南
-[📖Kafka权威指南](data/Kafka%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.epub) [📥下载](../../../../library.git/info/lfs/objects/4f98eef84d109464f4676e4f1c5fd7b4ba8a765020a6615a927125fe64737936/Kafka%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.epub)
+[📖Kafka权威指南](data/Kafka%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.epub) [📥下载](../../../../library.git/info/lfs/objects/298020f97c63bdc4a046f04a2d157ee75dcc77fde4be4ee6c5d6ac03f1ca4432/Kafka%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.epub)
 - 评分　　: 8.9
 - 作者　　: `Neha Narkhede` `Gwen Shapira` `Todd Palino`
 - 出版时间: 2017-12-26
