@@ -2578,6 +2578,93 @@
         "file": "Exercises in Programming Style - [Mei ] Cristina Videira Lopes.pdf"
       },
       {
+        "rating": {
+          "max": 10,
+          "numRaters": 330,
+          "average": "8.2",
+          "min": 0
+        },
+        "subtitle": "像google一样进行软件测试",
+        "author": [
+          "James A. Whittaker",
+          "Jason Arbon",
+          "Jeff Carollo"
+        ],
+        "pubdate": "2013-10",
+        "tags": [
+          {
+            "count": 515,
+            "name": "软件测试",
+            "title": "软件测试"
+          },
+          {
+            "count": 208,
+            "name": "测试",
+            "title": "测试"
+          },
+          {
+            "count": 160,
+            "name": "Google",
+            "title": "Google"
+          },
+          {
+            "count": 121,
+            "name": "测试方法",
+            "title": "测试方法"
+          },
+          {
+            "count": 100,
+            "name": "软件工程",
+            "title": "软件工程"
+          },
+          {
+            "count": 94,
+            "name": "计算机",
+            "title": "计算机"
+          },
+          {
+            "count": 69,
+            "name": "软件开发",
+            "title": "软件开发"
+          },
+          {
+            "count": 45,
+            "name": "计算机科学",
+            "title": "计算机科学"
+          }
+        ],
+        "origin_title": "How Google Tests Software",
+        "image": "https://img3.doubanio.com/view/subject/m/public/s27082506.jpg",
+        "binding": "平装",
+        "translator": [
+          "黄利",
+          "李中杰",
+          "薛明"
+        ],
+        "catalog": "《google软件测试之道》\n第1章　google软件测试介绍　1\n1.1　质量不等于测试　5\n1.2　角色　6\n1.2.1　软件开发工程师(swe)　7\n1.2.2　软件测试开发工程师(set)　7\n1.2.3　测试工程师(te)　8\n1.3　组织结构　9\n1.4　爬、走、跑　10\n1.5　测试类型　12\n第2章　软件测试开发工程师　15\n2.1　set的工作　17\n2.1.1　开发和测试流程　17\n2.1.2　set究竟是谁　21\n2.1.3　项目的早期阶段　22\n2.1.4　团队结构　23\n2.1.5　设计文档　24\n2.1.6　接口与协议　26\n2.1.7　自动化计划　27\n2.1.8　可测试性　28\n.2.1.9　set的工作流程：一个实例　31\n2.1.10　测试执行　41\n2.1.11　测试大小的定义　42\n2.1.12　测试规模在共享测试平台中的使用　45\n2.1.13　测试规模的益处　46\n2.1.14　测试运行要求　48\n2.2　测试认证　54\n2.3　set的招聘　62\n2.4　与工具开发工程师ted mao的访谈　68\n2.5　与web driver的创建者simon stewart的对话　70\n第3章　测试工程师　75\n3.1　一种面向用户的测试角色　75\n3.2　测试工程师的工作　76\n3.2.1　测试计划　79\n3.2.2　风险　94\n3.2.3　测试用例的生命周期　104\n3.2.4　bug的生命周期　109\n3.2.5　te的招聘　121\n3.2.6　google的测试领导和管理工作　128\n3.2.7　维护模式的测试(maintenance mode testing)　131\n3.2.8　质量机器人(quality bot)实验　134\n3.2.9　bite实验　145\n3.2.10　google test analytics　154\n3.2.11　零成本测试流程　159\n3.2.12　外部供应商　163\n3.3　与google docs测试工程师林赛·韦伯斯特(lindsay webster)的访谈　165\n3.4　与youtube测试工程师安普·周(apple chow)的访谈　170\n第4章　测试工程经理　177\n4.1　测试工程经理的工作　177\n4.2　获得项目和人员　179\n4.3　影响力　180\n4.4　gmail测试工程经理ankit mehta的访谈　182\n4.5　android测试工程经理hung dang的访谈　188\n4.6　chrome测试工程经理joel hynoski的访谈　192\n4.7　测试总监　197\n4.8　搜索和地理信息测试总监shelton mar的访谈　198\n4.9　工程工具总监ashish kumar的访谈　201\n4.10　印度google测试总监sujaysahni访谈　205\n4.11　工程经理brad green访谈　209\n4.12　james whittaker访谈　212\n第5章　google软件测试改进　219\n5.1　google流程中的致命缺陷　219\n5.2　set的未来　221\n5.3　te的未来　222\n5.4　测试总监和经理的未来　223\n5.5　未来的测试基础设施　224\n5.6　结论　225\n附录a　chrome os测试计划　227\na.1　测试主题概述　227\na.2　风险分析　228\na.3　每次构建版本的基线测试　228\na.4　最新可测试版本(last known good，lkg)的每日测试　229\na.5　发布版本测试　229\na.6　手工测试与自动化测试　229\na.7　开发和测试的质量关注点　230\na.8　发布通道　230\na.9　用户输入　230\na.10　测试用例库　231\na.11　测试仪表盘　231\na.12　虚拟化　231\na.13　性能　231\na.14　压力、长时运行和稳定性测试　231\na.15　测试执行框架(autotest)　232\na.16　oem厂商　232\na.17　硬件实验田　232\na.18　端到端测试自动化集群　232\na.19　测试浏览器的应用管理器　232\na.20　浏览器的可测试性　233\na.21　硬件　234\na.22　时间线　234\na.23　主要的测试驱动力　236\na.24　相关文档　236\n附录b　chrome的漫游测试　239\nb.1　购物漫游　239\nb.2　学生漫游　240\nb.3　国际长途电话漫游　241\nb.4　地标漫游　241\nb.5　通宵漫游　242\nb.6　公务漫游测试　243\nb.7　危险地带漫游　243\nb.8　个性化漫游　244\n附录c　有关工具和代码的博客文章　245\nc.1　使用bite从bug和冗余的工作中解脱出来　245\nc.2　发布qualitybot　247\nc.3　rpf：google的录制回放框架　249\nc.4　google测试分析系统(google test analytics)——现在开源了　251\n附录d　术语表　257",
+        "pages": "258",
+        "images": {
+          "small": "https://img3.doubanio.com/view/subject/s/public/s27082506.jpg",
+          "large": "https://img3.doubanio.com/view/subject/l/public/s27082506.jpg",
+          "medium": "https://img3.doubanio.com/view/subject/m/public/s27082506.jpg"
+        },
+        "alt": "https://book.douban.com/subject/25742200/",
+        "id": "25742200",
+        "publisher": "人民邮电出版社",
+        "isbn10": "7115330247",
+        "isbn13": "9787115330246",
+        "title": "Google软件测试之道",
+        "url": "https://api.douban.com/v2/book/25742200",
+        "alt_title": "How Google Tests Software",
+        "author_intro": "james whittaker 是google的工程总监 ，负责部分google产品的测试，包括chrome、地图、google web apps。在加盟google之前，james在microsoft工作，再之前是一名大学教授。james在全球测试领域闻名遐迩。\njason arbon 是google的一名测试工程师te ，曾参与负责google桌面、chrome和chrome os的测试。同时jason也是一系列开源测试工具和个性化实验的开发负责人。在加入google之前，他也曾在microsoft工作过。\njeff carollo 是google的一名测试开发工程师set，曾参与负责google voice、工具框、chrome、chrome os产品 的测试。jeff为许多google内部的开发团队提供咨询服务，帮助提升这些团队初期的代码质量。之后在2010年，jeff转岗为软件开发工程师（se），并领导负责google+ apis的开发。在加入google之前，jeff也曾经在microsoft工作过。",
+        "summary": "每天，google都要测试和发布数百万个源文件、亿万行的代码。数以亿计的构建动作会触发几百万次的自动化测试，并在好几十万个浏览器实例上执行。面对这些看似不可能完成的任务，谷歌是如何测试的呢？\n《google软件测试之道》从内部视角告诉你这个世界上知名的互联网公司是如何应对21世纪软件测试的独特挑战的。《google软件测试之道》抓住了google做测试的本质，抓住了google测试这个时代最复杂软件的精华。《google软件测试之道》描述了测试解决方案，揭示了测试架构是如何设计、实现和运行的，介绍了软件测试工程师的角色；讲解了技术测试人员应该具有的技术技能；阐述了测试工程师在产品生命周期中的职责；讲述了测试管理及在google的测试历史或在主要产品上发挥了重要作用的工程师的访谈，这对那些试图建立类似google的测试流程或团队的人受益很大。\n最后，《google软件测试之道》还介绍了作者对于google测试如何继续演进的见解、google乃至整个业界的测试方向的一些预言，相信很多读者都会感受到其中的洞察力，甚至感到震惊。本书可以作为任何从事软件测试人员到达目标的指南。\n《google软件测试之道》适合开发人员、测试人员、测试管理人员使用，也适合大中专院校相关专业师生的学习用书，以及培训学校的教材。",
+        "price": "59.00元",
+        "type": "epub",
+        "meta_type": "douban",
+        "sha_256": "e2bbebe039ceddd5a92e2ecbca1ce2a97a73a33c3e20631a454eaccee1bb5824",
+        "file": "Google软件测试之道.epub"
+      },
+      {
         "title_sort": "微服务：从设计到部署",
         "timestamp": "2017-10-20T08:42:50.982773+00:00",
         "publisher": "GitBook",
