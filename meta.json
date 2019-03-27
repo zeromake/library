@@ -7587,6 +7587,26 @@
         "meta_type": "douban",
         "sha_256": "298020f97c63bdc4a046f04a2d157ee75dcc77fde4be4ee6c5d6ac03f1ca4432",
         "file": "Kafka权威指南.epub"
+      },
+      {
+        "msg": "invalid_apikey",
+        "code": 104,
+        "request": "GET /v2/book/26971561",
+        "type": "epub",
+        "title": "Redis开发与运维",
+        "meta_type": "douban",
+        "sha_256": "f000b480e57f12f93fc61c5c807f6873baa930ce51343af26a19a5c402d3ce5c",
+        "file": "Redis开发与运维.epub"
+      },
+      {
+        "msg": "invalid_apikey",
+        "code": 104,
+        "request": "GET /v2/book/25900156",
+        "type": "epub",
+        "title": "Redis设计与实现",
+        "meta_type": "douban",
+        "sha_256": "cd3f6ec597f29ea9239fb70945c63c83b564c198ff8e7d6f10aa583fab37f22f",
+        "file": "Redis设计与实现.epub"
       }
     ],
     "dir_name": "data",

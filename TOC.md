@@ -122,6 +122,8 @@
 - [数据](#data)
     - [Apache Kafka源码剖析](#apache-kafka源码剖析): 8.3
     - [Kafka权威指南](#kafka权威指南): 8.9
+    - [Redis开发与运维](#redis开发与运维)
+    - [Redis设计与实现](#redis设计与实现)
 
 ## algorithm
 > [📚算法](algorithm)
@@ -1967,4 +1969,14 @@ Web应用无处不在，安全隐患如影随形。承载着丰富功能与用�
 ● 探索Kafka如何成为流式处理利器
 - 从书　　: 图灵程序设计丛书
 - 价格　　: 69.00元
+- 文件类型: epub
+
+
+### Redis开发与运维
+[📖Redis开发与运维](data/Redis%E5%BC%80%E5%8F%91%E4%B8%8E%E8%BF%90%E7%BB%B4.epub) [📥下载](../../../../library.git/info/lfs/objects/f000b480e57f12f93fc61c5c807f6873baa930ce51343af26a19a5c402d3ce5c/Redis%E5%BC%80%E5%8F%91%E4%B8%8E%E8%BF%90%E7%BB%B4.epub)
+- 文件类型: epub
+
+
+### Redis设计与实现
+[📖Redis设计与实现](data/Redis%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.epub) [📥下载](../../../../library.git/info/lfs/objects/cd3f6ec597f29ea9239fb70945c63c83b564c198ff8e7d6f10aa583fab37f22f/Redis%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.epub)
 - 文件类型: epub
