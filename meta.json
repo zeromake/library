@@ -7591,6 +7591,16 @@
       {
         "msg": "invalid_apikey",
         "code": 104,
+        "request": "GET /v2/book/26612779",
+        "type": "epub",
+        "title": "Redis实战",
+        "meta_type": "douban",
+        "sha_256": "1f1141d15ce8089a3fc422f6bfef2c87fc95bb89011a46536195300ebfc5b4c6",
+        "file": "Redis实战.epub"
+      },
+      {
+        "msg": "invalid_apikey",
+        "code": 104,
         "request": "GET /v2/book/26971561",
         "type": "epub",
         "title": "Redis开发与运维",
