@@ -86,8 +86,6 @@
 - [协议](#protocol)
     - [Http权威指南](#http权威指南): 8.6
     - [Lighttpd源码分析](#lighttpd源码分析): 0.0
-    - [SQL基础教程（第2版）](#sql基础教程第2版): 9.0
-    - [SQL进阶教程](#sql进阶教程): 9.5
     - [Web性能权威指南](#web性能权威指南): 8.9
     - [数学之美](#数学之美): 8.7
     - [正则表达式必知必会](#正则表达式必知必会): 8.6
@@ -122,9 +120,13 @@
 - [数据](#data)
     - [Apache Kafka源码剖析](#apache-kafka源码剖析): 8.3
     - [Kafka权威指南](#kafka权威指南): 8.9
+    - [MySQL技术内幕](#mysql技术内幕)
     - [Redis实战](#redis实战)
     - [Redis开发与运维](#redis开发与运维)
     - [Redis设计与实现](#redis设计与实现)
+    - [SQL基础教程（第2版）](#sql基础教程第2版)
+    - [SQL进阶教程](#sql进阶教程)
+    - [高性能MySQL](#高性能mysql)
 
 ## algorithm
 > [📚算法](algorithm)
@@ -1441,37 +1443,6 @@ HTTP起初是一个简单的协议，因此你可能会认为关于这个协议�
 - 文件类型: epub
 
 
-### SQL基础教程（第2版）
-[📖SQL基础教程（第2版）](protocol/SQL%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B-%E7%AC%AC%E4%BA%8C%E7%89%88.epub) [📥下载](../../../../library.git/info/lfs/objects/311e9a3b9a73c6b6b80c9ffd480f4708fcf81ac487c3780912ce3384aefd638a/SQL%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B-%E7%AC%AC%E4%BA%8C%E7%89%88.epub)
-- 评分　　: 9.0
-- 作者　　: `MICK`
-- 出版时间: 2017-6-1
-- 标签　　: `SQL` `数据库` `计算机` `计算机科学` `自学` `基础` `日本` `互联网`
-- 翻译　　: `孙淼` `罗勇`
-- 页数　　: 320
-- 豆瓣地址: [https://book.douban.com/subject/27055712/](https://book.douban.com/subject/27055712/)
-- 出版社　: 人民邮电出版社
-- 简介　　: 本书是畅销书《SQL基础教程》第2版，介绍了关系数据库以及用来操作关系数据库的SQL语言的使用方法。书中通过丰富的图示、大量示例程序和详实的操作步骤说明，让读者循序渐进地掌握SQL的基础知识和使用技巧，切实提高编程能力。每章结尾设置有练习题，帮助读者检验对各章内容的理解程度。另外，本书还将重要知识点总结为“法则”，方便读者随时查阅。第2版除了将示例程序更新为对应新版本的DB的SQL之外，还新增了一章，介绍如何从应用程序执行SQL。
-- 从书　　: 图灵程序设计丛书
-- 价格　　: CNY 79.00
-- 文件类型: epub
-
-
-### SQL进阶教程
-[📖SQL进阶教程](protocol/SQL%E8%BF%9B%E9%98%B6%E6%95%99%E7%A8%8B.epub) [📥下载](../../../../library.git/info/lfs/objects/9239bbffe5858fc47d7973fdbbbf06d20f1df76b880a4df4345f191eeb150d09/SQL%E8%BF%9B%E9%98%B6%E6%95%99%E7%A8%8B.epub)
-- 评分　　: 9.5
-- 作者　　: `［ 日］ MICK`
-- 出版时间: 2017-11
-- 标签　　: `SQL` `数据库` `mysql` `计算科学` `Database` `进阶` `计算机` `想买`
-- 翻译　　: `吴炎昌`
-- 页数　　: 316
-- 豆瓣地址: [https://book.douban.com/subject/27194738/](https://book.douban.com/subject/27194738/)
-- 出版社　: 人民邮电出版社
-- 简介　　: 本书是《SQL基础教程》作者MICK为志在向中级进阶的数据库工程师编写的一本SQL技能提升指南。全书可分为两部分，第一部分介绍了SQL语言不同寻常的使用技巧，带领读者从SQL常见技术，比如CASE表达式、自连接、HAVING子句、外连接、关联子查询、EXISTS……去探索新发现。这部分不仅穿插讲解了这些技巧背后的逻辑和相关知识，而且辅以丰富的示例程序，旨在帮助读者提升编程水平；第二部分着重介绍关系数据库的发展史，把实践与理论结合起来，旨在帮助读者加深对关系数据库和SQL语言的理解。此外，每节末尾均设置有练习题，并在书末提供了解答，方便读者检验自己对书中知识点的掌握程度。
-- 价格　　: 79.00元
-- 文件类型: epub
-
-
 ### Web性能权威指南
 [📖Web性能权威指南](protocol/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.epub) [📥下载](../../../../library.git/info/lfs/objects/865787f9355b10f7d738dffbf42caabdc432d2a02c078d0ad0eb42726fc296c1/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.epub)
 - 评分　　: 8.9
@@ -1973,6 +1944,11 @@ Web应用无处不在，安全隐患如影随形。承载着丰富功能与用�
 - 文件类型: epub
 
 
+### MySQL技术内幕
+[📖MySQL技术内幕](data/MySQL%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95.epub) [📥下载](../../../../library.git/info/lfs/objects/2f3a75758a0876c081a08b44029991fde0ca8c9351cdd979cb48494e2c69f50e/MySQL%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95.epub)
+- 文件类型: epub
+
+
 ### Redis实战
 [📖Redis实战](data/Redis%E5%AE%9E%E6%88%98.epub) [📥下载](../../../../library.git/info/lfs/objects/1f1141d15ce8089a3fc422f6bfef2c87fc95bb89011a46536195300ebfc5b4c6/Redis%E5%AE%9E%E6%88%98.epub)
 - 文件类型: epub
@@ -1985,4 +1961,19 @@ Web应用无处不在，安全隐患如影随形。承载着丰富功能与用�
 
 ### Redis设计与实现
 [📖Redis设计与实现](data/Redis%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.epub) [📥下载](../../../../library.git/info/lfs/objects/cd3f6ec597f29ea9239fb70945c63c83b564c198ff8e7d6f10aa583fab37f22f/Redis%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.epub)
+- 文件类型: epub
+
+
+### SQL基础教程（第2版）
+[📖SQL基础教程（第2版）](data/SQL%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B-%E7%AC%AC%E4%BA%8C%E7%89%88.epub) [📥下载](../../../../library.git/info/lfs/objects/311e9a3b9a73c6b6b80c9ffd480f4708fcf81ac487c3780912ce3384aefd638a/SQL%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B-%E7%AC%AC%E4%BA%8C%E7%89%88.epub)
+- 文件类型: epub
+
+
+### SQL进阶教程
+[📖SQL进阶教程](data/SQL%E8%BF%9B%E9%98%B6%E6%95%99%E7%A8%8B.epub) [📥下载](../../../../library.git/info/lfs/objects/9239bbffe5858fc47d7973fdbbbf06d20f1df76b880a4df4345f191eeb150d09/SQL%E8%BF%9B%E9%98%B6%E6%95%99%E7%A8%8B.epub)
+- 文件类型: epub
+
+
+### 高性能MySQL
+[📖高性能MySQL](data/%E9%AB%98%E6%80%A7%E8%83%BDMySQL.epub) [📥下载](../../../../library.git/info/lfs/objects/ce560b994e817d7fa7e7b5d48dbfcca351e57b1b4f0904706aa552bd84d5b72c/%E9%AB%98%E6%80%A7%E8%83%BDMySQL.epub)
 - 文件类型: epub

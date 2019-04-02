@@ -5353,177 +5353,6 @@
       {
         "rating": {
           "max": 10,
-          "numRaters": 39,
-          "average": "9.0",
-          "min": 0
-        },
-        "subtitle": "",
-        "author": [
-          "MICK"
-        ],
-        "pubdate": "2017-6-1",
-        "tags": [
-          {
-            "count": 38,
-            "name": "SQL",
-            "title": "SQL"
-          },
-          {
-            "count": 15,
-            "name": "数据库",
-            "title": "数据库"
-          },
-          {
-            "count": 7,
-            "name": "计算机",
-            "title": "计算机"
-          },
-          {
-            "count": 5,
-            "name": "计算机科学",
-            "title": "计算机科学"
-          },
-          {
-            "count": 5,
-            "name": "自学",
-            "title": "自学"
-          },
-          {
-            "count": 5,
-            "name": "基础",
-            "title": "基础"
-          },
-          {
-            "count": 4,
-            "name": "日本",
-            "title": "日本"
-          },
-          {
-            "count": 4,
-            "name": "互联网",
-            "title": "互联网"
-          }
-        ],
-        "origin_title": "",
-        "image": "https://img3.doubanio.com/view/subject/m/public/s29524313.jpg",
-        "binding": "平装",
-        "translator": [
-          "孙淼",
-          "罗勇"
-        ],
-        "catalog": "第0章　绪论——搭建SQL的学习环境　　1\n0-1　PostgreSQL的安装和连接设置　　3\n安装步骤　　3\n修改设置文件　　7\n0-2　通过PostgreSQL执行SQL语句　　9\n连接PostgreSQL（登录）　　9\n执行SQL语句　　10\n创建学习用的数据库　　11\n连接学习用的数据库（登录）　　12\n第1章　数据库和SQL　　13\n1-1　数据库是什么　　15\n我们身边的数据库　　15\n为什么DBMS那么重要　　16\nDBMS的种类　　18\n1-2　数据库的结构　　20\nRDBMS的常见系统结构　　20\n表的结构　　22\n1-3　SQL概要　　25\n标准SQL　　25\nSQL语句及其种类　　26\nSQL的基本书写规则　　27\n1-4　表的创建　　30\n表的内容的创建　　30\n数据库的创建（CREATE DATABASE语句）　　31\n表的创建（CREATE TABLE语句）　　31\n命名规则　　33\n数据类型的指定　　34\n约束的设置　　35\n1-5　表的删除和更新　　37\n表的删除（DROP?TABLE语句）　　37\n表定义的更新（ALTER TABLE语句）　　38\n向Product表中插入数据　　39\n练习题　　42\n第2章　查询基础　　43\n2-1　SELECT语句基础　　45\n列的查询　　45\n查询出表中所有的列　　47\n为列设定别名　　48\n常数的查询　　50\n从结果中删除重复行　　50\n根据WHERE语句来选择记录　　53\n注释的书写方法　　55\n2-2　算术运算符和比较运算符　　57\n算术运算符　　57\n需要注意NULL　　58\n比较运算符　　60\n对字符串使用不等号时的注意事项　　62\n不能对NULL使用比较运算符　　65\n2-3　逻辑运算符　　68\nNOT运算符　　68\nAND运算符和OR运算符　　70\n通过括号强化处理　　72\n逻辑运算符和真值　　74\n含有NULL时的真值　　76\n练习题　　78\n第3章　聚合与排序　　79\n3-1　对表进行聚合查询　　81\n聚合函数　　81\n计算表中数据的行数　　82\n计算NULL之外的数据的行数　　83\n计算合计值　　84\n计算平均值　　86\n计算最大值和最小值　　87\n使用聚合函数删除重复值（关键字DISTINCT）　　89\n3-2　对表进行分组　　91\nGROUP BY子句　　91\n聚合键中包含NULL的情况　　93\n使用WHERE子句时GROUP BY的执行结果　　94\n与聚合函数和GROUP BY子句有关的常见错误　　96\n3-3　为聚合结果指定条件　　101\nHAVING子句　　101\nHAVING子句的构成要素　　104\n相对于HAVING子句，更适合写在WHERE子句中的条件　　105\n3-4　对查询结果进行排序　　108\nORDER BY子句　　108\n指定升序或降序　　110\n指定多个排序键　　111\nNULL的顺序　　111\n在排序键中使用显示用的别名　　112\nORDER BY子句中可以使用的列　　114\n不要使用列编号　　114\n练习题　　116\n第4章　数据更新　　117\n4-1　数据的插入（INSERT语句的使用方法）　　119\n什么是INSERT　　119\nINSERT语句的基本语法　　120\n列清单的省略　　123\n插入NULL　　123\n插入默认值　　124\n从其他表中复制数据　　126\n4-2　数据的删除（DELETE语句的使用方法）　　129\nDROP?TABLE语句和DELETE语句　　129\nDELETE语句的基本语法　　129\n指定删除对象的DELETE语句（搜索型DELETE）　　130\n4-3　数据的更新（UPDATE语句的使用方法）　　133\nUPDATE语句的基本语法　　133\n指定条件的UPDATE语句（搜索型UPDATE）　　134\n使用NULL进行更新　　135\n多列更新　　136\n4-4　事务　　138\n什么是事务　　138\n创建事务　　139\nACID特性　　144\n练习题　　145\n第5章　复杂查询　　147\n5-1　视图　　149\n视图和表　　149\n创建视图的方法　　151\n视图的限制① ——定义视图时不能使用ORDER BY子句　　154\n视图的限制② ——对视图进行更新　　155\n删除视图　　159\n5-2　子查询　　160\n子查询和视图　　160\n子查询的名称　　163\n标量子查询　　163\n标量子查询的书写位置　　166\n使用标量子查询时的注意事项　　167\n5-3　关联子查询　　168\n普通的子查询和关联子查询的区别　　168\n关联子查询也是用来对集合进行切分的　　171\n结合条件一定要写在子查询中　　172\n练习题　　173\n第6章　函数、谓词、CASE表达式　　175\n6-1　各种各样的函数　　177\n函数的种类　　177\n算术函数　　178\n字符串函数　　182\n日期函数　　190\n转换函数　　194\n6-2　谓词　　198\n什么是谓词　　198\nLIKE谓词——字符串的部分一致查询　　198\nBETWEEN谓词——范围查询　　202\nIS?NULL、IS?NOT?NULL——判断是否为NULL　　203\nIN谓词——OR的简便用法　　204\n使用子查询作为IN谓词的参数　　205\nEXIST谓词　　210\n6-3　CASE表达式　　214\n什么是CASE表达式　　214\nCASE表达式的语法　　214\nCASE表达式的使用方法　　215\n练习题　　221\n第7章　集合运算　　223\n7-1　表的加减法　　225\n什么是集合运算　　225\n表的加法——UNION　　225\n集合运算的注意事项　　228\n包含重复行的集合运算——ALL选项　　229\n选取表中公共部分——INTERSECT　　230\n记录的减法——EXCEPT　　231\n7-2　联结（以列为单位对表进行联结）　　234\n什么是联结　　234\n内联结——INNER JOIN　　235\n外联结——OUTER JOIN　　240\n3张以上的表的联结　　243\n交叉联结——CROSS?JOIN　　246\n联结的特定语法和过时语法　　249\n练习题　　254\n第8章　SQL高级处理　　255\n8-1　窗口函数　　257\n什么是窗口函数　　257\n窗口函数的语法　　258\n语法的基本使用方法——使用RANK函数　　258\n无需指定PARTITION BY　　261\n专用窗口函数的种类　　262\n窗口函数的适用范围　　263\n作为窗口函数使用的聚合函数　　264\n计算移动平均　　266\n两个ORDER?BY　　269\n8-2　GROUPING运算符　　271\n同时得到合计行　　271\nROLLUP——同时得出合计和小计　　272\nGROUPING函数——让NULL更加容易分辨　　277\nCUBE——用数据来搭积木　　279\nGROUPING SETS——取得期望的积木　　281\n练习题　　282\n第9章　通过应用程序连接数据库　　283\n9-1　数据库世界和应用程序世界的连接　　285\n数据库和应用程序之间的关系　　285\n驱动——两个世界之间的桥梁　　286\n驱动的种类　　287\n9-2　Java基础知识　　289\n第一个程序Hello,World　　289\n编译和程序执行　　291\n常见错误　　294\n9-3　通过Java连接PostgreSQL　　298\n执行SQL语句的Java程序　　298\nJava是如何从数据库中获取数据的呢　　299\n执行连接数据库的程序　　301\n选取表中的数据　　302\n更新表中的数据　　305\n小结　　307\n练习题　　307\n附录　练习题答案　　308",
-        "pages": "320",
-        "images": {
-          "small": "https://img3.doubanio.com/view/subject/s/public/s29524313.jpg",
-          "large": "https://img3.doubanio.com/view/subject/l/public/s29524313.jpg",
-          "medium": "https://img3.doubanio.com/view/subject/m/public/s29524313.jpg"
-        },
-        "alt": "https://book.douban.com/subject/27055712/",
-        "id": "27055712",
-        "publisher": "人民邮电出版社",
-        "isbn10": "7115455023",
-        "isbn13": "9787115455024",
-        "title": "SQL基础教程（第2版）",
-        "url": "https://api.douban.com/v2/book/27055712",
-        "alt_title": "",
-        "author_intro": "作者简介：\nMICK\n日本资深数据库工程师，就职于SI企业，致力于商业智能和数据仓库的开发。为CodeZine（http://codezine.jp）及IT杂志WEB+DB PRESS撰写技术文章。著作有《跟达人学SQL》《跟达人学DB设计》，是Joe Celko's SQL Puzzles and Answers,Second Edition、Joe Celko's SQL for Smarties,Fourth Edition: Advanced SQL Programming的日文版的译者。\n译者简介：\n孙淼\n从事对日软件设计和研发工作十余年，曾于2007年至2009年赴日学习工作，2015年至今再次长期赴日工作。精通应用Java、PHP进行Web框架的设计开发，并且有Oracle、Teradata、MySQL、NoSQL等多种数据库的设计开发经验。乐于品味生活细微的点滴，热衷于品尝和制作美食。译有《SQL基础教程》等。\n罗勇\n从事对日软件设计和研发工作十余年，曾多次赴日学习工作，目前就职于日本某大型企业。痴迷于技术和框架的研究，多次参与项目的需求分析、概要设计，精通多语言的Web框架和数据库的设计开发。业余爱好足球，和家人旅行。译有《SQL基础教程》《NoSQL数据库入门》《明解C语言》等。",
-        "summary": "本书是畅销书《SQL基础教程》第2版，介绍了关系数据库以及用来操作关系数据库的SQL语言的使用方法。书中通过丰富的图示、大量示例程序和详实的操作步骤说明，让读者循序渐进地掌握SQL的基础知识和使用技巧，切实提高编程能力。每章结尾设置有练习题，帮助读者检验对各章内容的理解程度。另外，本书还将重要知识点总结为“法则”，方便读者随时查阅。第2版除了将示例程序更新为对应新版本的DB的SQL之外，还新增了一章，介绍如何从应用程序执行SQL。",
-        "series": {
-          "id": "660",
-          "title": "图灵程序设计丛书"
-        },
-        "price": "CNY 79.00",
-        "type": "epub",
-        "meta_type": "douban",
-        "sha_256": "311e9a3b9a73c6b6b80c9ffd480f4708fcf81ac487c3780912ce3384aefd638a",
-        "file": "SQL基础教程-第二版.epub"
-      },
-      {
-        "rating": {
-          "max": 10,
-          "numRaters": 16,
-          "average": "9.5",
-          "min": 0
-        },
-        "subtitle": "",
-        "author": [
-          "［ 日］ MICK"
-        ],
-        "pubdate": "2017-11",
-        "tags": [
-          {
-            "count": 29,
-            "name": "SQL",
-            "title": "SQL"
-          },
-          {
-            "count": 22,
-            "name": "数据库",
-            "title": "数据库"
-          },
-          {
-            "count": 4,
-            "name": "mysql",
-            "title": "mysql"
-          },
-          {
-            "count": 3,
-            "name": "计算科学",
-            "title": "计算科学"
-          },
-          {
-            "count": 3,
-            "name": "Database",
-            "title": "Database"
-          },
-          {
-            "count": 2,
-            "name": "进阶",
-            "title": "进阶"
-          },
-          {
-            "count": 2,
-            "name": "计算机",
-            "title": "计算机"
-          },
-          {
-            "count": 2,
-            "name": "想买",
-            "title": "想买"
-          }
-        ],
-        "origin_title": "",
-        "image": "https://img3.doubanio.com/view/subject/m/public/s29604952.jpg",
-        "binding": "平装",
-        "translator": [
-          "吴炎昌"
-        ],
-        "catalog": "第1章 神奇的 SQL\n1-1　CASE表达式　　2\n▲ 在SQL里表达条件分支　　2\n练习题　　19\n1-2　自连接的用法　　21\n▲ 面向集合语言SQL　　21\n练习题　　35\n1-3　三值逻辑和NULL　　38\n▲ SQL的温柔陷阱　　38\n1-4　HAVING子句的力量　　55\n▲ 出彩的配角　　55\n练习题　　70\n1-5　外连接的用法　　72\n▲ SQL的弱点及其趋势和对策　　72\n练习题　　92\n1-6　用关联子查询比较行与行　　94\n▲ 用SQL进行行与行之间的比较　　94\n练习题　　110\n1-7　用SQL进行集合运算　　112\n▲ SQL和集合论　　112\n练习题　　128\n1-8　EXISTS谓词的用法　　　　130\n▲ SQL中的谓词逻辑　　130\n练习题　　146\n1-9　用SQL处理数列　　　　149\n▲ 灵活使用谓词逻辑　　149\n练习题　　165\n1-10　HAVING子句又回来了　　167\n▲ 再也不要叫它配角了！　　167\n练习题　　183\n1-11　让SQL飞起来　　　　186\n▲ 简单的性能优化　　186\n1-12　关系数据库的世界　　　　216\n▲ 确立SQL的编程风格　　201\n第2章 SQL 编程方法\n2-1　关系数据库的历史　　　　216\n▲ 1969年——一切从这里开始　　216\n2-2　为什么叫“关系”模型　　222\n▲ 为什么不叫“表”模型　　222\n2-3　开始于关系，结束于关系　　229\n▲ 关于封闭世界的幸福　　229\n2-4　地址这一巨大的怪物　　233\n▲ 为什么关系数据库里没有指针　　233\n2-5　GROUP BY和PARTITION BY　　238\n▲ 物以“类”聚　　238\n1-8　EXISTS谓词的用法\n1-9　用SQL处理数列\n1-10　HAVING子句又回来了\n1-11　让SQL飞起来\n1-12　关系数据库的世界\n2-1　关系数据库的历史\n2-2　为什么叫“关系”模型\n2-3　开始于关系，结束于关系　　229\n2-4　地址这一巨大的怪物\n2-5　GROUP BY和PARTITION BY　　238\n2-6　从面向过程思维向声明式思维、面向集合思维转变的7个关键点　　243\n▲ 画圆　　243\n2-7　SQL和递归集合　　　　250\n▲ SQL和集合论之间　　250\n2-8　人类的逻辑学　　　　256\n▲ 浅谈逻辑学的历史　　256\n2-9　消灭NULL委员会　　　　260\n▲ 全世界的数据库工程师团结起来！　　260\n2-10　SQL中的层级　　　　264\n▲ 严格的等级社会　　266\n第3章  附录\n3-1　习题解答　　　　274\n3-2　参考文献　　　　298\n后　记　　　　302",
-        "pages": "316",
-        "images": {
-          "small": "https://img3.doubanio.com/view/subject/s/public/s29604952.jpg",
-          "large": "https://img3.doubanio.com/view/subject/l/public/s29604952.jpg",
-          "medium": "https://img3.doubanio.com/view/subject/m/public/s29604952.jpg"
-        },
-        "alt": "https://book.douban.com/subject/27194738/",
-        "id": "27194738",
-        "publisher": "人民邮电出版社",
-        "isbn10": "7115470529",
-        "isbn13": "9787115470522",
-        "title": "SQL进阶教程",
-        "url": "https://api.douban.com/v2/book/27194738",
-        "alt_title": "",
-        "author_intro": "作者简介：\nMICK\n日本知名数据库工程师，就职于SI企业，致力于数据仓库和商业智能的开发。日常除了在其个人主页“关系数据库的世界”中分享数据库和SQL的相关技术信息外，还为CodeZine（http://codezine.jp）及IT技术杂志WEB+DB PRESS撰写相关技术文章。同时还是《SQL解惑（第2版）》《SQL权威指南（第4版）》日文版的译者。\n译者简介：\n吴炎昌\n毕业于西北工业大学软件工程专业。曾供职于日本多家软件公司，从事系统开发工作。2015年回国后加入美团点评，现任系统研发工程师。爱好旅行、电影，以及品尝各种美食，有一位志趣相投的伴侣。",
-        "summary": "本书是《SQL基础教程》作者MICK为志在向中级进阶的数据库工程师编写的一本SQL技能提升指南。全书可分为两部分，第一部分介绍了SQL语言不同寻常的使用技巧，带领读者从SQL常见技术，比如CASE表达式、自连接、HAVING子句、外连接、关联子查询、EXISTS……去探索新发现。这部分不仅穿插讲解了这些技巧背后的逻辑和相关知识，而且辅以丰富的示例程序，旨在帮助读者提升编程水平；第二部分着重介绍关系数据库的发展史，把实践与理论结合起来，旨在帮助读者加深对关系数据库和SQL语言的理解。此外，每节末尾均设置有练习题，并在书末提供了解答，方便读者检验自己对书中知识点的掌握程度。",
-        "price": "79.00元",
-        "type": "epub",
-        "meta_type": "douban",
-        "sha_256": "9239bbffe5858fc47d7973fdbbbf06d20f1df76b880a4df4345f191eeb150d09",
-        "file": "SQL进阶教程.epub"
-      },
-      {
-        "rating": {
-          "max": 10,
           "numRaters": 228,
           "average": "8.9",
           "min": 0
@@ -7591,6 +7420,16 @@
       {
         "msg": "invalid_apikey",
         "code": 104,
+        "request": "GET /v2/book/24708143",
+        "type": "epub",
+        "title": "MySQL技术内幕",
+        "meta_type": "douban",
+        "sha_256": "2f3a75758a0876c081a08b44029991fde0ca8c9351cdd979cb48494e2c69f50e",
+        "file": "MySQL技术内幕.epub"
+      },
+      {
+        "msg": "invalid_apikey",
+        "code": 104,
         "request": "GET /v2/book/26612779",
         "type": "epub",
         "title": "Redis实战",
@@ -7617,6 +7456,36 @@
         "meta_type": "douban",
         "sha_256": "cd3f6ec597f29ea9239fb70945c63c83b564c198ff8e7d6f10aa583fab37f22f",
         "file": "Redis设计与实现.epub"
+      },
+      {
+        "msg": "invalid_apikey",
+        "code": 104,
+        "request": "GET /v2/book/27055712",
+        "type": "epub",
+        "title": "SQL基础教程（第2版）",
+        "meta_type": "douban",
+        "sha_256": "311e9a3b9a73c6b6b80c9ffd480f4708fcf81ac487c3780912ce3384aefd638a",
+        "file": "SQL基础教程-第二版.epub"
+      },
+      {
+        "msg": "invalid_apikey",
+        "code": 104,
+        "request": "GET /v2/book/27194738",
+        "type": "epub",
+        "title": "SQL进阶教程",
+        "meta_type": "douban",
+        "sha_256": "9239bbffe5858fc47d7973fdbbbf06d20f1df76b880a4df4345f191eeb150d09",
+        "file": "SQL进阶教程.epub"
+      },
+      {
+        "msg": "invalid_apikey",
+        "code": 104,
+        "request": "GET /v2/book/23008813",
+        "type": "epub",
+        "title": "高性能MySQL",
+        "meta_type": "douban",
+        "sha_256": "ce560b994e817d7fa7e7b5d48dbfcca351e57b1b4f0904706aa552bd84d5b72c",
+        "file": "高性能MySQL.epub"
       }
     ],
     "dir_name": "data",
