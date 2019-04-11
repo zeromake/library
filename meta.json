@@ -7490,5 +7490,21 @@
     ],
     "dir_name": "data",
     "name": "数据"
+  },
+  {
+    "dir_name": "rust",
+    "name": "rust",
+    "books": [
+      {
+        "msg": "invalid_apikey",
+        "code": 104,
+        "request": "GET /v2/book/30312231",
+        "type": "epub",
+        "title": "深入浅出Rust",
+        "meta_type": "douban",
+        "sha_256": "b889a14f832fe46d882e90860458487a578be7c2ad646d3119313a92d6c20f41",
+        "file": "深入浅出Rust.epub"
+      }
+    ]
   }
 ]

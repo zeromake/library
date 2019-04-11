@@ -127,6 +127,8 @@
     - [SQL基础教程（第2版）](#sql基础教程第2版)
     - [SQL进阶教程](#sql进阶教程)
     - [高性能MySQL](#高性能mysql)
+- [rust](#rust)
+    - [深入浅出Rust](#深入浅出rust)
 
 ## algorithm
 > [📚算法](algorithm)
@@ -1976,4 +1978,13 @@ Web应用无处不在，安全隐患如影随形。承载着丰富功能与用�
 
 ### 高性能MySQL
 [📖高性能MySQL](data/%E9%AB%98%E6%80%A7%E8%83%BDMySQL.epub) [📥下载](../../../../library.git/info/lfs/objects/ce560b994e817d7fa7e7b5d48dbfcca351e57b1b4f0904706aa552bd84d5b72c/%E9%AB%98%E6%80%A7%E8%83%BDMySQL.epub)
+- 文件类型: epub
+
+
+## rust
+> [📚rust](rust)
+
+
+### 深入浅出Rust
+[📖深入浅出Rust](rust/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BARust.epub) [📥下载](../../../../library.git/info/lfs/objects/b889a14f832fe46d882e90860458487a578be7c2ad646d3119313a92d6c20f41/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BARust.epub)
 - 文件类型: epub
