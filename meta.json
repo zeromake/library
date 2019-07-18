@@ -2768,84 +2768,13 @@
         "file": "人月神话-二十周年.epub"
       },
       {
-        "rating": {
-          "max": 10,
-          "numRaters": 42,
-          "average": "8.4",
-          "min": 0
-        },
-        "subtitle": "",
-        "author": [
-          "（美）马丁（Martin,R.C）"
-        ],
-        "pubdate": "2009-8-1",
-        "tags": [
-          {
-            "count": 30,
-            "name": "编程",
-            "title": "编程"
-          },
-          {
-            "count": 22,
-            "name": "程序设计",
-            "title": "程序设计"
-          },
-          {
-            "count": 16,
-            "name": "软件开发",
-            "title": "软件开发"
-          },
-          {
-            "count": 11,
-            "name": "编码之道",
-            "title": "编码之道"
-          },
-          {
-            "count": 10,
-            "name": "programming",
-            "title": "programming"
-          },
-          {
-            "count": 9,
-            "name": "计算机",
-            "title": "计算机"
-          },
-          {
-            "count": 6,
-            "name": "代码",
-            "title": "代码"
-          },
-          {
-            "count": 5,
-            "name": "英文原版",
-            "title": "英文原版"
-          }
-        ],
-        "origin_title": "",
-        "image": "https://img3.doubanio.com/view/subject/m/public/s3999236.jpg",
-        "binding": "平装",
-        "translator": [],
-        "catalog": "",
-        "pages": "431",
-        "images": {
-          "small": "https://img3.doubanio.com/view/subject/s/public/s3999236.jpg",
-          "large": "https://img3.doubanio.com/view/subject/l/public/s3999236.jpg",
-          "medium": "https://img3.doubanio.com/view/subject/m/public/s3999236.jpg"
-        },
-        "alt": "https://book.douban.com/subject/3892588/",
-        "id": "3892588",
-        "publisher": "人民邮电出版社",
-        "isbn10": "7115210489",
-        "isbn13": "9787115210487",
-        "title": "代码整洁之道",
-        "url": "https://api.douban.com/v2/book/3892588",
-        "alt_title": "",
-        "author_intro": "",
-        "summary": "从《代码整洁之道(英文版)》中可以学到：\n好代码和糟糕的代码之间的区别；\n如何编写好代码。如何将糟糕的代码转化为好代码；\n如何创建好名称、好函数、好对象和好类；\n如何格式化代码以实现其可读性的最大化；\n如何在不妨碍代码逻辑的前提下充分实现错误处理；\n如何进行单元测试和测试驱动开发。\nRobert C．Martin(Bob大叔)自1970进入软件行业。从1990年起成为国际软件咨询师。他是ObjectMentor公司的创始人和总裁。Object Mentor是由一群经验丰富的咨询师组成的公司，他们的客户遍及全世界。\n业务涉及C++、Java、C＃、Ruby、面向对象、设计模式、UML、敏捷方法论和极限编程等领域。\n尽管糟糕的代码也能运行，但如果代码不整洁，会使整个开发团队泥足深陷，写得不好的代码每年都要耗费难以计数的时间和资源。然而这种情况并非无法避免。\n著名软件专家Robert C．Martin在《代码整洁之道(英文版)》中为你呈现出了革命性的视野。Martin携同Object Menlor公司的同事，从他们有关整洁代码的最佳敏捷实践中提炼出软件技艺的价值观，以飨读者，让你成为更优秀的程序员——只要你着手研读《代码整洁之道(英文版)》。\n阅读《代码整洁之道(英文版)》需要你做些什么呢?你将阅读代码——大量代码。《代码整洁之道(英文版)》促使你思考代码中何谓正确，何谓错误。更重要的是。《代码整洁之道(英文版)》将促使你重新评估自己的专业价值观，以及对自己技艺的承诺。",
-        "price": "59.00元",
+        "msg": "invalid_apikey",
+        "code": 104,
+        "request": "GET /v2/book/3892588",
         "type": "epub",
+        "title": "代码整洁之道",
         "meta_type": "douban",
-        "sha_256": "757aab1ed1313c6cc9965177f4c062357e5ffb2f21db3f5380acd92b4963b023",
+        "sha_256": "45da713f5a7dc7d57654570e1fe3d60e4d4e9a8ee8094e85cc1395cf5f5bce35",
         "file": "代码整洁之道.epub"
       },
       {
@@ -2928,6 +2857,26 @@
         "meta_type": "douban",
         "sha_256": "b515c1551b0797dcaace2a70c72df4a0258fb8c1351340ae98e1bc7b12ed58f5",
         "file": "企业IT架构转型之道：阿里巴巴中台战略思想与架构实战.epub"
+      },
+      {
+        "msg": "invalid_apikey",
+        "code": 104,
+        "request": "GET /v2/book/27039508",
+        "type": "epub",
+        "title": "企业it架构转型之道：阿里巴巴中台战略思想与架构实战",
+        "meta_type": "douban",
+        "sha_256": "35bab93cb5df4b3877ce3eb18b098868f944df60cabfa1ed61a7a180650faaf9",
+        "file": "企业it架构的转型之道.epub"
+      },
+      {
+        "msg": "invalid_apikey",
+        "code": 104,
+        "request": "GET /v2/book/27151925",
+        "type": "epub",
+        "title": "修改软件的艺术 - 构建易维护代码的9条最佳实践",
+        "meta_type": "douban",
+        "sha_256": "84d4b19bde898bd9570e0a5b2337cee53c4867ad88067663bb3757b048e5f614",
+        "file": "修改软件的艺术.epub"
       },
       {
         "rating": {
@@ -4535,6 +4484,16 @@
         "file": "JavaScript设计模式与开发实践.pdf"
       },
       {
+        "msg": "invalid_apikey",
+        "code": 104,
+        "request": "GET /v2/book/30159269",
+        "type": "epub",
+        "title": "Node.js 设计模式（第 2 版）",
+        "meta_type": "douban",
+        "sha_256": "0e697764b1d7bdd2d8a4ea1c22699a8bc71fabbbc4e77bd5b2f35745cfaf8b9e",
+        "file": "Node.js 设计模式-第二版.epub"
+      },
+      {
         "rating": {
           "max": 10,
           "numRaters": 297,
@@ -4903,6 +4862,16 @@
         "meta_type": "douban",
         "sha_256": "2e2faea109a7e42d07aac1c737148f0b230fad3bc4d0312eac3c59efae6a2b6c",
         "file": "你不知道的JavaScript(中卷).epub"
+      },
+      {
+        "msg": "invalid_apikey",
+        "code": 104,
+        "request": "GET /v2/book/27620408",
+        "type": "epub",
+        "title": "你不知道的JavaScript（下卷）",
+        "meta_type": "douban",
+        "sha_256": "9d518b08fea3cdc79e222c461112d41d6c111d89d005b3346b73c85dee2183e4",
+        "file": "你不知道的JavaScript-下卷.epub"
       },
       {
         "timestamp": "2015-04-04T19:21:29.576313+00:00",
@@ -6911,6 +6880,16 @@
         "meta_type": "douban",
         "sha_256": "ee5be2ee7d02706f8f8dc85999302577c7d5d3cc5c45db72c10725bf4e84f1a2",
         "file": "Go语言圣经-2018-01-12.epub"
+      },
+      {
+        "msg": "invalid_apikey",
+        "code": 104,
+        "request": "GET /v2/book/27082348",
+        "type": "epub",
+        "title": "自己动手写Docker",
+        "meta_type": "douban",
+        "sha_256": "4a437118aee5eef675aacfbb12dd665b3eae72a65b66091286d8f18207cdff7f",
+        "file": "自己动手写Docker.epub"
       }
     ]
   },
