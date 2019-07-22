@@ -5,6 +5,7 @@ import os
 import sys
 import json
 import hashlib
+from functools import partial
 from urllib.parse import quote
 from lxml import etree
 from ebooklib import epub
@@ -17,6 +18,18 @@ try:
     sys.setdefaultencoding('utf-8')
 except:
     pass
+
+NAMESPACES = {
+    'openSearch':'http://a9.com/-/spec/opensearchrss/1.0/',
+    'atom' : 'http://www.w3.org/2005/Atom',
+    'db': 'https://www.douban.com/xmlns/',
+    'gd': 'http://schemas.google.com/g/2005'
+}
+
+
+parser = etree.XMLParser(recover=True, no_network=True)
+XPath = partial(etree.XPath, namespaces=NAMESPACES)
+
 
 CALIBRE_META = 'http://calibre.kovidgoyal.net/2009/metadata'
 ELEMENTS_META = 'http://purl.org/dc/elements/1.1/'
@@ -144,6 +157,7 @@ def build_metas(options):
     """
     读取所有数据的元数据
     """
+    entry          = XPath('//atom:entry')
     metas = read_old_meta()
     tocs = []
     for dir_meta in metas:
@@ -186,10 +200,13 @@ def build_metas(options):
                 if meta:
                     if '-d' in options and 'identifier' in meta and 'douban' in meta['identifier']:
                         douban_id = meta['identifier']['douban']
-                        douban_url = 'https://api.douban.com/v2/book/%s' % douban_id
+                        douban_url = 'https://api.douban.com/book/subject/%s?&apikey=0bd1672394eb1ebf2374356abec15c3d' % douban_id
                         print('|-- read douban meta: ', douban_url)
                         r = requests.get(douban_url)
-                        douban_meta = r.json()
+                        text = r.text
+                        feed = etree.fromstring(text.encode('utf-8'), parser=parser)
+                        extra = entry(feed)[0]
+                        douban_meta = douban_to_meta(extra)
                         douban_meta['type'] = meta['type']
                         douban_meta['title'] = meta['title']
                         douban_meta['meta_type'] = 'douban'
@@ -202,6 +219,69 @@ def build_metas(options):
     save_old_meta(metas)
 
     print("------complete------")
+
+def get_text(extra, x):
+    try:
+        ans = x(extra)
+        if ans:
+            ans = ans[0].text
+            if ans and ans.strip():
+                return ans.strip()
+    except:
+        print('Programming error:')
+    return None
+
+def douban_to_meta(extra):
+    entry_id       = XPath('descendant::atom:id')
+    title          = XPath('descendant::atom:title')
+    description    = XPath('descendant::atom:summary')
+    subtitle       = XPath("descendant::db:attribute[@name='subtitle']")
+    publisher      = XPath("descendant::db:attribute[@name='publisher']")
+    isbn13         = XPath("descendant::db:attribute[@name='isbn13']")
+    isbn10         = XPath("descendant::db:attribute[@name='isbn10']")
+    date           = XPath("descendant::db:attribute[@name='pubdate']")
+    creator        = XPath("descendant::db:attribute[@name='author']")
+    booktag        = XPath("descendant::db:tag")
+    rating         = XPath("descendant::gd:rating")
+    cover_url      = XPath("descendant::atom:link[@rel='image']/attribute::href")
+    translator     = XPath("descendant::db:attribute[@name='translator']")
+    binding     = XPath("descendant::db:attribute[@name='binding']")
+    author_intro  = XPath("descendant::db:attribute[@name='author-intro']")
+    meta = {}
+    meta["title"] = ': '.join([x.text for x in title(extra)]).strip()
+    meta["subtitle"] = ': '.join([x.text for x in subtitle(extra)]).strip()
+    meta["author"] = [x.text.strip() for x in creator(extra) if x.text]
+    meta["summary"] = get_text(extra, description)
+    meta["publisher"] = get_text(extra, publisher)
+
+    # ISBN
+    meta["isbn13"] = get_text(extra, isbn13)
+    meta["isbn10"] = get_text(extra, isbn10)
+
+    # tags
+    tags = [x for x in booktag(extra) if (x is not None)]
+    if tags:
+        meta["tags"] = [{ 'title': x.attrib['name'], 'name': x.attrib['name'], 'count': int(x.attrib['count'])} for x in tags]
+    
+    # pubdate
+    meta["pubdate"] = get_text(extra, date)
+
+    # translator
+    meta["translator"] = [x.text.strip() for x in translator(extra) if x.text]
+
+    # binding
+    meta["binding"] = get_text(extra, binding)
+
+    # author_intro
+    meta["author_intro"] = get_text(extra, author_intro)
+
+    r = rating(extra)[0]
+    rating_ = {}
+    for k, v in r.attrib.items():
+        rating_[k] = float(v)
+    meta["rating"] = rating_
+    return meta
+    
 
 def main(options):
     if '-m' in options:
