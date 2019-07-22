@@ -2768,16 +2768,6 @@
         "file": "人月神话-二十周年.epub"
       },
       {
-        "msg": "invalid_apikey",
-        "code": 104,
-        "request": "GET /v2/book/3892588",
-        "type": "epub",
-        "title": "代码整洁之道",
-        "meta_type": "douban",
-        "sha_256": "45da713f5a7dc7d57654570e1fe3d60e4d4e9a8ee8094e85cc1395cf5f5bce35",
-        "file": "代码整洁之道.epub"
-      },
-      {
         "rating": {
           "max": 10,
           "numRaters": 159,
@@ -2867,16 +2857,6 @@
         "meta_type": "douban",
         "sha_256": "35bab93cb5df4b3877ce3eb18b098868f944df60cabfa1ed61a7a180650faaf9",
         "file": "企业it架构的转型之道.epub"
-      },
-      {
-        "msg": "invalid_apikey",
-        "code": 104,
-        "request": "GET /v2/book/27151925",
-        "type": "epub",
-        "title": "修改软件的艺术 - 构建易维护代码的9条最佳实践",
-        "meta_type": "douban",
-        "sha_256": "84d4b19bde898bd9570e0a5b2337cee53c4867ad88067663bb3757b048e5f614",
-        "file": "修改软件的艺术.epub"
       },
       {
         "rating": {
@@ -4484,16 +4464,6 @@
         "file": "JavaScript设计模式与开发实践.pdf"
       },
       {
-        "msg": "invalid_apikey",
-        "code": 104,
-        "request": "GET /v2/book/30159269",
-        "type": "epub",
-        "title": "Node.js 设计模式（第 2 版）",
-        "meta_type": "douban",
-        "sha_256": "0e697764b1d7bdd2d8a4ea1c22699a8bc71fabbbc4e77bd5b2f35745cfaf8b9e",
-        "file": "Node.js 设计模式-第二版.epub"
-      },
-      {
         "rating": {
           "max": 10,
           "numRaters": 297,
@@ -4864,16 +4834,6 @@
         "file": "你不知道的JavaScript(中卷).epub"
       },
       {
-        "msg": "invalid_apikey",
-        "code": 104,
-        "request": "GET /v2/book/27620408",
-        "type": "epub",
-        "title": "你不知道的JavaScript（下卷）",
-        "meta_type": "douban",
-        "sha_256": "9d518b08fea3cdc79e222c461112d41d6c111d89d005b3346b73c85dee2183e4",
-        "file": "你不知道的JavaScript-下卷.epub"
-      },
-      {
         "timestamp": "2015-04-04T19:21:29.576313+00:00",
         "publisher": "GitBook",
         "creator": "Leo Hui",
@@ -5151,16 +5111,6 @@
     "dir_name": "protocol",
     "name": "协议",
     "books": [
-      {
-        "msg": "invalid_apikey",
-        "code": 104,
-        "request": "GET /v2/book/27082372",
-        "type": "epub",
-        "title": "Antlr 4权威指南",
-        "meta_type": "douban",
-        "sha_256": "5857712796f5712c2297ce1bbdca5d37c5f063642c97371c905461e66ed20350",
-        "file": "Antlr4权威指南.epub"
-      },
       {
         "rating": {
           "max": 10,
@@ -6880,16 +6830,6 @@
         "meta_type": "douban",
         "sha_256": "ee5be2ee7d02706f8f8dc85999302577c7d5d3cc5c45db72c10725bf4e84f1a2",
         "file": "Go语言圣经-2018-01-12.epub"
-      },
-      {
-        "msg": "invalid_apikey",
-        "code": 104,
-        "request": "GET /v2/book/27082348",
-        "type": "epub",
-        "title": "自己动手写Docker",
-        "meta_type": "douban",
-        "sha_256": "4a437118aee5eef675aacfbb12dd665b3eae72a65b66091286d8f18207cdff7f",
-        "file": "自己动手写Docker.epub"
       }
     ]
   },
@@ -7405,76 +7345,6 @@
         "meta_type": "douban",
         "sha_256": "298020f97c63bdc4a046f04a2d157ee75dcc77fde4be4ee6c5d6ac03f1ca4432",
         "file": "Kafka权威指南.epub"
-      },
-      {
-        "msg": "invalid_apikey",
-        "code": 104,
-        "request": "GET /v2/book/24708143",
-        "type": "epub",
-        "title": "MySQL技术内幕",
-        "meta_type": "douban",
-        "sha_256": "2f3a75758a0876c081a08b44029991fde0ca8c9351cdd979cb48494e2c69f50e",
-        "file": "MySQL技术内幕.epub"
-      },
-      {
-        "msg": "invalid_apikey",
-        "code": 104,
-        "request": "GET /v2/book/26612779",
-        "type": "epub",
-        "title": "Redis实战",
-        "meta_type": "douban",
-        "sha_256": "1f1141d15ce8089a3fc422f6bfef2c87fc95bb89011a46536195300ebfc5b4c6",
-        "file": "Redis实战.epub"
-      },
-      {
-        "msg": "invalid_apikey",
-        "code": 104,
-        "request": "GET /v2/book/26971561",
-        "type": "epub",
-        "title": "Redis开发与运维",
-        "meta_type": "douban",
-        "sha_256": "f000b480e57f12f93fc61c5c807f6873baa930ce51343af26a19a5c402d3ce5c",
-        "file": "Redis开发与运维.epub"
-      },
-      {
-        "msg": "invalid_apikey",
-        "code": 104,
-        "request": "GET /v2/book/25900156",
-        "type": "epub",
-        "title": "Redis设计与实现",
-        "meta_type": "douban",
-        "sha_256": "cd3f6ec597f29ea9239fb70945c63c83b564c198ff8e7d6f10aa583fab37f22f",
-        "file": "Redis设计与实现.epub"
-      },
-      {
-        "msg": "invalid_apikey",
-        "code": 104,
-        "request": "GET /v2/book/27055712",
-        "type": "epub",
-        "title": "SQL基础教程（第2版）",
-        "meta_type": "douban",
-        "sha_256": "311e9a3b9a73c6b6b80c9ffd480f4708fcf81ac487c3780912ce3384aefd638a",
-        "file": "SQL基础教程-第二版.epub"
-      },
-      {
-        "msg": "invalid_apikey",
-        "code": 104,
-        "request": "GET /v2/book/27194738",
-        "type": "epub",
-        "title": "SQL进阶教程",
-        "meta_type": "douban",
-        "sha_256": "9239bbffe5858fc47d7973fdbbbf06d20f1df76b880a4df4345f191eeb150d09",
-        "file": "SQL进阶教程.epub"
-      },
-      {
-        "msg": "invalid_apikey",
-        "code": 104,
-        "request": "GET /v2/book/23008813",
-        "type": "epub",
-        "title": "高性能MySQL",
-        "meta_type": "douban",
-        "sha_256": "ce560b994e817d7fa7e7b5d48dbfcca351e57b1b4f0904706aa552bd84d5b72c",
-        "file": "高性能MySQL.epub"
       }
     ],
     "dir_name": "data",
@@ -7484,16 +7354,6 @@
     "dir_name": "rust",
     "name": "rust",
     "books": [
-      {
-        "msg": "invalid_apikey",
-        "code": 104,
-        "request": "GET /v2/book/30312231",
-        "type": "epub",
-        "title": "深入浅出Rust",
-        "meta_type": "douban",
-        "sha_256": "b889a14f832fe46d882e90860458487a578be7c2ad646d3119313a92d6c20f41",
-        "file": "深入浅出Rust.epub"
-      }
     ]
   }
 ]
