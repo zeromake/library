@@ -122,6 +122,7 @@
     - [Scikit-Learn与TensorFlow机器学习实用指南](#scikit-learn与tensorflow机器学习实用指南): 9.5
     - [SRE: Google运维解密](#sre-google运维解密): 9.0
     - [Tensorflow：实战Google深度学习框架](#tensorflow实战google深度学习框架): 8.3
+    - [推荐系统实践](#推荐系统实践): 8.1
     - [深度学习入门](#深度学习入门): 8.9
 - [数据](#data)
     - [Apache Kafka源码剖析](#apache-kafka源码剖析): 8.3
@@ -1827,7 +1828,7 @@ Ilya Grigorik 是谷歌“Web加速”（Make The Web Fast）团队的性能工�
 
 
 ### 编写高质量代码：改善Python程序的91个建议
-[📖编写高质量代码：改善Python程序的91个建议](python/%E7%BC%96%E5%86%99%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E4%BB%A3%E7%A0%81%3A%E6%94%B9%E5%96%84Python%E7%A8%8B%E5%BA%8F%E7%9A%8491%E4%B8%AA%E5%BB%BA%E8%AE%AE.epub) [📥下载](../../../../library.git/info/lfs/objects/4eaf157d1cc081f997be222fe0289628de42c033adde2e05b5c2f0e1e2c173b4/%E7%BC%96%E5%86%99%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E4%BB%A3%E7%A0%81%3A%E6%94%B9%E5%96%84Python%E7%A8%8B%E5%BA%8F%E7%9A%8491%E4%B8%AA%E5%BB%BA%E8%AE%AE.epub)
+[📖编写高质量代码：改善Python程序的91个建议](python/%E7%BC%96%E5%86%99%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E4%BB%A3%E7%A0%81_%E6%94%B9%E5%96%84Python%E7%A8%8B%E5%BA%8F%E7%9A%8491%E4%B8%AA%E5%BB%BA%E8%AE%AE.epub) [📥下载](../../../../library.git/info/lfs/objects/4eaf157d1cc081f997be222fe0289628de42c033adde2e05b5c2f0e1e2c173b4/%E7%BC%96%E5%86%99%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E4%BB%A3%E7%A0%81_%E6%94%B9%E5%96%84Python%E7%A8%8B%E5%BA%8F%E7%9A%8491%E4%B8%AA%E5%BB%BA%E8%AE%AE.epub)
 - 评分　　: 7.4
 - 作者　　: `张颖` `赖勇浩`
 - 出版时间: 2014-6
@@ -1988,6 +1989,23 @@ Web应用无处不在，安全隐患如影随形。承载着丰富功能与用�
 - 简介　　: TensorFlow是谷歌2015年开源的主流深度学习框架，目前已在谷歌、优步（Uber）、京东、小米等科技公司广泛应用。《Tensorflow实战》为使用TensorFlow深度学习框架的入门参考书，旨在帮助读者以最快、最有效的方式上手TensorFlow和深度学习。书中省略了深度学习繁琐的数学模型推导，从实际应用问题出发，通过具体的TensorFlow样例程序介绍如何使用深度学习解决这些问题。《Tensorflow实战》包含了深度学习的入门知识和大量实践经验，是走进这个最新、最火的人工智能领域的首选参考书。
 - 价格　　: 79
 - 文件类型: epub
+
+
+### 推荐系统实践
+[📖推荐系统实践](ai/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E5%AE%9E%E6%88%98.pdf) [📥下载](../../../../library.git/info/lfs/objects/a9b406e616e35917fa9b1a5205b1c836d8fe9f5380cbcbe510d90af3958fb76d/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E5%AE%9E%E6%88%98.pdf)
+- 评分　　: 8.1
+- 作者　　: `项亮`
+- 出版时间: 2012-6-1
+- 标签　　: `推荐系统` `数据挖掘` `算法` `机器学习` `数据分析` `互联网` `人工智能` `计算机`
+- 翻译　　: 
+- 页数　　: 200
+- 豆瓣地址: [https://book.douban.com/subject/10769749/](https://book.douban.com/subject/10769749/)
+- 出版社　: 人民邮电出版社
+- 简介　　: 内容简介：
+随着信息技术和互联网的发展，人们逐渐从信息匮乏的时代走入了信息过载（information overload）的时代 。在这个时代，无论是信息消费者还是信息生产者都遇到了很大的挑战：对于信息消费者，从大量信息中找到自己感兴趣的信息是一件非常困难的事情；对于信息生产者，让自己生产的信息脱颖而出，受到广大用户的关注，也是一件非常困难的事情。推荐系统就是解决这一矛盾的重要工具。推荐系统的任务就是联系用户和信息，一方面帮助用户发现对自己有价值的信息，另一方面让信息能够展现在对它感兴趣的用户面前，从而实现信息消费者和信息生产者的双赢。
+- 从书　　: 图灵原创
+- 价格　　: 49.00元
+- 文件类型: pdf
 
 
 ### 深度学习入门

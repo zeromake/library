@@ -143,7 +143,7 @@ def build_markdown(options):
                             buffer.append('- %s: %s' % str1)
     
 
-    with open('TOC.md', 'w') as fd:
+    with open('TOC.md', 'w', encoding="utf-8") as fd:
         fd.write("\n".join(tocs))
         fd.write("\n".join(buffer))
 
@@ -200,13 +200,15 @@ def build_metas(options):
                 if meta:
                     if '-d' in options and 'identifier' in meta and 'douban' in meta['identifier']:
                         douban_id = meta['identifier']['douban']
-                        douban_url = 'https://api.douban.com/book/subject/%s?&apikey=0bd1672394eb1ebf2374356abec15c3d' % douban_id
+                        douban_url = 'https://api.douban.com/v2/book/%s?apikey=0df993c66c0c636e29ecbb5344252a4a' % douban_id
                         print('|-- read douban meta: ', douban_url)
-                        r = requests.get(douban_url)
-                        text = r.text
-                        feed = etree.fromstring(text.encode('utf-8'), parser=parser)
-                        extra = entry(feed)[0]
-                        douban_meta = douban_to_meta(extra)
+                        r = requests.get(douban_url, headers={
+                            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:72.0) Gecko/20100101 Firefox/72.0"
+                        })
+                        data = r.json()
+                        # feed = etree.fromstring(text.encode('utf-8'), parser=parser)
+                        # extra = entry(feed)[0]
+                        douban_meta = douban_to_meta_v2(data)
                         douban_meta['type'] = meta['type']
                         douban_meta['title'] = meta['title']
                         douban_meta['meta_type'] = 'douban'
@@ -281,6 +283,9 @@ def douban_to_meta(extra):
         rating_[k] = float(v)
     meta["rating"] = rating_
     return meta
+
+def douban_to_meta_v2(data):
+    return data
     
 
 def main(options):
@@ -355,7 +360,7 @@ def read_old_meta():
     """
     读取旧的meta数据
     """
-    with open("meta.json", "r") as fd:
+    with open("meta.json", "r", encoding="utf-8") as fd:
         return json.load(fd)
 
 def file_sha256(file_name):
@@ -371,7 +376,7 @@ def save_old_meta(data):
     """
     读取旧的meta数据
     """
-    with open("meta.json", "w") as fd:
+    with open("meta.json", "w", encoding="utf-8") as fd:
         json.dump(data, fd, ensure_ascii=False, indent="  ")
 
 def read_meta_epub(epub_name):

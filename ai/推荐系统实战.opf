@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ad486b91-22e5-4e41-bdf3-af5f3a740173</dc:identifier>
+        <dc:title>推荐系统实践</dc:title>
+        <dc:creator opf:file-as="项亮" opf:role="aut">项亮</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.46.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-06-01T04:57:16.465530+00:00</dc:date>
+        <dc:description>内容简介：
+随着信息技术和互联网的发展，人们逐渐从信息匮乏的时代走入了信息过载（information overload）的时代 。在这个时代，无论是信息消费者还是信息生产者都遇到了很大的挑战：对于信息消费者，从大量信息中找到自己感兴趣的信息是一件非常困难的事情；对于信息生产者，让自己生产的信息脱颖而出，受到广大用户的关注，也是一件非常困难的事情。推荐系统就是解决这一矛盾的重要工具。推荐系统的任务就是联系用户和信息，一方面帮助用户发现对自己有价值的信息，另一方面让信息能够展现在对它感兴趣的用户面前，从而实现信息消费者和信息生产者的双赢。</dc:description>
+        <dc:publisher>人民邮电出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">10769749</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787115281586</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>推荐系统</dc:subject>
+        <dc:subject>数据挖掘</dc:subject>
+        <dc:subject>算法</dc:subject>
+        <dc:subject>机器学习</dc:subject>
+        <dc:subject>数据分析</dc:subject>
+        <dc:subject>互联网</dc:subject>
+        <dc:subject>人工智能</dc:subject>
+        <dc:subject>计算机</dc:subject>
+        <meta content="{&quot;项亮&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-10-28T04:56:51.039101+00:00" name="calibre:timestamp"/>
+        <meta content="推荐系统实践" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Tui Jian Xi Tong Shi Jian  - Xiang Liang.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
